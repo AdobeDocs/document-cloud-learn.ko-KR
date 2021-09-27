@@ -1,0 +1,25 @@
+---
+title: PDF 액세서빌러티 소개
+description: 이 세션에서는 PDF에 액세스할 수 있도록 하는 것이 무엇을 의미하는지, 액세서빌러티 기능을 위해 PDF에서 작동하도록 Acrobat Pro DC를 설정하는 방법, 소스 문서에서 PDF로 변환하는 프로세스를 알아봅니다.
+role: User
+product: adobe acrobat
+level: Experienced
+thumbnail: KT-8606.jpg
+kt: 8606
+exl-id: 3765673b-15fd-4071-bb31-e589feffa471
+source-git-commit: 2de5b609b3f23bb5796786b6bc413a831c2b78c3
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 0%
+
+---
+
+# PDF 액세서빌러티 소개
+
+이 세션에서는 PDF에 액세스할 수 있도록 하는 것이 무엇을 의미하는지, 액세서빌러티 기능을 위해 PDF에서 작동하도록 Acrobat Pro DC를 설정하는 방법, 소스 문서에서 PDF로 변환하는 과정을 알아봅니다.
+
+[여기](../assets/accessibilitysession1.zip)를 클릭하여 실습 세션 파일의 zip 폴더를 다운로드합니다.
+
+별도의 브라우저 탭에서 비디오를 볼 이미지를 선택합니다.
+
+[![세션 1 비디오](../assets/Accessibilitysession1_YT.png)](https://www.youtube.com/embed/DaadHIWHgzU){target=&quot;_blank&quot;}
