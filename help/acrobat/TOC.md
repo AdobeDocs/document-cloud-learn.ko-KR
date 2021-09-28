@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat 자습서
-source-git-commit: 2506e570fa5b18608c7525318fc38841bdc337e2
+source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '276'
 ht-degree: 13%
 
 ---
@@ -67,6 +67,7 @@ ht-degree: 13%
    + [SharePoint 파일 작업](integrate/acrobatandsp.md)
    + [Google 드라이브용 Adobe Acrobat](integrate/acrobatandgoogle.md)
    + [Outlook에서 전자 메일 메시지 및 첨부 파일을 PDF로 변환](integrate/outlook.md)
+   + [Microsoft Edge로 검색하는 동안 PDF 콘텐츠 만들기](integrate/edge.md)
 + 업계 {#by-industry}
    + [개요](industry/industry-overview.md)
    + 정부 {#gov}

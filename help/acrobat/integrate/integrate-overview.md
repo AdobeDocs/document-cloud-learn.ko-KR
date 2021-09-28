@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 490175fbcac50fe1bd7abf8bbffad6fd97061660
+source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '298'
 ht-degree: 1%
 
 ---
@@ -69,8 +69,13 @@ ht-degree: 1%
     <br>
   </td>
   <td>
-   <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <a href="edge.md">
+      <img alt="[!DNL Microsoft Edge]을(를) 사용하여 검색하는 동안 PDF 콘텐츠 만들기" src="../assets/Edge_1280.png" />
+    </a>
     <div>
+    <a href="edge.md"><strong>[!DNL Microsoft Edge]을(를) 사용하여 검색하는 동안 PDF 콘텐츠 만들기</strong></a>
+    </div>
+    <em>[!DNL Microsoft Edge]에 대한 Adobe Acrobat 확장명을 사용하여 웹 페이지를 PDF에 즉시 보관하는 방법 알아보기</em>
     <br>
   </td>
   <td>
