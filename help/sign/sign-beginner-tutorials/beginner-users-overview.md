@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 03591d0e9e5fac66b8ea083c8db98669c1b4f646
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,28 @@ ht-degree: 0%
     <a href="send-to-multiple-recipients.md"><strong>여러 받는 사람에게 보내기</strong></a>
     </div>
     <em>원하는 순서대로 둘 이상의 사람에게 전자 서명을 위한 문서를 보냅니다.</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="new-sender.md">
+      <img alt="새 보낸 사람에 대한 Adobe 서명 시작" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>새 보낸 사람에 대한 Adobe 서명 시작</strong></a>
+    </div>
+    <em>이 종합적인 자습서는 Adobe Sign에서 새 보낸 사람을 시작하기에 매우 좋습니다</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>

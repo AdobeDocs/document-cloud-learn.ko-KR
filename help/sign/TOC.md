@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Adobe 서명 자습서
-source-git-commit: 9521930d29ca7e73e9658029733c5fe2c267d7ba
+source-git-commit: 626ef6a53b548c77134f9f551d9f8b05581c46db
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '414'
 ht-degree: 6%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 6%
       + [Adobe Sign의 빠른 둘러보기](sign-beginner-tutorials/quick-tour.md)
       + [단일 받는 사람에게 보내기](sign-beginner-tutorials/send-to-single-recipient.md)
       + [여러 받는 사람에게 보내기](sign-beginner-tutorials/send-to-multiple-recipients.md)
+      + [새 보낸 사람에 대한 Adobe 서명 시작](sign-beginner-tutorials/new-sender.md)
    + Signing {#getting-started-signing}
       + [문서에 전자 서명](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [문서 채우기 및 서명](sign-beginner-tutorials/fill-and-sign.md)
