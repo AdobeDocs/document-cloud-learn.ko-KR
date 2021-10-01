@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 8d4260937ffc2c0bd907332dd4b805fb59147872
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '338'
 ht-degree: 3%
 
 ---
@@ -34,13 +34,13 @@ ht-degree: 3%
     <br>
   </td>
   <td>
-    <a href="where-do-pdfs-come-from.md">
-      <img alt="PDF는 어디에서 나오나요?" src="../assets/WherePDFs.jpg" />
+    <a href="acrobatweb.md">
+      <img alt="Acrobat 웹을 사용하여 어디에서나 작업" src="../assets/Acrobatweb_1280.png" />
     </a>
     <div>
-    <a href="where-do-pdfs-come-from.md"><strong>PDF는 어디에서 나오나요?</strong></a>
+    <a href="acrobatweb.md"><strong>Acrobat 웹을 사용하여 어디에서나 작업</strong></a>
     </div>
-    <em>PDF의 출처 및 용도 이해</em>
+    <em>브라우저의 Acrobat 웹 도구를 사용하여 어디에서나 비즈니스 문서 요청을 처리하는 방법 알아보기</em>
     <br>
   </td>
   <td>
@@ -147,6 +147,28 @@ ht-degree: 3%
     <a href="fill-and-sign.md"><strong>PDF 양식 채우기 및 서명</strong></a>
     </div>
     <em>PDF 양식을 빠르게 작성하고 서명합니다.</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="where-do-pdfs-come-from.md">
+      <img alt="PDF는 어디에서 나오나요?" src="../assets/WherePDFs.jpg" />
+    </a>
+    <div>
+    <a href="where-do-pdfs-come-from.md"><strong>PDF는 어디에서 나오나요?</strong></a>
+    </div>
+    <em>PDF의 출처 및 용도 이해</em>
+    <br>
+  </td>
+  <td>
+   <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

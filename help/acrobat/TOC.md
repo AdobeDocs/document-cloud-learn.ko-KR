@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat 자습서
-source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
+source-git-commit: 315ecb65a53d4f76f5ae12a12ff4207ac1f0d01d
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 13%
+source-wordcount: '281'
+ht-degree: 12%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 13%
 + 시작하기 {#getting-started}
    + [개요](getting-started/getting-started-overview.md)
    + [Acrobat DC 인터페이스 살펴보기](getting-started/get-to-know-the-acrobat-dc-interface.md)
-   + [PDF는 어디에서 나오나요?](getting-started/where-do-pdfs-come-from.md)
+   + [Acrobat 웹을 사용하여 어디에서나 작업](getting-started/acrobatweb.md)
    + [파일을 PDF로 결합](getting-started/combine-to-pdf.md)
    + [PDF 파일 만들기](getting-started/create-pdf.md)
    + [Acrobat DC의 PDF 파일에 대한 주석](getting-started/comment-on-pdf-files.md)
@@ -33,6 +33,7 @@ ht-degree: 13%
    + [페이지 구성](getting-started/organize.md)
    + [암호로 PDF 파일 보호](getting-started/password-protect.md)
    + [PDF 양식 채우기 및 서명](getting-started/fill-and-sign.md)
+   + [PDF는 어디에서 나오나요?](getting-started/where-do-pdfs-come-from.md)
 + 고급 작업 {#advanced-tasks}
    + [개요](advanced-tasks/advanced-tasks-overview.md)
    + [두 PDF 간의 차이점 검색](advanced-tasks/compare.md)
