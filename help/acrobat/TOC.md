@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat 자습서
-source-git-commit: 625a9e393a3326d241b7019d98252330d6bf1669
+source-git-commit: dacb0b4177dec2be1df8f2e3978f3d0a470403c6
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '288'
 ht-degree: 10%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 10%
 + 60초 Acrobat {#60-second}
    + [개요](60-second/60-second-overview.md)
    + [파일을 하나의 PDF로 결합](60-second/combine-to-one-pdf.md)
-   + [Acrobat Web을 사용하여 PDF 편집](60-second/edit.md)
+   + [Acrobat 웹을 사용하여 PDF 편집](60-second/edit.md)
    + [한 번에 여러 PDF 파일 검색](60-second/search.md)
    + [사진의 PDF 만들기](60-second/photo.md)
    + [PPT 파일을 휴대폰의 PDF로 변환](60-second/phone.md)
@@ -65,7 +65,7 @@ ht-degree: 10%
    + [개요](integrate/integrate-overview.md)
    + [ [!DNL Microsoft Word]에서 PDF 만들기](integrate/createfromword.md)
    + [웹용  [!DNL Office] 에 PDF 만들기](integrate/createofficeweb.md)
-   + [[!DNL Microsoft Teams]](integrate/acrobatandteams.md)
+   + [ [!DNL Microsoft Teams]의 PDF 공동 작업](integrate/acrobatandteams.md)
    + [SharePoint 파일 작업](integrate/acrobatandsp.md)
    + [Outlook에서 전자 메일 메시지 및 첨부 파일을 PDF로 변환](integrate/outlook.md)
    + [Microsoft Edge로 검색하는 동안 PDF 콘텐츠 만들기](integrate/edge.md)
