@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
+source-git-commit: a6af71e2c1b20c6b3f9a899cdfecb81dfd7f6c36
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '329'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,16 @@ ht-degree: 1%
     <br>
   </td>
   <td>
+    <a href="createofficeweb.md">
+      <img alt="웹용 [!DNL Office]에서 PDF 만들기" src="../assets/Officeweb_1280.png" />
+    </a>
+    <div>
+    <a href="createofficeweb.md"><strong>웹용 [!DNL Office]에서 PDF 만들기</strong></a>
+    </div>
+    <em>웹 앱용 [!DNL Microsoft Office]에서 떠나지 않고 PDF 파일을 만드는 방법 알아보기</em>
+    <br>
+  </td>  
+  <td>
     <a href="acrobatandsp.md">
       <img alt="[!DNL SharePoint] 파일 작업" src="../assets/SharePoint.png" />
     </a>
@@ -46,6 +56,8 @@ ht-degree: 1%
     <em>[!DNL SharePoint] 및 Acrobat DC를 사용하여 문서 워크플로를 간소화합니다.</em>
     <br>
   </td>  
+</tr>
+<tr>
   <td>
     <a href="acrobatandteams.md">
       <img alt="[!DNL Microsoft Teams]에서 PDF 공동 작업" src="../assets/MicrosoftTeams.png" />
@@ -56,8 +68,6 @@ ht-degree: 1%
     <em>[!DNL Microsoft Teams]을(를) 떠나지 않고 PDF를 보고 주석을 달고 검토함으로써 동료와 공동 작업을 합니다.</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="outlook.md">
       <img alt="Outlook에서 전자 메일 메시지 및 첨부 파일을 PDF로 변환" src="../assets/Outlook.jpg" />
@@ -76,11 +86,6 @@ ht-degree: 1%
     <a href="edge.md"><strong>[!DNL Microsoft Edge]을(를) 사용하여 검색하는 동안 PDF 콘텐츠 만들기</strong></a>
     </div>
     <em>[!DNL Microsoft Edge]에 대한 Adobe Acrobat 확장명을 사용하여 웹 페이지를 PDF에 즉시 보관하는 방법 알아보기</em>
-    <br>
-  </td>
-  <td>
-   <img alt="스페이서" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
