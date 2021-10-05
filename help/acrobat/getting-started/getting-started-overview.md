@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 8d4260937ffc2c0bd907332dd4b805fb59147872
+source-git-commit: 3636c4fda58885d4b7ac995c077d4429c6fa727d
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '366'
 ht-degree: 3%
 
 ---
@@ -44,6 +44,18 @@ ht-degree: 3%
     <br>
   </td>
   <td>
+    <a href="collaborate.md">
+      <img alt="실시간 공동 작업" src="../assets/Collaborate_1280.png" />
+    </a>
+    <div>
+     <a href="collaborate.md"><strong>실시간 공동 작업</strong></a>
+    </div>
+    <em>의견 수집, 응답 공동 작업, 문서의 진행 상황 추적을 통해 어디에서나 실시간으로 프로젝트를 진행하십시오.</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="combine-to-pdf.md">
       <img alt="파일을 PDF로 결합" src="../assets/Combine.jpg" />
     </a>
@@ -53,8 +65,6 @@ ht-degree: 3%
     <em>여러 유형의 파일을 하나의 PDF로 결합</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-pdf.md">
       <img alt="PDF 파일 만들기" src="../assets/Create.jpg" />
@@ -75,6 +85,8 @@ ht-degree: 3%
     <em>PDF 파일에 주석을 추가한 다음 다른 사람과 공유합니다.</em>
     <br>
   </td>  
+</tr>
+<tr>
   <td>
     <a href="edit-pdf.md">
       <img alt="Acrobat DC에서 PDF 편집" src="../assets/Edit.jpg" />
@@ -85,9 +97,7 @@ ht-degree: 3%
     <em>PDF 파일에서 텍스트 및 이미지 편집</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="export-pdf.md">
       <img alt="편집 가능한 형식으로 PDF 내보내기" src="../assets/Export.jpg" />
     </a>
@@ -106,7 +116,9 @@ ht-degree: 3%
     </div>
     <em>다른 응용 프로그램에서 만든 문서를 채울 수 있는 PDF 양식으로 전환</em>
     <br>
-  </td>  
+  </td>
+</tr>
+<tr>
   <td>
     <a href="scan-and-ocr.md">
       <img alt="스캔 및 OCR" src="../assets/Scan.jpg" />
@@ -117,8 +129,6 @@ ht-degree: 3%
     <em>공유, 게시 또는 아카이빙을 위한 품질 저하 없이 대용량 파일 감소 및 PDF 최적화</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="organize.md">
       <img alt="페이지 구성" src="../assets/Organize.jpg" />
@@ -139,6 +149,8 @@ ht-degree: 3%
     <em>다른 사용자가 파일을 열거나 편집하지 못하도록 PDF에 암호 추가</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="fill-and-sign.md">
       <img alt="PDF 양식 채우기 및 서명" src="../assets/FillSign.jpg" />
@@ -149,9 +161,7 @@ ht-degree: 3%
     <em>PDF 양식을 빠르게 작성하고 서명합니다.</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="PDF는 어디에서 나오나요?" src="../assets/WherePDFs.jpg" />
     </a>
@@ -159,11 +169,6 @@ ht-degree: 3%
     <a href="where-do-pdfs-come-from.md"><strong>PDF는 어디에서 나오나요?</strong></a>
     </div>
     <em>PDF의 출처 및 용도 이해</em>
-    <br>
-  </td>
-  <td>
-   <img alt="스페이서" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>

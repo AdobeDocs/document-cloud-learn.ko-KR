@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat 자습서
-source-git-commit: dacb0b4177dec2be1df8f2e3978f3d0a470403c6
+source-git-commit: 3636c4fda58885d4b7ac995c077d4429c6fa727d
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '292'
 ht-degree: 10%
 
 ---
@@ -23,6 +23,7 @@ ht-degree: 10%
    + [개요](getting-started/getting-started-overview.md)
    + [Acrobat DC 인터페이스 살펴보기](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Acrobat 웹을 사용하여 어디에서나 작업](getting-started/acrobatweb.md)
+   + [실시간 공동 작업](getting-started/collaborate.md)
    + [파일을 PDF로 결합](getting-started/combine-to-pdf.md)
    + [PDF 파일 만들기](getting-started/create-pdf.md)
    + [Acrobat DC의 PDF 파일에 대한 주석](getting-started/comment-on-pdf-files.md)
