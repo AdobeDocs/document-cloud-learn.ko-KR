@@ -13,11 +13,11 @@ ht-degree: 2%
 
 ---
 
-# Getting started overview
+# 시작 개요
 
 ![Acrobat 시작 이미지](../assets/Hero-GettingStarted.png)
 
-이 간단한(1-2분) 단계별 자습서를 통해 Adobe Acrobat 사용을 시작하는 방법을 알아봅니다. From creating a document to protecting your PDF files, this content is designed to ease you into PDF workflows.
+이 간단한(1-2분) 단계별 자습서를 통해 Adobe Acrobat 사용을 시작하는 방법을 알아봅니다. 문서를 만드는 것부터 PDF 파일을 보호하는 것까지, 이 컨텐트는 PDF 워크플로우를 쉽게 만들 수 있도록 설계되었습니다.
 
 ## Acrobat 자습서
 
@@ -57,12 +57,12 @@ ht-degree: 2%
 <tr>
    <td>
     <a href="collaborate.md">
-      <img alt="Collaborate in real time" src="../assets/Collaborate_1280.png" />
+      <img alt="실시간 공동 작업" src="../assets/Collaborate_1280.png" />
     </a>
     <div>
      <a href="collaborate.md"><strong>실시간 공동 작업</strong></a>
     </div>
-    <em>Move your projects forward by collecting comments, collaborating on responses, and tracking progress on your documents all in real-time, from anywhere</em>
+    <em>의견 수집, 응답 공동 작업, 문서의 진행 상황 추적을 통해 어디에서나 실시간으로 프로젝트를 진행하십시오.</em>
     <br>
   </td>
   <td>
@@ -70,7 +70,7 @@ ht-degree: 2%
       <img alt="파일을 PDF로 결합" src="../assets/Combine.jpg" />
     </a>
     <div>
-     <a href="combine-to-pdf.md"><strong>Combine files to PDFs</strong></a>
+     <a href="combine-to-pdf.md"><strong>파일을 PDF에 결합</strong></a>
     </div>
     <em>여러 유형의 파일을 하나의 PDF로 결합</em>
     <br>
@@ -94,7 +94,7 @@ ht-degree: 2%
     <div>
     <a href="comment-on-pdf-files.md"><strong>Acrobat DC의 PDF 파일에 대한 주석</strong></a>
     </div>
-    <em>Add comments to a PDF file and then share it with others</em>
+    <em>PDF 파일에 주석을 추가한 다음 다른 사람과 공유합니다.</em>
     <br>
   </td>
   <td>
@@ -104,7 +104,7 @@ ht-degree: 2%
     <div>
     <a href="edit-pdf.md"><strong>Acrobat DC에서 PDF 편집</strong></a>
     </div>
-    <em>Edit text and images in PDF files</em>
+    <em>PDF 파일에서 텍스트 및 이미지 편집</em>
     <br>
   </td>
    <td>
@@ -121,7 +121,7 @@ ht-degree: 2%
 <tr>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="Create fillable forms" src="../assets/Form.jpg" />
+      <img alt="채울 수 있는 양식 만들기" src="../assets/Form.jpg" />
     </a>
     <div>
     <a href="create-fillable-forms.md"><strong>채울 수 있는 양식 만들기</strong></a>
@@ -134,7 +134,7 @@ ht-degree: 2%
       <img alt="스캔 및 OCR" src="../assets/Scan.jpg" />
     </a>
     <div>
-    <a href="scan-and-ocr.md"><strong>Scan &amp; OCR</strong></a>
+    <a href="scan-and-ocr.md"><strong>스캔 및 OCR</strong></a>
     </div>
     <em>공유, 게시 또는 아카이빙을 위한 품질 저하 없이 대용량 파일 감소 및 PDF 최적화</em>
     <br>
@@ -158,7 +158,7 @@ ht-degree: 2%
     <div>
     <a href="password-protect.md"><strong>암호로 PDF 파일 보호</strong></a>
     </div>
-    <em>Add a password to your PDF to protect others from opening or editing the file</em>
+    <em>다른 사용자가 파일을 열거나 편집하지 못하도록 PDF에 암호 추가</em>
     <br>
   </td>
   <td>
@@ -168,7 +168,7 @@ ht-degree: 2%
     <div>
     <a href="fill-and-sign.md"><strong>PDF 양식 채우기 및 서명</strong></a>
     </div>
-    <em>Quickly fill in and sign a PDF form</em>
+    <em>PDF 양식을 빠르게 작성하고 서명합니다.</em>
     <br>
   </td>
   <td>
