@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat 자습서
-source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
+source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 10%
+source-wordcount: '295'
+ht-degree: 14%
 
 ---
 
@@ -26,15 +26,15 @@ ht-degree: 10%
    + [작업 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [실시간 공동 작업](getting-started/collaborate.md)
    + [파일을 PDF로 결합](getting-started/combine-to-pdf.md)
-   + [PDF 파일 만들기](getting-started/create-pdf.md)
-   + [Acrobat DC의 PDF 파일에 대한 주석](getting-started/comment-on-pdf-files.md)
-   + [Acrobat DC에서 PDF 편집](getting-started/edit-pdf.md)
+   + [PDF 만들기](getting-started/create-pdf.md)
+   + [PDF에 주석](getting-started/comment-on-pdf-files.md)
+   + [PDF 편집](getting-started/edit-pdf.md)
    + [편집 가능한 형식으로 PDF 내보내기](getting-started/export-pdf.md)
    + [채울 수 있는 양식 만들기](getting-started/create-fillable-forms.md)
    + [스캔 및 OCR](getting-started/scan-and-ocr.md)
    + [페이지 구성](getting-started/organize.md)
    + [암호로 PDF 파일 보호](getting-started/password-protect.md)
-   + [PDF 양식 채우기 및 서명](getting-started/fill-and-sign.md)
+   + [PDF 양식 작성 및 서명](getting-started/fill-and-sign.md)
    + [PDF는 어디에서 나오나요?](getting-started/where-do-pdfs-come-from.md)
 + 고급 작업 {#advanced-tasks}
    + [개요](advanced-tasks/advanced-tasks-overview.md)

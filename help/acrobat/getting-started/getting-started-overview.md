@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
+source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 2%
+source-wordcount: '375'
+ht-degree: 5%
 
 ---
 
@@ -80,7 +80,7 @@ ht-degree: 2%
       <img alt="PDF 파일 만들기" src="../assets/Create.jpg" />
     </a>
     <div>
-    <a href="create-pdf.md"><strong>PDF 파일 만들기</strong></a>
+    <a href="create-pdf.md"><strong>PDF 만들기</strong></a>
     </div>
     <em>다양한 종류의 문서에서 PDF 만들기</em>
     <br>
@@ -92,7 +92,7 @@ ht-degree: 2%
       <img alt="Acrobat DC의 PDF 파일에 대한 주석" src="../assets/Comment.jpg" />
     </a>
     <div>
-    <a href="comment-on-pdf-files.md"><strong>Acrobat DC의 PDF 파일에 대한 주석</strong></a>
+    <a href="comment-on-pdf-files.md"><strong>PDF에 주석</strong></a>
     </div>
     <em>PDF 파일에 주석을 추가한 다음 다른 사람과 공유합니다.</em>
     <br>
@@ -102,7 +102,7 @@ ht-degree: 2%
       <img alt="Acrobat DC에서 PDF 편집" src="../assets/Edit.jpg" />
     </a>
     <div>
-    <a href="edit-pdf.md"><strong>Acrobat DC에서 PDF 편집</strong></a>
+    <a href="edit-pdf.md"><strong>PDF 편집</strong></a>
     </div>
     <em>PDF 파일에서 텍스트 및 이미지 편집</em>
     <br>
@@ -166,7 +166,7 @@ ht-degree: 2%
       <img alt="PDF 양식 채우기 및 서명" src="../assets/FillSign.jpg" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>PDF 양식 채우기 및 서명</strong></a>
+    <a href="fill-and-sign.md"><strong>Fill and sign PDF forms</strong></a>
     </div>
     <em>PDF 양식을 빠르게 작성하고 서명합니다.</em>
     <br>
