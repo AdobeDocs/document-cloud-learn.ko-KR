@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
-source-git-commit: 7d82422e442cbbed9420050c30ca70821e9a2cdd
+source-git-commit: ef4a9f39084c7803a9e277182534376298e8fc7f
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,4 +25,5 @@ JavaScript, 플러그인 또는 IAC를 사용하여 Acrobat 및 Adobe Reader와 
 
 ## Adobe Document Services API
 
-[PDF의 포함 보기 및 조작을 위한](https://www.adobe.io/apis/documentcloud/dcsdk/) API{target=&quot;_blank&quot;}
+[PDF](https://www.adobe.io/apis/documentcloud/dcsdk/) 보기 및 조작을 위한 API{target=&quot;_blank&quot;} 
+[Adobe Document Services 자습서](https://experienceleague.adobe.com/docs/document-services/tutorials/overview.html){target=&quot;_blank&quot;}
