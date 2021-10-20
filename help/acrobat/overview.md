@@ -1,23 +1,23 @@
 ---
 title: 자습서
-description: Adobe Acrobat DC의 자습서, 웹 세미나 및 사용 사례 모음
+description: Adobe Acrobat DC에 대한 튜토리얼, 웨비나 및 활용 사례 모음
 role: User
 product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 85117d10744e8a2c9c18579d1f4b94c0a6516040
+source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 4%
+source-wordcount: '165'
+ht-degree: 5%
 
 ---
 
-# Adobe Acrobat 자습서
+# Adobe Acrobat 튜토리얼
 
-![Acrobat Hero 이미지](assets/Hero_Acrobat.jpg)
+![Acrobat 메인 이미지](assets/Hero_Acrobat.jpg)
 
-Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF를 변환, 편집, 공유 및 서명함으로써 비즈니스를 계속 진행할 수 있도록 도와줍니다. Adobe Acrobat에서 초보자나 고급 사용자 모두에게 최신 속도를 제공하는 다양한 학습 환경을 제공합니다.
+Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF 변환, 편집, 공유 및 서명을 통해 비즈니스를 원활하게 진행할 수 있도록 지원합니다. 이 튜토리얼에서는 Adobe Acrobat에서 입문자와 고급 사용자를 모두 신속하게 파악할 수 있는 다양한 학습 환경을 제공합니다.
 
 ## 학습 경로
 
@@ -30,7 +30,7 @@ Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF를 변환, 편집, 공유
     <div>
     <a href="getting-started/getting-started-overview.md"><strong>시작하기</strong></a>
     </div>
-    <em>PDF 파일을 사용하여 작성, 편집, 변환, 보호 등의 작업을 신속하게 수행</em>
+    <em>PDF 파일을 사용하여 제작, 편집, 변환, 보호 등의 작업을 신속하게 수행할 수 있습니다</em>
     <br>
   </td>
   <td>
@@ -40,17 +40,17 @@ Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF를 변환, 편집, 공유
     <div>
     <a href="advanced-tasks/advanced-tasks-overview.md"><strong>고급 작업</strong></a>
     </div>
-    <em>특정 작업 및 자동화를 통해 기본 사항 이상의 작업 수행</em>
+    <em>특정 작업 및 자동화를 통해 기본 기능 강화</em>
     <br>
   </td>
   <td>
     <a href="skill-builder/skill-builder-overview.md">
-      <img alt="기술 작성기" src="assets/acrobat_title_skill_builder.png" />
+      <img alt="기능 소개" src="assets/acrobat_title_skill_builder.png" />
     </a>
     <div>
     <a href="skill-builder/skill-builder-overview.md"><strong>스킬 빌더</strong></a>
     </div>
-    <em>디지털 작업, 디지털 상태 유지, 업무 수행에 도움이 되는 작업 기반 팁</em>
+    <em>디지털화, 디지털화, 원활한 작업 수행을 위한 작업 기반의 팁</em>
     <br>
   </td>
 </tr>
@@ -67,22 +67,22 @@ Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF를 변환, 편집, 공유
   </td>
   <td>
     <a href="industry/industry-overview.md">
-      <img alt="업계" src="assets/acrobat_title_industry.png" />
+      <img alt="업계 및 부서" src="assets/acrobat_title_industry.png" />
     </a>
     <div>
-    <a href="industry/industry-overview.md"><strong>업계</strong></a>
+    <a href="industry/industry-overview.md"><strong>업계 및 부서</strong></a>
     </div>
-    <em>100% 디지털 환경에서 실제 비즈니스를 수행하는 방법</em>
+    <em>실제 비즈니스를 100% 디지털화하는 방법 살펴보기</em>
     <br>
   </td>  
   <td>
     <a href="develop/develop-overview.md">
-      <img alt="개발" src="assets/acrobat_title_develop.png" />
+      <img alt="현상" src="assets/acrobat_title_develop.png" />
     </a>
     <div>
-    <a href="develop/develop-overview.md"><strong>개발</strong></a>
+    <a href="develop/develop-overview.md"><strong>현상</strong></a>
     </div>
-    <em>Adobe Acrobat에서 개발 리소스 가져오기</em>
+    <em>Adobe Acrobat의 개발 리소스</em>
     <br>
   </td>
 </tr>
@@ -94,7 +94,7 @@ Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF를 변환, 편집, 공유
     <div>
     <a href="deploy/deploy-overview.md"><strong>배포</strong></a>
     </div>
-    <em>조직 내에 Acrobat을 배포하는 데 필요한 통찰력과 모범 사례</em>
+    <em>조직 내 Acrobat 배포에 대한 인사이트 및 모범 사례</em>
     <br>
   </td>
   <td>
@@ -104,7 +104,7 @@ Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF를 변환, 편집, 공유
     <div>
     <a href="mobile/mobile-overview.md"><strong>모바일</strong></a>
     </div>
-    <em>모바일 장치에서 PDF 작성, 채우기 및 서명</em>
+    <em>모바일 장치에서 PDF 만들기, 채우기 및 서명</em>
     <br>
   </td>  
   <td>
