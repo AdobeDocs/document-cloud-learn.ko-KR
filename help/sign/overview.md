@@ -1,23 +1,23 @@
 ---
 title: 자습서
-description: Adobe Sign에서 초보자와 관리자 모두에게 빠른 속도로 빠르게 적용할 수 있도록 설계된 자습서, 웹 세미나 및 사용 사례 모음
+description: 초보자와 관리자 모두가 Adobe Sign을 빠르게 이용할 수 있도록 마련된 튜토리얼, 웨비나 및 활용 사례
 role: User, Admin
 product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 9e334f9523601cf5c5bad3a80663724d7b3670de
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
 # Adobe Sign 자습서
 
-![Adobe Sign Hero 이미지](assets/Hero_Sign.jpg)
+![Adobe Sign 메인 이미지](assets/Hero_Sign.jpg)
 
-Adobe Document Cloud 솔루션인 Adobe Sign은 통합, API, 고급 인증, 추가 관리 기능 등을 통해 조직의 요구에 맞게 확장할 수 있습니다. Adobe Sign에서 초보자와 관리자 모두에게 빠른 속도로 Adobe Sign을 제공하는 다양한 학습 환경을 확인할 수 있습니다.
+Adobe Document Cloud 솔루션인 Adobe Sign은 통합, API, 고급 인증, 추가 관리자 기능 등을 통해 기업의 요구에 맞게 확장할 수 있습니다. 여기에서 Adobe Sign에 대한 초보자와 관리자 모두를 빠르게 향상시킬 수 있는 다양한 학습 경험을 찾을 수 있습니다.
 
 ## 학습 경로
 
@@ -30,7 +30,7 @@ Adobe Document Cloud 솔루션인 Adobe Sign은 통합, API, 고급 인증, 추�
     <div>
     <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>시작하기</strong></a>
     </div>
-    <em>문서를 보내고 서명하고 추적하는 방법에 대한 최신 정보</em>
+    <em>문서를 전송, 서명 및 추적하는 방법을 빠르게 습득</em>
     <br>
   </td>
   <td>
@@ -40,7 +40,7 @@ Adobe Document Cloud 솔루션인 Adobe Sign은 통합, API, 고급 인증, 추�
     <div>
     <a href="sign-advanced-users/advanced-users-overview.md"><strong>고급 작업</strong></a>
     </div>
-    <em>특정 작업 및 자동화를 통해 기본 사항 이상의 작업 수행</em>
+    <em>특정 작업 및 자동화를 통해 기본 기능 강화</em>
     <br>
   </td>  
   <td>
@@ -50,7 +50,7 @@ Adobe Document Cloud 솔루션인 Adobe Sign은 통합, API, 고급 인증, 추�
     <div>
     <a href="admin/intro-admin-overview.md"><strong>관리</strong></a>
     </div>
-    <em>조직의 기본 설정 팁에서 고급 설정 팁</em>
+    <em>조직을 위한 기본 및 고급 설정 팁</em>
     <br>
   </td>
 </tr>
@@ -62,7 +62,7 @@ Adobe Document Cloud 솔루션인 Adobe Sign은 통합, API, 고급 인증, 추�
     <div>
     <a href="digitalid/digitalid-overview.md"><strong>디지털 ID</strong></a>
     </div>
-    <em>Adobe Sign을 사용하여 전 세계에서 디지털 ID를 사용하는 방법 알아보기</em>
+    <em>Adobe Sign을 사용하여 전 세계 디지털 ID를 사용하는 방법 학습</em>
     <br>
   </td>
   <td>
@@ -72,7 +72,7 @@ Adobe Document Cloud 솔루션인 Adobe Sign은 통합, API, 고급 인증, 추�
     <div>
     <a href="integrations/integrations-overview.md"><strong>통합</strong></a>
     </div>
-    <em>조직에서 이미 사용하는 다른 응용 프로그램 내부에 Adobe Sign 직접 추가</em>
+    <em>조직에서 이미 사용 중인 다른 애플리케이션에 Adobe Sign을 직접 추가할 수 있습니다</em>
     <br>
   </td>
   <td>
@@ -82,19 +82,19 @@ Adobe Document Cloud 솔루션인 Adobe Sign은 통합, API, 고급 인증, 추�
     <div>
     <a href="sign-usecase/expand-inspire-overview.md"><strong>업계 및 부서</strong></a>
     </div>
-    <em>e-signature를 통해 가능한 것을 재정의하는 실제 업계 및 부서 활용 사례 및 레시피를 살펴보십시오.</em>
+    <em>전자 서명으로 가능한 작업을 재정의하는 실제 업계 및 부서의 활용 사례와 기법을 살펴보세요</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="develop/develop-overview.md">
-      <img alt="개발" src="assets/AS_Title_Develop.png" />
+      <img alt="현상" src="assets/AS_Title_Develop.png" />
     </a>
     <div>
-    <a href="develop/develop-overview.md"><strong>개발</strong></a>
+    <a href="develop/develop-overview.md"><strong>현상</strong></a>
     </div>
-    <em>Adobe Sign I/O에서 개발 리소스 가져오기</em>
+    <em>Adobe Sign I/O에 대한 개발 리소스 받기</em>
     <br>
   </td>
    <td>
@@ -104,7 +104,7 @@ Adobe Document Cloud 솔루션인 Adobe Sign은 통합, API, 고급 인증, 추�
     <div>
     <a href="deploy-overview.md"><strong>배포</strong></a>
     </div>
-    <em>조직 내에 Adobe Sign을 배포하는 방법에 대한 통찰력과 모범 사례</em>
+    <em>조직 내 Adobe Sign 배포에 대한 인사이트 및 모범 사례</em>
     <br>
   </td>
   <td>
@@ -114,7 +114,7 @@ Adobe Document Cloud 솔루션인 Adobe Sign은 통합, API, 고급 인증, 추�
     <div>
     <a href="mobile/mobile-overview.md"><strong>모바일</strong></a>
     </div>
-    <em>모바일 장치에서 실시간 업데이트 보내기, 추적 및 가져오기</em>
+    <em>모바일 디바이스에서 실시간 업데이트 전송, 추적 및 가져오기</em>
     <br>
   </td>  
 </tr>
