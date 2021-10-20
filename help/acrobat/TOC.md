@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
+source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 10%
+source-wordcount: '295'
+ht-degree: 9%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 10%
    + [개요](getting-started/getting-started-overview.md)
    + [작업 영역 기준](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Acrobat 웹으로 어디에서나 작업](getting-started/acrobatweb.md)
+   + [어디에서나 업무 생산성 향상](getting-started/productivity.md)
    + [작업 대상 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [실시간 공동 작업](getting-started/collaborate.md)
    + [Combine Files에서 PDF](getting-started/combine-to-pdf.md)
@@ -34,7 +35,7 @@ ht-degree: 10%
    + [스캔 및 OCR](getting-started/scan-and-ocr.md)
    + [페이지 구성](getting-started/organize.md)
    + [암호로 PDF 파일 Protect](getting-started/password-protect.md)
-   + [PDF 양식 작성 및 서명](getting-started/fill-and-sign.md)
+   + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
    + [PDF은 어디에서 제공됩니까?](getting-started/where-do-pdfs-come-from.md)
 + 고급 작업 {#advanced-tasks}
    + [개요](advanced-tasks/advanced-tasks-overview.md)
@@ -72,7 +73,7 @@ ht-degree: 10%
    + [Outlook에서 전자 메일 메시지 및 첨부 파일을 PDF으로 변환](integrate/outlook.md)
    + [Microsoft Edge로 탐색하는 동안 PDF 내용 만들기](integrate/edge.md)
    + [Google 드라이브용 Adobe Acrobat](integrate/acrobatandgoogle.md)
-+ 업계 {#by-industry}
++ 업계 및 부서 {#by-industry}
    + [개요](industry/industry-overview.md)
    + 공공 기관 {#gov}
       + [개요](industry/gov/gov-overview.md)

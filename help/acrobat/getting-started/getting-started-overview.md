@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
+source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 5%
+source-wordcount: '377'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 ![Acrobat 시작 이미지](../assets/Hero-GettingStarted.png)
 
-이 간단한(1-2분) 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아봅니다. 문서 작성에서 PDF 파일 보호에 이르기까지 이 콘텐츠는 PDF 워크플로우를 간소화하도록 설계되었습니다.
+이 간단한 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아봅니다. 문서 작성에서 PDF 파일 보호에 이르기까지 이 콘텐츠는 PDF 워크플로우를 간소화하도록 설계되었습니다.
 
 ## Acrobat 튜토리얼
 
@@ -56,6 +56,16 @@ ht-degree: 5%
 </tr>
 <tr>
    <td>
+    <a href="../integrate/integrate-overview.md#microsoft">
+      <img alt="Microsoft 365로 작업" src="../assets/WorkMicrosoft365_1280.png" />
+    </a>
+    <div>
+     <a href="../integrate/integrate-overview.md#microsoft"><strong>Microsoft 365로 작업</strong></a>
+    </div>
+    <em>Acrobat 및 [!DNL Microsoft 365]</em>
+    <br>
+  </td>
+  <td>
     <a href="collaborate.md">
       <img alt="실시간 공동 작업" src="../assets/Collaborate_1280.png" />
     </a>
@@ -75,6 +85,8 @@ ht-degree: 5%
     <em>다양한 유형의 파일을 단일 PDF으로 결합</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="create-pdf.md">
       <img alt="PDF 파일 만들기" src="../assets/Create.jpg" />
@@ -85,9 +97,7 @@ ht-degree: 5%
     <em>다양한 유형의 문서에서 PDF 만들기</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="comment-on-pdf-files.md">
       <img alt="Acrobat DC에서 PDF 파일에 주석 달기" src="../assets/Comment.jpg" />
     </a>
@@ -107,7 +117,9 @@ ht-degree: 5%
     <em>PDF 파일에서 텍스트 및 이미지 편집</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="export-pdf.md">
       <img alt="PDF을 편집 가능한 형식으로 내보내기" src="../assets/Export.jpg" />
     </a>
@@ -117,11 +129,9 @@ ht-degree: 5%
     <em>PDF 파일을 편집 가능한 형식으로 내보내는 방법에 대해 알아봅니다</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="채울 수 있는 양식 만들기" src="../assets/Form.jpg" />
+      <img alt="채울 수 있는 양식 만들기" src="../assets/Form_1280.png" />
     </a>
     <div>
     <a href="create-fillable-forms.md"><strong>채울 수 있는 양식 만들기</strong></a>
@@ -139,7 +149,9 @@ ht-degree: 5%
     <em>공유, 게시 또는 아카이빙의 품질을 그대로 유지하면서 대용량 파일을 줄이고 PDF 최적화</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="organize.md">
       <img alt="페이지 구성" src="../assets/Organize.jpg" />
     </a>
@@ -149,8 +161,6 @@ ht-degree: 5%
     <em>PDF에서 페이지 추가, 교체, 추출, 회전, 삭제 및 이동</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="password-protect.md">
       <img alt="암호로 PDF 파일 Protect" src="../assets/Protect.jpg" />
@@ -163,14 +173,16 @@ ht-degree: 5%
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="PDF 양식 채우기 및 서명" src="../assets/FillSign.jpg" />
+      <img alt="PDF 양식 작성 및 서명" src="../assets/FillSign_1280.png" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>Fill and sign PDF forms</strong></a>
+    <a href="fill-and-sign.md"><strong>Fill &amp; Sign PDF forms</strong></a>
     </div>
     <em>PDF 양식 빠르게 채우기 및 서명</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="PDF은 어디에서 제공됩니까?" src="../assets/WherePDFs.jpg" />
@@ -179,6 +191,16 @@ ht-degree: 5%
     <a href="where-do-pdfs-come-from.md"><strong>PDF은 어디에서 제공됩니까?</strong></a>
     </div>
     <em>PDF의 출처와 용도 이해</em>
+    <br>
+  </td>
+  <td>
+   <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
