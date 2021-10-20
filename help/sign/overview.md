@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 9e334f9523601cf5c5bad3a80663724d7b3670de
+source-git-commit: ec2ddf579a10d659ac8f92f2c8d7dcade74c56b9
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '198'
 ht-degree: 6%
 
 ---
@@ -82,7 +82,7 @@ Adobe Document Cloud 솔루션인 Adobe Sign은 통합, API, 고급 인증, 추�
     <div>
     <a href="sign-usecase/expand-inspire-overview.md"><strong>업계 및 부서</strong></a>
     </div>
-    <em>전자 서명으로 가능한 작업을 재정의하는 실제 업계 및 부서의 활용 사례와 기법을 살펴보세요</em>
+    <em>실제 업계와 부서에서 사용하는 활용 사례와 기법을 통해 전자 서명으로 가능한 작업을 살펴보세요</em>
     <br>
   </td>
 </tr>
