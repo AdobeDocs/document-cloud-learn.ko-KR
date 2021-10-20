@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
+source-git-commit: dc80361b5910f8d6b41ca1e9b6b982e774687bc5
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '385'
 ht-degree: 3%
 
 ---
@@ -44,13 +44,13 @@ ht-degree: 3%
     <br>
   </td>
   <td>
-    <a href="../integrate/integrate-overview.md#microsoft">
-      <img alt="Microsoft 365로 작업" src="../assets/WorkMicrosoft365_1280.png" />
+    <a href="productivity.md">
+      <img alt="어디에서나 업무 생산성 향상" src="../assets/Productivity_1280.png" />
     </a>
     <div>
-     <a href="../integrate/integrate-overview.md#microsoft"><strong>Microsoft 365로 작업</strong></a>
+     <a href="productivity.md"><strong>어디에서나 업무 생산성 향상</strong></a>
     </div>
-    <em>Acrobat 및 [!DNL Microsoft 365]</em>
+    <em>Acrobat Reader 모바일 앱을 사용하면 태블릿이나 스마트폰에서 업무 효율성을 높일 수 있습니다</em>
     <br>
   </td>
 </tr>
