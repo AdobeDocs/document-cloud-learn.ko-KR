@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 제공되는 [Advanced Tasks for Users](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 과정의 일부입니다.
+>이 비디오는 과정의 일부입니다 [사용자를 위한 고급 작업](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) Experience League에서 무료로 사용할 수 있습니다!

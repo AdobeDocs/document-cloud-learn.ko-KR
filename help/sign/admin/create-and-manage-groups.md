@@ -1,6 +1,6 @@
 ---
 title: 그룹 생성 및 관리
-description: 그룹을 만들고, 그룹에 사용자를 추가하고, 그룹 설정을 편집하는 방법 알아보기
+description: 그룹을 만들고, 그룹에 사용자를 추가하고, 그룹 설정을 편집하는 방법을 알아봅니다.
 role: Admin
 product: adobe sign
 solution: Document Cloud
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 그룹 생성 및 관리
+# 그룹 만들기 및 관리
 
-이 비디오 자습서에서는 그룹을 만들고, 그룹에 사용자를 추가하고, 그룹 설정을 편집하는 방법을 배웁니다.
+이 비디오 튜토리얼에서는 그룹을 만들고, 그룹에 사용자를 추가하고, 그룹 설정을 편집하는 방법을 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17355?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: 계약 및 구매요청 화면
-description: 종이 문서 처리를 규정 준수 디지털 워크플로우로 신속하게 교체, 감사 보고서 작성
+title: 계약 및 구매요청 Forms
+description: 종이 문서를 감사 보고서가 포함된 완벽한 디지털 워크플로우로 신속하게 대체
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,10 +14,9 @@ ht-degree: 0%
 
 ---
 
-# 계약 및 구매요청 양식
+# 계약서 및 구매요청 양식
 
-종이 처리를 규정 준수 디지털 워크플로우로 신속하게 대체하고 감사 보고서를 작성합니다. Adobe Sign의 Workflow Designer 도구를 사용하여 도움이 되는 방법 알아보기
-전체 프로세스를 간소화합니다.
+종이 문서를 감사 보고서가 포함된 완벽한 디지털 워크플로우로 신속하게 교체할 수 있습니다. Adobe Sign의 작업 과정 디자이너 도구를 사용하여 전체 프로세스를 간소화하는 방법을 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?hidetitle=true)
 

@@ -1,6 +1,6 @@
 ---
 title: 60초 Acrobat 개요
-description: 60초 Acrobat에서는 1분 이내에 Acrobat DC에서 새로운 기술을 배울 수 있는 간단한 자습서를 제공합니다.
+description: 60초 분량의 Acrobat에서 1분 이내에 Acrobat DC의 새로운 기법을 배울 수 있는 바이트 크기의 튜토리얼을 확인할 수 있습니다
 role: User
 product: adobe acrobat
 level: Beginner
@@ -18,30 +18,30 @@ ht-degree: 0%
 
 ![60초 Acrobat 이미지](../assets/Hero-60sec.png)
 
-60초 Acrobat에서는 1분 이내에 Acrobat DC에서 새로운 트릭을 배울 수 있는 간단한 자습서를 제공합니다. 이러한 작업 기반 팁은 Acrobat의 숨겨진 보석 중 일부를 잠금 해제하여 PDF 파일 작업을 위한 새로운 기술을 습득하는 데 도움이 됩니다. 간단한 대답을 듣기 위해 한 개를 보거나, 문서 생산성을 향상시키기 위해 다섯 개를 볼 수 있으며, 커피를 마시며 휴식을 취할 시간이 있습니다.
+60초 Acrobat은 1분 이내에 Acrobat DC의 새로운 기법을 배울 수 있는 바이트 크기의 튜토리얼을 제공합니다. 이러한 작업 기반의 팁을 통해 Acrobat의 숨겨진 보석 중 일부를 잠금 해제하여 PDF 파일 작업에 대한 새로운 스킬을 습득할 수 있습니다. 답변을 빠르게 얻을 수 있는 영상 1편과 문서 생산성을 높이기 위한 영상 5편을 볼 수 있으며, 휴식 시간을 가질 수 있습니다.
 
-## 60초 Acrobat 자습서
+## 60초 Acrobat 튜토리얼
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="combine-to-one-pdf.md">
-      <img alt="파일을 하나의 PDF로 결합" src="../assets/60sec_Combine_1280.jpg" />
+      <img alt="여러 파일을 하나의 PDF으로 결합" src="../assets/60sec_Combine_1280.jpg" />
     </a>
     <div>
-    <a href="combine-to-one-pdf.md"><strong>파일을 하나의 PDF로 결합</strong></a>
+    <a href="combine-to-one-pdf.md"><strong>여러 파일을 하나의 PDF으로 결합</strong></a>
     </div>
-    <em>여러 가지 유형의 파일을 단일 PDF로 결합하여 새 문서를 빠르게 만듭니다.</em>
+    <em>여러 유형의 파일을 단일 PDF으로 결합하여 새 문서를 빠르게 만듭니다.</em>
     <br>
   </td>
   <td>
     <a href="edit.md">
-      <img alt="Acrobat Web을 사용하여 PDF 편집" src="../assets/60sec_Edit_1280.jpg" />
+      <img alt="Acrobat Web으로 PDF 편집" src="../assets/60sec_Edit_1280.jpg" />
     </a>
     <div>
-    <a href="edit.md"><strong>Acrobat Web을 사용하여 PDF 편집</strong></a>
+    <a href="edit.md"><strong>Acrobat Web으로 PDF 편집</strong></a>
     </div>
-    <em>PDF를 다운로드하지 않고도 텍스트와 이미지를 간단히 편집할 수 있습니다.</em>
+    <em>PDF을 다운로드하지 않고도 텍스트와 이미지를 간편하게 편집할 수 있습니다</em>
     <br>
   </td>
   <td>
@@ -51,39 +51,39 @@ ht-degree: 0%
     <div>
      <a href="search.md"><strong>한 번에 여러 PDF 파일 검색</strong></a>
     </div>
-    <em>PDF 파일에서 검색을 시작한 다음 고급 검색을 열고 PDF 파일의 전체 폴더를 검색합니다.</em>
+    <em>PDF 파일에서 검색을 시작한 다음 고급 검색을 열고 PDF 파일의 전체 폴더를 검색합니다</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="photo.md">
-      <img alt="사진의 PDF 만들기" src="../assets/60sec_Photo_1280.jpg" />
+      <img alt="한 번에 사진 PDF 만들기" src="../assets/60sec_Photo_1280.jpg" />
     </a>
     <div>
-    <a href="photo.md"><strong>사진의 PDF 만들기</strong></a>
+    <a href="photo.md"><strong>한 번에 사진 PDF 만들기</strong></a>
     </div>
-    <em>JPG 한 묶음을 Acrobat 아이콘으로 끌어 놓아 PDF를 만드는 방법에 대해 알아봅니다.</em>
+    <em>여러 JPG을 Acrobat 아이콘에 드래그하여 놓아 PDF을 만드는 방법을 살펴보세요</em>
     <br>
   </td>
   <td>
     <a href="phone.md">
-      <img alt="PPT 파일을 휴대폰의 PDF로 변환" src="../assets/60sec_Phone_1280.jpg" />
+      <img alt="스마트폰에서 PPT 파일을 PDF으로 변환" src="../assets/60sec_Phone_1280.jpg" />
     </a>
     <div>
-    <a href="phone.md"><strong>PPT 파일을 휴대폰의 PDF로 변환</strong></a>
+    <a href="phone.md"><strong>스마트폰에서 PPT 파일을 PDF으로 변환</strong></a>
     </div>
-    <em>휴대폰에서 전자 메일 PowerPoint 첨부 파일을 PDF로 변환하는 방법 알아보기</em>
+    <em>휴대폰에서 전자 메일 PowerPoint 첨부 파일을 PDF으로 변환하는 방법 알아보기</em>
     <br>
   </td>  
  <td>
     <a href="indesign.md">
-      <img alt="InDesign으로 PDF 주석 로드" src="../assets/60sec_InDesign_1280.jpg" />
+      <img alt="PDF 주석을 InDesign에 로드" src="../assets/60sec_InDesign_1280.jpg" />
     </a>
     <div>
-    <a href="indesign.md"><strong>InDesign으로 PDF 주석 로드</strong></a>
+    <a href="indesign.md"><strong>PDF 주석을 InDesign에 로드</strong></a>
     </div>
-    <em>Acrobat 공유 검토 후 PDF 주석을 다시 InDesign으로 로드하는 방법 알아보기</em>
+    <em>Acrobat 공유 검토 후 PDF 주석을 다시 InDesign으로 로드하는 방법에 대해 알아봅니다</em>
     <br>
   </td>  
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: 디지털 ID 개요
-description: Adobe Sign을 사용하여 전 세계에서 디지털 ID를 사용하는 방법 알아보기
+description: Adobe Sign을 사용하여 전 세계 디지털 ID를 사용하는 방법 학습
 role: User
 product: adobe sign
 level: Beginner
@@ -9,7 +9,7 @@ kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
 source-git-commit: 30917ce6eb6d682649a21d486eefa9482339410e
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 ![디지털 ID 이미지 서명](../assets/Hero-DigitalID.png)
 
-전자 형태의 여권과 비슷하게, 디지털 ID(디지털 ID)는 당신이 말하는 사람이라는 것을 안전하게 증명할 수 있다. 또한 Adobe Sign에서 e-sign을 수행할 때 디지털 ID를 사용하면 특정 문서에 대한 e-signature를 인증했다는 보다 높은 수준의 보증이 제공됩니다. 다음 자습서에서는 Adobe Sign을 사용하여 전 세계에서 디지털 ID를 사용하는 방법을 보여 줍니다.
+전자 양식의 여권과 마찬가지로 디지털 ID(디지털 ID)를 사용하면 본인이 누구인지 안전하게 증명할 수 있습니다. 또한 Adobe Sign에서 전자 서명할 때 디지털 ID를 사용하면 해당 특정 문서에 대한 전자 서명을 보다 안전하게 승인할 수 있습니다. 다음 자습서에서는 Adobe Sign을 사용하여 전 세계의 디지털 ID를 사용하는 방법을 보여 줍니다.
 
 >[!NOTE]
 >
->클라우드 서명이 있는 디지털 ID를 사용하려면 먼저 조직의 관리자에게 문의하여 공급자의 솔루션이 Adobe Sign에서 활성화되었는지 확인하십시오.
+>클라우드 서명으로 디지털 ID를 사용하려면 먼저 조직의 관리자에게 문의하여 Adobe Sign에서 공급자 솔루션이 활성화되어 있는지 확인하십시오.
 
 ## [!DNL Digidentity]
 
@@ -30,22 +30,22 @@ ht-degree: 0%
 <tr>
  <td>
     <a href="digidentity-reg.md">
-      <img alt="[!DNL Digidentity]에서 디지털 ID 가져오기" src="assets/Digidentityreg_1280.png" />
+      <img alt="다음에서 디지털 ID 가져오기 [!DNL Digidentity]" src="assets/Digidentityreg_1280.png" />
     </a>
     <div>
-    <a href="digidentity-reg.md"><strong>[!DNL Digidentity]에서 디지털 ID 가져오기</strong></a>
+    <a href="digidentity-reg.md"><strong>다음에서 디지털 ID 가져오기 [!DNL Digidentity]</strong></a>
     </div>
-    <em>[!DNL Digidentity]에서 디지털 서명 인증서를 가져오는 방법 알아보기</em>
+    <em>디지털 서명 인증서를 얻는 방법 알아보기 [!DNL Digidentity]</em>
     <br>
   </td>
   <td>
     <a href="digidentity-sign.md">
-      <img alt="[!DNL Digidentity]을(를) 사용하여 서명하는 중" src="assets/Digidentitysign_1280.png" />
+      <img alt="다음을 사용하여 서명 [!DNL Digidentity]" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
-    <a href="digidentity-sign.md"><strong>[!DNL Digidentity]을(를) 사용하여 서명하는 중</strong></a>
+    <a href="digidentity-sign.md"><strong>다음을 사용하여 서명 [!DNL Digidentity]</strong></a>
     </div>
-    <em>Adobe Sign에서 [!DNL Digidentity] 디지털 ID를 사용하는 방법 알아보기</em>
+    <em>사진 편집 [!DNL Digidentity] Adobe Sign을 사용한 디지털 ID</em>
     <br>
   </td>
   <td>
@@ -62,32 +62,32 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="intesi-advanced.md">
-      <img alt="Intesi Group(고급)에서 디지털 ID 가져오기" src="assets/IntesiAdvanced_1280.png" />
+      <img alt="Intesi Group에서 디지털 ID 가져오기(고급)" src="assets/IntesiAdvanced_1280.png" />
     </a>
     <div>
-    <a href="intesi-advanced.md"><strong>[!DNL Intesi Group](고급)에서 디지털 ID 가져오기</strong></a>
+    <a href="intesi-advanced.md"><strong>다음에서 디지털 ID 가져오기 [!DNL Intesi Group] (고급)</strong></a>
     </div>
-    <em>[!DNL Intesi Group]에서 고급 디지털 서명 인증서를 가져오는 방법 알아보기</em>
+    <em>다음에서 고급 디지털 서명 인증서를 얻는 방법 알아보기 [!DNL Intesi Group]</em>
     <br>
   </td>
   <td>
     <a href="intesi-qualified.md">
-      <img alt="[!DNL Intesi Group](검증)에서 디지털 ID 가져오기" src="assets/IntesiQualified_1280.png" />
+      <img alt="다음에서 디지털 ID 가져오기 [!DNL Intesi Group] (적격)" src="assets/IntesiQualified_1280.png" />
     </a>
     <div>
-    <a href="intesi-qualified.md"><strong>[!DNL Intesi Group](검증)에서 디지털 ID 가져오기</strong></a>
+    <a href="intesi-qualified.md"><strong>다음에서 디지털 ID 가져오기 [!DNL Intesi Group] (적격)</strong></a>
     </div>
-    <em>[!DNL Intesi Group]에서 인증된 디지털 서명 인증서를 가져오는 방법 알아보기</em>
+    <em>다음 위치에서 인증된 디지털 서명 인증서를 얻는 방법에 대해 알아봅니다. [!DNL Intesi Group]</em>
     <br>
   </td>
   <td>
     <a href="intesi-sign.md">
-      <img alt="Intesi 그룹을 사용하여 서명" src="assets/IntesiSign_1280.png" />
+      <img alt="Intesi Group을 사용하여 서명" src="assets/IntesiSign_1280.png" />
     </a>
     <div>
-    <a href="intesi-sign.md"><strong>[!DNL Intesi Group]을(를) 사용하여 서명</strong></a>
+    <a href="intesi-sign.md"><strong>다음을 사용하여 서명 [!DNL Intesi Group]</strong></a>
     </div>
-    <em>Adobe Sign에서 [!DNL Intesi Group] 디지털 ID를 사용하는 방법 알아보기</em>
+    <em>사진 편집 [!DNL Intesi Group] Adobe Sign을 사용한 디지털 ID</em>
     <br>
   </td>
 </tr>

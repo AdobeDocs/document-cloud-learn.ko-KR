@@ -1,6 +1,6 @@
 ---
-title: 대량 서명 수집
-description: 몇 단계만 거치면 문서에 대한 수백 개의 서명을 한 번에 수집하는 방법을 알아봅니다.
+title: 일괄 서명 수집
+description: 몇 단계만으로 모든 문서에 수백 개의 서명을 한 번에 수집하는 방법을 살펴볼 수 있습니다
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
@@ -14,16 +14,16 @@ ht-degree: 0%
 
 ---
 
-# 대량 서명 수집
+# 일괄 서명 수집
 
-단 몇 단계로 수백 개의 서명을 수집하는 방법을 알아보세요. 이 사용 사례에서는 모든 사람이 각자 자신의 책임을 면제하여 서명할 수 있으며 각각의 각각의 각각의 각각의 포기의 진행상황을 추적할 수 있습니다. 그래서 여러분은 누가 서명했는지 누가 서명했는지 정확히 알 수 있습니다. 캡처하는 각 온라인 서명은 안전하고, 안전하며, 법적 효력이 있습니다.
+몇 단계만으로 수백 개의 서명을 수집하는 방법을 살펴보십시오. 이 사용 사례에서는 모든 사람이 각자의 면책 동의서에 서명할 수 있으며, 각 면책 동의서의 진행 상황을 추적할 수 있으므로 서명하지 않은 사람과 서명자를 정확하게 알 수 있습니다. 수집한 각 온라인 서명은 안전하고 안전하며 법적으로 유효합니다.
 
-이 추가 실제 상황의 [Telamework 계약](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en) 사용 사례를 확인하십시오.
+이 추가 실제 환경을 확인하십시오. [원격 근무 협정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en) 활용 사례
 
 >[!VIDEO](https://video.tv.adobe.com/v/37839?hidetitle=true)
 
-[샘플 CSV 파일을 ZIP 형식으로 다운로드](../assets/megasign_merge_sample.zip)
+[샘플 CSV 파일을 ZIP 형식으로 다운로드합니다.](../assets/megasign_merge_sample.zip)
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 사용할 수 있는 Administrators](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2)(으)용 [Advanced Tasks for Users](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 및 [Getting Started with Administrators 과정의 일부입니다.
+>이 비디오는 [사용자를 위한 고급 작업](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 및 [관리자용 Adobe Sign 시작하기](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) Experience League에서 무료로 이용할 수 있는 강의!

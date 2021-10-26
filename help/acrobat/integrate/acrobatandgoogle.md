@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Google Drive}용 Adobe Acrobat'
-description: 시간을 절약하는 PDF 도구 및 e-signature 워크플로우에 대한 액세스 권한을 [!DNL Google Drive] 앱 내부에 직접 가져오기
+description: 시간을 절약해주는 PDF 툴과 전자 서명 워크플로우를 [!DNL Google Drive] app
 role: User
 product: adobe acrobat
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Google Drive]용 Adobe Acrobat
+# Adobe Acrobat [!DNL Google Drive]
 
-[!DNL Google Drive] 앱 내에서 시간을 절약하는 PDF 도구 및 전자 서명 워크플로우에 직접 액세스하는 방법을 알아봅니다.
+작업 시간을 단축시켜주는 PDF 툴과 전자 서명 워크플로우를 [!DNL Google Drive] 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333600?hidetitle=true)

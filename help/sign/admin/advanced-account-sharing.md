@@ -1,6 +1,6 @@
 ---
 title: 고급 계정 공유
-description: 고급 계정 공유를 통해 관리자와 사용자는 자신의 보내기, 수정 및 보기 권한을 위임할 수 있습니다.
+description: 고급 계정 공유를 통해 관리자와 사용자는 전송, 수정 및 보기 권한을 위임할 수 있습니다.
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
@@ -17,10 +17,10 @@ ht-degree: 4%
 
 # 고급 계정 공유
 
-이 비디오 자습서에서는 관리자와 사용자가 자신의 보내기, 수정 및 보기 권한을 위임할 수 있도록 고급 계정 공유를 설정하는 방법을 배웁니다.
+이 비디오 자습서에서는 관리자 및 사용자가 전송, 수정 및 보기 권한을 위임할 수 있도록 허용하는 고급 계정 공유를 설정하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40186?hidetitle=true)
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 제공되는 [Advanced Tasks for Admins](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) 과정의 일부입니다.
+>이 비디오는 과정의 일부입니다 [관리자를 위한 고급 작업](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) Experience League에서 무료로 사용할 수 있습니다!

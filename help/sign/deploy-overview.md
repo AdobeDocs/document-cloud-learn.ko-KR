@@ -1,6 +1,6 @@
 ---
 title: 배포 개요
-description: Adobe Sign 배포에 대한 유용한 문서 및 유용한 정보
+description: Adobe Sign 배포에 대한 모범 사례 문서 및 유용한 인사이트
 role: Admin
 product: adobe sign
 solution: Document Cloud
@@ -16,9 +16,9 @@ ht-degree: 16%
 
 # 배포 개요
 
-![배포 이미지 서명](assets/Hero-Deploy.png)
+![Sign 배포 이미지](assets/Hero-Deploy.png)
 
-조직 내에 Adobe Sign을 배포하는 데 유용한 정보를 제공하는 유용한 문서
+조직 내 Adobe Sign 배포에 대한 유용한 인사이트를 제공하는 모범 사례 문서
 
 <table style="table-layout:fixed">
 <tr>
@@ -27,9 +27,9 @@ ht-degree: 16%
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>관리 콘솔에서 Adobe Sign 관리</strong></a>
+    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Admin Console에서 Adobe Sign 관리</strong></a>
     </div>
-    <em>Adobe의 엔터프라이즈 플랫폼인 Adobe Admin Console에서 Adobe Sign 사용자 및 라이센스를 관리하는 방법 알아보기</em>
+    <em>Adobe의 엔터프라이즈 플랫폼 Adobe Admin Console에서 Adobe Sign 사용자 및 라이선스를 관리하는 방법에 대해 알아봅니다.</em>
     <br>
   </td>
   <td>
@@ -39,7 +39,7 @@ ht-degree: 16%
     <div>
     <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>모범 사례</strong></a>
     </div>
-    <em>Adobe Sign을 배포하는 과정에서 Customer Success Manager가 고객과 협력하여 얻은 귀중한 통찰력과 지식을 검토합니다.</em>
+    <em>Adobe Sign 배포 시 고객과 함께 Customer Success Manager를 통해 얻은 유용한 인사이트와 지식을 검토하십시오</em>
     <br>
   </td>  
   <td>
@@ -49,19 +49,19 @@ ht-degree: 16%
     <div>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe Trust Center</strong></a>
     </div>
-    <em>Adobe Sign의 보안, 적법성 및 표준에 대한 Dell의 지속적인 노력에 대해 알아보십시오.</em>
+    <em>Adobe Sign의 보안, 적법성 및 표준에 대한 당사의 지속적인 노력에 대해 알아보십시오</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="assets/SignStudyGuide.pdf">
-      <img alt="Adobe Sign Essentials 연구 안내서" src="assets/SignStudyGuide.png" />
+      <img alt="Adobe Sign 필수 학습 안내서" src="assets/SignStudyGuide.png" />
     </a>
     <div>
-    <a href="assets/SignStudyGuide.pdf"><strong>Adobe Sign Essentials 연구 안내서</strong></a>
+    <a href="assets/SignStudyGuide.pdf"><strong>Adobe Sign 필수 학습 안내서</strong></a>
     </div>
-    <em>Adobe Sign Essentials Assessment(AD3-D104)용 Adobe Sign Study Guide</em>
+    <em>Adobe Sign 필수 평가(AD3-D104)를 위한 Adobe Sign 학습 안내서</em>
     <br>
   </td>
   <td>

@@ -1,21 +1,22 @@
 ---
-title: ' [!DNL Microsoft Edge]으로 검색하는 동안 PDF 콘텐츠 만들기'
-description: ' [!DNL Microsoft Edge]에 대한 Adobe Acrobat 확장명을 사용하여 웹 페이지를 PDF에 즉시 보관하는 방법 알아보기'
+title: 탐색하는 동안 PDF 내용 만들기 [!DNL Microsoft Edge]
+description: Adobe Acrobat 확장자를 사용하여 웹 페이지를 PDF에 즉시 보관하는 방법에 대해 알아보십시오. [!DNL Microsoft Edge]
 role: User
 product: adobe acrobat
 level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-8495.jpg
 kt: 8495
-source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
+exl-id: 636a11a3-612a-4066-ad91-133259fbf0c3
+source-git-commit: 1fb9e7a9794a15a1c84b794665c810540893d04f
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# [!DNL Microsoft Edge]으로 검색하는 동안 PDF 콘텐츠 만들기
+# 탐색하는 동안 PDF 내용 만들기 [!DNL Microsoft Edge]
 
-[!DNL Microsoft Edge]에 대한 Adobe Acrobat 확장명을 사용하여 웹 페이지를 PDF에 즉시 보관하는 방법을 알아봅니다. 이 Windows 전용 도구는 웹 기반 정보를 오프라인으로 보고 연구 프로젝트에 매우 유용합니다.
+Adobe Acrobat 확장자를 사용하여 웹 페이지를 PDF에 즉시 보관하는 방법에 대해 알아보십시오. [!DNL Microsoft Edge]. 이 Windows 전용 도구는 연구 프로젝트 및 웹 기반 정보의 오프라인 보기에 매우 유용합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337248?hidetitle=true)

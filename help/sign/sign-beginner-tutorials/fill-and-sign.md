@@ -1,6 +1,6 @@
 ---
 title: 문서 채우기 및 서명
-description: 양식을 작성하고 문서에 전자 서명을 추가하는 방법 알아보기
+description: 양식을 채우고 문서에 전자 서명을 추가하는 방법 알아보기
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 문서 채우기 및 서명
 
-양식을 작성하는 방법을 배우고 문서에 전자 서명을 추가합니다.
+양식을 채우고 문서에 전자 서명을 추가하는 방법을 살펴보세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33660?hidetitle=true)

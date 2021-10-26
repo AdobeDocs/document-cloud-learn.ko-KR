@@ -1,6 +1,6 @@
 ---
-title: Adobe Sign의 액체 모드
-description: 액체 모드가 모바일 서명 환경을 개선하는 방법 알아보기
+title: Adobe Sign의 Liquid Mode
+description: Liquid Mode가 모바일 서명 환경을 개선하는 방법 알아보기
 role: User
 product: adobe sign
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Sign의 액체 모드
+# Adobe Sign의 Liquid Mode
 
-액체 모드가 모바일 서명 환경을 개선하는 방법을 알아봅니다. 필할 수 있는 필드에 쉽게 집중할 수 있도록 핀칭과 확대/축소를 줄입니다.
+Liquid Mode가 모바일 서명 환경을 개선하는 방법을 알아봅니다. 채울 수 있는 필드에 쉽게 집중할 수 있도록 핀칭과 확대/축소를 줄입니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333803?hidetitle=true)

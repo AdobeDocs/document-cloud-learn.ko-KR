@@ -1,5 +1,5 @@
 ---
-user-guide-title: Adobe Document Cloud로 디지털 환경 활용
+user-guide-title: Adobe Document Cloud으로 디지털 경험 혁신
 solution: Document Cloud
 solution-title: Adobe Document Cloud Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/acrobat.html
@@ -15,11 +15,11 @@ ht-degree: 0%
 ---
 
 
-# Adobe Document Cloud로 디지털 환경 활용 {#lab719}
+# Adobe Document Cloud으로 디지털 경험 혁신 {#lab719}
 
 + [랩 개요 및 소개](overview.md)
-+ Adobe Document Cloud로 디지털 환경 활용 {#gsd}
-   + [Adobe Document Cloud로 디지털 환경 활용](gsd.md)
-   + [예: 모든 양식 검색](scan.md)
-   + [예2: 모든 양식에 작성 및 서명](fillsign.md)
-   + [Ex.3: PDF 파일 공유 및 온라인 검토](review.md)
++ Adobe Document Cloud으로 디지털 경험 혁신 {#gsd}
+   + [Adobe Document Cloud으로 디지털 경험 혁신](gsd.md)
+   + [예 1: 양식 스캔](scan.md)
+   + [예 2: 각종 양식 채우기 및 서명](fillsign.md)
+   + [예 3: 온라인으로 PDF 파일 공유 및 검토](review.md)

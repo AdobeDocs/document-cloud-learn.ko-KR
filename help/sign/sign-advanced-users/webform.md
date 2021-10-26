@@ -1,6 +1,6 @@
 ---
 title: 웹 양식 설정
-description: 웹 사이트에서 직접 전자적으로 서명할 수 있는 문서를 만드는 방법 알아보기
+description: 웹 사이트에서 직접 전자 서명할 수 있는 문서를 만드는 방법을 알아봅니다
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 # 웹 양식 설정
 
-웹 사이트에서 직접 전자적으로 서명할 수 있는 문서를 만드는 방법을 알아봅니다. [에 호스팅된 하이퍼링크를 폼](https://salesforceintegration.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAa5MmTHYoyIwWia3GbWuwgXo0CqUPbm9Fndza1A51v56MP1PP5GL6UzOKpAYQ9RTI*)에 만들거나, 링크를 사용하여 웹 사이트에 html 또는 JavaScript를 포함할 수 있습니다.
+웹 사이트에서 직접 전자 서명할 수 있는 문서를 만드는 방법을 알아봅니다. 다음을 만들 수 있습니다. [양식에 호스팅된 하이퍼링크](https://salesforceintegration.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAa5MmTHYoyIwWia3GbWuwgXo0CqUPbm9Fndza1A51v56MP1PP5GL6UzOKpAYQ9RTI*) 또는 링크를 사용하여 웹 사이트에 html 또는 JavaScript로 포함할 수 있습니다.
 
-다음과 같은 추가 실제 활용 사례를 확인하십시오.
+실제 활용 사례:
 
-* [사업 보조금 및 ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en) 대여 사례.
-* [재고용 ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en) 지원은 활용 사례이다.
+* [사업 보조금 및 융자금](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en) 활용 사례
+* [재취업 지원](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en) 활용 사례
 
 >[!VIDEO](https://video.tv.adobe.com/v/37841?hidetitle=true)
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 사용할 수 있는 Administrators](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2)(으)용 [Advanced Tasks for Users](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 및 [Getting Started with Administrators 과정의 일부입니다.
+>이 비디오는 [사용자를 위한 고급 작업](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 및 [관리자용 Adobe Sign 시작하기](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) Experience League에서 무료로 이용할 수 있는 강의!

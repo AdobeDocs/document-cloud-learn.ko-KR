@@ -1,6 +1,6 @@
 ---
 title: 시작 개요
-description: 이러한 간단한 단계별 자습서를 사용하여 문서를 보내고 서명하고 추적하는 방법에 대한 최신 정보를 얻으십시오.
+description: 간단한 단계별 튜토리얼을 통해 문서를 전송, 서명 및 추적하는 방법을 빠르게 알아볼 수 있습니다
 role: User
 product: adobe sign
 level: Beginner
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # 시작 개요
 
-![시작 이미지 서명](../assets/Hero-GettingStarted.png)
+![Sign 시작 이미지](../assets/Hero-GettingStarted.png)
 
-이러한 간단한 단계별 자습서를 사용하여 문서를 보내고 서명하고 추적하는 방법에 대해 최신 정보를 제공합니다. Adobe Sign을 빠르게 둘러본 다음 한 명 이상의 사용자에게 문서를 보냅니다. 이 콘텐츠는 전자 서명 워크플로를 쉽게 만들 수 있도록 설계되었습니다.
+간단한 단계별 튜토리얼을 통해 문서를 전송, 서명 및 추적하는 방법을 빠르게 알아볼 수 있습니다. Adobe Sign을 빠르게 살펴본 다음 한 명 이상의 사람에게 문서를 전송합니다. 이 콘텐츠는 전자 서명 워크플로우를 간소화하기 위해 고안되었습니다.
 
 ## 전송
 
@@ -25,44 +25,44 @@ ht-degree: 0%
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Adobe Sign의 빠른 둘러보기" src="../assets/Quick-Tour.png" />
+      <img alt="Adobe Sign 둘러보기" src="../assets/Quick-Tour.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Adobe Sign의 빠른 둘러보기</strong></a>
+    <a href="quick-tour.md"><strong>Adobe Sign 둘러보기</strong></a>
     </div>
-    <em>Adobe Sign 인터페이스를 빠르게 탐색하여 실행</em>
+    <em>Adobe Sign 인터페이스를 빠르게 확인하여 시작하고 실행합니다</em>
     <br>
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="단일 받는 사람에게 보내기" src="../assets/Send-to-single-recipient.png" />
+      <img alt="단일 수신자에게 보내기" src="../assets/Send-to-single-recipient.png" />
     </a>
     <div>
-    <a href="send-to-single-recipient.md"><strong>단일 받는 사람에게 보내기</strong></a>
+    <a href="send-to-single-recipient.md"><strong>단일 수신자에게 보내기</strong></a>
     </div>
-    <em>서명을 위해 문서를 보내는 것이 얼마나 쉬운지 알아보세요.</em>
+    <em>서명이 필요한 문서를 손쉽게 전송하는 방법을 살펴보세요</em>
     <br>
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="여러 받는 사람에게 보내기" src="../assets/Sending-to-multiple-recipients.png" />
+      <img alt="여러 수신자에게 보내기" src="../assets/Sending-to-multiple-recipients.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong>여러 받는 사람에게 보내기</strong></a>
+    <a href="send-to-multiple-recipients.md"><strong>여러 수신자에게 보내기</strong></a>
     </div>
-    <em>원하는 순서대로 둘 이상의 사람에게 전자 서명을 위한 문서를 보냅니다.</em>
+    <em>전자 서명이 필요한 문서를 원하는 순서대로 두 명 이상의 사람에게 전송</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="새 보낸 사람에 대한 Adobe 서명 시작" src="../assets/gettingstartednew.png" />
+      <img alt="처음 보낸 사람을 위한 Adobe Sign 시작하기" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>새 보낸 사람에 대한 Adobe 서명 시작</strong></a>
+    <a href="new-sender.md"><strong>처음 보낸 사람을 위한 Adobe Sign 시작하기</strong></a>
     </div>
-    <em>이 종합적인 자습서는 Adobe Sign에서 새 보낸 사람을 시작하기에 매우 좋습니다</em>
+    <em>이 종합적인 튜토리얼은 Adobe Sign에서 처음 보낸 사람을 위한 좋은 출발점입니다</em>
     <br>
   </td>
   <td>
@@ -89,7 +89,7 @@ ht-degree: 0%
     <div>
     <a href="electronically-sign-a-document.md"><strong>문서에 전자 서명</strong></a>
     </div>
-    <em>Adobe Sign으로 전송된 문서에 서명하는 것이 얼마나 쉬운지 알아보기</em>
+    <em>Adobe Sign을 사용하여 사용자에게 전송된 문서에 손쉽게 서명하는 방법에 대해 알아봅니다</em>
     <br>
   </td>
   <td>
@@ -99,7 +99,7 @@ ht-degree: 0%
     <div>
     <a href="fill-and-sign.md"><strong>문서 채우기 및 서명</strong></a>
     </div>
-    <em>양식을 작성하고 문서에 전자 서명을 추가합니다.</em>
+    <em>양식 채우기 및 문서에 전자 서명 추가</em>
     <br>
   </td>
   <td>
@@ -109,19 +109,19 @@ ht-degree: 0%
     <div>
     <a href="sign-in-person.md"><strong>직접 서명 받기</strong></a>
     </div>
-    <em>Adobe Sign 모바일 앱을 사용하여 다른 사람의 서명 가져오기</em>
+    <em>Adobe Sign 모바일 앱을 사용하여 직접 다른 사람의 서명 받기</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="디지털 서명이란 무엇입니까" src="../assets/Whatisdigsig_1280.jpg" />
+      <img alt="디지털 서명 소개" src="../assets/Whatisdigsig_1280.jpg" />
     </a>
     <div>
-    <a href="sign-with-a-digital-signature.md"><strong>디지털 서명이란 무엇입니까</strong></a>
+    <a href="sign-with-a-digital-signature.md"><strong>디지털 서명 소개</strong></a>
     </div>
-    <em>인증서 기반 디지털 서명에 대한 자세한 정보</em>
+    <em>인증서 기반의 디지털 서명에 대한 자세한 내용</em>
     <br>
   </td>
   <td>
@@ -153,7 +153,7 @@ ht-degree: 0%
     <div>
     <a href="manage-and-track.md"><strong>문서 관리 및 추적</strong></a>
     </div>
-    <em>서명을 위해 보낸 계약 관리 및 추적</em>
+    <em>서명을 위해 전송한 계약 관리 및 추적</em>
     <br>
   </td>
   <td>
@@ -163,18 +163,18 @@ ht-degree: 0%
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>문서 템플릿 만들기</strong></a>
     </div>
-    <em>조직의 속도와 일관성을 제공하기 위해 재사용 가능한 문서 템플릿 만들기</em>
+    <em>재사용 가능한 문서 템플릿을 만들어 조직의 속도와 일관성 유지</em>
     <br>
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="서명을 위해 이미 보낸 문서 수정" src="../assets/Modifying-sending.png" />
+      <img alt="서명을 위해 이미 전송된 문서 수정" src="../assets/Modifying-sending.png" />
     </a>
     <div>
-    <a href="modify-in-flight.md"><strong>서명을 위해 이미 보낸 문서 수정</strong></a>
+    <a href="modify-in-flight.md"><strong>서명을 위해 이미 전송된 문서 수정</strong></a>
     </div>
     <br>
-    <em>이미 진행 중인 문서의 워크플로 수정</em>
+    <em>이미 진행 중인 문서의 작업 과정 수정</em>
   </td>
 </tr>
 </table>

@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Intesi Group] 에서 디지털 ID 가져오기(정규화된)'
-description: ' [!DNL Intesi Group]에서 인증된 디지털 서명 인증서를 가져오는 방법 알아보기'
+title: 다음에서 디지털 ID 가져오기 [!DNL Intesi Group] (적격)
+description: 다음 위치에서 인증된 디지털 서명 인증서를 얻는 방법에 대해 알아봅니다. [!DNL Intesi Group]
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -15,14 +15,14 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Intesi Group]에서 디지털 ID 가져오기(자격 있음)
+# 다음에서 디지털 ID 가져오기 [!DNL Intesi Group] (적격)
 
-[!DNL Intesi Group]에서 인증된 디지털 서명 인증서를 가져오는 방법을 알아봅니다. 등록되고 ID가 확인되면 [!DNL Intesi Group]은(는) Adobe 서명 클라우드 서명을 적용하는 데 사용되는 디지털 ID로 사용자를 발급합니다.
+다음에서 적격한 디지털 서명 인증서를 얻는 방법에 대해 알아봅니다. [!DNL Intesi Group]. 등록된 후 ID가 확인되면 [!DNL Intesi Group] Adobe Sign 클라우드 서명을 적용하는 데 사용되는 디지털 ID를 발급합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337064?hidetitle=true)
 
 <br> 
 
-**Adobe Sign에서 인증된  [!DNL Intesi Group] 디지털 ID를 사용하는 방법을 알아보려면 아래 이미지를 선택하십시오.**
+**아래 이미지를 선택하여 정규화된 이름을 사용하는 방법을 알아보십시오. [!DNL Intesi Group] Adobe Sign의 디지털 ID.**
 
-[![image](assets/IntesiSign_400.png)](intesi-sign.md)
+[![이미지](assets/IntesiSign_400.png)](intesi-sign.md)

@@ -1,6 +1,6 @@
 ---
-title: Adobe 서명 텍스트 태그 지정
-description: Adobe Acrobat DC를 사용하여 텍스트 태그를 지정하여 Adobe Sign 양식 필드를 작성하는 방법 알아보기
+title: Adobe Sign 텍스트 태그 지정
+description: Adobe Acrobat DC에서 텍스트 태그를 지정하여 Adobe Sign 양식 필드를 작성하는 방법에 대해 알아봅니다
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
@@ -14,14 +14,14 @@ ht-degree: 0%
 
 ---
 
-# Adobe 서명 텍스트 태그 지정
+# Adobe Sign 텍스트 태그 지정
 
-이 기록된 웹 세미나(등록 필요 없음)에서 Adobe Acrobat DC를 사용하여 텍스트 태그를 사용하여 Adobe Sign 양식 필드를 작성하는 방법을 배웁니다. 텍스트 태그를 지정하면 많은 양식 필드가 있는 문서를 빌드하고 수정하는 데 걸리는 시간이 크게 줄어듭니다. 문서를 보낸 사람은 모든 문서에 개별 필드를 배치할 필요가 없습니다. - 또 다른 중요한 시간 절약. 그 밖의 이점으로는 양식 필드 유효성 검사(정확하고 오류가 없는 데이터 수집) 및 전문적인 양식 디자인 일관성이 있습니다. 질문/답변을 통해 웹세미나 동안 자유롭게 질문을 보내 주십시오. 녹음 시청을 시작하려면 아래 이미지를 클릭하십시오.
+녹화된 온라인 세미나(등록 필요 없음)에서 Adobe Acrobat DC를 사용하여 텍스트 태그를 지정하여 Adobe Sign 양식 필드를 작성하는 방법을 알아봅니다. 텍스트 태그를 지정하면 많은 양식 필드가 있는 문서를 작성하고 수정하는 데 걸리는 시간이 크게 단축됩니다. 문서 전송자는 모든 문서에 개별 필드를 배치할 필요가 없으므로 시간을 크게 절약할 수 있습니다. 그 밖의 이점으로는 양식 필드 검증(정확하고 오류가 없는 데이터 수집) 및 전문적인 양식 디자인 일관성이 있습니다. 웨비나 기간 동안 언제든지 Q&amp;A 창을 통해 질문을 보내 주십시오. 레코딩 시청을 시작하려면 아래 이미지를 클릭하십시오.
 
-[![감시 세션](../assets/Text-Tagging.png)](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+[![세션 보기](../assets/Text-Tagging.png)](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
 
-[Adobe 서명 텍스트 태그 지정 기록 웹 세미나 보기](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+[Adobe Sign 텍스트 태그 지정 녹음 온라인 세미나 보기](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
 
 >[!TIP]
 >
->이 비디오는 사용자(a0/>Advanced Tasks for Users](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 및 [Advanced Tasks for Admins](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) 과정의 일부로, Experience League에서 무료로 사용할 수 있습니다.!Experience League에서 무료로 사용할 수 있습니다.![
+>이 비디오는 [사용자를 위한 고급 작업](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 및 [관리자를 위한 고급 작업](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) Experience League에서 무료로 이용할 수 있는 강의! Experience League에서 무료로 이용할 수 있습니다!

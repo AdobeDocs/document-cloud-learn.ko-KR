@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# 보고서 만들기
+# 보고서 생성
 
-이 비디오 자습서에서는 Adobe Sign에서 보고서를 실행, 저장 및 예약하는 방법을 배웁니다.
+이 비디오 튜토리얼에서는 Adobe Sign에서 보고서를 실행, 저장 및 예약하는 방법을 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17357?hidetitle=true)
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 사용할 수 있는 [Getting Started with Administrators](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) 과정의 일부입니다.
+>이 비디오는 과정의 일부입니다 [관리자용 Adobe Sign 시작하기](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) Experience League에서 무료로 사용할 수 있습니다!

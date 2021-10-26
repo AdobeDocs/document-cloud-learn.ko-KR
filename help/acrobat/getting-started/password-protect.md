@@ -1,6 +1,6 @@
 ---
-title: 암호로 PDF 파일 보호
-description: 다른 사용자가 파일을 열거나 편집하지 못하도록 PDF에 암호를 추가하는 방법 알아보기
+title: 암호로 PDF 파일 Protect
+description: 다른 사용자가 파일을 열거나 편집하지 못하도록 PDF에 암호를 추가하는 방법에 대해 알아봅니다
 role: User
 product: adobe acrobat
 level: Beginner
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# 암호로 PDF 파일 보호
+# 암호로 PDF 파일 Protect
 
-다른 사용자가 파일을 열거나 편집하지 못하도록 PDF에 암호를 추가하는 방법을 알아봅니다.
+다른 사용자가 파일을 열거나 편집하지 못하도록 PDF에 암호를 추가하는 방법에 대해 알아봅니다.
 
 >[!TIP]
 >
->여러 PDF 파일을 암호로 보호하려면 [작업 마법사](../advanced-tasks/action.md)를 사용하십시오.
+>여러 PDF 파일을 암호로 보호하려면 [Action Wizard](../advanced-tasks/action.md).
 
 <br> 
 

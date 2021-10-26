@@ -1,6 +1,6 @@
 ---
 title: 병합 매핑 설정
-description: Salesforce의 데이터를 계약에 직접 병합하는 방법 알아보기
+description: Salesforce 데이터를 직접 계약서에 병합하는 방법 알아보기
 role: Admin
 product: adobe sign
 level: Intermediate
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Salesforce에서 병합 매핑 설정
 
-Adobe 로그인 Salesforce에 대한 병합 매핑을 설정하는 방법을 알아봅니다. 병합 매핑을 사용하면 Salesforce의 데이터를 계약에 직접 병합할 수 있습니다.
+Salesforce에서 Adobe Sign에 대한 병합 매핑을 설정하는 방법을 알아봅니다. 병합 매핑을 사용하여 Salesforce의 데이터를 직접 계약서에 병합할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17350?hidetitle=true)

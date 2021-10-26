@@ -1,6 +1,6 @@
 ---
-title: Acrobat Web을 사용하여 PDF 편집
-description: PDF를 다운로드하지 않고도 텍스트와 이미지를 간단히 편집할 수 있습니다.
+title: Acrobat Web으로 PDF 편집
+description: PDF을 다운로드하지 않고도 텍스트와 이미지를 간편하게 편집할 수 있습니다
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Acrobat Web을 사용하여 PDF 편집
+# Acrobat Web으로 PDF 편집
 
-이 60초 비디오 자습서에서는 PDF를 다운로드하지 않고도 텍스트와 이미지를 간단히 편집하는 방법을 배웁니다.
+이 60초 비디오 튜토리얼에서는 PDF을 다운로드하지 않고도 텍스트와 이미지를 간단히 편집하는 방법을 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336362?hidetitle=true)

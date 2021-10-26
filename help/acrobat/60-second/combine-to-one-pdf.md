@@ -1,6 +1,6 @@
 ---
-title: 파일을 하나의 PDF로 결합
-description: 여러 가지 유형의 파일을 단일 PDF로 결합하여 문서를 빠르게 만듭니다.
+title: 하나의 PDF으로 Combine Files
+description: 여러 유형의 파일을 단일 PDF으로 결합하여 문서를 빠르게 만듭니다.
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 파일을 하나의 PDF로 결합
+# 여러 파일을 하나의 PDF으로 결합
 
-이 60초짜리 비디오 자습서에서는 여러 가지 유형의 파일을 단일 PDF로 결합하여 문서를 빠르게 만드는 방법을 배웁니다.
+60초 분량의 이 비디오 튜토리얼에서는 여러 유형의 파일을 하나의 PDF으로 결합하여 문서를 신속하게 만드는 방법을 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336361?hidetitle=true)

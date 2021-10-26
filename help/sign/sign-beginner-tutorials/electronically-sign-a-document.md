@@ -1,6 +1,6 @@
 ---
-title: 문서 전자서명
-description: Adobe Sign으로 전송된 문서에 서명하는 것이 얼마나 쉬운지 알아보기
+title: 문서에 전자 서명
+description: Adobe Sign을 사용하여 사용자에게 전송된 문서에 손쉽게 서명하는 방법에 대해 알아봅니다
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 문서에 전자 서명
 
-Adobe Sign으로 전송된 문서에 서명하는 것이 얼마나 쉬운지 알아봅니다.
+Adobe Sign을 사용하여 사용자에게 전송된 문서에 손쉽게 서명하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17360?hidetitle=true)

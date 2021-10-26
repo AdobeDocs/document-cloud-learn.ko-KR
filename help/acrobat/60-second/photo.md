@@ -1,6 +1,6 @@
 ---
-title: 인스턴트 사진 PDF 만들기
-description: JPG 한 묶음을 Acrobat 아이콘으로 끌어 놓아 PDF를 만드는 방법에 대해 알아봅니다.
+title: 즉시 사진 PDF 만들기
+description: 여러 JPG을 Acrobat 아이콘에 드래그하여 놓아 PDF을 만드는 방법을 살펴보세요
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 사진의 PDF 만들기
+# 한 번에 사진 PDF 만들기
 
-이 60초 분량의 비디오 자습서에서는 JPG 한 묶음을 Acrobat 아이콘으로 끌어 놓는 방법을 배웁니다. 예를 클릭하여 여러 페이지 PDF를 작성합니다. 그런 다음 [페이지] 패널로 더 많은 JPG 파일을 드래그하여 PDF에 페이지를 추가할 수 있습니다.
+60초 분량의 이 비디오 튜토리얼에서는 여러 JPG을 Acrobat 아이콘으로 드래그하여 놓는 방법을 살펴봅니다. [예]를 클릭하여 다중 페이지 PDF을 만듭니다. 그런 다음 더 많은 JPG 파일을 [PDF] 패널로 드래그하여 페이지에 더 많은 페이지를 추가할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336365?hidetitle=true)

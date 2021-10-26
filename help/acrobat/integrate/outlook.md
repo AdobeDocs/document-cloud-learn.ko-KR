@@ -1,6 +1,6 @@
 ---
-title: 전자 메일 메시지 및 첨부 파일을 [!DNL Outlook]의 PDF로 변환
-description: ' [!DNL Outlook]의 내부에서 보다 전문적이고 안전한 방식으로 정보를 전달하는 방법 알아보기'
+title: 에서 전자 메일 메시지 및 첨부 파일을 PDF으로 변환 [!DNL Outlook]
+description: 보다 전문적이고 안전한 방식으로 [!DNL Outlook]
 role: User
 product: adobe acrobat
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# 전자 메일 메시지 및 첨부 파일을 [!DNL Outlook]의 PDF로 변환
+# 에서 전자 메일 메시지 및 첨부 파일을 PDF으로 변환 [!DNL Outlook]
 
-프로젝트를 위해 [!DNL Outlook]에서 전자 메일 메시지 및 첨부 파일을 PDF에 보관하는 방법을 알아봅니다. 첨부 파일을 PDF로 자동으로 변환하여 보다 전문적이고 안전한 방식으로 정보를 전달하는 방법을 배웁니다. 이 도구는 Windows에서만 사용할 수 있습니다.
+전자 메일 메시지 및 첨부 파일을 PDF에 보관하는 방법 알아보기 [!DNL Outlook] 보관할 수 있습니다. 첨부 파일을 PDF으로 자동 변환함으로써 보다 전문적이고 안전한 방식으로 정보를 전달하는 방법에 대해 알아봅니다. 이 도구는 Windows에서만 사용할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336859?hidetitle=true)

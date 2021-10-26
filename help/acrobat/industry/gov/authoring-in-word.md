@@ -1,5 +1,5 @@
 ---
-title: PDF 액세스 가능 - Microsoft Word에서 제작
+title: PDF 액세스 가능 - Microsoft Word에서 작성
 description: Microsoft Word에서 액세스 가능한 문서 작성
 role: User
 product: adobe acrobat
@@ -14,10 +14,10 @@ ht-degree: 0%
 
 ---
 
-# PDF 액세스 가능 - Microsoft Word에서 제작
+# PDF 액세스 가능 - Microsoft Word에서 작성
 
-[PDF를 액세스 가능한 시리즈로 만들기]의 두 번째 비디오 자습서에서는 Microsoft Word에서 작성된 PDF 파일을 만드는 방법에 대한 모범 사례를 배웁니다.
+PDF 액세스 가능 만들기 시리즈의 두 번째 비디오 자습서에서는 Microsoft Word에서 작성된 PDF 파일을 만들기 위한 모범 사례를 설명합니다.
 
-## 2부 - Microsoft Word에서 제작(2:51)
+## 2부 - Microsoft Word로 작성(2:51)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34513)

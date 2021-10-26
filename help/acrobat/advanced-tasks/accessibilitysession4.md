@@ -1,6 +1,6 @@
 ---
 title: 스캔한 문서 및 복잡한 목록
-description: 이 on-demand 세션은 스캔한 문서 및 복잡한 목록 등 자주 발생하는 복잡한 문제를 해결합니다.
+description: 이 온디맨드 세션에서는 스캔한 문서 및 복잡한 목록과 같이 자주 발생하는 더욱 복잡한 문제를 해결합니다
 role: User
 product: adobe acrobat
 level: Experienced
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # 스캔한 문서 및 복잡한 목록
 
-이 on-demand 세션에서는 스캔한 문서 및 복잡한 목록 등 자주 발생하는 복잡한 문제를 해결합니다.
+이 온디맨드 세션에서는 스캔한 문서 및 복잡한 목록과 같이 사람들이 자주 접하게 되는 더욱 복잡한 문제를 해결합니다.
 
-[여기](../assets/accessibilitysession4.zip)를 클릭하여 이 세션에 대한 실습 파일의 zip 파일을 다운로드합니다.
+클릭 [여기](../assets/accessibilitysession4.zip) 이 세션에 대한 실습 파일의 zip 파일을 다운로드합니다.
 
 별도의 브라우저 탭에서 비디오를 볼 이미지를 선택합니다.
 

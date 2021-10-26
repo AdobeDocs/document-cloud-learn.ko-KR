@@ -1,6 +1,6 @@
 ---
-title: Acrobat DC를 사용하여 어디에서나 작업할 수 있는 5가지 팁
-description: Acrobat DC를 사용하여 어디에서나 근무하는 공무원에 대한 5가지 팁
+title: 어디에서나 Acrobat DC으로 작업하기 위한 5가지 팁
+description: Acrobat DC을 사용하여 어디에서나 근무하는 공공 기관 직원 팁 5개
 role: User
 product: adobe acrobat
 level: Beginner
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Acrobat DC를 사용하여 어디에서나 작업할 수 있는 5가지 팁(15:12 완료)
+# 어디에서나 Acrobat DC으로 작업하기 위한 5가지 팁(완료 15:12)
 
-이 비디오 자습서에서는 Acrobat DC의 도구와 함께 제공되는 모바일 앱을 사용하여 어디에서나 작업하는 방법을 배웁니다.
+이 비디오 튜토리얼에서는 Acrobat DC의 툴과 함께 사용 가능한 모바일 앱을 사용하여 어디에서나 작업하는 방법을 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34200?chaptermarkers=on)

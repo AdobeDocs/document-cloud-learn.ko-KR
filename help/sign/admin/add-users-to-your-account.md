@@ -1,6 +1,6 @@
 ---
 title: 사용자 추가
-description: Adobe Sign 계정에 사용자를 개별적으로 또는 대량 추가하는 방법 알아보기
+description: Adobe Sign 계정에 사용자를 개별적으로 또는 일괄적으로 추가하는 방법에 대해 알아봅니다
 role: Admin
 product: adobe sign
 solution: Document Cloud
@@ -17,6 +17,6 @@ ht-degree: 11%
 
 # 사용자 추가
 
-이 비디오 자습서에서는 사용자를 개별적으로 또는 벌크로 Adobe Sign 계정에 추가하는 방법을 배웁니다.
+이 비디오 튜토리얼에서는 Adobe Sign 계정에 사용자를 개별적으로 또는 일괄적으로 추가하는 방법을 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17356?hidetitle=true)

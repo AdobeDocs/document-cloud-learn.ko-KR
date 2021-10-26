@@ -1,6 +1,6 @@
 ---
-title: 공정순서 주문 설정
-description: 여러 서명자의 라우팅 순서를 설정하는 방법 알아보기
+title: 공정순서 순서 설정
+description: 여러 서명자에 대한 라우팅 순서를 설정하는 방법 알아보기
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 공정순서 주문 설정
+# 공정순서 순서 설정
 
-여러 서명자에 대한 라우팅 순서를 설정하는 방법을 알아봅니다. 문서를 차례대로, 병렬로 또는 두 가지의 조합으로 보냅니다.
+여러 서명자에 대한 라우팅 순서를 설정하는 방법에 대해 알아봅니다. 문서를 순서대로, 병렬로 또는 두 항목의 조합으로 보냅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17347?hidetitle=true)

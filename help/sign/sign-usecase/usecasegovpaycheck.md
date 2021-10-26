@@ -1,6 +1,6 @@
 ---
 title: 급여 보호
-description: Adobe Sign을 사용하여 결제 보호 프로그램 양식을 온라인 대화형 양식으로 변환하는 방법 보기
+description: Adobe Sign을 사용하여 결제 보호 프로그램 양식을 온라인 대화형 양식으로 변환하는 방법에 대해 살펴보십시오
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 급여 보호
 
-Adobe Sign을 사용하여 결제 보호 프로그램 양식을 온라인 대화형 양식으로 변환하는 방법을 보려면 아래 이미지를 클릭하십시오.
+아래 이미지를 클릭하여 Adobe Sign을 사용하여 결제 보호 프로그램 양식을 온라인 대화형 양식으로 변환하는 방법을 확인하십시오.
 
-[![지불 캡처 대화형 연습](../assets/Paycheck.jpg)](https://acrobatusers.com/paycheck-protection-program-resource-hub/walkthrough/)
+[![결제 캡처 대화형 둘러보기](../assets/Paycheck.jpg)](https://acrobatusers.com/paycheck-protection-program-resource-hub/walkthrough/)

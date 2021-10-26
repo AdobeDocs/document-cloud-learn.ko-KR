@@ -1,6 +1,6 @@
 ---
-title: Acrobat DC를 사용하여 어디에서나 작업할 수 있는 5가지 팁 - 도구 가져오기
-description: 어디에서나 Acrobat DC 도구와 모바일 앱을 사용할 수 있도록 하는 방법 알아보기
+title: 어디에서나 Acrobat DC으로 작업하기 위한 5가지 팁 — 툴 다운로드
+description: Acrobat DC 툴과 함께 사용 가능한 모바일 앱을 어디에서나 사용하는 방법을 살펴보세요
 role: User
 product: adobe acrobat
 level: Beginner
@@ -13,10 +13,10 @@ ht-degree: 0%
 
 ---
 
-# Acrobat DC를 사용하여 어디에서나 작업할 수 있는 5가지 팁 - 도구 가져오기
+# 어디에서나 Acrobat DC으로 작업하기 위한 5가지 팁 — 툴 다운로드
 
-어디서나 작업을 시작하는 첫 번째 단계는 Acrobat DC 도구와 함께 제공되는 모바일 앱을 가져오는 것입니다.
+어디에서나 작업을 시작하기 위한 첫 번째 단계는 Acrobat DC 툴과 함께 제공되는 모바일 앱을 이용하는 것입니다.
 
-## 팁 #1 - 도구 가져오기(2:59)
+## 팁 #1 - 도구 다운로드(2:59)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34290)

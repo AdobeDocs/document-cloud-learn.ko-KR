@@ -1,6 +1,6 @@
 ---
-title: PDF를 Microsoft Office 형식으로 내보내기
-description: PDF 파일을 Microsoft Word, Excel 또는 PowerPoint와 같은 편집 가능한 형식으로 내보내는 방법 알아보기
+title: Microsoft Office 형식으로 PDF 내보내기
+description: PDF 파일을 Microsoft Word, Excel 또는 PowerPoint와 같은 편집 가능한 형식으로 내보내는 방법에 대해 알아봅니다
 role: User
 product: adobe acrobat
 level: Beginner
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# PDF를 Microsoft Office 형식으로 내보내기
+# Microsoft Office 형식으로 PDF 내보내기
 
-PDF 파일을 Microsoft Word, PowerPoint 및 Excel과 같은 편집 가능한 형식으로 내보내는 방법을 알아봅니다. 다른 파일 형식으로 내보내면 문서를 수정하거나 업데이트할 수 있습니다.
+PDF 파일을 Microsoft Word, PowerPoint, Excel과 같은 편집 가능한 형식으로 내보내는 방법을 살펴봅니다. 다른 파일 형식으로 내보내면 문서의 중요한 수정 및 업데이트를 수행할 수 있습니다.
 
 >[!TIP]
 >
->여러 PDF 파일을 다른 형식으로 내보내려면 [작업 마법사](../advanced-tasks/action.md)를 사용해 보십시오.
+>여러 PDF 파일을 다른 형식으로 내보내려면 [Action Wizard](../advanced-tasks/action.md).
 
 <br> 
 
@@ -27,4 +27,4 @@ PDF 파일을 Microsoft Word, PowerPoint 및 Excel과 같은 편집 가능한 �
 
 >[!TIP]
 >
->[Acrobat 및 Microsoft 365](../integrate/integrate-overview.md)에서 작업하는 방법에 대해 자세히 알아봅니다.
+>사용 방법에 대한 모든 것 [Acrobat 및 Microsoft 365](../integrate/integrate-overview.md).

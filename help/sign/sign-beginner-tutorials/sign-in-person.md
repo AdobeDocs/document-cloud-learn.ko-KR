@@ -1,6 +1,6 @@
 ---
-title: 직접 서명 가져오기
-description: Adobe Sign 모바일 앱을 사용하여 다른 사람의 서명을 직접 가져오는 방법 알아보기
+title: 직접 서명 받기
+description: Adobe Sign 모바일 앱을 사용하여 다른 사람의 서명을 직접 받는 방법을 알아봅니다.
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # 직접 서명 받기
 
-Adobe Sign 모바일 앱을 사용하여 다른 사람의 서명을 직접 가져오는 방법을 알아봅니다.
+Adobe Sign 모바일 앱을 사용하여 다른 사람의 서명을 직접 받는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17362?hidetitle=true)

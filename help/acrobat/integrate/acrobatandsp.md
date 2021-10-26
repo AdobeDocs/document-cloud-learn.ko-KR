@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL SharePoint] 파일 작업'
-description: ' [!DNL SharePoint] 과(와) Adobe Acrobat for [!DNL Microsoft 365]을 사용하여 Acrobat DC를 사용하여 문서 워크플로를 간소화합니다.'
+title: 공동 작업 [!DNL SharePoint] 파일
+description: 문서 워크플로우 간소화 [!DNL SharePoint] 및 Acrobat DC 사용 Adobe Acrobat [!DNL Microsoft 365]
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# [!DNL SharePoint] 파일 작업
+# 공동 작업 [!DNL SharePoint] 파일
 
-[Adobe Acrobat for Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview)을 사용하여 [!DNL SharePoint] 및 Acrobat DC를 사용하여 문서 워크플로를 간소화합니다. [!DNL Microsoft 365] 파일을 PDF로 안전하게 변환하고, 문서를 하나의 파일로 결합하고, 주석을 작성하고, 페이지를 다시 배열합니다. — 바로 [!DNL SharePoint]에서 온라인으로
+문서 워크플로우 간소화 [!DNL SharePoint] 및 Acrobat DC 사용 [Microsoft 365용 Adobe Acrobat](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). 안전한 변환 [!DNL Microsoft 365] 파일을 PDF에 취합하고, 여러 문서를 하나의 파일로 취합하고, 주석을 추가하고, 페이지를 재정렬할 수 있으며 [!DNL SharePoint] 온라인.
 
 >[!NOTE]
 >
->[!DNL SharePoint], [!DNL OneDrive] 및 [!DNL Office 365]용 Adobe Acrobat에는 모든 사용자가 사용할 수 있는 무료 기능(예: PDF 내 보기 및 검색)이 포함되어 있습니다. PDF 작성 및 결합과 같은 일부 기능에는 팀용 유료 Acrobat DC 또는 엔터프라이즈 구독용 Acrobat DC가 필요합니다.
+>Adobe Acrobat [!DNL SharePoint], [!DNL OneDrive]및 [!DNL Office 365] 모든 사용자가 사용할 수 있는 무료 기능(예: PDF 내에서 보기 및 검색)이 포함되어 있습니다. PDF 만들기 및 결합과 같은 일부 기능을 사용하려면 유료 Acrobat DC for teams 또는 Acrobat DC for enterprise 구독이 필요합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331855?hidetitle=true)

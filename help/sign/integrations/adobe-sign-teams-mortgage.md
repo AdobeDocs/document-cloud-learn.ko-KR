@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Microsoft Teams]에서 서명을 위한 문서 보내기'
-description: Adobe Sign & [!DNL Microsoft Teams] 통합을 사용하면 서명을 위한 계약을 보내거나 기존 계약의 상태를 확인할 수 있습니다. [!DNL Microsoft Teams]
+title: 서명을 위해 문서 보내기 [!DNL Microsoft Teams]
+description: Adobe Sign 및 [!DNL Microsoft Teams] 통합을 통해 서명을 받을 계약서를 보내거나 기존 계약서의 상태를 확인할 수 있습니다. [!DNL Microsoft Teams]
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Microsoft Teams]에서 서명을 위한 문서 보내기
+# 서명을 위해 문서 보내기 [!DNL Microsoft Teams]
 
-Adobe Sign 및 [!DNL Microsoft Teams] 통합을 사용하면 서명에 대한 계약을 보내거나 [!DNL Microsoft Teams] 내에서 기존 계약의 상태를 확인할 수 있습니다. 이 예에서는 Teams 내에서 직접 대출 신청서를 보내는 모기지 브로커를 살펴봅니다. 이러한 긴밀한 통합은 원격 작업 환경에서 모기지 지원자와 함께 작업할 때에도 모기지 대출 프로세스를 가속화합니다.
+Adobe Sign 및 [!DNL Microsoft Teams] 통합을 통해 서명을 받을 계약서를 보내거나 기존 계약서의 상태를 확인할 수 있습니다. [!DNL Microsoft Teams]. 이 예에서는 담보 대출 중개인이 Teams 내에서 직접 대출 신청서를 발송하는 과정을 안내합니다. 이러한 긴밀한 통합은 원격 근무 환경에서 주택담보대출 신청자와 함께 작업하는 경우에도 주택담보대출 프로세스를 가속화합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40125?hidetitle=true)
 
 >[!TIP]
 >
->이 비디오는 Adobe Sign Inside Microsoft Apps](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) 사용 과정의 일부로, Experience League에서 무료로 사용할 수 있습니다![
+>이 비디오는 과정의 일부입니다 [Microsoft 앱 내에서 Adobe Sign 사용](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) Experience League에서 무료로 사용할 수 있습니다!

@@ -1,6 +1,6 @@
 ---
 title: 문서 관리 및 추적
-description: 서명을 위해 보낸 계약을 관리하고 추적하는 방법 알아보기
+description: 서명을 받기 위해 전송한 계약을 관리하고 추적하는 방법에 대해 알아봅니다.
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # 문서 관리 및 추적
 
-Adobe Sign에서 서명을 위해 보낸 문서를 관리하고 추적하는 방법을 알아봅니다.
+Adobe Sign에서 서명을 위해 전송한 문서를 관리하고 추적하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17341?hidetitle=true)
 
 >[!TIP]
 >
->이 비디오는 Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) 시작 과정의 일부로, Experience League에서 무료로 사용할 수 있습니다.[
+>이 비디오는 과정의 일부입니다 [Adobe Sign 시작하기](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) Experience League에서 무료로 사용할 수 있습니다!

@@ -1,6 +1,6 @@
 ---
 title: 여러 수신자에게 보내기
-description: 원하는 순서대로 두 명 이상의 사람에게 전자 서명을 위한 문서를 보내는 방법 알아보기
+description: 전자 서명을 받을 문서를 원하는 순서대로 두 명 이상의 사람에게 보내는 방법을 알아봅니다
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,12 +14,12 @@ ht-degree: 4%
 
 ---
 
-# 여러 받는 사람에게 보내기
+# 여러 수신자에게 보내기
 
-문서와 상호 작용해야 하는 사람이 두 명 이상 있습니까? 이 비디오 자습서에서는 원하는 순서대로 두 명 이상의 사람에게 전자 서명을 위한 문서를 보내는 방법을 배웁니다.
+문서와 상호 작용해야 하는 사람이 두 명 이상 있습니까? 이 비디오 튜토리얼에서는 전자 서명이 필요한 문서를 두 명 이상의 사용자에게 원하는 순서대로 전송하는 방법을 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33661?hidetitle=true)
 
 >[!TIP]
 >
->이 비디오는 Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) 시작 과정의 일부로, Experience League에서 무료로 사용할 수 있습니다.[
+>이 비디오는 과정의 일부입니다 [Adobe Sign 시작하기](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) Experience League에서 무료로 사용할 수 있습니다!

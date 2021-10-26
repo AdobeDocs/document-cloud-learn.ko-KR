@@ -1,6 +1,6 @@
 ---
 title: PDF 액세스 가능
-description: 액세스 가능한 PDF 파일을 만들기 위한 최적의 워크플로우에 대해 알아보기
+description: 액세스 가능한 PDF 파일을 만들기 위한 최적의 작업 과정에 대해 알아봅니다.
 role: User
 product: adobe acrobat
 level: Experienced
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ---
 
-# PDF 액세스 가능(14:11 완료)
+# PDF 액세스 가능(완료 14:11)
 
-액세스 가능한 PDF 파일을 만들기 위한 최적의 워크플로우에 대해 알아봅니다. 먼저 액세스 가능성이 매우 중요한 이유와 Microsoft Word에서 만든 PDF로 작업하는 방법, 그리고 Acrobat Pro DC에서 액세서빌러티 도구로 작업하는 방법을 알아봅니다.
+액세스 가능한 PDF 파일을 만들기 위한 최적의 작업 과정에 대해 알아봅니다. 먼저 액세서빌러티가 중요한 이유를 알아본 다음 Microsoft Word에서 만든 PDF으로 작업하는 방법과 Acrobat Pro DC에서 액세서빌러티 도구로 마무리하는 방법을 살펴봅니다.
 
 >[!NOTE]
 >

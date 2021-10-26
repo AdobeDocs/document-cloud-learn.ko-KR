@@ -1,6 +1,6 @@
 ---
-title: Acrobat DC를 사용하여 어디에서나 작업할 수 있는 5가지 팁—모바일에서 스캔 및 편집
-description: Adobe Scan 및 Acrobat Reader 모바일 앱을 사용하여 어디에서나 작업을 수행하는 방법 알아보기
+title: 어디에서나 Acrobat DC으로 작업하기 위한 5가지 팁 - 모바일에서 스캔 및 편집
+description: Adobe Scan 및 Acrobat Reader 모바일 앱을 사용하여 어디에서나 작업을 수행하는 방법에 대해 알아봅니다
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ---
 
-# Acrobat DC를 사용하여 어디에서나 작업할 수 있는 5가지 팁—모바일에서 스캔 및 편집
+# 어디에서나 Acrobat DC으로 작업하기 위한 5가지 팁 - 모바일에서 스캔 및 편집
 
-Adobe Scan 및 Acrobat Reader 모바일 앱을 사용하여 어디에서나 작업을 수행하는 방법을 알아봅니다.
+Adobe Scan 및 Acrobat Reader 모바일 앱을 사용하여 어디에서나 작업할 수 있는 방법을 살펴보십시오.
 
 ## 팁 #5 - 모바일에서 스캔 및 편집(1:43)
 

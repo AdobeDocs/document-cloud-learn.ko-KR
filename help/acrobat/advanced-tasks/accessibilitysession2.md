@@ -1,6 +1,6 @@
 ---
-title: 액세스할 수 없는 PDF 수정
-description: 이 on-demand 세션에서는 소개 웹 세미나에 표시된 Acrobat Pro DC 도구를 사용하여 Word 문서를 변환하고 일부 기본 태그 문제를 해결하는 워크플로를 배웁니다
+title: 액세스할 수 없는 PDF 해결
+description: 온디맨드 세션에서 소개 온라인 세미나에 표시된 Acrobat Pro DC 툴을 사용하여 Word 문서를 변환하고 몇 가지 기본적인 태그 문제를 해결하는 방법을 살펴보세요
 role: User
 product: adobe acrobat
 level: Experienced
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ---
 
-# 액세스할 수 없는 PDF 수정
+# 액세스할 수 없는 PDF 해결
 
-이 on-demand 세션에서는 소개 웹 세미나에 나와 있는 Acrobat Pro DC 도구를 사용하여 Word 문서를 변환하고 몇 가지 기본 태그 문제를 해결하는 워크플로를 배웁니다.
+온디맨드 세션에서 소개 온라인 세미나에 표시된 Acrobat Pro DC 툴을 사용하여 Word 문서를 변환하고 몇 가지 기본적인 태그 문제를 해결하는 방법을 살펴보세요.
 
-[여기](../assets/accessibilitysession2.zip)를 클릭하여 실습 세션 파일의 zip 폴더를 다운로드합니다.
+클릭 [여기](../assets/accessibilitysession2.zip) 를 클릭하여 실습 세션 파일의 zip 폴더를 다운로드합니다.
 
 별도의 브라우저 탭에서 비디오를 볼 이미지를 선택합니다.
 

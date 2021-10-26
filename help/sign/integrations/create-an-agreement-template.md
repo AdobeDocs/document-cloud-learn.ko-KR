@@ -1,6 +1,6 @@
 ---
-title: Salesforce용 Adobe 서명에서 문서 템플릿 만들기
-description: 속도와 일관성을 제공하기 위해 재사용 가능한 문서 템플릿을 만드는 방법 알아보기
+title: Salesforce용 Adobe Sign에서 문서 템플릿 만들기
+description: 재사용 가능한 문서 템플릿을 만들어 속도와 일관성을 제공하는 방법에 대해 알아봅니다.
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Salesforce용 Adobe 서명에서 문서 템플릿 만들기
+# Salesforce용 Adobe Sign에서 문서 템플릿 만들기
 
-Adobe 로그인 Salesforce용 문서 템플릿을 만드는 방법을 알아봅니다. 문서 템플릿은 서명 트랜잭션의 속도와 일관성을 제공하고 문서 수정 및 변경 사항을 관리하는 기능을 제공합니다.
+Salesforce에서 Adobe Sign용 문서 템플릿을 만드는 방법을 알아봅니다. 문서 템플릿은 서명 트랜잭션의 속도와 일관성을 제공하고 문서 수정 및 변경을 관리하는 기능을 제공합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17349?hidetitle=true)

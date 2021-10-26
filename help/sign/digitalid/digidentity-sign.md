@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Digidentity]을(를) 사용하여 서명'
-description: Adobe Sign에서  [!DNL Digidentity] 디지털 ID를 사용하는 방법 알아보기
+title: 다음을 사용하여 서명 [!DNL Digidentity]
+description: 사진 편집 [!DNL Digidentity] Adobe Sign을 사용한 디지털 ID
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Digidentity]을(를) 사용하여 서명
+# 다음을 사용하여 서명 [!DNL Digidentity]
 
-[!DNL Digidentity] 디지털 ID를 사용하여 ID를 인증하고 문서의 원격 디지털 서명(클라우드 서명)을 인증하는 방법을 알아봅니다.
+사진 편집 [!DNL Digidentity] 디지털 ID를 사용하여 ID를 인증하고 문서에 대한 원격 디지털 서명(클라우드 서명)을 승인합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336991?hidetitle=true)

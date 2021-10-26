@@ -1,6 +1,6 @@
 ---
 title: 고급 작업 개요
-description: 100명의 받는 사람에게 한 번에 서명을 위해 문서를 보내는 방법, 웹 사이트의 서명 준비 문서 설정, 서명 트랜잭션 관리, 문서 템플릿 만들기 및 관리 방법 알아보기
+description: 서명을 위해 문서를 한 번에 100명의 수신자에게 전송하고, 웹 사이트에 사용할 서명 준비 문서를 설정하고, 서명 트랜잭션을 관리하고, 문서 템플릿을 만들고 관리하는 방법을 알아봅니다
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![고급 이미지 서명](../assets/Hero-Advanced.png)
 
-100명의 받는 사람에게 한 번에 서명을 위해 문서를 보내는 방법, 웹 사이트의 서명 준비 문서 설정, 서명 트랜잭션 관리, 문서 템플릿 작성 및 관리 방법 등을 알아봅니다. 이러한 자습서는 서명을 보내고 요청하는 기본 사항에 이미 익숙한 사용자를 위한 것으로, Adobe Sign에서 사용할 수 있는 방법에 대해 더 자세히 알아보려면
+서명을 위해 문서를 한 번에 100명의 수신자에게 전송하고, 웹 사이트에 사용할 서명 준비 문서를 설정하고, 서명 트랜잭션을 관리하고, 문서 템플릿을 만들고 관리하는 방법을 알아봅니다. 이 튜토리얼은 서명 전송 및 요청의 기본 사항에 이미 익숙한 사용자를 위한 것이며, Adobe Sign이 사용자를 위해 작동하는 더 많은 방법을 알아보길 원합니다.
 
 ## 전송
 
@@ -26,10 +26,10 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="공정순서 주문 설정" src="../assets/Routing.png">
+      <img alt="공정순서 순서 설정" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>공정순서 주문 설정</strong></a>
+    <a href="setting-up-routing.md"><strong>공정순서 순서 설정</strong></a>
     </div>
     <em>여러 서명자에 대한 라우팅 순서 설정</em>
     <br>
@@ -41,7 +41,7 @@ ht-degree: 0%
     <div>
     <a href="delegate-signature.md"><strong>다른 사람에게 위임</strong></a>
     </div>
-    <em>위임 역할을 사용하여 문서를 전달한 다음 서명을 위해 문서를 라우팅할 수 있는 매개자에게 문서를 보냅니다.</em>
+    <em>위임자 역할을 사용하여 중개인에게 문서를 보내고 중개인은 서명을 받을 문서를 보낼 수 있습니다.</em>
     <br>
   </td>
   <td>
@@ -58,12 +58,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="megasign.md">
-      <img alt="대량 서명 수집" src="../assets/Megasign.png" />
+      <img alt="일괄 서명 수집" src="../assets/Megasign.png" />
     </a>
     <div>
-    <a href="megasign.md"><strong>대량 서명 수집</strong></a>
+    <a href="megasign.md"><strong>일괄 서명 수집</strong></a>
     </div>
-    <em>몇 단계만 거치면 모든 문서에 대한 수백 개의 서명을 한 번에 수집</em>
+    <em>몇 단계만으로 모든 문서에 수백 개의 서명을 한 번에 수집할 수 있습니다</em>
     <br>
   </td>
   <td>
@@ -73,17 +73,17 @@ ht-degree: 0%
     <div>
     <a href="webform.md"><strong>웹 양식 설정</strong></a>
     </div>
-    <em>웹 사이트에서 직접 전자적으로 서명할 수 있는 문서 만들기</em>
+    <em>웹 사이트에서 직접 전자 서명할 수 있는 문서 만들기</em>
     <br>
   </td> 
   <td>
     <a href="adobe-sign-text-tagging.md">
-      <img alt="Adobe 서명 텍스트 태그 지정" src="../assets/Text-Tagging.png" />
+      <img alt="Adobe Sign 텍스트 태그 지정" src="../assets/Text-Tagging.png" />
   </a>
     <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Adobe 서명 텍스트 태그 지정</strong></a>
+    <a href="adobe-sign-text-tagging.md"><strong>Adobe Sign 텍스트 태그 지정</strong></a>
     </div>
-    <em>Adobe Acrobat DC를 사용하여 텍스트 태그를 사용하여 Adobe Sign 양식 필드 작성</em>
+    <em>Adobe Acrobat DC에서 텍스트 태그를 지정하여 Adobe Sign 양식 필드 작성</em>
     <br>
   </td> 
 </table>

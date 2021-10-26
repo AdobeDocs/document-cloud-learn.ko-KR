@@ -1,6 +1,6 @@
 ---
-title: Acrobat DC를 사용하여 어디에서나 작업할 수 있는 5가지 팁 - 문서 공동 작업
-description: 문서 공동 작업을 위한 간단하고 간편한 워크플로 만들기
+title: 어디에서나 Acrobat DC을 사용하여 작업하기 위한 5가지 팁 — 문서 공동 작업
+description: 문서 공동 작업을 위한 간단하고 간편한 워크플로우 구축
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,10 +14,10 @@ ht-degree: 0%
 
 ---
 
-# Acrobat DC를 사용하여 어디에서나 작업할 수 있는 5가지 팁 - 문서 공동 작업
+# 어디에서나 Acrobat DC을 사용하여 작업하기 위한 5가지 팁 — 문서 공동 작업
 
-문서 공동 작업을 위한 간단하고 간편한 워크플로를 만듭니다.
+문서 공동 작업을 위한 간단하고 간편한 워크플로우를 구축하세요.
 
-## 팁 2 - 문서 공동 작업(2:03)
+## 팁 #2 - 문서에서 공동 작업(2:03)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34509)

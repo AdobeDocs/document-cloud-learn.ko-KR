@@ -1,21 +1,22 @@
 ---
-title: 새 보낸 사람에 대한 Adobe 서명 시작
-description: 이 종합적인 자습서는 Adobe Sign에서 새 보낸 사람을 시작하기에 매우 좋습니다
+title: 처음 보낸 사람을 위한 Adobe Sign 시작
+description: 이 종합적인 튜토리얼은 Adobe Sign에서 처음 보낸 사람을 위한 좋은 출발점입니다
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Beginner
 thumbnail: KT-8989.jpg
 kt: 8989
-source-git-commit: 626ef6a53b548c77134f9f551d9f8b05581c46db
+exl-id: d4309ad3-003a-4415-9845-8919006c7567
+source-git-commit: 3b2573a49d04ea0b2f4055bdf883fd9a684ef2a3
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# 새 보낸 사람에 대한 Adobe 서명 시작
+# 처음 보낸 사람을 위한 Adobe Sign 시작하기
 
-Adobe Sign을 처음 사용하는 경우 이 자습서를 시작하기에 좋습니다. 이 종합적인 자습서에서는 Adobe Sign을 사용하여 신속하게 설치하고 실행하는 데 필요한 모든 기본 사항에 초점을 맞춥니다.
+Adobe Sign을 처음 사용하는 경우 이 튜토리얼을 시작하기에 좋습니다. 이 종합적인 튜토리얼에서는 Adobe Sign을 사용하여 빠르게 시작하고 실행할 수 있는 모든 기본 사항을 중점적으로 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337151?hidetitle=true)

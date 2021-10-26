@@ -1,6 +1,6 @@
 ---
 title: 태그 있는 PDF에 양식 필드 추가
-description: 이 주문형 세션은 이전에 태그가 지정된 PDF에 양식 필드를 추가하는 데 중점을 둡니다.
+description: 이 온디맨드 세션에서는 이전에 태그가 지정된 PDF에 양식 필드를 추가하는 데 중점을 둡니다
 role: User
 product: adobe acrobat
 level: Experienced
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ---
 
-# 태그 있는 PDF에 양식 필드 추가
+# 태그가 지정된 PDF에 양식 필드 추가
 
-이 주문형 세션은 이전에 태그가 지정된 PDF에 양식 필드를 추가하는 데 중점을 둡니다.
+이 온디맨드 세션에서는 이전에 태그가 지정된 PDF에 양식 필드를 추가하는 데 중점을 둡니다.
 
-[여기](../assets/accessibilitysession5.zip)를 클릭하여 이 세션에 대한 실습 파일의 zip 파일을 다운로드합니다.
+클릭 [여기](../assets/accessibilitysession5.zip) 이 세션에 대한 실습 파일의 zip 파일을 다운로드합니다.
 
 별도의 브라우저 탭에서 비디오를 볼 이미지를 선택합니다.
 

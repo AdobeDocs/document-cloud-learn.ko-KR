@@ -1,6 +1,6 @@
 ---
-title: 서명을 위해 이미 보낸 문서 수정
-description: 이미 진행 중인 문서의 워크플로를 수정하는 방법 알아보기
+title: 서명을 위해 이미 전송된 문서 수정
+description: 이미 진행 중인 문서의 작업 과정을 수정하는 방법에 대해 알아봅니다.
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# 서명을 위해 이미 보낸 문서 수정
+# 서명을 위해 이미 전송된 문서 수정
 
-서명을 위해 이미 보낸 문서를 수정하는 방법에 대해 알아봅니다(실수로 문서를 보낸 경우와 같이).
+실수로 문서를 보내는 경우처럼 서명을 받기 위해 이미 전송된 문서를 수정하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17343?hidetitle=true)
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 제공되는 [Advanced Tasks for Users](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 과정의 일부입니다.
+>이 비디오는 과정의 일부입니다 [사용자를 위한 고급 작업](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) Experience League에서 무료로 사용할 수 있습니다!

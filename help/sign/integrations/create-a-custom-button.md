@@ -1,6 +1,6 @@
 ---
-title: Salesforce용 Adobe 서명에서 사용자 지정 단추 만들기
-description: 보내기 프로세스를 시작하고 계약을 자동으로 채우는 사용자 지정 단추를 만드는 방법 알아보기
+title: Salesforce용 Adobe Sign에서 사용자 정의 단추 만들기
+description: 전송 프로세스를 시작하고 계약을 자동으로 채우는 사용자 정의 단추를 만드는 방법을 알아봅니다.
 role: Admin
 product: adobe sign
 solution: Document Cloud
@@ -15,8 +15,8 @@ ht-degree: 16%
 
 ---
 
-# Salesforce용 Adobe 서명에서 사용자 지정 단추 만들기
+# Salesforce용 Adobe Sign에서 사용자 정의 단추 만들기
 
-Salesforce.com에서 표준 개체에 사용자 정의 단추를 만드는 방법을 알아봅니다. 이 예제에서는 Salesforce의 **Contact**&#x200B;에 사용자 지정 단추가 추가됩니다. 단추를 클릭하면 보내는 프로세스가 시작되고 **연락처**&#x200B;의 정보가 계약에 직접 입력됩니다.
+Salesforce.com에서 표준 개체에 사용자 정의 단추를 만드는 방법을 알아봅니다. 이 예제에서는 사용자 정의 버튼이 **연락처** Salesforce에 로그인합니다. 단추를 클릭하면 전송 프로세스가 시작되고 **연락처** 계약서에 직접 서명
 
 >[!VIDEO](https://video.tv.adobe.com/v/17352?hidetitle=true)

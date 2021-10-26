@@ -1,6 +1,6 @@
 ---
-title: PDF에 주석
-description: 주석을 추가한 다음 검토용으로 PDF를 공유하는 방법을 알아봅니다.
+title: PDF에 댓글 달기
+description: 주석을 추가한 다음 다른 사람과 검토를 위해 PDF을 공유하는 방법을 알아봅니다
 role: User
 product: adobe acrobat
 level: Beginner
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# PDF에 주석
+# PDF에 댓글 달기
 
-PDF 파일에 주석을 추가하는 방법에 대해 알아보고 파일을 다른 사람과 공유하여 실시간으로 추가 주석을 수집합니다.
+PDF 파일에 주석을 추가한 다음 다른 사람과 파일을 공유하여 실시간으로 추가 주석을 수집하는 방법을 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35492?hidetitle=true)
