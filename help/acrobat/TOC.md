@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
+source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 9%
+source-wordcount: '312'
+ht-degree: 8%
 
 ---
 
@@ -61,6 +61,9 @@ ht-degree: 9%
    + [한 번에 사진 PDF 만들기](60-second/photo.md)
    + [스마트폰에서 PPT 파일을 PDF으로 변환](60-second/phone.md)
    + [PDF 주석을 InDesign에 로드](60-second/indesign.md)
+   + [PDF에서 사진 편집](60-second/editphoto.md)
+   + [PDF에서 그래픽 편집](60-second/editgraphic.md)
+   + [신속한 페이지 구성](60-second/organize.md)
 + 스킬 빌더 {#skill-builders}
    + [개요](skill-builder/skill-builder-overview.md)
    + [온라인 세미나](skill-builder/skill-builder-webinars.md)

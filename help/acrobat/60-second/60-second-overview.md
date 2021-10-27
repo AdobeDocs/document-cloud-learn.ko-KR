@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: a81b5f4f9c60ecdcf95e4d5555c32e98b031a6ed
+source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -84,6 +84,38 @@ ht-degree: 0%
     <a href="indesign.md"><strong>PDF 주석을 InDesign에 로드</strong></a>
     </div>
     <em>Acrobat 공유 검토 후 PDF 주석을 다시 InDesign으로 로드하는 방법에 대해 알아봅니다</em>
+    <br>
+  </td>  
+</tr>
+<tr>
+  <td>
+    <a href="editphoto.md">
+      <img alt="PDF에서 사진 편집" src="../assets/60sec_Editphoto_1280.jpg" />
+    </a>
+    <div>
+    <a href="editphoto.md"><strong>PDF에서 사진 편집</strong></a>
+    </div>
+    <em>Photoshop을 사용하여 PDF에서 사진을 고급 편집하는 방법 알아보기</em>
+    <br>
+  </td>
+  <td>
+    <a href="editgraphic.md">
+      <img alt="PDF에서 그래픽 편집" src="../assets/60sec_Editgraphic_1280.jpg" />
+    </a>
+    <div>
+    <a href="editgraphic.md"><strong>PDF에서 그래픽 편집</strong></a>
+    </div>
+    <em>Illustrator을 사용하여 PDF에서 그래픽의 고급 편집을 수행하는 방법을 살펴봅니다</em>
+    <br>
+  </td>  
+ <td>
+    <a href="organize.md">
+      <img alt="신속한 페이지 구성" src="../assets/60sec_Organize_1280.jpg" />
+    </a>
+    <div>
+    <a href="organize.md"><strong>신속한 페이지 구성</strong></a>
+    </div>
+    <em>PDF 구성 툴을 사용하여 페이지를 한눈에 보는 방법을 살펴봅니다</em>
     <br>
   </td>  
 </tr>
