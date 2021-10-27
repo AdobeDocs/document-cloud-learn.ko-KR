@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '317'
 ht-degree: 8%
 
 ---
@@ -60,6 +60,7 @@ ht-degree: 8%
    + [한 번에 여러 PDF 파일 검색](60-second/search.md)
    + [한 번에 사진 PDF 만들기](60-second/photo.md)
    + [스마트폰에서 PPT 파일을 PDF으로 변환](60-second/phone.md)
+   + [종이 문서에 전자 서명](60-second/sign.md)
    + [PDF 주석을 InDesign에 로드](60-second/indesign.md)
    + [PDF에서 사진 편집](60-second/editphoto.md)
    + [PDF에서 그래픽 편집](60-second/editgraphic.md)
