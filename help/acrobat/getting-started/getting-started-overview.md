@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: dc80361b5910f8d6b41ca1e9b6b982e774687bc5
+source-git-commit: 068232d665c4ea7ba706d3e18feaaf17240310bb
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '400'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 ![Acrobat 시작 이미지](../assets/Hero-GettingStarted.png)
 
-이 간단한 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아봅니다. 문서 작성에서 PDF 파일 보호에 이르기까지 이 콘텐츠는 PDF 워크플로우를 간소화하도록 설계되었습니다.
+이 간단한 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아봅니다. From creating a document to protecting your PDF files, this content is designed to ease you into PDF workflows.
 
 ## Acrobat 튜토리얼
 
@@ -50,7 +50,7 @@ ht-degree: 3%
     <div>
      <a href="productivity.md"><strong>어디에서나 업무 생산성 향상</strong></a>
     </div>
-    <em>Acrobat Reader 모바일 앱을 사용하면 태블릿이나 스마트폰에서 업무 효율성을 높일 수 있습니다</em>
+    <em>Do more right from your tablet or mobile phone with the Acrobat Reader mobile app</em>
     <br>
   </td>
 </tr>
@@ -184,6 +184,16 @@ ht-degree: 3%
 </tr>
 <tr>
   <td>
+    <a href="signatures.md">
+      <img alt="서명 받기" src="../assets/Signatures_1280.png" />
+    </a>
+    <div>
+    <a href="signatures.md"><strong>서명 받기</strong></a>
+    </div>
+    <em>어디에서나 다른 사람으로부터 법적으로 유효한 전자 서명을 수집하여 차질 없는 비즈니스 전개</em>
+    <br>
+  </td>
+  <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="PDF은 어디에서 제공됩니까?" src="../assets/WherePDFs.jpg" />
     </a>
@@ -191,11 +201,6 @@ ht-degree: 3%
     <a href="where-do-pdfs-come-from.md"><strong>PDF은 어디에서 제공됩니까?</strong></a>
     </div>
     <em>PDF의 출처와 용도 이해</em>
-    <br>
-  </td>
-  <td>
-   <img alt="스페이서" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
