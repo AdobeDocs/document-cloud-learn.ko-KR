@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: bfdfb6c9b4d3bb76d8526b0c0f8707c20cf26b5a
+source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 3%
+source-wordcount: '201'
+ht-degree: 2%
 
 ---
 
@@ -40,7 +40,7 @@ Acrobat DC의 고급 툴로 기본 기능 강화 동작을 만들어 일상적�
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>액션을 만들어 한 개 또는 여러 파일에 일련의 명령을 자동으로 적용</em>
+    <em>액션을 사용하여 명령 세트를 하나 또는 여러 명령에 자동으로 적용하여 시간을 절약하고 키 입력</em>
     <br>
   </td>
   <td>
