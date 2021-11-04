@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
+source-git-commit: 19eaddb4279de3cb41675714575ee451089c947c
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '209'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,7 @@ Acrobat DC의 고급 툴로 기본 기능 강화 동작을 만들어 일상적�
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>액션을 사용하여 명령 세트를 하나 또는 여러 명령에 자동으로 적용하여 시간을 절약하고 키 입력</em>
+    <em>액션을 사용하여 한 개 또는 여러 개의 파일에 일련의 명령을 자동으로 적용하여 키 입력과 시간 절약</em>
     <br>
   </td>
   <td>
@@ -77,12 +77,12 @@ Acrobat DC의 고급 툴로 기본 기능 강화 동작을 만들어 일상적�
   </td>
   <td>
     <a href="accessibility.md">
-      <img alt="액세스 가능한 PDF 파일 준비" src="../assets/PreparingAccessible.jpg" />
+      <img alt="PDF 액세서빌러티 확인" src="../assets/PreparingAccessible.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>액세스 가능한 PDF 파일 준비</strong></a>
+    <a href="accessibility.md"><strong>PDF 액세서빌러티 확인</strong></a>
     </div>
-    <em>일반적으로 액세스할 수 있는 PDF 파일 만들기</em>
+    <em>장애가 있는 사용자가 PDF에 일반적으로 액세스할 수 있는지 확인하는 방법을 알아봅니다.</em>
     <br>
   </td>
 </tr>
@@ -94,7 +94,7 @@ Acrobat DC의 고급 툴로 기본 기능 강화 동작을 만들어 일상적�
     <div>
     <a href="accessibility-series.md"><strong>Acrobat 액세서빌러티 시리즈</strong></a>
     </div>
-    <em>6부로 구성된 온디맨드 온라인 세미나 시리즈에서 접근성의 기본에서 PDF 파일에 태그를 지정하는 방법에 대해 자세히 알아보세요</em>
+    <em>6개의 부분으로 구성된 온디맨드 온라인 세미나 시리즈에서 접근성의 기본부터 PDF 파일에 태그를 지정하는 심층까지 살펴봅니다</em>
     <br>
   </td>
   <td>
