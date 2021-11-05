@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 38120816e9a49575ef0d14a230525ce7b7b9fd4f
+source-git-commit: 1e8dc23acc3d461b5623855b348329479958baf5
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '321'
 ht-degree: 8%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 8%
    + [암호로 PDF 파일 Protect](getting-started/password-protect.md)
    + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
    + [서명 받기](getting-started/signatures.md)
+   + [문서 추적](getting-started/track.md)
    + [PDF은 어디에서 제공됩니까?](getting-started/where-do-pdfs-come-from.md)
 + 고급 작업 {#advanced-tasks}
    + [개요](advanced-tasks/advanced-tasks-overview.md)
