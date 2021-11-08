@@ -7,16 +7,16 @@ level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 38120816e9a49575ef0d14a230525ce7b7b9fd4f
+source-git-commit: 511ca8853dd7072b50b3a73d9bc09a45b232e1c3
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
 # PDF 액세서빌러티 확인
 
-장애가 있는 사용자가 PDF에 일반적으로 액세스할 수 있는지 확인하는 방법을 알아봅니다. 여기에는 거동 장애, 시각 장애, 시력 저하, 청각 장애, 청각 장애 또는 인지 장애가 있는 사람들의 접근이 포함됩니다.
+거동 장애, 시각 장애, 시력 저하, 청각 장애 또는 인지 장애가 있는 장애인이 PDF에 일반적으로 액세스할 수 있는지 확인하는 방법을 살펴봅니다.
 
 >[!NOTE]
 >
