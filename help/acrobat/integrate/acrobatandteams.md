@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331277.jpg
 exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
-source-git-commit: 490175fbcac50fe1bd7abf8bbffad6fd97061660
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -25,3 +25,7 @@ Adobe Acrobat for Teams를 사용하면 PDF을 보거나 주석을 추가하고 
 * 안전한 공동 작업 - 신뢰할 수 있는 구성원과 안전하게 공동 작업하고 [!DNL Microsoft SharePoint] 또는 [!DNL OneDrive]
 
 >[!VIDEO](https://video.tv.adobe.com/v/331277?hidetitle=true)
+
+>[!TIP]
+>
+>이 비디오는 과정의 일부입니다 [Acrobat DC 및 Microsoft 365로 스마트하게 작업](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) Experience League에서 무료로 사용할 수 있습니다!

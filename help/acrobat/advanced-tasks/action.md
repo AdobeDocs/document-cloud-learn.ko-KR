@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 5d32ecf3a2a4a71eb82a0532c1d251495e99eda9
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 2%
+source-wordcount: '219'
+ht-degree: 1%
 
 ---
 
@@ -44,3 +44,7 @@ ht-degree: 2%
 PDF 아이콘을 선택하여 *Action Wizard* 튜토리얼.
 
 [![Action Wizard 자습서 다운로드](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCActionWizard.pdf).
+
+>[!TIP]
+>
+>이 비디오는 과정의 일부입니다 [Acrobat DC 및 Microsoft 365로 스마트하게 작업](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) Experience League에서 무료로 사용할 수 있습니다!

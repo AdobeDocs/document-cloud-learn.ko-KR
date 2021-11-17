@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: ed5786b2b3c440033f1cbd92bfa9729cbb027cdb
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -23,3 +23,7 @@ ht-degree: 0%
 >Adobe Acrobat [!DNL SharePoint], [!DNL OneDrive]및 [!DNL Office 365] 모든 사용자가 사용할 수 있는 무료 기능(예: PDF 내에서 보기 및 검색)이 포함되어 있습니다. PDF 만들기 및 결합과 같은 일부 기능을 사용하려면 유료 Acrobat DC for teams 또는 Acrobat DC for enterprise 구독이 필요합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331855?hidetitle=true)
+
+>[!TIP]
+>
+>이 비디오는 과정의 일부입니다 [Acrobat DC 및 Microsoft 365로 스마트하게 작업](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) Experience League에서 무료로 사용할 수 있습니다!

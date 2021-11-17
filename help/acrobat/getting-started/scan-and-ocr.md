@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 95f9464fa0c37f53eeaaec5cccaf7124c108b500
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '200'
 ht-degree: 1%
 
 ---
@@ -48,3 +48,7 @@ ht-degree: 1%
 PDF을 다운로드하려면 클릭 *스캔 및 OCR* 튜토리얼.
 
 [![스캔 및 OCR 자습서 다운로드](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCScan.pdf)
+
+>[!TIP]
+>
+>이 비디오는 과정의 일부입니다 [Acrobat DC 및 Microsoft 365로 스마트하게 작업](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) Experience League에서 무료로 사용할 수 있습니다!
