@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: e1238d1dd61aea9a5b209d802d92b0b5a96d18a5
+source-git-commit: 8aef75c4b6317ce72dad3c57ca46dd1f4636ef23
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 그래픽 장식과 자동 번호 매기기를 추가하여 PDF을 변형하는 방법을 살펴보세요.
 
-&amp;nbsp
+<br> 
 
 ## 준비물
 
 [![파일 가져오기](../assets/Getfiles.png)](../assets/Enhance.zip)   실습용 샘플 파일(ZIP, 342KB)
 
-&amp;nbsp
+<br> 
 
 ## 배경 그래픽 추가 방법
 
