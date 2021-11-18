@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
+source-git-commit: c27632c8a4ed98d75120062bb0ee976a3bb9fb21
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,10 @@ ht-degree: 0%
 
 이 실습 튜토리얼에서는 그래픽 향상 기능과 자동 번호 매기기를 추가하여 PDF을 변형하는 방법을 살펴봅니다.
 
-<br> 
-
-## 준비물
-
-[![파일 가져오기](../assets/Getfiles.png)](../assets/Enhance.zip)
-실습용 샘플 파일(ZIP, 342KB)
-
-<br> 
+>[!TIP]
+>
+>[![파일 가져오기](../assets/Getfiles.png)](../assets/Enhance.zip)
+> 실습용 샘플 파일 다운로드(ZIP, 342KB)
 
 ## 배경 그래픽 추가 방법
 
@@ -39,7 +35,7 @@ ht-degree: 0%
 1. 열기 *Altura Technology Employee Handbook.pdf* 반환합니다.
 1. 선택 **PDF 편집** 를 클릭합니다.
 1. 선택 **자세히 > 배경 > 추가**.
-1. 선택 **페이지 범위 옵션...** 아래 있는 2-26을 **페이지:** 옵션을 선택한 다음 **확인**.
+1. 선택 **페이지 범위 옵션...**&#x200B;에서 2~26을 선택합니다. **페이지** 옵션을 선택한 다음 **확인**.
 1. 소스 옵션에서 **파일** 및 선택 **찾아보기** 을 *Background Graphic.pdf* 샘플 파일.
 1. 선택 **확인** 배경 그래픽을 추가합니다.
 
