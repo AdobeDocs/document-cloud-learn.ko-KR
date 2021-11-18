@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 351ae53b4a4a5d80094d76f01aa504ef775f0c21
+source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 2%
@@ -30,7 +30,7 @@ Acrobat DC의 고급 툴로 기본 기능 강화 동작을 만들어 일상적�
     <div>
     <a href="enhance.md"><strong>PDF 향상</strong></a>
     </div>
-    <em>그래픽 장식과 자동 번호 매기기를 추가하여 PDF 변형</em>
+    <em>그래픽 개선 사항과 자동 번호 매기기를 추가하여 PDF 변형</em>
     <br>
   </td>
   <td>
