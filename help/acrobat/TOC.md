@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 33e3af56d2a97c43a2f11d585c73560460f0dd62
+source-git-commit: 351ae53b4a4a5d80094d76f01aa504ef775f0c21
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '335'
 ht-degree: 8%
 
 ---
@@ -41,6 +41,7 @@ ht-degree: 8%
    + [PDF은 어디에서 제공됩니까?](getting-started/where-do-pdfs-come-from.md)
 + 고급 작업 {#advanced-tasks}
    + [개요](advanced-tasks/advanced-tasks-overview.md)
+   + [PDF 향상](advanced-tasks/enhance.md)
    + [두 PDF 간의 차이 감지](advanced-tasks/compare.md)
    + [Action Wizard](advanced-tasks/action.md)
    + [교정 및 기밀 정보 가리기](advanced-tasks/redact.md)

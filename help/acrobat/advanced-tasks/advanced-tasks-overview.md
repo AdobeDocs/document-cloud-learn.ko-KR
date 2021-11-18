@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: cf207a5bda859635de879758aae307689b708678
+source-git-commit: 351ae53b4a4a5d80094d76f01aa504ef775f0c21
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '224'
 ht-degree: 2%
 
 ---
@@ -23,6 +23,16 @@ Acrobat DC의 고급 툴로 기본 기능 강화 동작을 만들어 일상적�
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="enhance.md">
+      <img alt="PDF 향상" src="../assets/Enhance_1280.png" />
+    </a>
+    <div>
+    <a href="enhance.md"><strong>PDF 향상</strong></a>
+    </div>
+    <em>그래픽 장식과 자동 번호 매기기를 추가하여 PDF 변형</em>
+    <br>
+  </td>
   <td>
     <a href="compare.md">
       <img alt="두 PDF 간의 차이 감지" src="../assets/Compare_1280.png" />
@@ -42,7 +52,9 @@ Acrobat DC의 고급 툴로 기본 기능 강화 동작을 만들어 일상적�
     </div>
     <em>액션을 사용하여 한 개 또는 여러 개의 파일에 일련의 명령을 자동으로 적용하여 키 입력과 시간 절약</em>
     <br>
-  </td>
+  </td>  
+</tr>
+<tr>
   <td>
     <a href="redact.md">
       <img alt="교정 및 기밀 정보 가리기" src="../assets/Redact.jpg" />
@@ -52,9 +64,7 @@ Acrobat DC의 고급 툴로 기본 기능 강화 동작을 만들어 일상적�
     </div>
     <em>PDF에서 비공개 또는 민감한 정보 영구 제거</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="reduce.md">
       <img alt="파일 크기 축소 및 최적화" src="../assets/Reduce.jpg" />
@@ -75,6 +85,8 @@ Acrobat DC의 고급 툴로 기본 기능 강화 동작을 만들어 일상적�
     <em>양식 데이터를 단일 스프레드시트로 컴파일</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="accessibility.md">
       <img alt="PDF 액세서빌러티 확인" src="../assets/Checkingaccessible_1280.jpg" />
@@ -85,8 +97,6 @@ Acrobat DC의 고급 툴로 기본 기능 강화 동작을 만들어 일상적�
     <em>장애가 있는 사용자가 PDF에 일반적으로 액세스할 수 있는지 확인하는 방법을 알아봅니다.</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessibility-series.md">
       <img alt="액세스 가능한 PDF 파일 준비" src="../assets/Accessibilityseries_1280.png" />
@@ -95,11 +105,6 @@ Acrobat DC의 고급 툴로 기본 기능 강화 동작을 만들어 일상적�
     <a href="accessibility-series.md"><strong>Acrobat 액세서빌러티 시리즈</strong></a>
     </div>
     <em>6개의 부분으로 구성된 온디맨드 온라인 세미나 시리즈에서 접근성의 기본부터 PDF 파일에 태그를 지정하는 심층까지 살펴봅니다</em>
-    <br>
-  </td>
-  <td>
-   <img alt="스페이서" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
