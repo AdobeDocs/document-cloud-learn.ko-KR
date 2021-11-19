@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: e3a2ea5687ac123e88a051f320df2d4051cb63d7
+exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
+source-git-commit: b9fa2e683c88094f1fa92628c04f5d2bd4c00b94
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -19,9 +20,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->실습용 샘플 파일 다운로드(ZIP, 342KB)
+>[샘플 파일 다운로드](../assets/Enhance.zip) 실습용(ZIP, 342KB)
 
-[![파일 가져오기](../assets/Getfiles.png)](../assets/Enhance.zip)
+[![파일 가져오기](../assets/Getfiles.svg)](../assets/Enhance.zip)
 
 ## 배경 그래픽 추가 방법
 
@@ -61,5 +62,3 @@ ht-degree: 0%
 1. 0.7을 **아래쪽** 상자에 표시됩니다.
 1. 선택 **설정 저장**&#x200B;상자에 수정 버전 3.0을 입력하고 **확인**.
 1. 선택 **확인** 새 바닥글을 PDF에 적용합니다.
-
-
