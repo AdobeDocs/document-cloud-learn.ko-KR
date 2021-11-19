@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 912ddee4f8bb9a5f6854908aeb8f1aabd98db910
+source-git-commit: fbf25815db0f441874f7afaf9ffdbdcddfad70da
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -18,16 +18,9 @@ ht-degree: 0%
 
 이 실습 튜토리얼에서는 그래픽 향상 기능과 자동 번호 매기기를 추가하여 PDF을 변형하는 방법을 살펴봅니다.
 
-<table style="table-layout:auto">
-<tr>
-  <td>
-   <img alt="파일 가져오기" src="../assets/Getfiles.svg" />
-  </td>
-  <td>
-    실습용 샘플 파일 다운로드(ZIP, 342KB)
-  </td>
-</tr>
-</table>
+[![파일 가져오기](../assets/Getfiles.svg)](../assets/Enhance.zip)   실습용 샘플 파일 다운로드(ZIP, 342KB)
+
+<br> 
 
 ## 배경 그래픽 추가 방법
 
@@ -65,14 +58,14 @@ ht-degree: 0%
 1. 2 **페이지 미리 보기** 있습니다.
 1. 글꼴 섹션의 **이름** 드롭다운.
 에서 12를 선택합니다. **크기** 드롭다운에서 흰색을 선택합니다.
-1. Type Altura Technology Confidential in the **왼쪽 바닥글 텍스트** 있습니다.
+1. 유형 *Altura Technology Confidential* 에 **왼쪽 바닥글 텍스트** 있습니다.
 1. 선택 **페이지 번호 삽입** 에 **가운데 바닥글 텍스트** 있습니다.
-1. Revision 3.0을 **오른쪽 바닥글 텍스트** 있습니다.
+1. 유형 *수정 버전 3.0* 에 **오른쪽 바닥글 텍스트** 있습니다.
 1. 선택 **페이지 번호 및 날짜 형식**.
 2를 **시작 페이지 번호** 및 선택 **확인**.
 1. 선택 **페이지 범위 옵션...**.
 아래에 2 - 26을 입력합니다. **페이지:** 섹션을 선택한 다음 **확인**.
 1. 0.7을 **아래쪽** 상자에 표시됩니다.
 1. 선택 **설정 저장**.
-상자에 개정 3.0을 입력하고 **확인**.
+유형 *수정 버전 3.0* 상자에서 **확인**.
 1. 선택 **확인** 새 바닥글을 PDF에 적용합니다.
