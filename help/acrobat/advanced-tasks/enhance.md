@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 869364fb68d20c7333bee25513dbdf19632a64ed
+source-git-commit: 20fc08c045a8ade2ebd4994e9d6295a18c9f33a2
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,12 @@ ht-degree: 0%
 
 이 실습 튜토리얼에서는 그래픽 향상 기능과 자동 번호 매기기를 추가하여 PDF을 변형하는 방법을 살펴봅니다.
 
+<br> 
+
 ## 준비물
 
 [![파일 가져오기](../assets/Getfiles.svg)](../assets/Enhance.zip)
-실습용 샘플 파일 다운로드(ZIP, 342KB)
+실습용 샘플 파일(ZIP, 342KB)
 
 <br> 
 
