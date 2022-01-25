@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '223'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 ![Acrobat 시작 이미지](../assets/Hero-AdvancedTasks.png)
 
-Acrobat DC의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 작업을 반복하고, 민감한 정보를 제거하고, 대용량 파일을 축소 및 최적화하고, 양식 데이터를 빠르게 수집하고, 일반적으로 액세스할 수 있는 PDF 파일을 만드는 방법을 알아봅니다.
+Acrobat의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 작업을 반복하고, 민감한 정보를 제거하고, 대용량 파일을 축소 및 최적화하고, 양식 데이터를 빠르게 수집하고, 일반적으로 액세스할 수 있는 PDF 파일을 만드는 방법을 알아봅니다.
 
 ## Acrobat 튜토리얼
 

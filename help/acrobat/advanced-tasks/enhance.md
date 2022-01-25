@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 20fc08c045a8ade2ebd4994e9d6295a18c9f33a2
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 <br> 
 
-**학습한 내용: 편집 툴을 사용하여 PDF에 배경 그래픽을 추가할 수 있습니다.**
+## 학습한 내용: PDF에 배경 그래픽을 추가하려면
 
 배경을 추가하면 원본 소스 파일이나 응용 프로그램으로 돌아가지 않고 PDF에 시각적 요소를 추가할 수 있습니다.
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 <br> 
 
-**학습한 내용: 새 바닥글을 PDF에 추가합니다.**
+## 학습한 내용: PDF에 새 바닥글을 추가하려면
 
 새로운 머리말 또는 꼬리말을 추가하면 동일한 PDF 파일을 만들어 보기 환경을 개선할 수 있습니다.
 

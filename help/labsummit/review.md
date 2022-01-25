@@ -3,16 +3,16 @@ title: 온라인으로 PDF 파일 공유 및 검토
 description: Adobe Document Cloud 사용 요령 및 팁 살펴보기
 solution: Document Cloud
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: 790f1dd6bdf8755c2a4891be33b9c3fa0052ae9b
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '521'
 ht-degree: 26%
 
 ---
 
 # 온라인으로 PDF 파일 공유 및 검토
 
-Adobe Document Cloud 검토 서비스를 사용하여 Acrobat DC 데스크탑 응용 프로그램, Document Cloud 웹 또는 Acrobat Reader 모바일 앱에서 검토할 PDF 파일을 쉽게 공유할 수 있습니다. 검토자가 자신의 컴퓨터에서 전자 메일 초대장의 URL을 클릭하면 로그인하거나 추가 소프트웨어를 설치하지 않고도 브라우저에 피드백을 쉽게 제공할 수 있습니다.
+Adobe Document Cloud 검토 서비스를 사용하여 Acrobat 데스크탑 응용 프로그램, Document Cloud 웹 또는 Acrobat Reader 모바일 앱에서 검토할 PDF 파일을 쉽게 공유할 수 있습니다. 검토자가 자신의 컴퓨터에서 전자 메일 초대장의 URL을 클릭하면 로그인하거나 추가 소프트웨어를 설치하지 않고도 브라우저에 피드백을 쉽게 제공할 수 있습니다.
 
 이 연습에서는
 

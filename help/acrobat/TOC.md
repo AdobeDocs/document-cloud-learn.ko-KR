@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 351ae53b4a4a5d80094d76f01aa504ef775f0c21
+source-git-commit: 5dd1f4ed06940181869991a6361a365c8571c990
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '334'
 ht-degree: 8%
 
 ---
@@ -85,7 +85,7 @@ ht-degree: 8%
    + 공공 기관 {#gov}
       + [개요](industry/gov/gov-overview.md)
       + 어디에서나 Acrobat DC으로 작업하기 위한 5가지 팁 {#tips}
-         + [어디에서나 Acrobat DC으로 작업하기 위한 5가지 팁](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [어디에서나 Acrobat으로 작업하기 위한 5가지 팁](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [팁 #1 - 툴 다운로드](industry/gov/get-your-tools.md)
          + [팁 #2 - 문서에서 공동 작업](industry/gov/collaborate-on-documents.md)
          + [팁 #3 - Protect 디지털 문서](industry/gov/protect-digital-documents.md)

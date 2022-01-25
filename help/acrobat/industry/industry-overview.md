@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6860.jpg
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 ## 공공 기관
 
-연방, 주 및 지방 자치 기관을 위해 특별히 고안된 Acrobat DC 튜토리얼을 살펴보십시오.
+연방, 주 및 지방 자치 기관을 위해 특별히 고안된 Acrobat 튜토리얼을 살펴보십시오.
 
 * [공공 기관을 위한 Acrobat Tutorials 개요](gov/gov-overview.md)

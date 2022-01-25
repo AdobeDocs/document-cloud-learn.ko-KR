@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 1f085348bf86e593e54d8a6851365d1c862c6610
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 페이지 구성
 
-사용 **[!UICONTROL 페이지 구성]** Acrobat DC에서 PDF에 페이지를 추가, 교체, 추출, 회전, 삭제 및 이동할 수 있습니다.
+사용 **[!UICONTROL 페이지 구성]** Acrobat에서 PDF에 페이지를 추가, 교체, 추출, 회전, 삭제 및 이동할 수 있습니다.
 
 1. 선택 **[!UICONTROL 페이지 구성]** 에서 [!UICONTROL 도구] 중앙 또는 오른쪽 창
 

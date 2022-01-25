@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '281'
 ht-degree: 1%
 
 ---
@@ -53,7 +53,7 @@ Acrobat 통합 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]�
     <div>
     <a href="acrobatandsp.md"><strong>공동 작업 [!DNL SharePoint] 파일</strong></a>
     </div>
-    <em>문서 워크플로우 간소화 [!DNL SharePoint] 및 Acrobat DC</em>
+    <em>문서 워크플로우 간소화 [!DNL SharePoint] 및 Acrobat</em>
     <br>
   </td>  
 </tr>

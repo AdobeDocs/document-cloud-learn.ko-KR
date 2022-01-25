@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
-source-git-commit: ef4a9f39084c7803a9e277182534376298e8fc7f
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ JavaScript, 플러그인 또는 IAC를 사용하여 Acrobat 및 Adobe Reader과 
 
 ## Acrobat SDK
 
-추가 [Acrobat DC SDK](https://www.adobe.io/apis/documentcloud/acrobat.html){target=&quot;_blank&quot;}은 Acrobat 기술과 상호 작용하는 소프트웨어를 개발하는 데 도움이 되는 도구 집합입니다.
+추가 [Acrobat SDK](https://www.adobe.io/apis/documentcloud/acrobat.html){target=&quot;_blank&quot;}은 Acrobat 기술과 상호 작용하는 소프트웨어를 개발하는 데 도움이 되는 도구 집합입니다.
 
 ## Adobe 문서 서비스 API
 

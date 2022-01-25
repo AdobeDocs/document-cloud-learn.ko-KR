@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '397'
 ht-degree: 1%
 
 ---
@@ -196,7 +196,7 @@ ht-degree: 1%
     <div>
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Adobe Sign 텍스트 태그 지정</strong></a>
     <div>
-    <em>Adobe Acrobat DC에서 텍스트 태그를 지정하여 Adobe Sign 양식 필드 작성</em>
+    <em>Adobe Acrobat에서 텍스트 태그를 지정하여 Adobe Sign 양식 필드 작성</em>
     <br>
   </td>
   <td>

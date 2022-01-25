@@ -1,21 +1,21 @@
 ---
 title: Acrobat DC 스킬 빌더
-description: 인터랙티브한 스킬 빌더로 Acrobat DC을 빠르게 시작해 보세요
+description: 인터랙티브한 스킬 빌더로 Acrobat을 빠르게 시작해 보세요
 role: User
 product: adobe acrobat
 level: Beginner, Intermediate
 thumbnail: KT-6858.jpg
 exl-id: 59269c6c-f471-4bc5-9ad4-ad7b7fdcdb76
-source-git-commit: 44e5709089c40474fae3646da79577a1cf6c2761
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
 # Acrobat 스킬 빌더
 
-인터랙티브한 스킬 빌더로 Acrobat DC을 빠르게 시작해 보세요. 또는 [월간 라이브 세션](skill-builder-webinars.md).
+인터랙티브한 스킬 빌더로 Acrobat을 빠르게 시작해 보세요. 또는 [월간 라이브 세션](skill-builder-webinars.md).
 
 ![Acrobat 기능 소개 이미지](../assets/Hero-SkillBuilders.png)
 
