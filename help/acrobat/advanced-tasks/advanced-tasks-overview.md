@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 2%
@@ -24,6 +24,16 @@ Acrobat의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 �
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="workforms.md">
+      <img alt="양식 필드를 사용한 작업" src="../assets/Workform_1280.png" />
+    </a>
+    <div>
+    <a href="workforms.md"><strong>양식 필드를 사용한 작업</strong></a>
+    </div>
+    <em>다양한 유형의 양식 필드를 추가하고, 양식 필드 속성을 설정하고, 보안을 추가하여 고품질의 전문적인 양식을 만들 수 있습니다</em>
+    <br>
+  </td>
+  <td>
     <a href="enhance.md">
       <img alt="PDF 향상" src="../assets/Enhance_1280.png" />
     </a>
@@ -33,16 +43,9 @@ Acrobat의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 �
     <em>그래픽 개선 사항과 자동 번호 매기기를 추가하여 PDF 변형</em>
     <br>
   </td>
-  <td>
-    <a href="compare.md">
-      <img alt="두 PDF 간의 차이 감지" src="../assets/Compare_1280.png" />
-    </a>
-    <div>
-    <a href="compare.md"><strong>두 PDF 간의 차이 감지</strong></a>
-    </div>
-    <em>두 PDF 파일 간의 차이점을 빠르고 정확하게 감지하여 문서 검토 워크플로우를 향상시킵니다</em>
-    <br>
-  </td>
+  <td>  
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -53,8 +56,6 @@ Acrobat의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 �
     <em>액션을 사용하여 한 개 또는 여러 개의 파일에 일련의 명령을 자동으로 적용하여 키 입력과 시간 절약</em>
     <br>
   </td>  
-</tr>
-<tr>
   <td>
     <a href="redact.md">
       <img alt="교정 및 기밀 정보 가리기" src="../assets/Redact.jpg" />
@@ -75,6 +76,8 @@ Acrobat의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 �
     <em>공유, 게시 또는 아카이빙의 품질을 그대로 유지하면서 대용량 파일을 줄이고 PDF 최적화</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="formdata.md">
       <img alt="Action Wizard" src="../assets/FormData.jpg" />
@@ -85,9 +88,7 @@ Acrobat의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 �
     <em>양식 데이터를 단일 스프레드시트로 컴파일</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="accessibility.md">
       <img alt="PDF 액세서빌러티 확인" src="../assets/Checkingaccessible_1280.jpg" />
     </a>
@@ -105,11 +106,6 @@ Acrobat의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 �
     <a href="accessibility-series.md"><strong>Acrobat 액세서빌러티 시리즈</strong></a>
     </div>
     <em>6개의 부분으로 구성된 온디맨드 온라인 세미나 시리즈에서 접근성의 기본부터 PDF 파일에 태그를 지정하는 심층까지 살펴봅니다</em>
-    <br>
-  </td>
-  <td>
-   <img alt="스페이서" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
