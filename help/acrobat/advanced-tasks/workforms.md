@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9345.jpg
 kt: 9345
-source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
+source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -33,6 +33,8 @@ Prepare Form 툴을 사용하여 기존 PDF에 양식 필드를 자동으로 추
 >[!TIP]
 >
 >[환경 설정]에서 [일반] 범주 아래의 단일 키 액셀러레이터를 켜십시오.
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/340084?hidetitle=true)
 
@@ -89,6 +91,8 @@ Prepare Form 툴을 사용하여 기존 PDF에 양식 필드를 자동으로 추
 
 ## 여러 필드의 속성을 한 번에 설정하고, 탭 순서를 설정하고, 양식을 보호하는 방법을 알아봅니다.
 
+<br> 
+
 >[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
@@ -104,13 +108,13 @@ Prepare Form 툴을 사용하여 기존 PDF에 양식 필드를 자동으로 추
 
 탭 순서를 설정하면 양식을 작성하는 동안 양식 작성자가 필드에서 필드로 쉽게 이동할 수 있습니다.
 
-1. 탭 순서를 표시하려면 Shift + N을 입력합니다.
+1. 유형 *Shift + N* 탭 순서를 표시합니다.
 1. 이동 *HQ 위치* 아래 필드 *직원 수* 필드에 표시됩니다.
 1. 이동 *프로젝트 시작* 및 *프로젝트 종료* 아래 필드 *이메일 주소* 필드에 표시됩니다.
 
 양식을 보호하면 문서의 필드나 내용을 수정할 수 없습니다.
 
-1. Ctrl + D(Mac의 Cmd + D)를 입력하여 **문서 속성** 대화 상자에서 설문조사를 수행하십시오.
+1. 유형 *Ctrl + D(Mac의 Cmd + D)* 더 많은 **문서 속성** 대화 상자에서 설문조사를 수행하십시오.
 1. 다음을 선택합니다. **보안** 탭합니다.
 1. 선택 **암호 보안** 아래에 **보안 방법:** 드롭다운.
 1. 확인 **문서의 편집과 인쇄를 제한합니다. 이러한 권한 설정을 변경하려면 암호가 필요합니다.**

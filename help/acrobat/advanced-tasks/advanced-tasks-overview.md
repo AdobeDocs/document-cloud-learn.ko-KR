@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
+source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---
@@ -43,7 +43,16 @@ Acrobat의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 �
     <em>그래픽 개선 사항과 자동 번호 매기기를 추가하여 PDF 변형</em>
     <br>
   </td>
-  <td>  
+   <td>
+    <a href="compare.md">
+      <img alt="두 PDF 간의 차이 감지" src="../assets/Compare_1280.png" />
+    </a>
+    <div>
+    <a href="compare.md"><strong>두 PDF 간의 차이 감지</strong></a>
+    </div>
+    <em>두 PDF 파일 간의 차이점을 빠르고 정확하게 감지</em>
+    <br>
+  </td>
 </tr>
 <tr>
   <td>
