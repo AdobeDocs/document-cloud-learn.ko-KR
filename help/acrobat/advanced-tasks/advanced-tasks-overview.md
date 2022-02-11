@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
+source-git-commit: c7c0d0d337dd385ac0e90bbfeef24d926424dce5
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '269'
 ht-degree: 2%
 
 ---
@@ -109,12 +109,12 @@ Acrobat의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 �
   </td>
    <td>
     <a href="accessibility.md">
-      <img alt="PDF 액세서빌러티 확인" src="../assets/Checkingaccessible_1280.jpg" />
+      <img alt="PDF 액세스 가능성 확인" src="../assets/Checkaccessible_1280.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>PDF 액세서빌러티 확인</strong></a>
+    <a href="accessibility.md"><strong>PDF 액세스 가능성 확인</strong></a>
     </div>
-    <em>장애가 있는 사용자가 PDF에 일반적으로 액세스할 수 있는지 확인하는 방법을 알아봅니다.</em>
+    <em>장애가 있는 사용자가 PDF에 일반적으로 액세스할 수 있는지 확인</em>
     <br>
   </td>
 </tr>
