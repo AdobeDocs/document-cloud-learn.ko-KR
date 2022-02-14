@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
+source-git-commit: 2f144b3c657e77fa043fe572f18bbbf162fbad6a
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '690'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,10 @@ PDF의 콘텐츠에 태그를 지정하면 파일이 작성될 뿐만 아니라 
 이 단계를 수행하면 파일 크기가 줄어들고 **빠른 웹 보기** 클릭하십시오. **빠른 웹 보기** 전체 파일을 스트리밍 또는 다운로드하기 전에 파일을 즉시 열어 보고 검색할 수 있으므로 최적의 최종 사용자 환경을 구축할 수 있습니다. 열기 **[!UICONTROL 문서 속성]** (*Ctrl + D* Windows 또는 *Cmd + D* Mac에서)에 대한 **빠른 웹 보기** 활성화됩니다.
 
 ![문서 속성 스크린샷](../assets/optimizeseo5.png)
+
+>[!TIP]
+>
+>Acrobat Pro이 있는 경우 Action Wizard 도구에서 웹 및 모바일에 대해 최적화 를 실행합니다. 이 작업은 색상을 sRGB로 변환하고 브라우저와 모바일 장치에서 일관된 PDF 표시를 위한 글꼴을 포함합니다.
 
 ## 키워드 파일 이름 만들기
 
