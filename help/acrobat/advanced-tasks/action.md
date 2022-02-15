@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '218'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Acrobat Pro DC에서만 사용할 수 있습니다.
+>Acrobat Pro에서만 사용할 수 있습니다.
 
 1. 선택 **[!UICONTROL Action Wizard]** 에서 [!UICONTROL 도구] 중앙 또는 오른쪽 창
 
