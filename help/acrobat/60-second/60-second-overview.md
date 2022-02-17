@@ -1,15 +1,15 @@
 ---
 title: 60초 Acrobat 개요
-description: 60초 분량의 Acrobat에서 1분 이내에 Acrobat DC의 새로운 기법을 배울 수 있는 바이트 크기의 튜토리얼을 확인할 수 있습니다
+description: 60초 분량의 Acrobat에서 1분 이내에 Acrobat의 새로운 기법을 배울 수 있는 바이트 크기의 튜토리얼을 확인할 수 있습니다
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
+source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '529'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,75 @@ ht-degree: 0%
 
 ![60초 Acrobat 이미지](../assets/Hero-60sec.png)
 
-60초 Acrobat은 1분 이내에 Acrobat DC의 새로운 기법을 배울 수 있는 바이트 크기의 튜토리얼을 제공합니다. 이러한 작업 기반의 팁을 통해 Acrobat의 숨겨진 보석 중 일부를 잠금 해제하여 PDF 파일 작업에 대한 새로운 스킬을 습득할 수 있습니다. 답변을 빠르게 얻을 수 있는 영상 1편과 문서 생산성을 높이기 위한 영상 5편을 볼 수 있으며, 휴식 시간을 가질 수 있습니다.
+60초 Acrobat은 1분 이내에 Acrobat의 새로운 기법을 배울 수 있는 바이트 크기의 튜토리얼을 제공합니다. 이러한 작업 기반의 팁을 통해 Acrobat의 숨겨진 보석 중 일부를 잠금 해제하여 PDF 파일 작업에 대한 새로운 스킬을 습득할 수 있습니다. 답변을 빠르게 얻을 수 있는 영상 1편과 문서 생산성을 높이기 위한 영상 5편을 볼 수 있으며, 휴식 시간을 가질 수 있습니다.
 
 ## 60초 Acrobat 튜토리얼
 
 <table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="optimize.md">
+      <img alt="신속한 PDF 파일 제작" src="../assets/60sec_Optimize_1280.jpg" />
+    </a>
+    <div>
+    <a href="optimize.md"><strong>신속한 PDF 파일 제작</strong></a>
+    </div>
+    <em>Optimize PDF 툴을 사용하여 PDF 파일 크기 대폭 축소</em>
+    <br>
+  </td>
+  <td>
+    <a href="protect.md">
+      <img alt="암호로 PDF 파일 Protect" src="../assets/60sec_Protect_1280.jpg" />
+    </a>
+    <div>
+    <a href="protect.md"><strong>암호로 PDF 파일 Protect</strong></a>
+    </div>
+    <em>PDF을 열거나 편집하는 데 암호가 필요하도록 PDF Protect</em>
+    <br>
+  </td>
+  <td>
+    <a href="wordform.md">
+      <img alt="양식 필드를 포함하여 Word를 PDF으로 변환" src="../assets/60sec_Wordform_1280.jpg" />
+    </a>
+    <div>
+     <a href="wordform.md"><strong>양식 필드를 포함하여 Word를 PDF으로 변환</strong></a>
+    </div>
+    <em>Word 파일과 양식을 PDF으로 변환하고 양식 필드를 자동으로 작성</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="accessible.md">
+      <img alt="Acrobat을 통해 액세스 가능한 PDF 제작" src="../assets/60sec_Accessible_1280.jpg" />
+    </a>
+    <div>
+    <a href="accessible.md"><strong>Acrobat을 통해 액세스 가능한 PDF 제작</strong></a>
+    </div>
+    <em>PDF 액세스 가능 여부 확인</em>
+    <br>
+  </td>
+  <td>
+    <a href="exportwordphone.md">
+      <img alt="휴대폰에서 Word로 Export PDF" src="../assets/60sec_Exportphone_1280.jpg" />
+    </a>
+    <div>
+    <a href="exportwordphone.md"><strong>휴대폰에서 Word로 Export PDF</strong></a>
+    </div>
+    <em>Acrobat 모바일 앱을 사용하여 PDF 파일을 편집 가능한 Microsoft Word 문서로 변환</em>
+    <br>
+  </td>
+  <td>
+    <a href="textrecognition.md">
+      <img alt="스캔한 PDF 파일에서 텍스트 인식" src="../assets/60sec_Textrecognition_1280.jpg" />
+    </a>
+    <div>
+     <a href="textrecognition.md"><strong>스캔한 PDF 파일에서 텍스트 인식</strong></a>
+    </div>
+    <em>PDF에서 텍스트를 검색할 수 있도록 스캔한 PDF 변환</em>
+    <br>
+  </td>
+</tr>
 <tr>
   <td>
     <a href="combine-to-one-pdf.md">
