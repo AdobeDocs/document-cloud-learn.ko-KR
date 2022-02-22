@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: fcefe03e275c011a03542c7134188cb091b11495
+source-git-commit: d3e1c0c09fd9a65acb2d9a437c0ba1667c882937
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 4%
@@ -30,7 +30,7 @@ Acrobat의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 �
     <div>
     <a href="custom.md"><strong>사용자 정의 명령 및 도구</strong></a>
     </div>
-    <em>사용자 정의 명령 및 도구 세트를 사용하여 문서 작업 과정의 생산성 향상</em>
+    <em>사용자 정의 명령 및 도구를 사용하여 문서 작업 과정의 생산성 향상</em>
     <br>
   </td>
   <td>

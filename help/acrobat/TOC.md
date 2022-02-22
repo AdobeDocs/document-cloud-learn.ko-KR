@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: fcefe03e275c011a03542c7134188cb091b11495
+source-git-commit: d3e1c0c09fd9a65acb2d9a437c0ba1667c882937
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 8%
@@ -51,7 +51,7 @@ ht-degree: 8%
    + [교정 및 기밀 정보 가리기](advanced-tasks/redact.md)
    + [파일 크기 축소 및 최적화](advanced-tasks/reduce.md)
    + [양식 데이터를 사용한 작업](advanced-tasks/formdata.md)
-   + [PDF 액세서빌러티 확인](advanced-tasks/accessibility.md)
+   + [PDF 액세스 가능성 확인](advanced-tasks/accessibility.md)
    + Acrobat 액세서빌러티 시리즈 {#accessibility-series}
       + [개요](advanced-tasks/accessibility-series.md)
       + [PDF 접근성 소개](advanced-tasks/accessibilitysession1.md)
