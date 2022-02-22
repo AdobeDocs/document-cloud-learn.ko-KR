@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
+source-git-commit: fcefe03e275c011a03542c7134188cb091b11495
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '391'
 ht-degree: 8%
 
 ---
@@ -41,6 +41,7 @@ ht-degree: 8%
    + [PDF은 어디에서 제공됩니까?](getting-started/where-do-pdfs-come-from.md)
 + 고급 작업 {#advanced-tasks}
    + [개요](advanced-tasks/advanced-tasks-overview.md)
+   + [사용자 정의 명령 및 도구](advanced-tasks/custom.md)
    + [고급 양식 필드](advanced-tasks/advancedforms.md)
    + [SEO용 Optimize PDF](advanced-tasks/optimizeseo.md)
    + [양식 필드를 사용한 작업](advanced-tasks/workforms.md)
