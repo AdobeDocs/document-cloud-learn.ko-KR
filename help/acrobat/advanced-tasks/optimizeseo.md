@@ -1,6 +1,6 @@
 ---
 title: SEO(검색 엔진 최적화) Optimize PDF
-description: 웹에서 검색 가능성 및 검색 엔진 순위를 높이기 위해 PDF을 최적화하는 방법에 대해 알아봅니다.
+description: Learn how to optimize a PDF for improved discoverability and search engine ranking on the web
 role: User
 product: adobe acrobat
 level: Experienced
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 # SEO(검색 엔진 최적화) Optimize PDF
 
-웹에서 검색 가능성 및 검색 엔진 순위를 높이기 위해 PDF을 최적화하는 방법에 대해 알아봅니다.
+Learn how to optimize a PDF for improved discoverability and search engine ranking on the web.
 
 ## 독특한 콘텐츠 제작
 
-웹 페이지의 정보와 다른 PDF 내용을 만듭니다.
+Create PDF content that is different from the information your web pages.
 
 +++고유한 내용을 만드는 방법에 대한 세부 정보 보기
 
@@ -30,10 +30,10 @@ PDF 내용은 다음과 같이 고유하고 구조화되어야 합니다.
 * 키워드 및 목록이 포함된 짧은 단락 사용
 * 내부 및 외부(웹 사이트 또는 기타 웹 사이트의 콘텐츠) 하이퍼링크 추가
 * 25페이지보다 긴 문서의 하이퍼링크가 지정된 목차 추가
-* 실행 [텍스트 인식](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) 스캔한 모든 문서
-* 모바일 친화적인 PDF 구축 PDF의 모바일 보기 환경을 확인하려면 [Acrobat Reader 모바일 앱](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) Liquid Mode를 켭니다. 탐색 기능을 향상시키기 위해 필요한 경우 추가 소호를 포함합니다.
+* Run [text recognition](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) on all scanned documents
+* 모바일 친화적인 PDF 구축 PDF의 모바일 보기 환경을 확인하려면 [Acrobat Reader 모바일 앱](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) Liquid Mode를 켭니다. Include additional subheadings if necessary to improve navigation.
 
-   ![Acrobat Reader 모바일 앱의 Liquid Mode 스크린샷](../assets/optimizeseo1.png)
+   ![Screenshot of Liquid Mode in the Acrobat Reader mobile app](../assets/optimizeseo1.png)
 
 +++
 
@@ -43,16 +43,16 @@ PDF 내용은 다음과 같이 고유하고 구조화되어야 합니다.
 
 PDF 파일에는 웹 페이지와 마찬가지로 제목 및 메타 설명이 있습니다.
 
-+++문서 속성 추가 방법에 대한 세부 정보 보기
++++View details on how to add Document Properties
 
-키 추가 **[!UICONTROL 문서 속성]** 다음과 같습니다.
+Add key **[!UICONTROL Document Properties]** as follows:
 
 1. 선택 **[!UICONTROL 파일 > 속성]** 또는 키보드 단축키를 사용합니다 *Ctrl + D* Windows 또는 *Cmd + D* Mac에서 **[!UICONTROL 설명]** 탭합니다.
-1. 키워드 최적화 제목을 **[!UICONTROL 제목:]** 필드에 표시됩니다.
-1. 다음을 확인하십시오. **[!UICONTROL 작성자:]** 필드는 조직 내에서 특정 개인을 식별하지 않습니다.
-1. 키워드 최적화된 문서 요약을 **[!UICONTROL 제목:]** 필드에 표시됩니다.
-Learn, Discover, Explore 등과 같은 동작 동사를 사용하여 요약을 시작해 보십시오.
-1. 선택 **[!UICONTROL 추가 메타데이터]** 저작권 또는 공개 도메인 정보를 추가합니다(해당하는 경우).
+1. Enter a keyword-optimized title in the **[!UICONTROL Title:]** field.
+1. Make sure the **[!UICONTROL Author:]** field doesn’t identify a specific individual within your organization.
+1. Enter a keyword-optimized summary of your document in the **[!UICONTROL Subject:]** field.
+Try beginning the summary using an action verb like Learn, Discover, Explore, etc.
+1. Select **[!UICONTROL Additional Metadata]** to add copyright or public domain information if applicable.
 
    ![문서 속성 스크린샷](../assets/optimizeseo2.png)
 
@@ -88,7 +88,7 @@ PDF의 콘텐츠에 태그를 지정하면 파일이 작성될 뿐만 아니라 
 
 웹 보기용으로 준비하고 파일 크기를 줄여 PDF과 상호 작용하는 환경을 최적화합니다.
 
-+++웹용 PDF 준비 방법에 대한 세부 정보 보기
++++View details on how to prepare your PDF for the web
 
 다음과 같이 웹용 PDF을 준비합니다.
 
@@ -110,11 +110,11 @@ PDF의 콘텐츠에 태그를 지정하면 파일이 작성될 뿐만 아니라 
 
 ## 키워드 파일 이름 만들기
 
-+++키워드 파일 이름을 만드는 방법에 대한 세부 정보 보기
++++View details on how to create a keyword filename
 
-다음과 같이 키워드 파일 이름을 만듭니다.
+Create a keyword filename as follows:
 
-PDF이 웹에 게시되면 파일 이름이 URL의 일부가 됩니다. 유용한 방법은 키워드에 최적화된 제목을 파일 이름과 일치시키는 것입니다. 검색 용이성을 유지하려면 소문자, 구두점 또는 해시를 사용하지 않고 정지어(a, an, the, and, it, for, or, but, in, my, your, our, and their 등)를 사용하지 않습니다. 별도의 단어를 사용하는 경우 단어 사이에 하이픈이나 밑줄을 추가합니다.
+The filename becomes part of the URL when a PDF is posted on the web. 유용한 방법은 키워드에 최적화된 제목을 파일 이름과 일치시키는 것입니다. 검색 용이성을 유지하려면 소문자, 구두점 또는 해시를 사용하지 않고 정지어(a, an, the, and, it, for, or, but, in, my, your, our, and their 등)를 사용하지 않습니다. If you use separate words, add hyphens or underscores between the words.
 
 +++
 
@@ -124,13 +124,13 @@ PDF이 웹에 게시되면 파일 이름이 URL의 일부가 됩니다. 유용�
 
 마지막 단계는 PDF을 보호하여 무단 변경을 방지하는 것입니다.
 
-+++PDF 보안 방법에 대한 세부 정보 보기
++++View details on how to secure your PDF
 
-다음과 같이 PDF을 보호합니다.
+Secure a PDF as follows:
 
-1. 열기 **[!UICONTROL 문서 속성]** (*Ctrl + D* Windows 또는 *Cmd + D* Mac)에서 **[!UICONTROL 보안]** 탭합니다.
+1. Open **[!UICONTROL Document Properties]** (*Ctrl + D* on Windows or *Cmd + D* on Mac) and select the **[!UICONTROL Security]** tab.
 1. 확인 **[!UICONTROL 인쇄 문서 편집 및 인쇄 이러한 설정을 변경하려면 암호가 필요합니다.]**
-1. 아래 **[!UICONTROL 변경 허용:]** 선택 **[!UICONTROL 없음]**.
+1. Under **[!UICONTROL Changes Allowed:]** select **[!UICONTROL None]**.
 1. 확인 **[!UICONTROL 시각 장애인을 위한 화면 판독기 장치의 텍스트 액세스를 활성화합니다.]**
 1. 강력한 암호를 입력하고 확인합니다.
 1. 선택 **[!UICONTROL 확인]** 파일을 저장합니다.
