@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: d3e1c0c09fd9a65acb2d9a437c0ba1667c882937
+source-git-commit: a659861d626e5b6799959ec2b4208bbbdf574885
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 4%
+source-wordcount: '321'
+ht-degree: 3%
 
 ---
 
@@ -23,6 +23,16 @@ Acrobat의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 �
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="optimizescan.md">
+      <img alt="스캔한 문서 최적화" src="../assets/Scan_1280.png" />
+    </a>
+    <div>
+    <a href="optimizescan.md"><strong>스캔한 문서 최적화</strong></a>
+    </div>
+    <em>더 나은 PDF 보기 및 검색 환경을 위해 스캔한 문서를 개선하는 방법에 대해 알아봅니다</em>
+    <br>
+  </td>
   <td>
     <a href="custom.md">
       <img alt="사용자 정의 명령 및 도구" src="../assets/Createcustom_1280.png" />
@@ -43,6 +53,8 @@ Acrobat의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 �
     <em>전문적인 PDF forms 구축을 위한 고급 기법 학습</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="optimizeseo.md">
       <img alt="SEO(검색 엔진 최적화) Optimize PDF" src="../assets/seo_1280.png" />
@@ -53,8 +65,6 @@ Acrobat의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 �
     <em>검색 가능성 및 웹에서의 검색 엔진 순위 향상을 위해 PDF 최적화</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="workforms.md">
       <img alt="양식 필드를 사용한 작업" src="../assets/Workform_1280.png" />
@@ -74,7 +84,9 @@ Acrobat의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 �
     </div>
     <em>그래픽 개선 사항과 자동 번호 매기기를 추가하여 PDF 변형</em>
     <br>
-  </td>
+  </td>   
+</tr>
+<tr>
   <td>
     <a href="compare.md">
       <img alt="두 PDF 간의 차이 감지" src="../assets/Compare_1280.png" />
@@ -84,9 +96,7 @@ Acrobat의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 �
     </div>
     <em>두 PDF 파일 간의 차이점을 빠르고 정확하게 감지</em>
     <br>
-  </td>   
-</tr>
-<tr>
+  </td>
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -107,7 +117,9 @@ Acrobat의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 �
     <em>PDF에서 비공개 또는 민감한 정보 영구 제거</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+ <td>
     <a href="reduce.md">
       <img alt="파일 크기 축소 및 최적화" src="../assets/Reduce.jpg" />
     </a>
@@ -117,8 +129,6 @@ Acrobat의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 �
     <em>공유, 게시 또는 아카이빙의 품질을 그대로 유지하면서 대용량 파일을 줄이고 PDF 최적화</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="formdata.md">
       <img alt="Action Wizard" src="../assets/FormData.jpg" />
@@ -139,6 +149,8 @@ Acrobat의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 �
     <em>장애가 있는 사용자가 PDF에 일반적으로 액세스할 수 있는지 확인</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="accessibility-series.md">
       <img alt="액세스 가능한 PDF 파일 준비" src="../assets/Accessibilityseries_1280.png" />
@@ -149,5 +161,15 @@ Acrobat의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 �
     <em>6개의 부분으로 구성된 온디맨드 온라인 세미나 시리즈에서 접근성의 기본부터 PDF 파일에 태그를 지정하는 심층까지 살펴봅니다</em>
     <br>
   </td>
+  <td>
+   <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>  
 </tr>
 </table>
