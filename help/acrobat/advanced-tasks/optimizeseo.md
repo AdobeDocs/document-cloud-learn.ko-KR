@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: b2a6119b6c862bb77efbddaab6d61c851f15d138
+source-git-commit: eabcb0741c65c37561ffee0f5f99fa0ed3eb0682
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 웹 페이지의 정보와 다른 PDF 내용을 만듭니다.
 
-+++방법 살펴보기
++++고유한 내용을 만드는 방법에 대한 세부 정보 보기
 
 PDF 내용은 다음과 같이 고유하고 구조화되어야 합니다.
 
@@ -37,11 +37,13 @@ PDF 내용은 다음과 같이 고유하고 구조화되어야 합니다.
 
 +++
 
+<br> 
+
 ## 문서 속성 추가
 
 PDF 파일에는 웹 페이지와 마찬가지로 제목 및 메타 설명이 있습니다.
 
-+++방법 살펴보기
++++문서 속성 추가 방법에 대한 세부 정보 보기
 
 키 추가 **[!UICONTROL 문서 속성]** 다음과 같습니다.
 
@@ -56,6 +58,8 @@ Learn, Discover, Explore 등과 같은 동작 동사를 사용하여 요약을 �
 
 +++
 
+<br> 
+
 ## PDF 태그 지정
 
 >[!NOTE]
@@ -64,7 +68,7 @@ Learn, Discover, Explore 등과 같은 동작 동사를 사용하여 요약을 �
 
 PDF의 콘텐츠에 태그를 지정하면 파일이 작성될 뿐만 아니라 [액세스 가능](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) SEO도 향상됩니다.
 
-+++방법 살펴보기
++++PDF에 태그를 지정하는 방법에 대한 세부 정보 보기
 
 다음과 같이 PDF 태그를 지정합니다.
 
@@ -78,11 +82,15 @@ PDF의 콘텐츠에 태그를 지정하면 파일이 작성될 뿐만 아니라 
 
 +++
 
+<br> 
+
 ## 웹 준비
 
 웹 보기용으로 준비하고 파일 크기를 줄여 PDF과 상호 작용하는 환경을 최적화합니다.
 
-+++방법 살펴보기
++++웹용 PDF 준비 방법에 대한 세부 정보 보기
+
+다음과 같이 웹용 PDF을 준비합니다.
 
 웹용 PDF을 준비하려면 **[!UICONTROL [파일] > [다른 이름으로 저장] > [축소된 크기] PDF]**.
 
@@ -98,19 +106,25 @@ PDF의 콘텐츠에 태그를 지정하면 파일이 작성될 뿐만 아니라 
 
 +++
 
+<br> 
+
 ## 키워드 파일 이름 만들기
 
-+++방법 살펴보기
++++키워드 파일 이름을 만드는 방법에 대한 세부 정보 보기
+
+다음과 같이 키워드 파일 이름을 만듭니다.
 
 PDF이 웹에 게시되면 파일 이름이 URL의 일부가 됩니다. 유용한 방법은 키워드에 최적화된 제목을 파일 이름과 일치시키는 것입니다. 검색 용이성을 유지하려면 소문자, 구두점 또는 해시를 사용하지 않고 정지어(a, an, the, and, it, for, or, but, in, my, your, our, and their 등)를 사용하지 않습니다. 별도의 단어를 사용하는 경우 단어 사이에 하이픈이나 밑줄을 추가합니다.
 
 +++
 
+<br> 
+
 ## PDF 보호
 
 마지막 단계는 PDF을 보호하여 무단 변경을 방지하는 것입니다.
 
-+++방법 살펴보기
++++PDF 보안 방법에 대한 세부 정보 보기
 
 다음과 같이 PDF을 보호합니다.
 
