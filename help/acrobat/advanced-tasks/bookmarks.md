@@ -1,12 +1,12 @@
 ---
-title: Adding Bookmarks and Hyperlinks
-description: Learn how to add bookmarks and hyperlinks for easy navigation and interaction with your PDF files
+title: 책갈피 및 하이퍼링크 추가
+description: 책갈피와 하이퍼링크를 추가하여 PDF 파일과 손쉽게 탐색하고 상호 작용할 수 있는 방법을 살펴봅니다
 role: User
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9342.jpg
 kt: 9342
-source-git-commit: 5adbbe1b9791cc50822e49957a254f79639a30cc
+source-git-commit: 058905c4830374745bc3e42dab923b9dd57ed056
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # 책갈피 및 하이퍼링크 추가
 
-Learn how to add bookmarks and hyperlinks for easy navigation and interaction with your PDF files.
+책갈피와 하이퍼링크를 추가하여 PDF 파일과 손쉽게 탐색하고 상호 작용하는 방법을 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340837?hidetitle=true)
