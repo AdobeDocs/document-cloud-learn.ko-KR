@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '145'
+ht-degree: 2%
 
 ---
 
@@ -40,7 +40,3 @@ ht-degree: 0%
    페이지를 분할할 때는 PDF 수, 파일 크기 또는 최상위 책갈피를 기준으로 분리할 수 있습니다.
 
    ![스캔 5단계](../assets/Organize_4.png)
-
-PDF을 다운로드하려면 클릭 *페이지 구성* 튜토리얼.
-
-[![다운로드 페이지 구성 자습서](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCOrganize.pdf)

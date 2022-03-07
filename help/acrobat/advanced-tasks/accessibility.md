@@ -7,9 +7,9 @@ level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >일부 문제는 자동으로 수정할 수 없으며 문제를 해결하기 위해 수동으로 개입해야 합니다. 이러한 경우 >Acrobat에 수정 사항을 알려주는 대화 상자가 나타납니다.
-
-PDF 아이콘을 선택하여 *PDF 액세서빌러티 확인* 튜토리얼.
-
-[![액세서빌러티 자습서 다운로드](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCAccessible.pdf).

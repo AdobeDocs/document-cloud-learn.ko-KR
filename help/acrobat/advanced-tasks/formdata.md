@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6828.jpg
 exl-id: d1284027-7df6-4242-9756-e0d401156498
-source-git-commit: 38120816e9a49575ef0d14a230525ce7b7b9fd4f
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -34,8 +34,3 @@ ht-degree: 0%
    Acrobat에서는 각 양식에서 데이터를 추출하고 모든 데이터의 스프레드시트를 만듭니다.
 
    ![양식 데이터 4단계](../assets/FormData_4.png)
-
-
-PDF 아이콘을 선택하여 *양식 데이터를 사용한 작업* 튜토리얼.
-
-[![양식 데이터를 사용한 작업 자습서 다운로드](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCFormData.pdf).
