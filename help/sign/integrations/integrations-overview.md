@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 34490d609f3e19d2e0100a96e6c4858831e5c22c
+source-git-commit: 3717f0805eec8d413fe55c1f0cc2bac24199abc0
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -197,7 +197,7 @@ Microsoft, Salesforce, Workday 및 Marketo과 같이 조직이 이미 사용 중
       <img alt="Salesforce용 Adobe Sign 및 Marketo 비디오 자습서를 사용하여 미리 알림 보내기" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Salesforce용 Adobe Sign 및 Marketovideo 튜토리얼을 사용하여 알림 메시지 전송</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Salesforce용 Adobe Sign 및 Marketo 비디오 자습서를 사용하여 미리 알림 보내기</strong></a>
     </div>
     <em>일정 기간 후 계약에 서명이 없는 경우 Marketo에서 전자 메일 미리 알림을 보내는 방법을 알아봅니다.</em>
     <br>

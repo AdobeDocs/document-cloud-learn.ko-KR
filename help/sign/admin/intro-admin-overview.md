@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 3717f0805eec8d413fe55c1f0cc2bac24199abc0
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '395'
 ht-degree: 1%
 
 ---
@@ -26,10 +26,10 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="관리자용 시작 및 실행" src="../assets/Up-Running.png" />
+      <img alt="관리자용 가동 및 실행" src="../assets/Up-Running.png" />
     </a>
     <div>
-    <a href="up-and-running-admin.md"><strong>관리자용 시작 및 실행</strong></a>
+    <a href="up-and-running-admin.md"><strong>관리자용 가동 및 실행</strong></a>
     </div>
     <em>Adobe Sign에서 신속하게 작업을 시작하고 실행하기 위한 7가지 주요 영역 개요</em>
     <br>
