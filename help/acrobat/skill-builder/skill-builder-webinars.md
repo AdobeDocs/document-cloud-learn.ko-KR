@@ -4,9 +4,9 @@ description: Adobe Acrobat 스킬 빌더는 PDF 워크플로우를 한 차원 �
 product: adobe acrobat
 level: Intermediate
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 4f6de1f7ec3ccd061bcb125a2aaf18c9070f76e1
+source-git-commit: 90a87ef20bd46d3439c93a2876c6026576bb2e55
 workflow-type: tm+mt
-source-wordcount: '810'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,51 +15,30 @@ ht-degree: 0%
 
 ![Acrobat 기능 소개 이미지](../assets/sbacrobatwebinars.png)
 
-Adobe Acrobat 스킬 빌더는 PDf 워크플로우를 한 차원 발전시키기 위해 고안된 30분 세션입니다. 매월 새로운 주제가 강조 표시됩니다.
+Adobe Acrobat 스킬 빌더는 PDF 워크플로우를 향상시키기 위해 마련된 30분 분량의 세션입니다. 매월 새로운 주제가 강조 표시됩니다.
 
 ## 월별 세션
 
-* **[PDF forms 101](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
+* **[PDF 보안](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target=&quot;_blank&quot;}**
+날짜: 2022년 8월 25일 PDF 콘텐츠 보호에 필요한 모든 정보를 얻을 수 있습니다. 이 세션에서는 암호를 추가하여 PDF을 보거나, 편집하거나, 인쇄하지 못하도록 하는 기술을 공유하고, 보이지 않는 메타데이터에서 민감한 정보를 영구적으로 제거하는 방법을 보여 줍니다.
+
+* **[Action Wizard을 통한 간편한 자동화](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c){target=&quot;_blank&quot;}**
+날짜: 2022년 7월 28일 간단한 수동 작업 반복을 중단하십시오! 이 세션에서는 Acrobat DC에서 Action Wizard을 사용하여 PDF 파일을 일괄 처리하고 일련적이고 반복적인 작업을 자동으로 수행하는 방법을 설명합니다.
+
+* **[모두를 위한 가독성: 액세스 가능한 PDF 만들기](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/18c111bd-9c63-4636-a4fd-8dc045a20423/8484f6c9-e2c9-4e1c-8d03-c2ca1d4db77c){target=&quot;_blank&quot;}**
+날짜: 2022년 6월 23일 PDF에 액세스 가능성 기능을 추가하면 모든 독자가 콘텐츠에 액세스할 수 있습니다. 이 세션에서 Acrobat을 사용하여 규정을 준수하고 액세스 가능한 PDF을 만드는 방법을 살펴보십시오.
+
+* **[용지를 픽셀로 단어: 스캔 및 OCR](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/db1178ff-fd0e-4429-9a91-dae080cac9c3/611fa8dd-1b65-4135-800b-feb61541615f){target=&quot;_blank&quot;}**
+날짜: 2022년 5월 26일 종이 문서를 편집 및 검색 가능한 PDF 파일로 손쉽게 스캔하는 방법을 살펴보십시오.
+
+* **[PDF forms 201](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/e05d5e32-598e-49a2-b847-a06207dcbfd7/39c070e1-4ef4-4fc2-aa1e-bf89fb59215e){target=&quot;_blank&quot;}**
+날짜: 채울 수 있는 양식을 한 단계 더 진행하여 배포 옵션과 JavaScript를 사용하여 시험판 양식을 만드는 방법에 대해 알아보십시오.
+
+* **[PDF forms 101](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/c7f08842-3d62-4b98-bb2a-029feef13621/5f8f1f46-c321-4fba-8c49-4b89d3de6d36){target=&quot;_blank&quot;}**
 날짜: 2022년 3월 24일 PDF forms 작업의 기본 사항을 알아봅니다. PDF에 양식 필드를 추가하여 다른 사람의 정보를 수집하는 방법과 직접 양식을 작성하고 서명하는 방법
 
-* **[PDF에 인터랙티브한 요소 추가](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
+* **[PDF에 인터랙티브한 요소 추가](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/c3150e33-0164-4f94-ac46-aec99b843291/14ea3de0-529f-4c79-9020-cd0a4f98aab0){target=&quot;_blank&quot;}**
 날짜: 2022년 2월 24일 이 세션에 참가하여 비디오, 하이퍼링크, 단추, 책갈피 등을 사용하여 PDF을 인터랙티브하게 만드는 방법에 대해 알아보십시오.
 
-* **[어디에서나 생산성 향상](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
+* **[어디에서나 생산성 향상](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/99e0622a-adf9-4a8b-918f-fd4f4b3a3235/53620704-6da7-4b88-97da-a1f9f0fff3f4){target=&quot;_blank&quot;}**
 날짜: 2022년 1월 27일 이 세션에서는 웹 브라우저 또는 모바일 장치에서 즐겨 사용하는 Acrobat 도구에 액세스하는 방법을 설명합니다. Acrobat on the Web을 사용하면 어디에서나 작업할 수 있으며 Acrobat 모바일 앱을 사용하면 생산성이 이동 중에도 원활하게 유지됩니다.
-
-* **[Microsoft 앱에서 PDF 사용](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
-날짜: 2021년 12월 16일 Teams, Outlook, SharePoint, Word, Powerpoint, Excel 등 일상적으로 사용하는 Microsoft 앱에 PDF 워크플로우를 추가하는 방법을 살펴봅니다.
-
-* **[PDF 협업: 공유, 검토 및 공동 작업](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
-날짜: 팀과 문서를 손쉽게 검토하고 주석 툴의 사용 방법을 살펴보세요. 또한 Microsoft Teams에 있는 다른 사용자와의 PDF을 검토하고 Acrobat 모바일 앱과 Acrobat Web을 사용하여 어디에서나 피드백을 제공하는 방법에 대해서도 살펴봅니다.
-
-* **[PDF 내용 재사용: 편집 및 내보내기](https://primetime.bluejeans.com/a2m/events/playback/9eb8dbdb-c6b1-40c9-b826-70a255a59139){target=&quot;_blank&quot;}**
-날짜: 2021년 10월 28일 기존 PDF을 수정하는 방법에 대해 알아봅니다. 텍스트 및 이미지 편집, 하이퍼링크 및 책갈피 추가, Microsoft Word, PowerPoint, Excel 파일로 변환 등 다양한 작업이 가능합니다.
-
-* **[Acrobat DC 시작하기](https://primetime.bluejeans.com/a2m/events/playback/98e95413-4743-4377-8649-baf8c10628d4){target=&quot;_blank&quot;}**
-날짜: 2021년 9월 23일 Adobe Acrobat 및 PDF을 시작합니다. Adobe Document Cloud의 수석 제품 이밴절리스트인 Lori DeFurio가 Acrobat DC 인터페이스를 소개하고 다음과 같은 방법을 설명합니다.
-   * Word, Excel, PowerPoint 등 이미지 파일과 문서에서 PDF 만들기
-   * PDF, Word, 이미지 등 여러 파일을 하나의 편집 가능한 PDF으로 결합할 수 있습니다
-   * Acrobat Web 및 Mobile을 사용하여 언제 어디에서나 작업 수행
-
-* **[PDF 보안 옵션: 암호 및 교정](https://acrobat-skill-builder-pdf-security.joinus.adobeevents.com?utm_source=exl&amp;utm_campaign=exl){target=&quot;_blank&quot;}**
-날짜: 2021년 8월 26일 다른 사람이 PDF을 보거나 편집 또는 복사하지 못하도록 하는 방법과 중요한 정보를 영구적으로 제거하는 방법을 알아봅니다.
-
-* **[PDF forms 제작을 위한 고급 팁](https://acrobat-skill-builder-advanced-forms.joinus.adobeevents.com/register/registration/form){target=&quot;_blank&quot;}**
-날짜: 2021년 7월 29일 Acrobat DC을 통해 PDF forms을 간편하게 제작하고 배포하는 방법을 이미 살펴보았습니다. 이제 여러분은 더 많은 것을 할 수 있는 기회를 갖게 되었습니다. 고급 팁이 포함된 30분 분량의 세션에서는 필드 속성 대화 상자에서 숨겨진 보석을 발견하고 더 많은 인터랙티브한 요소를 확인하십시오.
-
-* **[Acrobat + Microsoft: Office 및 SharePoint 온디맨드 레코딩에서 PDF 작업](https://event.on24.com/wcc/r/3196868/BE965B6CCBF4D3F8CAA0BD9A9BE27D95){target=&quot;_blank&quot;}**
-날짜: 2021년 6월 24일 여러분은 이미 매일 종일 Microsoft 앱을 사용하고 있습니다. 이미 작업 중인 곳으로 PDF 툴을 가져와 작업에 집중할 수 있습니다.
-
-* **[Acrobat DC 온디맨드 레코딩에서 입력 가능한 PDF forms 만들기](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;referrer=&amp;eventid=3121725&amp;sessionid=1&amp;key=25B5B53B5D1C0C28817D573D38715E98&amp;regTag=&amp;V2=false&amp;sourcepage=register){target=&quot;_blank&quot;}**
-날짜: 2021년 5월 27일 귀하의 직무는 등록 및 등록, 신청, 퇴직 요청 등 귀하의 직무를 완료하고 복귀시키기 위해 필요한 양식으로 가득 차 있습니다. Adobe Acrobat 기능 소개 세션에서 Acrobat DC에서 채울 수 있는 양식을 만드는 방법을 살펴보세요.
-
-* **[종이가 필요 없는 환경: 스캔, 서명 및 온디맨드 레코딩 전송](https://event.on24.com/wcc/r/3032072/58D1594AD332B56C87C6791CACC48EEC){target=&quot;_blank&quot;}**
-날짜: 2021년 4월 22일 Adobe Acrobat 스킬 빌더에서 종이 없는 환경에서 지구의 날을 기념합니다. Adobe 이밴절리스트 Lori DeFurio가 데스크탑, 웹 브라우저, 모바일 디바이스에서 Adobe Acrobat을 사용하여 디지털화하는 방법을 살펴보세요.
-
-* **[PDF 컨텐츠 작업: 온디맨드 레코딩 편집 및 내보내기](https://event.on24.com/wcc/r/3032046/B8E6566A2137FD0647CA1ECB7F9C0C7D){target=&quot;_blank&quot;}**
-날짜: 2021년 3월 18일 PDF 파일에서 콘텐츠를 편집하고 내보내는 방법을 알아봅니다.
-
-* **[Acrobat 시작하기: 온디맨드 레코딩 생성, 결합 및 구성](https://event.on24.com/wcc/r/2989840/9372A25C3E59A72DB07F7A42161BC26B){target=&quot;_blank&quot;}**
-날짜: 2021년 2월 25일 Adobe 이밴절리스트 Lori DeFurio가 Adobe Acrobat을 통해 생산성을 향상시키고 비즈니스 성과를 달성하는 방법을 설명합니다.
