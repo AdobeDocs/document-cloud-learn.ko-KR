@@ -7,16 +7,16 @@ solution: Document Cloud
 level: Intermediate
 thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # 계약서 및 구매요청 양식
 
-종이 문서를 감사 보고서가 포함된 완벽한 디지털 워크플로우로 신속하게 교체할 수 있습니다. Adobe Sign의 작업 과정 디자이너 도구를 사용하여 전체 프로세스를 간소화하는 방법을 살펴봅니다.
+종이 문서를 감사 보고서가 포함된 완벽한 디지털 워크플로우로 신속하게 교체할 수 있습니다. 전체 프로세스를 간소화하는 Adobe Sign Workflow Designer 툴을 살펴보세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?hidetitle=true)
 

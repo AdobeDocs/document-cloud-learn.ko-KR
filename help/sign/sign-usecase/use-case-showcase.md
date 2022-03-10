@@ -8,7 +8,7 @@ level: Intermediate
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: 44e5709089c40474fae3646da79577a1cf6c2761
+source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ![사용 사례 배너](../assets/UCSC_Rebrand.png)
 
-활용 사례 쇼케이스는 라이브 스트리밍 세션에서 새로운 Adobe Sign 활용 사례, 트렌드를 소개하고 조직이 이를 구현하고 활용할 수 있는 방법을 설명합니다. 매월 새로운 주제가 강조 표시됩니다.
+활용 사례는 라이브 스트리밍 세션에서 새로운 Adobe Sign 활용 사례와 트렌드를 소개하고 조직이 이를 구현하고 활용할 수 있는 방법을 설명합니다. 매월 새로운 주제가 강조 표시됩니다.
 
 다음은 최신 세션에 대한 레코딩 또는 등록 링크입니다.
 

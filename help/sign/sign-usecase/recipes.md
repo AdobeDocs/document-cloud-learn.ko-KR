@@ -9,7 +9,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: b958523f87b657f0a9db8c1eea0de829ab32b02b
+source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -36,20 +36,20 @@ ht-degree: 0%
   </td> 
   <td>
     <a href="usecasegovtelework.md">
-      <img alt="원격 근무 계약" src="../assets/UC_MegasignR.png" />
+      <img alt="원격 근무 협정" src="../assets/UC_MegasignR.png" />
     </a>
     <div>
-    <a href="usecasegovtelework.md"><strong>원격 근무 계약</strong></a>
+    <a href="usecasegovtelework.md"><strong>원격 근무 협정</strong></a>
     </div>
     <em>원격 근무 계약, 정책 업데이트 등으로 모든 직원의 서명을 효율적으로 수집할 수 있습니다</em>
     <br>
   </td>
   <td>
     <a href="usecasegovcontracts.md">
-      <img alt="계약 및 구매요청 Forms" src="../assets/UC_WorkflowR.png" />
+      <img alt="계약서 및 구매요청 양식" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasegovcontracts.md"><strong>계약 및 구매요청 Forms</strong></a>
+    <a href="usecasegovcontracts.md"><strong>계약서 및 구매요청 양식</strong></a>
     </div>
     <em>종이 문서를 감사 보고서가 포함된 완벽한 디지털 워크플로우로 신속하게 대체</em>
     <br>
@@ -78,10 +78,10 @@ ht-degree: 0%
   </td>
   <td>
     <a href="usecasegovremote.md">
-      <img alt="원격 영장 요청" src="../assets/UC_Remote_WarrantR.png" />
+      <img alt="원격 영장 청구" src="../assets/UC_Remote_WarrantR.png" />
     </a>
     <div>
-    <a href="usecasegovremote.md"><strong>원격 영장 요청</strong></a>
+    <a href="usecasegovremote.md"><strong>원격 영장 청구</strong></a>
     </div>
     <em>전자 서명과 웹 회의를 함께 사용하여 법관의 영장을 청구하고 확보하는 데 걸리는 시간을 줄일 수 있습니다</em>
     <br>
@@ -95,10 +95,10 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="usecasecomcontracts.md">
-      <img alt="계약 및 구매요청 Forms" src="../assets/UC_WorkflowR.png" />
+      <img alt="계약서 및 구매요청 양식" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasecomcontracts.md"><strong>계약 및 구매요청 Forms</strong></a>
+    <a href="usecasecomcontracts.md"><strong>계약서 및 구매요청 양식</strong></a>
     </div>
     <em>종이 문서를 감사 보고서가 포함된 완벽한 디지털 워크플로우로 신속하게 대체</em>
     <br>
