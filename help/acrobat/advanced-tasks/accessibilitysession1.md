@@ -1,22 +1,22 @@
 ---
 title: PDF 접근성 소개
-description: 이 세션에서는 PDF을 액세스 가능하게 만드는 것이 무엇을 의미하는지, 액세스 가능성을 위한 PDF에서 작동하도록 Acrobat Pro DC을 설정하는 방법, 소스 문서에서 PDF으로 변환하는 프로세스를 알아봅니다
+description: 이 세션에서는 PDF을 액세스 가능하게 만드는 것이 무엇을 의미하는지, 액세스 가능성을 위한 PDF에서 작동하도록 Acrobat Pro을 설정하는 방법, 소스 문서에서 PDF으로 변환하는 프로세스를 알아봅니다
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-8606.jpg
 kt: 8606
 exl-id: 3765673b-15fd-4071-bb31-e589feffa471
-source-git-commit: 2de5b609b3f23bb5796786b6bc413a831c2b78c3
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
 # PDF 접근성 소개
 
-이 세션에서는 PDF을 액세스 가능하게 만드는 것이 무엇을 의미하는지, 액세스 가능성을 위한 PDF에서 작동하도록 Acrobat Pro DC을 설정하는 방법, 소스 문서에서 PDF으로 변환하는 프로세스를 알아봅니다.
+이 세션에서는 PDF을 액세스 가능하게 만드는 것이 무엇을 의미하는지, 액세스 가능성을 위한 PDF에서 작동하도록 Acrobat Pro을 설정하는 방법, 소스 문서에서 PDF으로 변환하는 프로세스를 알아봅니다.
 
 클릭 [여기](../assets/accessibilitysession1.zip) 를 클릭하여 실습 세션 파일의 zip 폴더를 다운로드합니다.
 

@@ -4,9 +4,9 @@ description: Adobe Acrobat 스킬 빌더는 PDF 워크플로우를 한 차원 �
 product: adobe acrobat
 level: Intermediate
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 90a87ef20bd46d3439c93a2876c6026576bb2e55
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '512'
 ht-degree: 0%
 
 ---
@@ -20,10 +20,10 @@ Adobe Acrobat 스킬 빌더는 PDF 워크플로우를 향상시키기 위해 마
 ## 월별 세션
 
 * **[PDF 보안](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target=&quot;_blank&quot;}**
-날짜: 2022년 8월 25일 PDF 콘텐츠 보호에 필요한 모든 정보를 얻을 수 있습니다. 이 세션에서는 암호를 추가하여 PDF을 보거나, 편집하거나, 인쇄하지 못하도록 하는 기술을 공유하고, 보이지 않는 메타데이터에서 민감한 정보를 영구적으로 제거하는 방법을 보여 줍니다.
+날짜: 2022년 8월 25일 PDF 콘텐츠 보호에 필요한 모든 정보를 얻을 수 있습니다. 이 세션에서는 암호를 추가하여 PDF을 보거나, 편집하거나, 인쇄하지 못하도록 하는 기술을 공유하고, 보이지 않는 메타데이터에서도 민감한 정보를 영구적으로 제거하는 방법을 보여줍니다!
 
 * **[Action Wizard을 통한 간편한 자동화](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c){target=&quot;_blank&quot;}**
-날짜: 2022년 7월 28일 간단한 수동 작업 반복을 중단하십시오! 이 세션에서는 Acrobat DC에서 Action Wizard을 사용하여 PDF 파일을 일괄 처리하고 일련적이고 반복적인 작업을 자동으로 수행하는 방법을 설명합니다.
+날짜: 2022년 7월 28일 간단한 수동 작업 반복을 중단하십시오! 이 세션에서는 Acrobat에서 Action Wizard을 사용하여 PDF 파일을 일괄 처리하고 일련적이고 반복적인 작업을 자동으로 수행하는 방법을 설명합니다.
 
 * **[모두를 위한 가독성: 액세스 가능한 PDF 만들기](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/18c111bd-9c63-4636-a4fd-8dc045a20423/8484f6c9-e2c9-4e1c-8d03-c2ca1d4db77c){target=&quot;_blank&quot;}**
 날짜: 2022년 6월 23일 PDF에 액세스 가능성 기능을 추가하면 모든 독자가 콘텐츠에 액세스할 수 있습니다. 이 세션에서 Acrobat을 사용하여 규정을 준수하고 액세스 가능한 PDF을 만드는 방법을 살펴보십시오.

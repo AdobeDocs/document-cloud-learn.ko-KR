@@ -3,9 +3,9 @@ title: 온라인으로 PDF 파일 공유 및 검토
 description: Adobe Document Cloud 사용 요령 및 팁 살펴보기
 solution: Document Cloud
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '519'
 ht-degree: 26%
 
 ---
@@ -39,7 +39,7 @@ Adobe Document Cloud 검토 서비스를 사용하여 Acrobat 데스크탑 응�
 
 ## 리뷰어 환경
 
-검토자는 검토 PDF에 대한 링크와 함께 전자 메일 초대장을 받게 됩니다. 초대의 링크 또는 **[!UICONTROL [검토]]** 단추를 클릭하면 PDF가 웹 브라우저에 열립니다. 주석 도구를 사용하여 주석을 PDF에 추가할 수 있습니다. Acrobat Reader DC 또는 Acrobat DC 데스크탑 응용 프로그램을 사용하여 주석을 추가할 수도 있습니다.
+검토자는 검토 PDF에 대한 링크와 함께 전자 메일 초대장을 받게 됩니다. 초대의 링크 또는 **[!UICONTROL [검토]]** 단추를 클릭하면 PDF가 웹 브라우저에 열립니다. 주석 도구를 사용하여 주석을 PDF에 추가할 수 있습니다. Acrobat Reader 또는 Acrobat 데스크탑 응용 프로그램을 사용하여 주석을 추가할 수도 있습니다.
 
 ## 전자 메일에 익명 또는 공용 링크 보내기
 

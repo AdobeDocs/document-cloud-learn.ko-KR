@@ -7,9 +7,9 @@ level: Experienced
 thumbnail: KT-8364.jpg
 kt: 8364
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
-source-git-commit: 490175fbcac50fe1bd7abf8bbffad6fd97061660
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
     <div>
     <a href="accessibilitysession1.md"><strong>PDF 접근성 소개</strong></a>
     </div>
-    <em>이 온디맨드 세션에서는 PDF을 액세스 가능하게 만드는 것이 무엇을 의미하는지, 액세스 가능성을 위한 PDF에서 작동하도록 Acrobat Pro DC을 설정하는 방법, 소스 문서에서 PDF으로 변환하는 프로세스를 알아봅니다</em>
+    <em>이 온디맨드 세션에서는 PDF을 액세스 가능하게 만드는 것이 무엇을 의미하는지, 액세스 가능성을 위한 PDF에서 작동하도록 Acrobat Pro을 설정하는 방법, 소스 문서에서 PDF으로 변환하는 프로세스를 알아봅니다</em>
     <br>
   </td>
   <td>
@@ -39,7 +39,7 @@ ht-degree: 0%
     <div>
     <a href="accessibilitysession2.md"><strong>액세스할 수 없는 PDF 해결</strong></a>
     </div>
-    <em>온디맨드 세션에서 소개 온라인 세미나에 표시된 Acrobat Pro DC 툴을 사용하여 Word 문서를 변환하고 몇 가지 기본적인 태그 문제를 해결하는 방법을 살펴보세요</em>
+    <em>온디맨드 세션에서 소개 온라인 세미나에 표시된 Acrobat Pro 툴을 사용하여 Word 문서를 변환하고 몇 가지 기본적인 태그 문제를 해결하는 방법을 살펴보세요</em>
     <br>
   </td>  
   <td>
