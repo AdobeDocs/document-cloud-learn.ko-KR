@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '410'
 ht-degree: 4%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 4%
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>작업 영역 기본 사항</strong></a>
     </div>
-    <em>Adobe Acrobat 작업 영역을 통해 데스크탑, 웹, 모바일에서 파일과 도구에 간편하게 액세스하는 방법을 살펴보세요</em>
+    <em>Acrobat 작업 영역을 통해 데스크탑, 웹, 모바일에서 파일과 도구에 간편하게 액세스하는 방법을 살펴보세요</em>
     <br>
   </td>
   <td>

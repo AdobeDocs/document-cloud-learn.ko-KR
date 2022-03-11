@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: bb9dd666e77c36a1d16ec747a1182f71e388efa3
+source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 0%
@@ -62,10 +62,6 @@ Learn, Discover, Explore 등과 같은 동작 동사를 사용하여 요약을 �
 
 ## 3. PDF 태그 지정
 
->[!NOTE]
->
->Acrobat Pro에서만 사용할 수 있습니다.
-
 PDF의 콘텐츠에 태그를 지정하면 파일이 작성될 뿐만 아니라 [액세스 가능](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) SEO도 향상됩니다.
 
 +++PDF에 태그를 지정하는 방법에 대한 세부 정보 보기
@@ -81,6 +77,10 @@ PDF의 콘텐츠에 태그를 지정하면 파일이 작성될 뿐만 아니라 
    ![PDF에서 대체 텍스트를 설정하는 스크린샷](../assets/optimizeseo3.png)
 
 +++
+
+>[!NOTE]
+>
+>Acrobat Pro에서만 사용할 수 있습니다.
 
 <br> 
 
