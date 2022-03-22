@@ -1,5 +1,5 @@
 ---
-title: 모바일 개요
+title: Acrobat Mobile 개요
 description: 모바일 장치에서 PDF 만들기, 채우기 및 서명
 role: User
 product: adobe acrobat
@@ -8,16 +8,16 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 33e3af56d2a97c43a2f11d585c73560460f0dd62
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
-# 모바일 개요
+# Mobile 개요
 
-![Acrobat 모바일 이미지](../assets/Hero-Mobile.png)
+![Acrobat Mobile 이미지](../assets/Hero-Mobile.png)
 
 모바일 디바이스에서 PDF 작성, 채우기 및 서명
 

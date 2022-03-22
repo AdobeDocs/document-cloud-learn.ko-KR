@@ -1,14 +1,14 @@
 ---
-title: 배포 개요
+title: Acrobat 배포 개요
 description: 고객과 함께 작업하여 얻은 유용한 정보와 지식을 바탕으로 배포 및 모범 사례 문서 작성
 role: Admin
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6862.jpg
 exl-id: 571db5c8-bac5-4066-af0f-f7e2d3a9105b
-source-git-commit: 7d82422e442cbbed9420050c30ca70821e9a2cdd
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
