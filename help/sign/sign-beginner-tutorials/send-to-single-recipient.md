@@ -5,9 +5,9 @@ role: User
 product: adobe sign
 solution: Document Cloud
 level: Beginner
-thumbnail: 33659.jpg
+thumbnail: 341295.jpg
 exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939
-source-git-commit: 30c606ec458931ac352cd99e7aec5b38074db262
+source-git-commit: 778f5d16056da5ef77490d8f00385bdff2ac73e7
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Adobe Sign의 가장 일반적인 작업 과정으로, 서명을 위해 문서를 보냅니다. 이 비디오 튜토리얼에서는 문서를 업로드하고, 양식 필드를 추가하고, 서명을 위해 다른 사람에게 보내는 방법을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33659?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/341295?hidetitle=true)
 
 >[!TIP]
 >

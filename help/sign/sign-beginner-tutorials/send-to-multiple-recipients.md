@@ -5,9 +5,9 @@ role: User
 product: adobe sign
 solution: Document Cloud
 level: Beginner
-thumbnail: 33661.jpg
+thumbnail: 341296.jpg
 exl-id: da64949c-b8e0-4923-b3a4-43d2d6dbd4d5
-source-git-commit: 0ed358068fefe5ce52f7afb0ecdba7d5a5b750bf
+source-git-commit: 778f5d16056da5ef77490d8f00385bdff2ac73e7
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 4%
@@ -18,7 +18,7 @@ ht-degree: 4%
 
 문서와 상호 작용해야 하는 사람이 두 명 이상 있습니까? 이 비디오 튜토리얼에서는 전자 서명이 필요한 문서를 두 명 이상의 사용자에게 원하는 순서대로 전송하는 방법을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33661?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/341296?hidetitle=true)
 
 >[!TIP]
 >
