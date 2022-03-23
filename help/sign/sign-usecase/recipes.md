@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
+source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -110,12 +110,17 @@ ht-degree: 0%
     <div>
     <a href="usecasecompolicy.md"><strong>정책 계약</strong></a>
     </div>
-    <em>원격 근무 계약, 정책 업데이트 등으로 모든 직원의 서명을 효율적으로 수집할 수 있습니다</em>
+    <em>정책 계약 및 업데이트로 모든 직원의 서명을 효율적으로 수집</em>
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <a href="usecasecomtelework.md">
+      <img alt="원격 근무 협정" src="../assets/UC_MegasignR.png" />
+    </a>
     <div>
+    <a href="usecasecomtelework.md"><strong>원격 근무 협정</strong></a>
+    </div>
+    <em>원격 근무 계약을 통해 모든 직원의 서명을 효율적으로 수집할 수 있습니다</em>
     <br>
   </td>
 </tr>

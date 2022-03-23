@@ -1,20 +1,20 @@
 ---
-title: 정책 계약
-description: 정책 계약, 업데이트 등에 대한 모든 직원의 서명을 효율적으로 수집
+title: 기업 정책 계약
+description: 정책 계약, 업데이트 등에서 모든 직원의 서명을 효율적으로 수집할 수 있습니다
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Intermediate
 thumbnail: 33979.jpg
 exl-id: caba5740-6111-4cc4-a63f-5eec2d742578
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# 정책 계약
+# 기업 정책 협약
 
 정책 계약, 정책 업데이트 등에서 모든 직원의 서명을 효율적으로 수집할 수 있습니다. 완료할 수 있는 온라인 웹 양식을 만드는 방법 알아보기 **및** 인쇄하거나 우편으로 전송하지 않고 서명했습니다.
 
