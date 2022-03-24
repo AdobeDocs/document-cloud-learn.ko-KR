@@ -3,12 +3,12 @@ title: 다음에서 디지털 ID 가져오기 [!DNL Intesi Group] (고급)
 description: 다음에서 고급 디지털 서명 인증서를 얻는 방법 알아보기 [!DNL Intesi Group]
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-8702.jpg
 kt: 8702
 exl-id: d16736cf-2cd5-4ea9-b961-34ee95faaf82
-source-git-commit: 30917ce6eb6d682649a21d486eefa9482339410e
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%

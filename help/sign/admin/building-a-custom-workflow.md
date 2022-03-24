@@ -3,11 +3,11 @@ title: 사용자 정의 작업 과정 만들기
 description: 문서 워크플로우를 맞춤화하고 자동화하여 전자 서명을 빠르게 받고 양식 데이터를 수집하는 방법을 살펴보십시오
 role: User, Admin
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%

@@ -3,12 +3,12 @@ title: Salesforce용 Adobe Sign에서 사용자 정의 단추 만들기
 description: 전송 프로세스를 시작하고 계약을 자동으로 채우는 사용자 정의 단추를 만드는 방법을 알아봅니다.
 role: Admin
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: 17352.jpg
 exl-id: 08407097-b916-4532-a613-43eb1475fe2c
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 16%

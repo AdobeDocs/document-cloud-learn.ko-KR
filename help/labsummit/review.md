@@ -1,9 +1,9 @@
 ---
 title: 온라인으로 PDF 파일 공유 및 검토
 description: Adobe Document Cloud 사용 요령 및 팁 살펴보기
-solution: Document Cloud
+solution: Acrobat
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 26%

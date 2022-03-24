@@ -3,10 +3,11 @@ title: 상용 원격 작업 계약
 description: 원격 근무 계약을 통해 모든 직원의 서명을 효율적으로 수집할 수 있습니다
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33978.jpg
-source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
+exl-id: 502f65db-8dd4-4f21-a7da-8aaf237ac224
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%

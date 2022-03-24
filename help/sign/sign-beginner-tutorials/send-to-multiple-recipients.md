@@ -3,11 +3,11 @@ title: 여러 수신자에게 보내기
 description: 전자 서명을 받을 문서를 원하는 순서대로 두 명 이상의 사람에게 보내는 방법을 알아봅니다
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Beginner
 thumbnail: 341296.jpg
 exl-id: da64949c-b8e0-4923-b3a4-43d2d6dbd4d5
-source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 4%

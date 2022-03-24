@@ -3,11 +3,11 @@ title: 일괄 서명 수집
 description: 몇 단계만으로 모든 문서에 수백 개의 서명을 한 번에 수집하는 방법을 살펴볼 수 있습니다
 role: User, Admin
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%

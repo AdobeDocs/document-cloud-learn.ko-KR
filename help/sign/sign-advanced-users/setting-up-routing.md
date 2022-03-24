@@ -3,11 +3,11 @@ title: 공정순서 순서 설정
 description: 여러 서명자에 대한 라우팅 순서를 설정하는 방법 알아보기
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17347.jpg
 exl-id: bf7771ef-1abe-423c-8b0f-ebdee555b53a
-source-git-commit: 6e4e533f38d3e66fa049718d41dde9ecb88a8c19
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%

@@ -3,13 +3,13 @@ title: 케이스 레시피 사용
 description: 공공 기관 및 상업용 전자 서명 사례를 통해 기업의 디지털 워크플로우 가속화
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%

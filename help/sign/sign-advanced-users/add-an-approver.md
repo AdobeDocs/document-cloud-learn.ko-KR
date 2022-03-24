@@ -3,11 +3,11 @@ title: 승인자 추가
 description: 계약 승인 프로세스에 승인자 역할을 추가하는 방법에 대해 알아봅니다.
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%

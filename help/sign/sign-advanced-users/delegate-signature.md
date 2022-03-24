@@ -3,11 +3,11 @@ title: 다른 사용자에게 위임
 description: 위임자 역할을 사용하여 중개인에게 문서를 보내고 중개인은 서명을 받을 문서를 보낼 수 있습니다.
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17366.jpg
 exl-id: b9d7c6f4-a7fc-4cb8-a80d-91cc4c5b5298
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%

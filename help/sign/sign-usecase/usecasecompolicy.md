@@ -3,11 +3,11 @@ title: 기업 정책 계약
 description: 정책 계약, 업데이트 등에서 모든 직원의 서명을 효율적으로 수집할 수 있습니다
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33979.jpg
 exl-id: caba5740-6111-4cc4-a63f-5eec2d742578
-source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%

@@ -1,9 +1,9 @@
 ---
 title: Adobe Scan으로 디지털화
 description: Adobe Document Cloud 사용 요령 및 팁 살펴보기
-solution: Document Cloud
+solution: Acrobat Sign
 exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
-source-git-commit: 790f1dd6bdf8755c2a4891be33b9c3fa0052ae9b
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%

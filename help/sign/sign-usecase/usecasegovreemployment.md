@@ -3,11 +3,11 @@ title: 재취업 지원
 description: 일상적으로 사용할 수 있는 디지털 신청 양식에 맞추지 않고 시민이 필요한 도움을 받을 수 있도록 지원
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33809.jpg
 exl-id: 02a9b62f-fbcd-43d1-8372-c2d7dc8e2eff
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%

@@ -3,11 +3,11 @@ title: 문서 채우기 및 서명
 description: 양식을 채우고 문서에 전자 서명을 추가하는 방법 알아보기
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Beginner
 thumbnail: 33660.jpg
 exl-id: 4bb7caab-002c-4e8e-b0c6-fdde220037a4
-source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%

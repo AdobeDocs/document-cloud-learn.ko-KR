@@ -3,11 +3,11 @@ title: 서명을 위해 이미 전송된 문서 수정
 description: 이미 진행 중인 문서의 작업 과정을 수정하는 방법에 대해 알아봅니다.
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Beginner
 thumbnail: 17343.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%

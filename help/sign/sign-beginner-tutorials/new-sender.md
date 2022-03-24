@@ -3,12 +3,12 @@ title: 처음 보낸 사람을 위한 Adobe Sign 시작
 description: 이 종합적인 튜토리얼은 Adobe Sign에서 처음 보낸 사람을 위한 좋은 출발점입니다
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: 3b2573a49d04ea0b2f4055bdf883fd9a684ef2a3
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
