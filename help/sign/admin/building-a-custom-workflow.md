@@ -7,16 +7,16 @@ solution: Document Cloud
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: b958523f87b657f0a9db8c1eea0de829ab32b02b
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
 # 사용자 정의 작업 과정 만들기
 
-이 비디오 튜토리얼에서는 전자 서명을 받고, 양식 데이터를 수집하고, 중요한 문서의 전달을 확인하여 워크플로우 관리를 간소화하기 위해 문서 워크플로우를 맞춤화하고 자동화하는 방법을 살펴봅니다.
+문서 워크플로우를 맞춤화하고 자동화하여 전자 서명을 받고, 양식 데이터를 수집하고, 중요한 문서의 전달을 확인하여 워크플로우 관리를 간소화하는 방법을 살펴보세요.
 
 실제 활용 사례:
 

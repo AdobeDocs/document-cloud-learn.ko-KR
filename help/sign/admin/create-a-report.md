@@ -7,16 +7,16 @@ solution: Document Cloud
 level: Intermediate
 thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
-source-git-commit: 30c606ec458931ac352cd99e7aec5b38074db262
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
 # 보고서 생성
 
-이 비디오 튜토리얼에서는 Adobe Sign에서 보고서를 실행, 저장 및 예약하는 방법을 살펴봅니다.
+Adobe Sign에서 보고서를 실행, 저장 및 예약하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17357?hidetitle=true)
 

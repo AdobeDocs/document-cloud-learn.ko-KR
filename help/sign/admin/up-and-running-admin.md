@@ -6,16 +6,16 @@ product: adobe sign
 level: Intermediate
 thumbnail: 33657.jpg
 exl-id: 1e8603ee-fe16-4842-bf0b-1190b5a69d3b
-source-git-commit: 30c606ec458931ac352cd99e7aec5b38074db262
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
 # Adobe Sign 관리자를 위한 설치 및 실행
 
-이 비디오 튜토리얼에서는 관리자가 Adobe Sign에서 빠르게 시작하고 실행하기 위해 집중해야 하는 7가지 주요 영역을 살펴봅니다.
+Adobe Sign을 빠르게 시작하고 실행하기 위해 관리자가 집중해야 하는 7가지 주요 영역을 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33657?hidetitle=true)
 

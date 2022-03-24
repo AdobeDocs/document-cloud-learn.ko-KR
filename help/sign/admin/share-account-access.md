@@ -6,16 +6,16 @@ product: adobe sign
 level: Intermediate
 thumbnail: 40187.jpg
 exl-id: 3154f0d0-3cc7-45ab-9515-bd69f5e46546
-source-git-commit: 30c606ec458931ac352cd99e7aec5b38074db262
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
 # 계정 액세스 공유
 
-이 비디오 자습서에서는 다른 사용자의 계정에 있는 트랜잭션에 대한 보기 전용 액세스를 설정하는 방법을 알아봅니다.
+다른 사용자의 계정에서 트랜잭션에 대한 보기 전용 액세스를 설정하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40187?hidetitle=true)
 

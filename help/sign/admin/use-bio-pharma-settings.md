@@ -6,16 +6,16 @@ product: adobe sign
 level: Experienced
 thumbnail: 21748.jpg
 exl-id: 1253f81a-6132-4733-a113-1bbce86b4549
-source-git-commit: 30c606ec458931ac352cd99e7aec5b38074db262
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # Bio-Pharma 설정 사용
 
-이 비디오 튜토리얼에서는 FDA 21 CFR Part 11 요구 사항을 충족하도록 Adobe Sign을 구성할 수 있는 Bio-pharma 설정에 대해 알아봅니다.
+FDA 21 CFR Part 11 요구 사항을 충족하도록 Adobe Sign을 구성할 수 있는 Bio-pharma 설정에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21748?hidetitle=true)
 
