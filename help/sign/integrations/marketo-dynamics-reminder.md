@@ -3,12 +3,12 @@ title: Microsoft Dynamics 365 및 Marketo용 Adobe Sign을 사용하여 미리 �
 description: 일정 기간 후 계약이 서명되지 않은 경우 전자 메일 미리 알림을 보내는 방법을 알아봅니다.
 role: Admin
 product: adobe sign
-solution: Adobe Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: bcddb0ee106239f2786debaed908b2a2ec5ce792
+source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 2%
@@ -137,7 +137,7 @@ Marketo Microsoft Dynamics Sync 및 Adobe Sign for Dynamics 구성이 완료되�
 
    ![템플릿 선택기](assets/templatePicker.png)
 
-1. **[!UICONTROL [만들기]]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
 1. 설정 **[!UICONTROL 보낸 사람 이름]** 및 **[!UICONTROL 보낸 사람 주소]**.
 

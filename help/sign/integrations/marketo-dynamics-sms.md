@@ -3,12 +3,12 @@ title: Adobe Sign for Microsoft Dynamics 365 및 Marketo을 사용하여 알림 
 description: 서명자에게 계약이 진행 중임을 알리기 위해 문자 메시지, 전자 메일 또는 푸시 알림을 보내는 방법을 알아봅니다.
 role: Admin
 product: adobe sign
-solution: Adobe Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: bcddb0ee106239f2786debaed908b2a2ec5ce792
+source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%
@@ -47,7 +47,7 @@ Marketo Microsoft Dynamics Sync 및 Adobe Sign for Dynamics 구성이 완료되�
 
    * **[!UICONTROL 동기화 사용]** 에 추가합니다.
 
-   * **[!UICONTROL 동기화 사용]** 연락처 아래의 개체에 대해 연락처가 Dynamics에서 계약에 추가될 때 트리거되도록 하려면
+   * **[!UICONTROL 동기화 사용]** 연락처 아래의 개체에 대해 연락처가 Dynamics에서 계약에 추가되었을 때 트리거하도록 하려는 경우
 
    * **[!UICONTROL 동기화 사용]** 를 클릭합니다.
 

@@ -3,12 +3,12 @@ title: Salesforce용 Adobe Sign 및 Marketo 비디오 자습서를 사용하여 
 description: 이 비디오 자습서에서는 일정 기간 후 계약에 서명이 없는 경우 Marketo에서 전자 메일 미리 알림을 보내는 방법을 설명합니다
 role: Admin
 product: adobe sign
-solution: Adobe Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: 332506.jpg
 exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%

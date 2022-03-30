@@ -3,12 +3,12 @@ title: Salesforce용 Adobe Sign 및 Marketo 구성 가이드를 사용하여 알
 description: 일정 기간 후 계약에 서명이 없는 경우 Marketo에서 전자 메일 미리 알림을 보내는 방법을 알아봅니다.
 role: Admin
 product: adobe sign
-solution: Adobe Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
-source-git-commit: bc79bbde966c99bdf32231ff073b49cfc759d928
+source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
 workflow-type: tm+mt
 source-wordcount: '953'
 ht-degree: 1%
@@ -141,7 +141,7 @@ Marketo Salesforce 동기화 및 Salesforce용 Adobe Sign 구성이 완료되면
 
    ![새 전자 메일](assets/createNewEmail.png)
 
-1. 새 탭에서 **이름** 및 **설명** 을 선택하고 템플릿 선택기에서 템플릿을 선택합니다. **[만들기]**&#x200B;를 클릭합니다.
+1. 새 탭에서 **이름** 및 **설명** 을 선택하고 템플릿 선택기에서 템플릿을 선택합니다. **만들기**&#x200B;를 클릭합니다.
 
    ![템플릿 선택기](assets/templatePicker.png)
 
