@@ -3,12 +3,11 @@ title: 고급 계정 공유
 description: 고급 계정 공유를 통해 관리자와 사용자는 전송, 수정 및 보기 권한을 위임할 수 있습니다.
 role: User, Admin
 product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 topic-revisit: Administration
 thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 1%

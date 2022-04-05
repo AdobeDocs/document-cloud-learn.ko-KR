@@ -1,13 +1,13 @@
 ---
 title: 포함된 전자 서명 및 문서 환경 만들기
-description: Adobe Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시스템에 전자 서명 및 문서 경험을 포함하는 방법에 대해 알아봅니다
+description: Acrobat Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시스템에 전자 서명 및 문서 경험을 포함하는 방법을 알아봅니다
 role: User, Developer
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: f015bd7ea1a25772a12cd0852d452d120f205a5c
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '928'
 ht-degree: 3%
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 # 포함된 전자 서명 및 문서 경험 제작
 
-Adobe Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시스템에 전자 서명 및 문서 경험을 포함하는 방법에 대해 알아봅니다. 아래 링크에 설명되어 있는 이 실습 튜토리얼의 네 가지 요소는 다음과 같습니다.
+Acrobat Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시스템에 전자 서명 및 문서 경험을 포함하는 방법을 알아봅니다. 아래 링크에 설명되어 있는 이 실습 튜토리얼의 네 가지 요소는 다음과 같습니다.
 
 <table style="table-layout:fixed">
 <tr>
@@ -59,7 +59,7 @@ Adobe Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시스
 
 1부에서는 2-4부에 필요한 모든 것을 시작하는 방법을 배웁니다. 먼저 API 자격 증명을 가져오겠습니다.
 
-* [Adobe Sign 개발자 계정](https://acrobat.adobe.com/kr/ko/sign/developer-form.html)
+* [Acrobat Sign 개발자 계정](https://acrobat.adobe.com/kr/ko/sign/developer-form.html)
 * [시작 코드](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [VS 코드(또는 선택한 편집기)](https://code.visualstudio.com)
 * Python 3.x
@@ -72,10 +72,10 @@ Adobe Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시스
 
 2부에서는 웹 양식을 사용할 때 낮은/코드 없음 옵션을 살펴봅니다. 처음에 코드를 작성하지 않아도 되는지 확인하는 것이 좋습니다.
 
-1. 개발자 계정으로 Adobe Sign에 액세스합니다.
+1. 개발자 계정으로 Acrobat Sign에 액세스합니다.
 1. 클릭 **웹 양식 게시** 를 참조하십시오.
 
-   ![스크린샷 Adobe Sign 홈 페이지](assets/embeddedesignature/embed_1.png)
+   ![스크린샷 Acrobat Sign 홈 페이지](assets/embeddedesignature/embed_1.png)
 
 1. 계약 만들기
 
@@ -90,7 +90,7 @@ Adobe Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시스
 
 3부에서는 계약을 동적으로 만듭니다.
 
-먼저 액세스 권한을 설정해야 합니다. Adobe Sign에는 API를 통해 연결하는 두 가지 방법이 있습니다. OAuth 토큰 및 통합 키. 응용 프로그램에서 OAuth를 사용해야 하는 특별한 이유가 없다면 먼저 통합 키를 탐색해야 합니다.
+먼저 액세스 권한을 설정해야 합니다. Acrobat Sign에는 API를 통해 연결하는 두 가지 방법이 있습니다. OAuth 토큰 및 통합 키. 응용 프로그램에서 OAuth를 사용해야 하는 특별한 이유가 없다면 먼저 통합 키를 탐색해야 합니다.
 
 1. 선택 **통합 키** 에 **API 정보** 메뉴를 **계정** 탭합니다.
 
@@ -98,9 +98,9 @@ Adobe Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시스
 
 액세스 권한을 보유하고 API와 상호 작용할 수 있으므로 API로 가능한 작업을 살펴보십시오.
 
-1. 다음 위치로 이동합니다. [Adobe Sign REST API 버전 6 메서드](http://adobesign.com/public/docs/restapi/v6).
+1. 다음 위치로 이동합니다. [Acrobat Sign REST API 버전 6 방법](http://adobesign.com/public/docs/restapi/v6).
 
-   ![Adobe Sign REST API 버전 6 방법을 탐색하는 스크린샷](assets/embeddedesignature/embed_5.png)
+   ![Acrobat Sign REST API 버전 6 방법을 탐색하는 스크린샷](assets/embeddedesignature/embed_5.png)
 
 1. 토큰을 &quot;전달자&quot; 값으로 사용합니다.
 
@@ -168,7 +168,7 @@ Adobe Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시스
 * [JS 이벤트](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhook 이벤트
    * [REST API](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
-   * [Adobe Sign v6의 Webhook](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
+   * [Acrobat Sign v6의 Webhook](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
 * [요청 전자 메일 재활성화(이벤트 포함)](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
 * [시간 제한을 다시 시도로 바꾸기](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
 
@@ -185,8 +185,8 @@ Adobe Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시스
 http://bit.ly/Summit21-T126
 
 포함된 항목:
-* Adobe Sign 개발자 계정
-* Adobe Sign API 문서
+* Acrobat Sign 개발자 계정
+* Acrobat Sign API 문서
 * 샘플 코드
 * Visual Studio 코드
 * 비단뱀

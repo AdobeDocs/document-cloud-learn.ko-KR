@@ -1,5 +1,5 @@
 ---
-user-guide-title: Adobe Sign Tutorials
+user-guide-title: Acrobat Sign Tutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
 solution-hub-url: https://helpx.adobe.com/support/sign.html
@@ -7,8 +7,8 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
-breadcrumb-title: Adobe Sign Tutorials
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+breadcrumb-title: Acrobat Sign Tutorials
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 6%
@@ -16,16 +16,16 @@ ht-degree: 6%
 ---
 
 
-# Adobe Sign Tutorials {#sign-learning-hub}
+# Acrobat Sign Tutorials {#sign-learning-hub}
 
 + [개요](overview.md)
 + 시작하기 {#getting-started}
    + [개요](sign-beginner-tutorials/beginner-users-overview.md)
    + 전송 중 {#getting-started-sending}
-      + [Adobe Sign 둘러보기](sign-beginner-tutorials/quick-tour.md)
+      + [Acrobat Sign 둘러보기](sign-beginner-tutorials/quick-tour.md)
       + [단일 수신자에게 보내기](sign-beginner-tutorials/send-to-single-recipient.md)
       + [여러 수신자에게 보내기](sign-beginner-tutorials/send-to-multiple-recipients.md)
-      + [처음 보낸 사람을 위한 Adobe Sign 시작하기](sign-beginner-tutorials/new-sender.md)
+      + [처음 보낸 사람에 대한 Acrobat Sign 시작하기](sign-beginner-tutorials/new-sender.md)
    + Signing {#getting-started-signing}
       + [문서에 전자 서명](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [문서 채우기 및 서명](sign-beginner-tutorials/fill-and-sign.md)
@@ -44,7 +44,7 @@ ht-degree: 6%
       + [승인자 추가](sign-advanced-users/add-an-approver.md)
       + [일괄 서명 수집](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [웹 양식 설정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Adobe Sign 텍스트 태그 지정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [Acrobat 서명 텍스트 태그 지정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + 관리 {#advanced-tasks-managing}
       + [문서 템플릿 관리](sign-advanced-users/edit-a-template.md)
 + 관리 {#admin-set-up}
@@ -65,7 +65,7 @@ ht-degree: 6%
       + [계정 액세스 공유](admin/share-account-access.md)
       + [고급 계정 공유](admin/advanced-account-sharing.md)
       + [Bio-Pharma 설정 사용](admin/use-bio-pharma-settings.md)
-      + [Adobe Sign 텍스트 태그 지정](sign-advanced-users/adobe-sign-text-tagging.md)
+      + [Acrobat 서명 텍스트 태그 지정](sign-advanced-users/adobe-sign-text-tagging.md)
 + 디지털 ID {#digital-id}
    + [개요](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
@@ -85,20 +85,20 @@ ht-degree: 6%
       + [SharePoint Online에서 서명을 위해 보내기](integrations/send-for-signature-with-sharepoint-online.md)
       + [SharePoint Online에서 추적](integrations/track-an-agreement-with-sharepoint-online.md)
       + [서명을 위해 문서 보내기 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-      + [Microsoft Power Platform용 Adobe Sign으로 문서 자동화](integrations/documentautomation.md)
+      + [Microsoft Power Platform용 Acrobat Sign을 통해 문서 자동화](integrations/documentautomation.md)
    + Salesforce {#salesforce}
       + [문서 템플릿 만들기](integrations/create-an-agreement-template.md)
       + [데이터 매핑 설정](integrations/set-up-data-mapping.md)
       + [병합 매핑 설정](integrations/set-up-merging-map.md)
       + [사용자 정의 단추 만들기](integrations/create-a-custom-button.md)
    + 근무 시간 {#workday}
-      + [Workday을 사용하여 Adobe Sign 구성](integrations/workday.md)
+      + [Workday을 사용하여 Acrobat Sign 구성](integrations/workday.md)
    + Marketo {#marketo}
-      + [Salesforce용 Adobe Sign 및 Marketo을 사용하여 알림 보내기](integrations/marketo-salesforce-sms.md)
-      + [Salesforce용 Adobe Sign 및 Marketo 비디오 자습서를 사용하여 미리 알림 보내기](integrations/marketo-salesforce-reminder-video.md)
-      + [Salesforce용 Adobe Sign 및 Marketo 구성 가이드를 사용하여 알림 메시지 전송](integrations/marketo-salesforce-reminder.md)
-      + [Microsoft Dynamics 및 Marketo용 Adobe Sign을 사용하여 알림 보내기](integrations/marketo-dynamics-sms.md)
-      + [Microsoft Dynamics 365 및 Marketo용 Adobe Sign을 사용하여 미리 알림 보내기](integrations/marketo-dynamics-reminder.md)
+      + [Salesforce용 Acrobat Sign 및 Marketo을 사용하여 알림 보내기](integrations/marketo-salesforce-sms.md)
+      + [Salesforce용 Acrobat Sign 및 Marketo 비디오 자습서를 사용하여 미리 알림 보내기](integrations/marketo-salesforce-reminder-video.md)
+      + [Salesforce용 Acrobat Sign 및 Marketo 구성 가이드를 사용하여 알림 메시지 전송](integrations/marketo-salesforce-reminder.md)
+      + [Microsoft Dynamics 및 Marketo용 Acrobat Sign을 사용하여 알림 보내기](integrations/marketo-dynamics-sms.md)
+      + [Microsoft Dynamics 365 및 Marketo용 Acrobat Sign을 사용하여 미리 알림 보내기](integrations/marketo-dynamics-reminder.md)
 + 업계 및 부서 {#expand}
    + [개요](sign-usecase/expand-inspire-overview.md)
    + 기능 소개 {#innovation}
@@ -128,4 +128,4 @@ ht-degree: 6%
 + 모바일 {#mobile}
    + [개요](mobile/mobile-overview.md)
    + 모바일 튜토리얼 {#mobile-tutorials}
-      + [Adobe Sign의 Liquid Mode](mobile/liquidmode.md)
+      + [Acrobat Sign의 Liquid Mode](mobile/liquidmode.md)

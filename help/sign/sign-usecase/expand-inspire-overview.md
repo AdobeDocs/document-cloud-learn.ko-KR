@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 업계 및 부서 개요
 
-![Adobe Sign 업계 이미지](../assets/Hero-Industry.png)
+![Acrobat Sign 업계 이미지](../assets/Hero-Industry.png)
 
 실제 업계 및 부서의 활용 사례, 레시피 및 온라인 세미나를 활용하여 조직의 전자 서명 경험을 혁신하는 방법을 살펴보십시오.
 
@@ -49,7 +49,7 @@ ht-degree: 0%
     <div>
     <a href="use-case-showcase.md"><strong>활용 사례</strong></a>
     </div>
-    <em>새로운 Adobe Sign 활용 사례와 트렌드를 소개하는 라이브 또는 녹화 세션을 시청하세요</em>
+    <em>새로운 Acrobat Sign 활용 사례와 트렌드를 소개하는 라이브 또는 녹화 세션을 시청하세요</em>
     <br>
   </td>
 </tr>

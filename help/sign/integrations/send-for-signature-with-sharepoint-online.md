@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 41263.jpg
 exl-id: a9a112e8-b599-4578-86da-8a8c6f22059e
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -22,4 +22,4 @@ Sharepoint Online에서 바로 서명을 위해 문서를 보내 문서 작업 �
 
 >[!TIP]
 >
->이 비디오는 과정의 일부입니다 [Microsoft 앱 내에서 Adobe Sign 사용](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) Experience League에서 무료로 사용할 수 있습니다!
+>이 비디오는 과정의 일부입니다 [Microsoft 앱에서 Acrobat Sign 사용](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) Experience League에서 무료로 사용할 수 있습니다!

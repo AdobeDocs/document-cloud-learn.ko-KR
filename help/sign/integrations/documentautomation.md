@@ -1,39 +1,39 @@
 ---
-title: Microsoft Power Platform용 Adobe Sign으로 문서 자동화
-description: Microsoft Power Apps용 Adobe Sign 및 Adobe PDF Tools 커넥터를 활성화하고 사용하는 방법에 대해 알아봅니다. 코드 없이도 비즈니스 승인 및 서명 프로세스를 빠르고 안전하게 자동화하는 워크플로우를 구축할 수 있습니다
+title: Microsoft Power Platform용 Acrobat Sign을 통해 문서 자동화
+description: Microsoft Power 앱용 Acrobat Sign 및 Adobe PDF Tools 커넥터를 활성화하고 사용하는 방법에 대해 알아봅니다. 코드 없이도 비즈니스 승인 및 서명 프로세스를 빠르고 안전하게 자동화하는 워크플로우를 구축할 수 있습니다
 role: User, Developer
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7488.jpg
 kt: 7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '2436'
 ht-degree: 0%
 
 ---
 
-# Microsoft Power Platform용 Adobe Sign으로 문서 자동화
+# Microsoft Power Platform용 Acrobat Sign을 통해 문서 자동화
 
-Microsoft Power Apps용 Adobe Sign 및 Adobe PDF Tools 커넥터를 활성화하고 사용하는 방법에 대해 알아봅니다. 코드 없이도 비즈니스 승인 및 서명 프로세스를 빠르고 안전하게 자동화하는 워크플로우를 구축할 수 있습니다. 아래 링크에 설명되어 있는 이 실습 튜토리얼의 네 가지 요소는 다음과 같습니다.
+Microsoft Power 앱용 Acrobat Sign 및 Adobe PDF Tools 커넥터를 활성화하고 사용하는 방법에 대해 알아봅니다. 코드 없이도 비즈니스 승인 및 서명 프로세스를 빠르고 안전하게 자동화하는 워크플로우를 구축할 수 있습니다. 아래 링크에 설명되어 있는 이 실습 튜토리얼의 네 가지 요소는 다음과 같습니다.
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="documentautomation.md#part1">
-        <img alt="1부: Adobe Sign을 사용하여 SharePoint에 서명된 계약 저장" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
+        <img alt="1부: Acrobat Sign을 사용하여 SharePoint에 서명된 계약 저장" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part1"><strong>1부: Adobe Sign을 사용하여 SharePoint에 서명된 계약 저장</strong></a>
+    <a href="documentautomation.md#part1"><strong>1부: Acrobat Sign을 사용하여 SharePoint에 서명된 계약 저장</strong></a>
     </div>
   </td>
   <td>
     <a href="documentautomation.md#part2">
-        <img alt="2부: Adobe Sign을 통해 전자 서명을 받기 위한 자동화된 승인 프로세스" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
+        <img alt="2부: Acrobat Sign을 통해 전자 서명을 받기 위한 자동화된 승인 프로세스" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part2"><strong>2부: Adobe Sign을 통해 전자 서명을 받기 위한 자동화된 승인 프로세스</strong></a>
+    <a href="documentautomation.md#part2"><strong>2부: Acrobat Sign을 통해 전자 서명을 받기 위한 자동화된 승인 프로세스</strong></a>
     </div>
   </td>
   <td>
@@ -58,13 +58,13 @@ Microsoft Power Apps용 Adobe Sign 및 Adobe PDF Tools 커넥터를 활성화하
 ## 사전 요구 사항
 
 * Microsoft 365와 Power Automate의 익숙함
-* Adobe Sign 지식
-* SharePoint 및 Power Automate에 대한 액세스 권한이 있는 Microsoft 365 계정(Adobe Sign의 경우 기본, Adobe PDF 툴의 경우 프리미엄)
-* Adobe Sign for enterprise 또는 Adobe Sign 개발자 계정
+* Acrobat Sign 지식
+* SharePoint 및 Power Automate에 대한 액세스 권한이 있는 Microsoft 365 계정(Acrobat Sign의 경우 기본, Adobe PDF 툴의 경우 프리미엄)
+* Acrobat Sign for enterprise 또는 Acrobat Sign 개발자 계정
 
 **연습 1 및 2**
 
-* API 액세스 권한이 있는 Adobe Sign 계정 개발자 계정 또는 기업 계정입니다.
+* API 액세스 권한이 있는 Acrobat Sign 계정. 개발자 계정 또는 기업 계정입니다.
 * 편집 권한이 있는 Power Automate에서 액세스할 수 있는 SharePoint 사이트 전체 관리자 액세스 권한이 권장됩니다.
 * 서명 승인 요청 및 서명을 위한 샘플 문서.
 
@@ -72,27 +72,27 @@ Microsoft Power Apps용 Adobe Sign 및 Adobe PDF Tools 커넥터를 활성화하
 
 자료 다운로드 [여기](https://github.com/benvanderberg/adobe-sign-pdftools-powerautomate-tutorial)
 
-## 1부: Adobe Sign을 사용하여 SharePoint에 서명된 계약 저장 {#part1}
+## 1부: Acrobat Sign을 사용하여 SharePoint에 서명된 계약 저장 {#part1}
 
 1부에서는 Power Automate Flow 템플릿을 사용하여 서명된 모든 계약서를 SharePoint 사이트에 저장하는 자동화된 워크플로우를 설정합니다.
 
 1. Power Automate 로 이동합니다.
-1. Adobe Sign 검색.
+1. Acrobat Sign을 검색합니다.
 
    ![Power Automate로 이동하는 스크린샷](assets/documentautomation/automation_1.png)
 
-1. 선택 **Adobe Sign 완료 계약을 SharePoint 라이브러리에 저장**.
+1. 선택 **Acrobat Sign 완료 계약을 SharePoint 라이브러리에 저장**.
 
-   ![SharePoint 라이브러리에 Adobe Sign 완료 계약 저장 작업의 스크린샷](assets/documentautomation/automation_2.png)
+   ![Acrobat Sign 저장 후 SharePoint 라이브러리에 계약 완료 동작 스크린샷](assets/documentautomation/automation_2.png)
 
-1. 화면을 검토하고 필요한 연결을 구성합니다. Adobe Sign 연결을 활성화합니다.
+1. 화면을 검토하고 필요한 연결을 구성합니다. Acrobat Sign 연결을 활성화합니다.
 1. 파란색을 클릭합니다. `+` 기호입니다.
 
-   ![Adobe Sign 및 SharePoint 플로우 연결 스크린샷](assets/documentautomation/automation_3.png)
+   ![Acrobat Sign 및 SharePoint 흐름 연결 스크린샷](assets/documentautomation/automation_3.png)
 
-1. Adobe Sign 계정 이메일을 입력하고 새 창에서 암호 필드를 클릭합니다.
+1. Acrobat Sign 계정 이메일을 입력하고 새 창에서 암호 필드를 클릭합니다.
 
-   ![Adobe Sign 로그인 화면 스크린샷](assets/documentautomation/automation_4.png)
+   ![Acrobat 로그인 화면의 스크린샷](assets/documentautomation/automation_4.png)
 
    Adobe이 계정을 확인할 때까지 잠시 기다려 주십시오.
 
@@ -125,7 +125,7 @@ Microsoft Power Apps용 Adobe Sign 및 Adobe PDF Tools 커넥터를 활성화하
 
 다음 부분에서 이 흐름을 테스트합니다.
 
-## 2부: Adobe Sign을 통해 전자 서명을 받기 위한 자동화된 승인 프로세스 {#part2}
+## 2부: Acrobat Sign을 통해 전자 서명을 받기 위한 자동화된 승인 프로세스 {#part2}
 
 두 번째 부분에서는 첫 번째 부분을 더 견고한 흐름으로 구축하고 두 흐름을 테스트하여 실제 작동하는지 확인합니다.
 
@@ -179,11 +179,11 @@ Microsoft Power Apps용 Adobe Sign 및 Adobe PDF Tools 커넥터를 활성화하
 
    **사이트 주소:** SharePoint 사이트
    **파일 식별자:** &quot;identifier&quot;를 검색하고 **파일 속성 가져오기** 있습니다.
-1. &quot;Adobe&quot;을 검색하고 **Adobe Sign** 다른 동작을 추가합니다.
+1. &quot;Adobe&quot;을 검색하고 **Acrobat Sign** 다른 동작을 추가합니다.
 
    ![검색 메뉴 스크린샷](assets/documentautomation/automation_16.png)
 
-1. Adobe Sign 검색 상자에 &quot;upload&quot;를 입력하고 **문서를 업로드하고 문서 ID 가져오기**.
+1. Acrobat Sign 검색 상자에 &quot;업로드&quot;를 입력하고 **문서를 업로드하고 문서 ID 가져오기**.
 1. 동적 변수 검색 **이름** 를 클릭합니다. **파일 이름**.
 1. 클릭 **표현식** 아래의 변수 도우미 **파일 내용**.
 
@@ -195,7 +195,7 @@ Microsoft Power Apps용 Adobe Sign 및 Adobe PDF Tools 커넥터를 활성화하
 
    ![동적 내용 화면의 스크린샷](assets/documentautomation/automation_18.png)
 
-1. Adobe Sign 검색 영역에서 &quot;만들기&quot;를 검색하여 다른 Adobe Sign 동작을 추가합니다.
+1. Acrobat Sign 검색 영역에서 &quot;만들기&quot;를 검색하여 다른 Acrobat Sign 동작을 추가합니다.
 1. 선택 **업로드된 문서에서 작성 및 계약하고 서명을 위해 전송하기**.
 
    ![만들기 검색 스크린샷](assets/documentautomation/automation_19.png)
@@ -262,11 +262,11 @@ SharePoint 사이트의 문서 리포지토리로 이동하여 테스트합니�
    ![+ 기호를 선택하는 스크린샷](assets/documentautomation/automation_27.png)
 
 1. 새 탭에서 https://www.adobe.com/go/powerautomate_getstarted으로 이동합니다.
-1. 클릭 **시작하기**.
+1. **시작**&#x200B;을 클릭합니다.
 
    ![시작하기 버튼 스크린샷](assets/documentautomation/automation_28.png)
 
-1. Adobe ID으로 로그인합니다.
+1. Adobe ID.
 
    ![로그인 화면의 스크린샷](assets/documentautomation/automation_29.png)
 
@@ -282,7 +282,7 @@ SharePoint 사이트의 문서 리포지토리로 이동하여 테스트합니�
 
    ![PDF 도구 자격 증명 입력 스크린샷](assets/documentautomation/automation_32.png)
 
-1. **[계속]**&#x200B;을 클릭합니다.
+1. **계속**&#x200B;을 클릭합니다.
 
    ![[계속]을 클릭할 위치의 스크린샷](assets/documentautomation/automation_33.png)
 
@@ -292,7 +292,7 @@ SharePoint 사이트의 문서 리포지토리로 이동하여 테스트합니�
 
    ![폴더 트리거에 파일이 생성된 경우 선택 스크린샷](assets/documentautomation/automation_34.png)
 
-1. 폴더 아이콘을 눌러 폴더 ID 아래에 있는 이전 계약 폴더로 이동합니다.
+1. 폴더 아이콘을 클릭하여 폴더 ID 아래에 있는 이전 계약 폴더로 이동합니다.
 
    ![이전 계약 폴더 선택 스크린샷](assets/documentautomation/automation_35.png)
 
@@ -316,7 +316,7 @@ SharePoint 사이트의 문서 리포지토리로 이동하여 테스트합니�
 
    ![파일 복사 스크린샷](assets/documentautomation/automation_37.png)
 
-이제 처리된 계약 폴더로 이동하면 플로우에 실행할 수 있는 몇 분의 시간이 주어진 후 사용 가능한 PDF을 볼 수 있습니다. PDF을 열면 텍스트를 선택할 수 있습니다.
+이제 처리된 계약 폴더로 이동하면 플로우에 몇 분 동안 실행할 수 있는 PDF을 볼 수 있습니다. PDF을 열면 텍스트를 선택할 수 있습니다.
 또한 SharePoint에서는 SharePoint의 검색 막대에서 문서 내용을 검색할 수 있도록 문서의 색인을 작성합니다.
 
 ## 4부: Adobe PDF 툴으로 자동화된 문서 취합 {#part4}

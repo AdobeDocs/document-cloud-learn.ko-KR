@@ -7,16 +7,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: 7d82422e442cbbed9420050c30ca70821e9a2cdd
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 4%
+ht-degree: 1%
 
 ---
 
 # GigaSign을 사용하여 대용량 문서 수집
 
-Gigasign을 사용하면 서명을 받기 위해 문서를 동시에 수천 명의 사용자에게 전송, 수집 및 추적할 수 있습니다. 직원 및 고객과의 대규모 커뮤니케이션을 위해 고안되었으며, 일괄 전송 시 최대 2,500명의 수신자를 지원합니다. GigaSign은 Adobe Sign API를 사용하여 MegaSign과 동일한 기능을 제공하며 여러 서명자, 수신자 그룹, 수신자 역할, 계약 이름, 사본 등을 지원합니다.
+Gigasign을 사용하면 서명을 받기 위해 문서를 동시에 수천 명의 사용자에게 전송, 수집 및 추적할 수 있습니다. 직원 및 고객과의 대규모 커뮤니케이션을 위해 고안되었으며, 일괄 전송 시 최대 2,500명의 수신자를 지원합니다. GigaSign은 Acrobat Sign API를 사용하여 MegaSign과 동일한 기능을 제공하며 여러 서명자, 수신자 그룹, 수신자 역할, 계약 이름, 사본 등을 지원합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?hidetitle=true)
 
@@ -30,7 +30,7 @@ Gigasign을 사용하면 서명을 받기 위해 문서를 동시에 수천 명�
 
 ## 기본 설정 지침
 
-1. Adobe Sign 계정에 로그인합니다.
+1. Acrobat Sign 계정에 로그인합니다.
 
 1. 클릭 **[!UICONTROL 그룹]** 또는 **[!UICONTROL 계정]**, 위에 표시되는 항목
 

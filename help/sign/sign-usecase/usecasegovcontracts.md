@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33811.jpg
 exl-id: 8d882a5d-01b8-4cd4-b55f-2ef1e537dec5
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 공공 기관 계약서 및 요청서 양식
 
-종이 문서를 감사 보고서가 포함된 완벽한 디지털 워크플로우로 신속하게 교체할 수 있습니다. Adobe Sign의 작업 과정 디자이너 도구를 사용하여 전체 프로세스를 간소화하는 방법을 살펴봅니다.
+종이 문서를 감사 보고서가 포함된 완벽한 디지털 워크플로우로 신속하게 교체할 수 있습니다. Acrobat Sign의 작업 과정 디자이너 도구를 사용하여 전체 프로세스를 간소화하는 방법을 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33811?hidetitle=true)
 

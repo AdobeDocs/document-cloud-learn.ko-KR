@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -26,4 +26,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->이 비디오는 [사용자를 위한 고급 작업](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 및 [관리자용 Adobe Sign 시작하기](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) Experience League에서 무료로 이용할 수 있는 강의!
+>이 비디오는 [사용자를 위한 고급 작업](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 및 [관리자용 Acrobat Sign 시작하기](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) Experience League에서 무료로 이용할 수 있는 강의!

@@ -1,5 +1,5 @@
 ---
-title: Salesforce용 Adobe Sign 및 Marketo 구성 가이드를 사용하여 알림 메시지 전송
+title: Salesforce용 Acrobat Sign 및 Marketo 구성 가이드를 사용하여 알림 메시지 전송
 description: 일정 기간 후 계약에 서명이 없는 경우 Marketo에서 전자 메일 미리 알림을 보내는 방법을 알아봅니다.
 role: Admin
 product: adobe sign
@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '953'
 ht-degree: 1%
 
 ---
 
-# Salesforce용 Adobe Sign 및 Marketo 구성 가이드를 사용하여 알림 메시지 전송
+# Salesforce용 Acrobat Sign 및 Marketo 구성 가이드를 사용하여 알림 메시지 전송
 
-일정 기간 후 계약에 서명이 없는 경우 Marketo에서 이메일 알림 메시지를 보내는 방법에 대해 알아봅니다. 이 통합에서는 Adobe Sign, Salesforce용 Adobe Sign, Marketo 및 Marketo 및 Salesforce 동기화를 사용합니다.
+일정 기간 후 계약에 서명이 없는 경우 Marketo에서 이메일 알림 메시지를 보내는 방법에 대해 알아봅니다. 이 통합에서는 Acrobat Sign, Salesforce용 Acrobat Sign, Marketo 및 Marketo 및 Salesforce 동기화를 사용합니다.
 
 ## 사전 요구 사항
 
@@ -25,13 +25,13 @@ ht-degree: 1%
 
    정보 및 Salesforce용 최신 플러그인을 사용할 수 있습니다. [여기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Salesforce용 Adobe Sign을 설치합니다.
+1. Salesforce용 Acrobat Sign을 설치합니다.
 
    이 플러그인에 대한 정보를 사용할 수 있습니다. [여기](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## 사용자 정의 개체 찾기
 
-Marketo Salesforce 동기화 및 Salesforce용 Adobe Sign 구성이 완료되면 몇 가지 새로운 옵션이 Marketo 관리 터미널에 나타납니다.
+Marketo Salesforce 동기화 및 Salesforce용 Acrobat Sign 구성이 완료되면 몇 가지 새로운 옵션이 Marketo 관리 터미널에 나타납니다.
 
 ![관리자](assets/adminTab.png)
 
@@ -201,4 +201,4 @@ Marketo Salesforce 동기화 및 Salesforce용 Adobe Sign 구성이 완료되면
 
 >[!TIP]
 >
->이 튜토리얼은 [Salesforce용 Adobe Sign 및 Marketo을 통해 세일즈 주기 단축](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) Experience League에서 무료로 사용할 수 있습니다!
+>이 튜토리얼은 [Salesforce용 Acrobat Sign 및 Marketo을 통해 세일즈 주기 단축](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) Experience League에서 무료로 사용할 수 있습니다!

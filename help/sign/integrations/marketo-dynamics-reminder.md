@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 및 Marketo용 Adobe Sign을 사용하여 미리 알림 보내기
+title: Microsoft Dynamics 365 및 Marketo용 Acrobat Sign을 사용하여 미리 알림 보내기
 description: 일정 기간 후 계약이 서명되지 않은 경우 전자 메일 미리 알림을 보내는 방법을 알아봅니다.
 role: Admin
 product: adobe sign
@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 2%
 
 ---
 
-# Microsoft Dynamics 365 및 Marketo용 Adobe Sign을 사용하여 미리 알림 보내기
+# Microsoft Dynamics 365 및 Marketo용 Acrobat Sign을 사용하여 미리 알림 보내기
 
-일정 기간 후 계약이 서명되지 않은 경우 전자 메일 미리 알림을 보내는 방법을 알아봅니다. 이 통합에서는 Adobe Sign, Microsoft Dynamics용 Adobe Sign, Marketo 및 Marketo Microsoft Dynamics Sync를 사용합니다.
+일정 기간 후 계약이 서명되지 않은 경우 전자 메일 미리 알림을 보내는 방법을 알아봅니다. 이 통합에서는 Acrobat Sign, Microsoft Dynamics용 Acrobat Sign, Marketo 및 Marketo Microsoft Dynamics Sync를 사용합니다.
 
 ## 사전 요구 사항
 
@@ -25,13 +25,13 @@ ht-degree: 2%
 
    정보 및 Microsoft Dynamics Sync용 최신 플러그인을 사용할 수 있습니다. [여기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
-1. 설치 [Microsoft Dynamics용 Adobe Sign](https://appsource.microsoft.com/ko-KR/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
+1. 설치 [Microsoft Dynamics용 Acrobat Sign](https://appsource.microsoft.com/ko-KR/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
 
    이 플러그인에 대한 정보를 사용할 수 있습니다. [여기](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## 사용자 정의 개체 찾기
 
-Marketo Microsoft Dynamics Sync 및 Adobe Sign for Dynamics 구성이 완료되면 Marketo 관리 터미널에 두 개의 새로운 옵션이 나타납니다.
+Marketo Microsoft Dynamics 동기화 및 Acrobat for Dynamics 구성이 완료되면 Marketo 관리 터미널에 두 개의 새로운 옵션이 나타납니다.
 
 ![관리자](assets/adminTerminal.png)
 
@@ -205,4 +205,4 @@ Marketo Microsoft Dynamics Sync 및 Adobe Sign for Dynamics 구성이 완료되�
 
 >[!TIP]
 >
->이 튜토리얼은 [Microsoft Dynamics 및 Marketo에서 Adobe Sign을 사용하여 세일즈 주기 단축](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) Experience League에서 무료로 사용할 수 있습니다!
+>이 튜토리얼은 [Microsoft Dynamics 및 Marketo용 Acrobat Sign을 사용하여 세일즈 주기 단축](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) Experience League에서 무료로 사용할 수 있습니다!

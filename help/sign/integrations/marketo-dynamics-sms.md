@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign for Microsoft Dynamics 365 및 Marketo을 사용하여 알림 보내기
+title: Microsoft Dynamics 365 및 Marketo용 Acrobat Sign을 사용하여 알림 보내기
 description: 서명자에게 계약이 진행 중임을 알리기 위해 문자 메시지, 전자 메일 또는 푸시 알림을 보내는 방법을 알아봅니다.
 role: Admin
 product: adobe sign
@@ -8,7 +8,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: 60582eeaf8437ca1206f45b0b6daf96629c16b61
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%

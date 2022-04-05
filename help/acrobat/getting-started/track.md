@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-8256.jpg
 kt: 8256
-source-git-commit: 1e8dc23acc3d461b5623855b348329479958baf5
+exl-id: 2a86c55a-cb15-4ccb-9a8d-54df1164310f
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
@@ -19,6 +20,6 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Acrobat Enterprise 구독 외에 Adobe Sign Enterprise 권한이 있어야 합니다.
+>Acrobat Enterprise 구독 외에 Acrobat Sign Enterprise 권한이 있어야 합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338492?hidetitle=true)

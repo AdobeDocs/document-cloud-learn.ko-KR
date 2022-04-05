@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 29764t1.jpg
 exl-id: e16be9f0-4c92-4f9f-bc36-609c81e94763
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -22,4 +22,4 @@ Microsoft Outlook 내에서 직접 양식을 작성하고 서명하여 문서 �
 
 >[!TIP]
 >
->이 비디오는 과정의 일부입니다 [Microsoft 앱 내에서 Adobe Sign 사용](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) Experience League에서 무료로 사용할 수 있습니다!
+>이 비디오는 과정의 일부입니다 [Microsoft 앱에서 Acrobat Sign 사용](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) Experience League에서 무료로 사용할 수 있습니다!

@@ -6,7 +6,7 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![Sign 시작 이미지](../assets/Hero-GettingStarted.png)
 
-간단한 단계별 튜토리얼을 통해 문서를 전송, 서명 및 추적하는 방법을 빠르게 알아볼 수 있습니다. Adobe Sign을 빠르게 살펴본 다음 한 명 이상의 사람에게 문서를 전송합니다. 이 콘텐츠는 전자 서명 워크플로우를 간소화하기 위해 고안되었습니다.
+간단한 단계별 튜토리얼을 통해 문서를 전송, 서명 및 추적하는 방법을 빠르게 알아볼 수 있습니다. Acrobat Sign을 빠르게 살펴본 다음 한 명 이상의 사람에게 문서를 전송합니다. 이 콘텐츠는 전자 서명 워크플로우를 간소화하기 위해 고안되었습니다.
 
 ## 전송
 
@@ -25,12 +25,12 @@ ht-degree: 0%
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Adobe Sign 둘러보기" src="../assets/Quick-Tour.png" />
+      <img alt="Acrobat Sign 둘러보기" src="../assets/Quick-Tour.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Adobe Sign 둘러보기</strong></a>
+    <a href="quick-tour.md"><strong>Acrobat Sign 둘러보기</strong></a>
     </div>
-    <em>Adobe Sign 인터페이스를 빠르게 확인하여 시작하고 실행합니다</em>
+    <em>Acrobat Sign 인터페이스를 빠르게 살펴보고 시작하십시오</em>
     <br>
   </td>
   <td>
@@ -57,12 +57,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="처음 보낸 사람을 위한 Adobe Sign 시작하기" src="../assets/gettingstartednew.png" />
+      <img alt="처음 보낸 사람에 대한 Acrobat Sign 시작하기" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>처음 보낸 사람을 위한 Adobe Sign 시작하기</strong></a>
+    <a href="new-sender.md"><strong>처음 보낸 사람에 대한 Acrobat Sign 시작하기</strong></a>
     </div>
-    <em>이 종합적인 튜토리얼은 Adobe Sign에서 처음 보낸 사람을 위한 좋은 출발점입니다</em>
+    <em>이 종합적인 튜토리얼은 Acrobat Sign의 신규 전송자를 위한 좋은 출발점입니다</em>
     <br>
   </td>
   <td>
@@ -89,7 +89,7 @@ ht-degree: 0%
     <div>
     <a href="electronically-sign-a-document.md"><strong>문서에 전자 서명</strong></a>
     </div>
-    <em>Adobe Sign을 사용하여 사용자에게 전송된 문서에 손쉽게 서명하는 방법에 대해 알아봅니다</em>
+    <em>Acrobat Sign을 사용하여 사용자에게 전송된 문서에 손쉽게 서명하는 방법을 알아봅니다.</em>
     <br>
   </td>
   <td>
@@ -109,7 +109,7 @@ ht-degree: 0%
     <div>
     <a href="sign-in-person.md"><strong>직접 서명 받기</strong></a>
     </div>
-    <em>Adobe Sign 모바일 앱을 사용하여 직접 다른 사람의 서명 받기</em>
+    <em>Acrobat Sign 모바일 앱을 사용하여 직접 다른 사람의 서명 받기</em>
     <br>
   </td>
 </tr>

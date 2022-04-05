@@ -9,7 +9,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -73,7 +73,7 @@ ht-degree: 0%
     <div>
     <a href="usecasegovpaycheck.md"><strong>급여 보호</strong></a>
     </div>
-    <em>Adobe Sign을 사용하여 결제 보호 프로그램 양식을 온라인 대화형 양식으로 변환하는 방법에 대해 살펴보십시오</em>
+    <em>Acrobat Sign을 사용하여 결제 보호 프로그램 양식을 온라인 대화형 양식으로 변환하는 방법을 확인하십시오</em>
     <br>
   </td>
   <td>

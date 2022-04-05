@@ -1,23 +1,23 @@
 ---
 title: 자습서
-description: 초보자와 관리자 모두가 Adobe Sign을 빠르게 이용할 수 있도록 마련된 튜토리얼, 웨비나 및 활용 사례
+description: 초보자와 관리자 모두 Acrobat Sign을 빠르게 이용할 수 있도록 고안된 튜토리얼, 웨비나 및 활용 사례 컬렉션
 role: User, Admin
 product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: ec2ddf579a10d659ac8f92f2c8d7dcade74c56b9
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 6%
+ht-degree: 4%
 
 ---
 
-# Adobe Sign 자습서
+# Acrobat Sign 자습서
 
-![Adobe Sign 메인 이미지](assets/Hero_Sign.jpg)
+![Acrobat Sign 메인 이미지](assets/Hero_Sign.jpg)
 
-Adobe Document Cloud 솔루션인 Adobe Sign은 통합, API, 고급 인증, 추가 관리자 기능 등을 통해 기업의 요구에 맞게 확장할 수 있습니다. 여기에서 Adobe Sign에 대한 초보자와 관리자 모두를 빠르게 향상시킬 수 있는 다양한 학습 경험을 찾을 수 있습니다.
+Adobe Document Cloud 솔루션인 Acrobat Sign은 통합, API, 고급 인증, 추가 관리자 기능 등을 통해 기업의 요구에 맞게 확장할 수 있습니다. 여기에서 Acrobat Sign에 대한 초보자와 관리자 모두를 빠르게 향상시킬 수 있는 다양한 학습 경험을 찾을 수 있습니다.
 
 ## 학습 경로
 
@@ -62,7 +62,7 @@ Adobe Document Cloud 솔루션인 Adobe Sign은 통합, API, 고급 인증, 추�
     <div>
     <a href="digitalid/digitalid-overview.md"><strong>디지털 ID</strong></a>
     </div>
-    <em>Adobe Sign을 사용하여 전 세계 디지털 ID를 사용하는 방법 학습</em>
+    <em>Acrobat Sign을 사용하여 전 세계 디지털 ID를 사용하는 방법 알아보기</em>
     <br>
   </td>
   <td>
@@ -72,7 +72,7 @@ Adobe Document Cloud 솔루션인 Adobe Sign은 통합, API, 고급 인증, 추�
     <div>
     <a href="integrations/integrations-overview.md"><strong>통합</strong></a>
     </div>
-    <em>조직에서 이미 사용 중인 다른 애플리케이션에 Adobe Sign을 직접 추가할 수 있습니다</em>
+    <em>Acrobat Sign을 조직에서 이미 사용 중인 다른 애플리케이션에 바로 추가할 수 있습니다</em>
     <br>
   </td>
   <td>
@@ -94,7 +94,7 @@ Adobe Document Cloud 솔루션인 Adobe Sign은 통합, API, 고급 인증, 추�
     <div>
     <a href="develop/develop-overview.md"><strong>현상</strong></a>
     </div>
-    <em>Adobe Sign I/O에 대한 개발 리소스 받기</em>
+    <em>Acrobat Sign I/O에 대한 개발 리소스 받기</em>
     <br>
   </td>
    <td>
@@ -104,7 +104,7 @@ Adobe Document Cloud 솔루션인 Adobe Sign은 통합, API, 고급 인증, 추�
     <div>
     <a href="deploy-overview.md"><strong>배포</strong></a>
     </div>
-    <em>조직 내 Adobe Sign 배포에 대한 인사이트 및 모범 사례</em>
+    <em>조직 내에 Acrobat Sign을 배포하기 위한 인사이트 및 모범 사례</em>
     <br>
   </td>
   <td>

@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 3717f0805eec8d413fe55c1f0cc2bac24199abc0
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 1%
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Sign 관리자 이미지](../assets/Hero-Admin.png)
 
-계정에 사용자를 추가하고, 그룹을 설정하고, 액세스를 공유하고, 워크플로, 외부 보관, 공유 이벤트 및 경고를 설정하는 방법에 대해 알아봅니다. 이 자습서는 설치 단계를 지나 Adobe Sign 관리를 시작할 준비가 된 관리자를 위해 설계되었습니다. 고급 작업에서는 관리자 설정 부분을 지나서 확장하여 전역 설정, 계정 액세스 및 공유, 텍스트 태그 지정 정의 부분으로 이동하는 항목을 다룹니다.
+계정에 사용자를 추가하고, 그룹을 설정하고, 액세스를 공유하고, 워크플로, 외부 보관, 공유 이벤트 및 경고를 설정하는 방법에 대해 알아봅니다. 이 자습서는 설치 단계를 지나 Acrobat Sign 관리를 시작할 준비가 된 관리자를 위해 설계되었습니다. 고급 작업에서는 관리자 설정 부분을 지나서 확장하여 전역 설정, 계정 액세스 및 공유, 텍스트 태그 지정 정의 부분으로 이동하는 항목을 다룹니다.
 
 ## 시작하기
 
@@ -31,7 +31,7 @@ ht-degree: 1%
     <div>
     <a href="up-and-running-admin.md"><strong>관리자용 가동 및 실행</strong></a>
     </div>
-    <em>Adobe Sign에서 신속하게 작업을 시작하고 실행하기 위한 7가지 주요 영역 개요</em>
+    <em>Acrobat Sign을 빠르게 시작하고 실행하기 위한 7가지 주요 영역 개요</em>
     <br>
   </td>
   <td>
@@ -51,7 +51,7 @@ ht-degree: 1%
     <div>
     <a href="add-users-to-your-account.md"><strong>사용자 추가</strong></a>
     </div>
-    <em>Adobe Sign 계정에 개별적으로 또는 일괄적으로 사용자 추가</em>
+    <em>Acrobat Sign 계정에 개별적으로 또는 일괄적으로 사용자 추가</em>
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ ht-degree: 1%
     <div>
     <a href="create-a-report.md"><strong>보고서 생성</strong></a>
     </div>
-    <em>보고서를 생성하고 일정을 지정하여 조직의 Adobe Sign 사용 현황을 파악할 수 있습니다.</em>
+    <em>보고서를 작성하고 일정을 지정하여 조직의 Acrobat Sign 사용을 명확하게 파악할 수 있습니다.</em>
     <br>
   </td>
   <td>
@@ -191,12 +191,12 @@ ht-degree: 1%
   </td> 
   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
-      <img alt="Adobe Sign 텍스트 태그 지정" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat 서명 텍스트 태그 지정" src="../assets/Text-Tagging.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Adobe Sign 텍스트 태그 지정</strong></a>
+    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat 서명 텍스트 태그 지정</strong></a>
     <div>
-    <em>Adobe Acrobat에서 텍스트 태그를 지정하여 Adobe Sign 양식 필드 작성</em>
+    <em>Adobe Acrobat을 사용하여 텍스트 태그를 지정하여 Acrobat Sign 양식 필드 작성</em>
     <br>
   </td>
   <td>
