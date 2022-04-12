@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![고급 이미지 서명](../assets/Hero-Advanced.png)
 
-서명을 위해 문서를 한 번에 100명의 수신자에게 전송하고, 웹 사이트에 사용할 서명 준비 문서를 설정하고, 서명 트랜잭션을 관리하고, 문서 템플릿을 만들고 관리하는 방법을 알아봅니다. 이 튜토리얼은 서명 전송 및 요청의 기본 사항에 이미 익숙하고 Acrobat Sign의 다양한 작업 방법을 알고 싶은 사용자를 위한 것입니다.
+서명을 위해 문서를 한 번에 100명의 수신자에게 전송하고, 웹 사이트에 사용할 서명 준비 문서를 설정하고, 서명 트랜잭션을 관리하고, 문서 템플릿을 만들고 관리하는 방법을 알아봅니다. 이 튜토리얼은 서명 전송 및 요청의 기본 사항에 이미 익숙한 사용자를 위한 것이며, Acrobat Sign이 사용자를 위해 작동하는 더 많은 방법을 알아보길 원합니다.
 
 ## 전송
 
@@ -26,12 +26,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="공정순서 순서 설정" src="../assets/Routing.png">
+      <img alt="서명 순서 설정" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>공정순서 순서 설정</strong></a>
+    <a href="setting-up-routing.md"><strong>서명 순서 설정</strong></a>
     </div>
-    <em>여러 서명자에 대한 라우팅 순서 설정</em>
+    <em>여러 서명자에 대한 서명 순서 설정</em>
     <br>
   </td>
   <td>
