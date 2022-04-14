@@ -7,16 +7,21 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: fccb3631326f0a7d6196f20c40b96270a6de23a4
+source-git-commit: 600c63c455acf3f4d0884b62a883b7ed94670fe9
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
 # 전송 후 문서 수정
 
-실수로 잘못된 문서를 보낸 경우처럼 서명을 위해 이미 전송된 문서를 수정하는 방법을 알아봅니다.
+실수로 잘못된 문서를 보낸 경우처럼 서명을 위해 이미 전송된 문서를 수정하는 방법을 알아봅니다. 계약 수정은 다음 조건을 충족하는 문서에서만 사용할 수 있습니다.
+
+* 문서가 서명, 승인 또는 위임되지 않았습니다.
+* 문서에 디지털 서명 또는 자필 서명이 포함되어 있지 않습니다.
+* 사용자 정의 작업 과정에서 문서가 시작되지 않았습니다.
+
 
 >[!NOTE]
 >
