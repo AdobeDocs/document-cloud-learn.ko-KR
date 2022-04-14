@@ -6,16 +6,20 @@ product: adobe sign
 level: Intermediate
 thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 # 보고서 생성
 
-Acrobat Sign에서 보고서를 실행, 저장 및 예약하는 방법을 알아봅니다.
+Acrobat Sign에서 보고서를 실행, 저장 및 예약하는 방법에 대해 알아봅니다.
+
+>[!NOTE]
+>
+>보고는 비즈니스 및 엔터프라이즈 수준 플랜에만 사용할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17357?hidetitle=true)
 

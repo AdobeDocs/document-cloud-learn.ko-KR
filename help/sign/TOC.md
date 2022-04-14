@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '418'
 ht-degree: 6%
 
 ---
@@ -26,6 +26,7 @@ ht-degree: 6%
       + [단일 수신자에게 보내기](sign-beginner-tutorials/send-to-single-recipient.md)
       + [여러 수신자에게 보내기](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [처음 보낸 사람에 대한 Acrobat Sign 시작하기](sign-beginner-tutorials/new-sender.md)
+      + [전송 후 문서 수정](sign-beginner-tutorials/modify-in-flight.md)
    + Signing {#getting-started-signing}
       + [문서에 전자 서명](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [문서 채우기 및 서명](sign-beginner-tutorials/fill-and-sign.md)
@@ -35,7 +36,6 @@ ht-degree: 6%
    + 관리 {#getting-started-managing}
       + [계약 관리 및 추적](sign-beginner-tutorials/manage-and-track.md)
       + [문서 템플릿 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
-      + [서명을 위해 이미 전송된 문서 수정](sign-beginner-tutorials/modify-in-flight.md)
 + 고급 작업 {#advanced-tasks}
    + [개요](sign-advanced-users/advanced-users-overview.md)
    + 전송 중 {#advanced-tasks-sending}
