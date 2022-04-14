@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
+source-git-commit: fccb3631326f0a7d6196f20c40b96270a6de23a4
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->전송 후 문서 수정은 엔터프라이즈 수준 플랜에만 사용할 수 있습니다. 이 기능을 사용하려면 Acrobat Sign 관리자가 계정 설정의 전송 설정 섹션에서 계약 수정 설정을 활성화해야 할 수 있습니다.
+>전송 후 문서 수정은 엔터프라이즈 수준 플랜에만 사용할 수 있습니다. Acrobat Sign 관리자가 **계약 수정** 설정 **전송 설정** 섹션 **계정 설정** 이 기능을 사용합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342299?hidetitle=true)
 
