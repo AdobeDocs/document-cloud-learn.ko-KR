@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 0%
+source-wordcount: '345'
+ht-degree: 1%
 
 ---
 
@@ -25,12 +25,12 @@ ht-degree: 0%
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Acrobat Sign 둘러보기" src="../assets/Quick-Tour.png" />
+      <img alt="작업 영역 기본 사항" src="../assets/workspace_1280.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Acrobat Sign 둘러보기</strong></a>
+    <a href="quick-tour.md"><strong>작업 영역 기본 사항</strong></a>
     </div>
-    <em>Acrobat Sign 인터페이스를 빠르게 확인하여 시작하고 실행합니다</em>
+    <em>Acrobat Sign 작업 영역을 빠르게 살펴보고 바로 시작할 수 있습니다</em>
     <br>
   </td>
   <td>
@@ -57,12 +57,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="처음 보낸 사람을 위한 Acrobat Sign 시작하기" src="../assets/gettingstartednew.png" />
+      <img alt="처음 보낸 사람에 대한 Acrobat Sign 시작하기" src="../assets/gettingstartednew.png" />
     </a>
     <div>
     <a href="new-sender.md"><strong>처음 보낸 사람에 대한 Acrobat Sign 시작하기</strong></a>
     </div>
-    <em>이 종합적인 튜토리얼은 Acrobat Sign의 신규 전송자를 위한 좋은 출발점입니다</em>
+    <em>이 종합적인 튜토리얼은 Acrobat Sign에서 처음 보낸 사람을 위한 좋은 출발점입니다</em>
     <br>
   </td>
  <td>

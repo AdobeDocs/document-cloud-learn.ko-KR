@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 6%
+source-wordcount: '418'
+ht-degree: 7%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 6%
 + 시작하기 {#getting-started}
    + [개요](sign-beginner-tutorials/beginner-users-overview.md)
    + 전송 중 {#getting-started-sending}
-      + [Acrobat Sign 둘러보기](sign-beginner-tutorials/quick-tour.md)
+      + [작업 영역 기본 사항](sign-beginner-tutorials/quick-tour.md)
       + [단일 수신자에게 보내기](sign-beginner-tutorials/send-to-single-recipient.md)
       + [여러 수신자에게 보내기](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [처음 보낸 사람에 대한 Acrobat Sign 시작하기](sign-beginner-tutorials/new-sender.md)
@@ -86,7 +86,7 @@ ht-degree: 6%
       + [SharePoint Online에서 서명을 위해 보내기](integrations/send-for-signature-with-sharepoint-online.md)
       + [SharePoint Online에서 추적](integrations/track-an-agreement-with-sharepoint-online.md)
       + [서명을 위해 문서 보내기 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-      + [Microsoft Power Platform용 Acrobat Sign을 통해 문서 자동화](integrations/documentautomation.md)
+      + [Microsoft Power Platform용 Acrobat Sign으로 문서 자동화](integrations/documentautomation.md)
    + Salesforce {#salesforce}
       + [문서 템플릿 만들기](integrations/create-an-agreement-template.md)
       + [데이터 매핑 설정](integrations/set-up-data-mapping.md)
