@@ -1,23 +1,23 @@
 ---
-title: Microsoft Dynamics 365 및 Marketo용 Acrobat Sign을 사용하여 알림 보내기
+title: Acrobat Sign for Microsoft Dynamics 365 및 Marketo을 사용하여 알림 보내기
 description: 서명자에게 계약이 진행 중임을 알리기 위해 문자 메시지, 전자 메일 또는 푸시 알림을 보내는 방법을 알아봅니다.
 role: Admin
-product: adobe sign
+product: acrobat sign
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 60582eeaf8437ca1206f45b0b6daf96629c16b61
+source-git-commit: f63e7630f43cf7a5d049c286458f9f3549b29869
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%
 
 ---
 
-# Adobe Sign for Microsoft Dynamics 365 및 Marketo을 사용하여 알림 보내기
+# Acrobat Sign for Microsoft Dynamics 365 및 Marketo을 사용하여 알림 보내기
 
-Adobe Sign, Microsoft Dynamic용 Adobe Sign, Marketo 및 Marketo Microsoft Dynamics Sync를 사용하여 계약이 진행 중임을 서명자에게 알리기 위해 텍스트 메시지, 전자 메일 또는 푸시 알림을 보내는 방법을 알아봅니다. Marketo에서 알림을 보내려면 먼저 Marketo SMS 관리 기능을 구매하거나 구성해야 합니다. 이 연습에서는 [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)하지만 다른 Marketo SMS 솔루션도 사용할 수 있습니다.
+Acrobat Sign, Microsoft Dynamic용 Acrobat Sign, Marketo 및 Marketo Microsoft Dynamics Sync를 사용하여 계약이 진행 중임을 서명자에게 알리기 위해 텍스트 메시지, 전자 메일 또는 푸시 알림을 보내는 방법을 알아봅니다. Marketo에서 알림을 보내려면 먼저 Marketo SMS 관리 기능을 구매하거나 구성해야 합니다. 이 연습에서는 [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)하지만 다른 Marketo SMS 솔루션도 사용할 수 있습니다.
 
 ## 사전 요구 사항
 
@@ -25,13 +25,13 @@ Adobe Sign, Microsoft Dynamic용 Adobe Sign, Marketo 및 Marketo Microsoft Dynam
 
    정보 및 Microsoft Dynamics Sync용 최신 플러그인을 사용할 수 있습니다. [여기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
-1. Microsoft Dynamics용 Adobe Sign을 설치합니다.
+1. Microsoft Dynamics용 Acrobat Sign을 설치합니다.
 
    이 플러그인에 대한 정보를 사용할 수 있습니다. [여기](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## 사용자 정의 개체 찾기
 
-Marketo Microsoft Dynamics Sync 및 Adobe Sign for Dynamics 구성이 완료되면 Marketo 관리 터미널에 두 개의 새로운 옵션이 나타납니다.
+Marketo Microsoft Dynamics Sync 및 Acrobat Sign for Dynamics 구성이 완료되면 Marketo 관리 터미널에 두 개의 새로운 옵션이 나타납니다.
 
 ![관리자](assets/adminTerminal.png)
 
@@ -152,4 +152,4 @@ Marketo 설정 - [!DNL Twilio] SMS Webhook에는 3개의 [!DNL Twilio] 매개 �
 1. 이제 계약에 추가된 리드를 위한 SMS 알림 캠페인이 설정됩니다.
 >[!TIP]
 >
->이 튜토리얼은 [Microsoft Dynamics 및 Marketo에서 Adobe Sign을 사용하여 세일즈 주기 단축](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) Experience League에서 무료로 사용할 수 있습니다!
+>이 튜토리얼은 [Microsoft Dynamics 및 Marketo에서 Acrobat Sign을 사용하여 세일즈 주기 단축](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) Experience League에서 무료로 사용할 수 있습니다!
