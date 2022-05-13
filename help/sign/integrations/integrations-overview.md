@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 799dbf108a41b7e2286b99df49d259aa0b382f0e
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![이미지 통합 서명](../assets/Hero-Integrate.png)
 
-Microsoft, Salesforce, Workday 및 Marketo과 같이 조직이 이미 사용 중인 다른 응용 프로그램 내에서 Acrobat Sign을 사용하여 몇 가지 이름을 지정할 수 있습니다. 통합 안내서 및 튜토리얼을 통해 전자 서명 워크플로우를 간소화하는 방법을 살펴보십시오.
+Microsoft, Salesforce, Workday 및 Marketo과 같이 조직이 이미 사용 중인 다른 애플리케이션에서 Acrobat Sign을 사용할 수 있습니다. 통합 안내서 및 튜토리얼을 통해 전자 서명 워크플로우를 간소화하는 방법을 살펴보십시오.
 
 >[!NOTE]
 > 이러한 기능에 액세스하는 데 문제가 있는 경우 조직의 관리자에게 문의하여 통합이 활성화되어 있는지 확인하십시오.
@@ -81,12 +81,12 @@ Microsoft, Salesforce, Workday 및 Marketo과 같이 조직이 이미 사용 중
   </td>
   <td>
     <a href="documentautomation.md">
-      <img alt="Microsoft Power Platform용 Acrobat Sign을 통해 문서 자동화" src="../assets/SF-Button.png" />
+      <img alt="Microsoft Power Platform용 Acrobat Sign으로 문서 자동화" src="../assets/SF-Button.png" />
     </a>
     <div>
     <a href="documentautomation.md"><strong>Microsoft Power Platform용 Acrobat Sign을 통해 문서 자동화</strong></a>
     </div>
-    <em>Microsoft Power Apps용 Acrobat Sign 및 Adobe PDF Tools 커넥터를 활성화하고 사용하는 방법에 대해 알아봅니다.</em>
+    <em>Microsoft Power Apps용 Acrobat Sign 및 Adobe PDF Tools 커넥터를 활성화하고 사용하는 방법에 대해 알아봅니다</em>
     <br>
   </td>
 </tr>
@@ -197,7 +197,7 @@ Microsoft, Salesforce, Workday 및 Marketo과 같이 조직이 이미 사용 중
       <img alt="Salesforce용 Acrobat Sign 및 Marketo 비디오 자습서를 사용하여 미리 알림 보내기" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Salesforce용 Acrobat Sign 및 Marketo 비디오 자습서를 사용하여 미리 알림 보내기</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Salesforce용 Adobe Sign 및 Marketo 비디오 자습서를 사용하여 미리 알림 보내기</strong></a>
     </div>
     <em>일정 기간 후 계약에 서명이 없는 경우 Marketo에서 전자 메일 미리 알림을 보내는 방법을 알아봅니다.</em>
     <br>
@@ -219,7 +219,7 @@ Microsoft, Salesforce, Workday 및 Marketo과 같이 조직이 이미 사용 중
       <img alt="Microsoft Dynamics 및 Marketo용 Acrobat Sign을 사용하여 미리 알림 보내기" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-reminder.md"><strong>Microsoft Dynamics 및 Marketo용 Acrobat Sign을 사용하여 미리 알림 보내기</strong></a>
+    <a href="marketo-dynamics-reminder.md"><strong>Microsoft Dynamics 및 Marketo용 Acrobat Sign을 사용하여 알림 메시지 보내기</strong></a>
     </div>
     <em>일정 기간 후 계약이 서명되지 않은 경우 전자 메일 미리 알림을 보내는 방법을 알아봅니다.</em>
     <br>
