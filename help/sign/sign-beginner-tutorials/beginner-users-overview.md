@@ -6,7 +6,7 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
+source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 1%
@@ -57,10 +57,10 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="처음 보낸 사람에 대한 Acrobat Sign 시작하기" src="../assets/gettingstartednew.png" />
+      <img alt="처음 보낸 사람을 위한 Acrobat Sign 시작하기" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>처음 보낸 사람에 대한 Acrobat Sign 시작하기</strong></a>
+    <a href="new-sender.md"><strong>처음 보낸 사람을 위한 Acrobat Sign 시작하기</strong></a>
     </div>
     <em>이 종합적인 튜토리얼은 Acrobat Sign에서 처음 보낸 사람을 위한 좋은 출발점입니다</em>
     <br>
@@ -72,8 +72,8 @@ ht-degree: 1%
     <div>
     <a href="modify-in-flight.md"><strong>전송 후 문서 수정</strong></a>
     </div>
-    <br>
     <em>이미 진행 중인 문서 수정</em>
+    <br>
   </td>
  <td>
     <a href="replace-signer.md">
@@ -82,8 +82,8 @@ ht-degree: 1%
     <div>
     <a href="replace-signer.md"><strong>서명자 바꾸기</strong></a>
     </div>
-    <br>
     <em>이미 진행 중인 문서의 서명자를 변경하는 방법 알아보기</em>
+     <br>
   </td>
 </tr>
 </table>
