@@ -22,4 +22,4 @@ Microsoft Outlook에서 서명이 필요한 문서를 바로 보내 문서 워�
 
 >[!TIP]
 >
->이 비디오는 과정의 일부입니다 [Microsoft 앱에서 Acrobat Sign 사용](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) Experience League에서 무료로 사용할 수 있습니다!
+>이 비디오는 과정의 일부입니다 [Microsoft 앱 내에서 Acrobat Sign 사용](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) Experience League에서 무료로 사용할 수 있습니다!

@@ -1,6 +1,6 @@
 ---
 title: Acrobat Sign 관리자를 위한 설치 및 실행
-description: Acrobat Sign을 빠르게 사용하여 작업을 시작하기 위한 7가지 주요 영역 개요
+description: Acrobat Sign에서 신속하게 작업을 시작할 수 있는 7가지 주요 영역
 role: Admin
 product: adobe sign
 level: Intermediate
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Acrobat Sign 관리자를 위한 설치 및 실행
 
-관리자가 Acrobat Sign을 빠르게 시작하고 실행하기 위해 집중해야 하는 7가지 주요 영역을 알아봅니다.
+Acrobat Sign을 빠르게 시작하고 실행하기 위해 관리자가 집중해야 하는 7가지 주요 영역을 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33657?hidetitle=true)
 

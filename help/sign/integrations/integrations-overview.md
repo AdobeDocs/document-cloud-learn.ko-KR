@@ -1,6 +1,6 @@
 ---
 title: Sign 통합 개요
-description: 기존 시스템, 프로세스 및 애플리케이션에 Acrobat Sign을 추가하는 방법에 대해 알아봅니다.
+description: 기존 시스템, 프로세스 및 애플리케이션에 Acrobat Sign을 추가하는 방법에 대해 학습합니다
 role: User
 product: adobe sign
 level: Intermediate
@@ -84,7 +84,7 @@ Microsoft, Salesforce, Workday 및 Marketo과 같이 조직이 이미 사용 중
       <img alt="Microsoft Power Platform용 Acrobat Sign으로 문서 자동화" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>Microsoft Power Platform용 Acrobat Sign을 통해 문서 자동화</strong></a>
+    <a href="documentautomation.md"><strong>Microsoft Power Platform용 Acrobat Sign으로 문서 자동화</strong></a>
     </div>
     <em>Microsoft Power Apps용 Acrobat Sign 및 Adobe PDF Tools 커넥터를 활성화하고 사용하는 방법에 대해 알아봅니다</em>
     <br>
@@ -162,7 +162,7 @@ Microsoft, Salesforce, Workday 및 Marketo과 같이 조직이 이미 사용 중
     <div>
     <a href="workday.md"><strong>Workday을 사용하여 Acrobat Sign 구성</strong></a>
     </div>
-    <em>Workday 내에서 직접 작동하도록 Acrobat Sign을 구성하여 모든 HR 서류 작업을 원활하게 관리하는 방법에 대해 알아봅니다</em>
+    <em>Workday에서 바로 작동하도록 Acrobat Sign을 구성하여 모든 인사 관련 서류 작업을 원활하게 관리하는 방법에 대해 알아봅니다</em>
     <br>
   </td>
   <td>
@@ -216,7 +216,7 @@ Microsoft, Salesforce, Workday 및 Marketo과 같이 조직이 이미 사용 중
 <tr>
   <td>
     <a href="marketo-dynamics-reminder.md">
-      <img alt="Microsoft Dynamics 및 Marketo용 Acrobat Sign을 사용하여 미리 알림 보내기" src="../assets/Integrate-Dynamics-Reminder.jpg" />
+      <img alt="Microsoft Dynamics 및 Marketo용 Acrobat Sign을 사용하여 알림 메시지 보내기" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
     <a href="marketo-dynamics-reminder.md"><strong>Microsoft Dynamics 및 Marketo용 Acrobat Sign을 사용하여 알림 메시지 보내기</strong></a>

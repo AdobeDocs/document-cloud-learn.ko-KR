@@ -9,7 +9,7 @@ exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
 source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
 workflow-type: tm+mt
 source-wordcount: '740'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -52,7 +52,7 @@ Acrobat DC 및 Adobe Sign Enterprise를 포함하는 광범위한 디지털 문�
 
 ## 기존 계약에 대한 액세스
 
-사용자는 Adobe ID(https://documentcloud.adobe.com)으로 로그인하여 Adobe Document Cloud을 통해 이 작업 전에 전송된 모든 계약에 계속 액세스할 수 있습니다. 이 사용자가 Sign Enterprise로 마이그레이션하도록 예약되어 있는 경우 다음을 따라야 합니다. [지침](https://helpx.adobe.com/sign/kb/how-to-download-signed-documents---adobe-sign.html).
+사용자는 Adobe ID(https://documentcloud.adobe.com)으로 로그인하여 Adobe Document Cloud을 통해 이 작업 전에 전송된 모든 계약에 계속 액세스할 수 있습니다. 이 사용자가 Sign Enterprise로 마이그레이션하도록 예약되어 있는 경우 다음을 따라야 합니다. [지침](https://helpx.adobe.com/kr/sign/kb/how-to-download-signed-documents---adobe-sign.html).
 
 ## Acrobat DC 경험 [!DNL Sign Individual] 권리
 

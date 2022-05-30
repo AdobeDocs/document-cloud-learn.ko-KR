@@ -1,6 +1,6 @@
 ---
 title: Acrobat Sign 기능 소개
-description: Acrobat Sign 기능 소개 프로그램은 30분 분량의 세션으로 별도의 추가 작업 없이 전자 서명을 효율적으로 사용할 수 있도록 설계되었습니다
+description: Acrobat Sign 스킬 빌더는 30분 분량의 세션으로 별도의 추가 작업 없이 전자 서명을 사용할 수 있습니다
 role: User
 product: adobe sign
 level: Intermediate
@@ -26,7 +26,7 @@ Acrobat Sign 스킬 빌더는 30분 분량의 세션으로 별도의 추가 작�
 날짜: 2022년 8월 18일 Acrobat Sign의 새로운 기능에 대한 분기별 검토를 위해 여러분을 초대합니다. 제품에 추가된 최신 버전에 대한 세부 정보를 공유하고, 해당 업데이트가 팀에 어떤 도움이 되는지 실시간으로 Q&amp;A를 받을 것입니다.
 
 * **[관리자용 스킬 빌더: 워크플로 만들기](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/83926d76-9959-4657-8b0c-f312835b46f6/aa1c9b21-1b16-4890-9c24-26dc630c4a95){target=&quot;_blank&quot;}**
-날짜: 2022년 7월 14일 처음으로 매번 문서에 서명해야 합니다. 그룹 또는 계정 관리자인 경우 Acrobat Sign에서 사전 설정된 작업 과정을 정의하여 서명할 문서를 올바른 당사자에게 자동으로 보낸 다음, 전체 Acrobat Sign 그룹에 액세스 권한을 부여하여 당사자가 주요 서명 프로세스에 대한 작업 과정을 실행할 수 있도록 할 수 있습니다.
+날짜: 2022년 7월 14일 처음으로 매번 문서에 서명해야 합니다. 그룹 또는 계정 관리자인 경우, Acrobat Sign에서 사전 설정된 작업 과정을 정의하여 서명이 필요한 문서를 자동으로 올바른 당사자에게 보낸 다음, 전체 Acrobat Sign 그룹에 대한 액세스 권한을 부여하여 당사자가 주요 서명 프로세스에 대한 작업 과정을 실행할 수 있도록 할 수 있습니다.
 
 * **[입력 가능하고 서명 가능한 웹 양식 게시](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/4499bc28-9f26-4b68-88a6-3815ebdff7cf/337fa9d6-c9d3-4bcc-b6d8-9c7580b9be40){target=&quot;_blank&quot;}**
 날짜: 2022년 6월 16일 웹 양식 을 작성하면 트랜잭션을 시작할 필요 없이 또는 전자 메일 주소도 모르는 사이에 누구나 양식을 작성하고 서명할 수 있습니다. 이 세션에서는 개별 서명 트랜잭션에 사용할 수 있는 문서 템플릿을 준비하고 광범위한 공유를 위해 고유한 URL에 게시하는 방법을 보여줍니다.
@@ -44,4 +44,4 @@ Acrobat Sign 스킬 빌더는 30분 분량의 세션으로 별도의 추가 작�
 날짜: 2022년 2월 17일 전자 서명을 위해 문서를 설정하는 세 가지 간단한 방법에 대해 알아봅니다. PDF, Microsoft 365 파일, 간단한 이미지 파일 등 이 세션에서는 문서에 서명을 받는 데 필요한 툴을 제공합니다. 다음 세 가지 방법을 다룹니다. - Acrobat Sign의 간단한 드래그하여 놓기 작성 환경 - Adobe Acrobat에서 PDF 양식 설정 - 빠르게 문서를 작성할 수 있도록 텍스트 태그를 사용합니다.
 
 * **[Microsoft 앱에서 전자 서명으로 작업](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/2dcd80a6-6335-4756-bbc8-3505fe99594b/866c4314-dc74-473b-9859-828801814e13){target=&quot;_blank&quot;}**
-날짜: 2022년 1월 20일 기존 작업 과정에 Microsoft Sign을 추가하여 Word, Outlook, Sharepoint와 같은 Acrobat 앱 사용 방식을 확장합니다. 이 세션에서는 서명을 받거나 상태를 확인하기 위해 컨텍스트 전환이 필요하지 않도록 일반 Microsoft 앱에서 문서 프로세스를 간소화하는 방법을 설명합니다.
+날짜: 2022년 1월 20일 기존 워크플로우에 Acrobat Sign을 추가하여 Word, Outlook, Sharepoint와 같은 Microsoft 앱 사용 방식을 확장할 수 있습니다. 이 세션에서는 서명을 받거나 상태를 확인하기 위해 컨텍스트 전환이 필요하지 않도록 일반 Microsoft 앱에서 문서 프로세스를 간소화하는 방법을 설명합니다.

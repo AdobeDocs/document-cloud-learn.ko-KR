@@ -22,4 +22,4 @@ Sharepoint Online에서 바로 서명을 위해 문서를 보내 문서 작업 �
 
 >[!TIP]
 >
->이 비디오는 과정의 일부입니다 [Microsoft 앱에서 Acrobat Sign 사용](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) Experience League에서 무료로 사용할 수 있습니다!
+>이 비디오는 과정의 일부입니다 [Microsoft 앱 내에서 Acrobat Sign 사용](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) Experience League에서 무료로 사용할 수 있습니다!

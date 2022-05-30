@@ -1,5 +1,5 @@
 ---
-title: Acrobat Mobile 개요
+title: Acrobat 모바일 개요
 description: 모바일 장치에서 PDF 만들기, 채우기 및 서명
 role: User
 product: adobe acrobat
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ---
 
-# Mobile 개요
+# 모바일 개요
 
-![Acrobat Mobile 이미지](../assets/Hero-Mobile.png)
+![Acrobat 모바일 이미지](../assets/Hero-Mobile.png)
 
 모바일 디바이스에서 PDF 작성, 채우기 및 서명
 

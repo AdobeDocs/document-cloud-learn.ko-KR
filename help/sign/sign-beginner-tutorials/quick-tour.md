@@ -16,7 +16,7 @@ ht-degree: 7%
 
 # 작업 영역 기본 사항
 
-Acrobat Sign 작업 영역을 빠르게 둘러보고 실행해봅니다.
+Acrobat Sign 작업 영역을 빠르게 비디오 둘러보면서 시작하고 실행하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41205?hidetitle=true)
 

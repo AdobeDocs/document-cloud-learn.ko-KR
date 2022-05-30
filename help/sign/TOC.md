@@ -25,7 +25,7 @@ ht-degree: 7%
       + [작업 영역 기본 사항](sign-beginner-tutorials/quick-tour.md)
       + [단일 수신자에게 보내기](sign-beginner-tutorials/send-to-single-recipient.md)
       + [여러 수신자에게 보내기](sign-beginner-tutorials/send-to-multiple-recipients.md)
-      + [처음 보낸 사람에 대한 Acrobat Sign 시작하기](sign-beginner-tutorials/new-sender.md)
+      + [처음 보낸 사람을 위한 Acrobat Sign 시작하기](sign-beginner-tutorials/new-sender.md)
       + [전송 후 문서 수정](sign-beginner-tutorials/modify-in-flight.md)
       + [서명자 바꾸기](sign-beginner-tutorials/replace-signer.md)
    + Signing {#getting-started-signing}
@@ -45,7 +45,7 @@ ht-degree: 7%
       + [승인자 추가](sign-advanced-users/add-an-approver.md)
       + [일괄 서명 수집](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [웹 양식 설정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Acrobat 서명 텍스트 태그 지정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [Acrobat Sign 텍스트 태그 지정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + 관리 {#advanced-tasks-managing}
       + [문서 템플릿 관리](sign-advanced-users/edit-a-template.md)
 + 관리 {#admin-set-up}
@@ -66,7 +66,7 @@ ht-degree: 7%
       + [계정 액세스 공유](admin/share-account-access.md)
       + [고급 계정 공유](admin/advanced-account-sharing.md)
       + [Bio-Pharma 설정 사용](admin/use-bio-pharma-settings.md)
-      + [Acrobat 서명 텍스트 태그 지정](sign-advanced-users/adobe-sign-text-tagging.md)
+      + [Acrobat Sign 텍스트 태그 지정](sign-advanced-users/adobe-sign-text-tagging.md)
 + 디지털 ID {#digital-id}
    + [개요](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}

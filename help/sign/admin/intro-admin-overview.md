@@ -31,7 +31,7 @@ ht-degree: 1%
     <div>
     <a href="up-and-running-admin.md"><strong>관리자용 가동 및 실행</strong></a>
     </div>
-    <em>Acrobat Sign을 빠르게 시작하고 실행하기 위한 7가지 주요 영역 개요</em>
+    <em>Acrobat Sign에서 신속하게 작업을 시작하고 실행하기 위한 7가지 주요 영역 개요</em>
     <br>
   </td>
   <td>
@@ -95,7 +95,7 @@ ht-degree: 1%
     <div>
     <a href="create-a-report.md"><strong>보고서 생성</strong></a>
     </div>
-    <em>보고서를 작성하고 일정을 지정하여 조직의 Acrobat Sign 사용을 명확하게 파악할 수 있습니다.</em>
+    <em>보고서를 생성하고 일정을 지정하여 조직의 Acrobat Sign 사용 현황을 파악할 수 있습니다.</em>
     <br>
   </td>
   <td>
@@ -191,12 +191,12 @@ ht-degree: 1%
   </td> 
   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
-      <img alt="Acrobat 서명 텍스트 태그 지정" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign 텍스트 태그 지정" src="../assets/Text-Tagging.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat 서명 텍스트 태그 지정</strong></a>
+    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign 텍스트 태그 지정</strong></a>
     <div>
-    <em>Adobe Acrobat을 사용하여 텍스트 태그를 지정하여 Acrobat Sign 양식 필드 작성</em>
+    <em>Adobe Acrobat에서 텍스트 태그를 지정하여 Acrobat Sign 양식 필드 작성</em>
     <br>
   </td>
   <td>

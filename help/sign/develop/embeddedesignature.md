@@ -1,6 +1,6 @@
 ---
 title: 포함된 전자 서명 및 문서 환경 만들기
-description: Acrobat Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시스템에 전자 서명 및 문서 경험을 포함하는 방법을 알아봅니다
+description: Acrobat Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시스템에 전자 서명 및 문서 경험을 포함하는 방법에 대해 알아봅니다
 role: User, Developer
 level: Intermediate
 topic: Integrations
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 # 포함된 전자 서명 및 문서 경험 제작
 
-Acrobat Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시스템에 전자 서명 및 문서 경험을 포함하는 방법을 알아봅니다. 아래 링크에 설명되어 있는 이 실습 튜토리얼의 네 가지 요소는 다음과 같습니다.
+Acrobat Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시스템에 전자 서명 및 문서 경험을 포함하는 방법에 대해 알아봅니다. 아래 링크에 설명되어 있는 이 실습 튜토리얼의 네 가지 요소는 다음과 같습니다.
 
 <table style="table-layout:fixed">
 <tr>
@@ -98,7 +98,7 @@ Acrobat Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시�
 
 액세스 권한을 보유하고 API와 상호 작용할 수 있으므로 API로 가능한 작업을 살펴보십시오.
 
-1. 다음 위치로 이동합니다. [Acrobat Sign REST API 버전 6 방법](http://adobesign.com/public/docs/restapi/v6).
+1. 다음 위치로 이동합니다. [Acrobat Sign REST API 버전 6 메서드](http://adobesign.com/public/docs/restapi/v6).
 
    ![Acrobat Sign REST API 버전 6 방법을 탐색하는 스크린샷](assets/embeddedesignature/embed_5.png)
 
