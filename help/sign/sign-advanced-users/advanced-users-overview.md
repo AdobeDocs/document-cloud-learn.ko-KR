@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
+source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 0%
       <img alt="다른 사람에게 위임" src="../assets/Delegating.png" />
     </a>  
     <div>
-    <a href="delegate-signature.md"><strong>다른 사람에게 위임</strong></a>
+    <a href="delegate-signature.md"><strong>위임자 역할 사용</strong></a>
     </div>
     <em>위임자 역할을 사용하여 중개인에게 문서를 보내고 중개인은 서명을 받을 문서를 보낼 수 있습니다.</em>
     <br>
@@ -78,12 +78,12 @@ ht-degree: 0%
   </td> 
   <td>
     <a href="adobe-sign-text-tagging.md">
-      <img alt="Acrobat 서명 텍스트 태그 지정" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign 텍스트 태그 지정" src="../assets/Text-Tagging.png" />
   </a>
     <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Acrobat 서명 텍스트 태그 지정</strong></a>
+    <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign 텍스트 태그 지정</strong></a>
     </div>
-    <em>Adobe Acrobat을 사용하여 텍스트 태그를 지정하여 Acrobat Sign 양식 필드 작성</em>
+    <em>Adobe Acrobat에서 텍스트 태그를 지정하여 Acrobat Sign 양식 필드 작성</em>
     <br>
   </td> 
 </table>
