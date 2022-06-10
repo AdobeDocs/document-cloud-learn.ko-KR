@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
+source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '244'
 ht-degree: 2%
 
 ---
@@ -58,10 +58,10 @@ ht-degree: 2%
 <tr>
   <td>
     <a href="megasign.md">
-      <img alt="일괄 서명 수집" src="../assets/Megasign.png" />
+      <img alt="한번에 서명 보내기 및 수집" src="../assets/Megasign.png" />
     </a>
     <div>
-    <a href="megasign.md"><strong>일괄 서명 수집</strong></a>
+    <a href="megasign.md"><strong>한번에 서명 보내기 및 수집</strong></a>
     </div>
     <em>몇 단계만으로 모든 문서에 수백 개의 서명을 한 번에 수집할 수 있습니다</em>
     <br>

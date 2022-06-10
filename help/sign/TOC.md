@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
+source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '420'
 ht-degree: 8%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 8%
       + [서명 순서 설정](sign-advanced-users/setting-up-routing.md)
       + [위임자 역할 사용](sign-advanced-users/delegate-signature.md)
       + [승인자 추가](sign-advanced-users/add-an-approver.md)
-      + [일괄 서명 수집](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [한번에 서명 보내기 및 수집](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [웹 양식 설정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Acrobat Sign 텍스트 태그 지정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + 관리 {#advanced-tasks-managing}
@@ -59,7 +59,7 @@ ht-degree: 8%
       + [템플릿 만들기](sign-advanced-users/create-a-template.md)
       + [보고서 생성](admin/create-a-report.md)
       + [웹 양식 설정](sign-advanced-users/webform.md)
-      + [일괄 서명 수집](sign-advanced-users/megasign.md)
+      + [한번에 서명 보내기 및 수집](sign-advanced-users/megasign.md)
       + [사용자 정의 작업 과정 만들기](admin/building-a-custom-workflow.md)
    + 고급 작업 {#advanced-tasks-admins}
       + [전역 설정](admin/learn-about-global-settings.md)
