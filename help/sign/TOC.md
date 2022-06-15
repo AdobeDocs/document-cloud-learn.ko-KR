@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
+source-git-commit: 52a85fcef686e09bd143eb7c470aa578291de940
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '426'
 ht-degree: 8%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 8%
       + [문서에 전자 서명](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [문서 채우기 및 서명](sign-beginner-tutorials/fill-and-sign.md)
       + [직접 서명 받기](sign-beginner-tutorials/sign-in-person.md)
+      + [다른 사용자에게 서명 위임](sign-beginner-tutorials/delegate-signing.md)
       + [디지털 서명 소개](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [스탬프로 서명](sign-beginner-tutorials/sign-with-a-stamp.md)
    + 관리 {#getting-started-managing}

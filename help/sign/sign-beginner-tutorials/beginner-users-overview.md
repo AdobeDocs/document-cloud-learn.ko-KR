@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
+source-git-commit: a58206e7d5da3d0f18b9d70b58407be033983c8f
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '366'
 ht-degree: 1%
 
 ---
@@ -99,7 +99,7 @@ ht-degree: 1%
     <div>
     <a href="electronically-sign-a-document.md"><strong>문서에 전자 서명</strong></a>
     </div>
-    <em>Acrobat Sign을 사용하여 사용자에게 전송된 문서에 손쉽게 서명하는 방법을 알아봅니다.</em>
+    <em>Acrobat Sign을 사용하여 사용자에게 전송된 문서에 손쉽게 서명하는 방법에 대해 알아봅니다</em>
     <br>
   </td>
   <td>
@@ -125,6 +125,16 @@ ht-degree: 1%
 </tr>
 <tr>
   <td>
+    <a href="delegate-signing.md">
+      <img alt="다른 사용자에게 서명 위임" src="../assets/Delegatesigning.png" />
+    </a>
+    <div>
+    <a href="delegate-signing.md"><strong>다른 사용자에게 서명 위임</strong></a>
+    </div>
+    <em>다른 사용자에게 문서 서명을 위임하는 방법 알아보기</em>
+    <br>
+  </td>
+  <td>
     <a href="sign-with-a-digital-signature.md">
       <img alt="디지털 서명 소개" src="../assets/Whatisdigsig_1280.jpg" />
     </a>
@@ -144,11 +154,6 @@ ht-degree: 1%
     <em>스탬프를 사용하여 승인 또는 완료된 문서를 표시합니다.</em>
      <br>
   </td> 
-  <td>
-    <img alt="스페이서" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>  
 </table>
 
