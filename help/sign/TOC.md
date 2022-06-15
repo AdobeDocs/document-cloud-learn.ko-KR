@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
+source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '421'
 ht-degree: 8%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 8%
    + 전송 중 {#advanced-tasks-sending}
       + [서명 순서 설정](sign-advanced-users/setting-up-routing.md)
       + [위임자 역할 사용](sign-advanced-users/delegate-signature.md)
-      + [승인자 추가](sign-advanced-users/add-an-approver.md)
+      + [승인자 역할 사용](sign-advanced-users/add-an-approver.md)
       + [한번에 서명 보내기 및 수집](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [웹 양식 설정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Acrobat Sign 텍스트 태그 지정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
