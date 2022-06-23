@@ -3,12 +3,12 @@ title: Acrobat Sign 관리자를 위한 설치 및 실행
 description: Acrobat Sign에서 신속하게 작업을 시작할 수 있는 7가지 주요 영역
 role: Admin
 product: adobe sign
-level: Intermediate
+level: Beginner
 thumbnail: 33657.jpg
 exl-id: 1e8603ee-fe16-4842-bf0b-1190b5a69d3b
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: aae60046431de366214addf8514646f2b61a59d1
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Acrobat Sign 관리자를 위한 설치 및 실행
 
 Acrobat Sign을 빠르게 시작하고 실행하기 위해 관리자가 집중해야 하는 7가지 주요 영역을 살펴봅니다.
+
+>[!NOTE]
+>
+>보고 기능은 비즈니스 및 엔터프라이즈 수준 플랜에만 사용할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33657?hidetitle=true)
 
