@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 52a85fcef686e09bd143eb7c470aa578291de940
+source-git-commit: 9338767601e88413f6a63fa4537a4f4f8dcbe3f3
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 8%
@@ -52,7 +52,7 @@ ht-degree: 8%
 + 관리 {#admin-set-up}
    + [개요](admin/intro-admin-overview.md)
    + 시작하기 {#getting-started-admin}
-      + [관리자용 시작 및 실행](admin/up-and-running-admin.md)
+      + [관리자용 가동 및 실행](admin/up-and-running-admin.md)
       + [이벤트 및 경고에 대한 알림 구성](admin/set-up-shared-events-and-alert.md)
       + [사용자 추가](admin/add-users-to-your-account.md)
       + [그룹 만들기 및 관리](admin/create-and-manage-groups.md)
