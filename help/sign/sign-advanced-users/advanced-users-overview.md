@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
+source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '244'
 ht-degree: 2%
 
 ---
@@ -68,10 +68,10 @@ ht-degree: 2%
   </td>
   <td>
     <a href="webform.md">
-      <img alt="웹 양식 설정" src="../assets/Webform.png" />
+      <img alt="웹 양식 만들기" src="../assets/Webform.png" />
     </a>
     <div>
-    <a href="webform.md"><strong>웹 양식 설정</strong></a>
+    <a href="webform.md"><strong>웹 양식 만들기</strong></a>
     </div>
     <em>웹 사이트에서 직접 전자 서명할 수 있는 문서 만들기</em>
     <br>
