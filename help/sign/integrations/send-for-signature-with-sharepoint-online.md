@@ -7,16 +7,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 41263.jpg
 exl-id: a9a112e8-b599-4578-86da-8a8c6f22059e
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # SharePoint Online에서 서명을 위해 보내기
 
-Sharepoint Online에서 바로 서명을 위해 문서를 보내 문서 작업 과정을 간소화하는 방법을 알아봅니다.
+문서 워크플로우의 효율성을 높이기 위해 서명이 필요한 문서를 [!DNL Microsoft Sharepoint Online].
 
 >[!VIDEO](https://video.tv.adobe.com/v/41263?hidetitle=true)
 

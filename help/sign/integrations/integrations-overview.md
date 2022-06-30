@@ -1,5 +1,5 @@
 ---
-title: Sign 통합 개요
+title: 통합 개요
 description: 기존 시스템, 프로세스 및 애플리케이션에 Acrobat Sign을 추가하는 방법에 대해 학습합니다
 role: User
 product: adobe sign
@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 799dbf108a41b7e2286b99df49d259aa0b382f0e
+source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---

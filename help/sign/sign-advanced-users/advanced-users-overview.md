@@ -1,5 +1,5 @@
 ---
-title: Sign 고급 작업 개요
+title: 고급 작업 개요
 description: 서명을 위해 문서를 한 번에 100명의 수신자에게 전송하고, 웹 사이트에 사용할 서명 준비 문서를 설정하고, 서명 트랜잭션을 관리하고, 문서 템플릿을 만들고 관리하는 방법을 알아봅니다
 role: User
 product: adobe sign
@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
+source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---
