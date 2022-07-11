@@ -9,14 +9,16 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: dd27b6a410af8397fe0d7315fd284bae8a586ab9
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
 # 케이스 레시피 사용
+
+![사례 배너 사용](../assets/Hero-Recipe.png)
 
 공공 기관 및 상업용 전자 서명 예시를 통해 기업의 디지털 워크플로우를 가속화할 수 있습니다. 특정 전자 서명 사용 사례를 설정하는 방법에 대한 리소스 및 세부 정보가 포함된 PDF을 보려면 클릭하십시오.
 
