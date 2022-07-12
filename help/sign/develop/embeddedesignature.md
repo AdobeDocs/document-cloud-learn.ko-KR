@@ -7,7 +7,7 @@ topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 60c676687a59e9b8f999b0e71fa9e03e94f043d4
+source-git-commit: f68fc211dc315a7d7ef508787c80fbe9882fcdc3
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 3%
@@ -33,6 +33,8 @@ Acrobat Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시�
    * Windows — Chocolatey
    * All — https://www.python.org/downloads/
 
++++
+
 ## 2부: Low/No Code — 강력한 웹 양식
 
 2부에서는 웹 양식 사용의 낮은/코드 없음 옵션을 살펴봅니다. 처음에 코드를 작성하지 않아도 되는지 확인하는 것이 좋습니다.
@@ -54,6 +56,8 @@ Acrobat Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시�
 1. 쿼리 매개 변수를 동적으로 추가해 보십시오.
 
    ![쿼리 매개 변수 추가 스크린샷](assets/embeddedesignature/embed_3.png)
+
++++
 
 ## 파트 3: 양식과 함께 계약 보내기 및 데이터 병합
 
@@ -110,6 +114,8 @@ Acrobat Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시�
 
 ![동적으로 서명을 추가하는 코드 스크린샷](assets/embeddedesignature/embed_11.png)
 
++++
+
 ## 4부: 서명 경험, 리디렉션 등을 임베드합니다.
 
 많은 시나리오에서 트리거하는 참가자가 즉시 계약에 서명하도록 허용할 수 있습니다. 이는 고객 대면 애플리케이션 및 키오스크에 유용합니다.
@@ -135,6 +141,8 @@ Acrobat Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시�
 ![재시도 루프를 설정하는 것이 좋다는 스크린샷](assets/embeddedesignature/embed_15.png)
 
 모든 것을 종합하면, 해결책은 상당히 간단하다. 계약을 만든 다음 서명자가 클릭하여 서명 의식을 시작할 서명 URL을 생성하는 것입니다.
+
++++
 
 ## 추가 항목
 
