@@ -7,57 +7,22 @@ topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 60c676687a59e9b8f999b0e71fa9e03e94f043d4
 workflow-type: tm+mt
-source-wordcount: '928'
+source-wordcount: '876'
 ht-degree: 3%
 
 ---
 
 # 포함된 전자 서명 및 문서 경험 제작
 
-Acrobat Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시스템에 전자 서명 및 문서 경험을 포함하는 방법에 대해 알아봅니다. 아래 링크에 설명되어 있는 이 실습 튜토리얼의 네 가지 요소는 다음과 같습니다.
+Acrobat Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시스템에 전자 서명 및 문서 경험을 포함하는 방법에 대해 알아봅니다. 이 실습 튜토리얼에는 네 가지 부분이 있습니다.
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="embeddedesignature.md#part1">
-        <img alt="준비물" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
-    </a>
-    <div>
-    <a href="embeddedesignature.md#part1"><strong>1부: 준비물</strong></a>
-    </div>
-  </td>
-  <td>
-    <a href="embeddedesignature.md#part2">
-        <img alt="2부: Low/No Code — 강력한 웹 양식" src="assets/embeddedesignature/EmbedPart2_thumb.png" />
-    </a>
-    <div>
-    <a href="embeddedesignature.md#part2"><strong>2부: Low/No Code — 강력한 웹 양식</strong></a>
-    </div>
-  </td>
-  <td>
-   <a href="embeddedesignature.md#part3">
-      <img alt="파트 3: 양식과 계약서 보내기, 데이터 병합" src="assets/embeddedesignature/EmbedPart3_thumb.png" />
-   </a>
-    <div>
-    <a href="embeddedesignature.md#part3"><strong>파트 3: 양식과 함께 계약 보내기 및 데이터 병합</strong></a>
-    </div>
-  </td>
-  <td>
-   <a href="embeddedesignature.md#part4">
-      <img alt="4부: 서명 경험, 리디렉션 등을 임베드합니다." src="assets/embeddedesignature/EmbedPart4_thumb.png" />
-   </a>
-    <div>
-    <a href="embeddedesignature.md#part4"><strong>4부: 서명 경험, 리디렉션 등을 임베드합니다.</strong></a>
-    </div>
-  </td>
-</tr>
-</table>
+## 1부: 필요한 기능
 
-## 1부: 준비물 {#part1}
+1부에서는 2-4부에 필요한 모든 것을 시작하는 방법을 알아봅니다. 먼저 API 자격 증명을 가져오겠습니다.
 
-1부에서는 2-4부에 필요한 모든 것을 시작하는 방법을 배웁니다. 먼저 API 자격 증명을 가져오겠습니다.
++++API 자격 증명을 가져오는 방법에 대한 세부 정보 보기
 
 * [Acrobat Sign 개발자 계정](https://acrobat.adobe.com/kr/ko/sign/developer-form.html)
 * [시작 코드](https://github.com/benvanderberg/adobe-sign-api-tutorial)
@@ -68,12 +33,15 @@ Acrobat Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시�
    * Windows — Chocolatey
    * All — https://www.python.org/downloads/
 
-## 2부: Low/No Code — 강력한 웹 양식 {#part2}
+## 2부: Low/No Code — 강력한 웹 양식
 
-2부에서는 웹 양식을 사용할 때 낮은/코드 없음 옵션을 살펴봅니다. 처음에 코드를 작성하지 않아도 되는지 확인하는 것이 좋습니다.
+2부에서는 웹 양식 사용의 낮은/코드 없음 옵션을 살펴봅니다. 처음에 코드를 작성하지 않아도 되는지 확인하는 것이 좋습니다.
+
++++웹 양식을 만드는 방법에 대한 세부 정보 보기
 
 1. 개발자 계정으로 Acrobat Sign에 액세스합니다.
-1. 클릭 **웹 양식 게시** 를 참조하십시오.
+
+1. 선택 **웹 양식 게시** 를 참조하십시오.
 
    ![스크린샷 Acrobat Sign 홈 페이지](assets/embeddedesignature/embed_1.png)
 
@@ -82,15 +50,18 @@ Acrobat Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시�
    ![웹 양식 생성 방법 스크린샷](assets/embeddedesignature/embed_2.png)
 
 1. 기본 HTML 페이지에 계약을 포함합니다.
+
 1. 쿼리 매개 변수를 동적으로 추가해 보십시오.
 
    ![쿼리 매개 변수 추가 스크린샷](assets/embeddedesignature/embed_3.png)
 
-## 파트 3: 양식과 함께 계약 보내기 및 데이터 병합 {#part3}
+## 파트 3: 양식과 함께 계약 보내기 및 데이터 병합
 
-3부에서는 계약을 동적으로 만듭니다.
+3부에서 동적으로 계약을 생성합니다.
 
-먼저 액세스 권한을 설정해야 합니다. Acrobat Sign에는 API를 통해 연결하는 두 가지 방법이 있습니다. OAuth 토큰 및 통합 키. 응용 프로그램에서 OAuth를 사용해야 하는 특별한 이유가 없다면 먼저 통합 키를 탐색해야 합니다.
++++계약을 동적으로 만드는 방법에 대한 세부 정보 보기
+
+먼저 액세스 권한을 설정해야 합니다. Acrobat Sign에는 API를 통해 연결하는 두 가지 방법이 있습니다. OAuth 토큰 및 통합 키. 응용 프로그램에서 OAuth를 사용해야 하는 특별한 이유가 없다면 먼저 통합 키를 살펴봐야 합니다.
 
 1. 선택 **통합 키** 에 **API 정보** 메뉴를 **계정** 탭합니다.
 
@@ -139,9 +110,11 @@ Acrobat Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시�
 
 ![동적으로 서명을 추가하는 코드 스크린샷](assets/embeddedesignature/embed_11.png)
 
-## 4부: 서명 경험, 리디렉션 등을 임베드합니다. {#part4}
+## 4부: 서명 경험, 리디렉션 등을 임베드합니다.
 
 많은 시나리오에서 트리거하는 참가자가 즉시 계약에 서명하도록 허용할 수 있습니다. 이는 고객 대면 애플리케이션 및 키오스크에 유용합니다.
+
++++서명 환경을 포함하는 방법에 대한 세부 정보 보기
 
 첫 번째 전송 전자 메일이 트리거되지 않도록 하려면 API 호출을 수정하여 비헤이비어를 손쉽게 관리할 수 있습니다.
 
@@ -163,7 +136,7 @@ Acrobat Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시�
 
 모든 것을 종합하면, 해결책은 상당히 간단하다. 계약을 만든 다음 서명자가 클릭하여 서명 의식을 시작할 서명 URL을 생성하는 것입니다.
 
-### 추가 항목
+## 추가 항목
 
 * [JS 이벤트](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhook 이벤트
@@ -179,14 +152,3 @@ Acrobat Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시�
       ![Power Automate로 이동하는 스크린샷](assets/embeddedesignature/embed_16.png)
 
    * 또는 하나 추가 [비행 중](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
-
-## 추가 리소스
-
-http://bit.ly/Summit21-T126
-
-포함된 항목:
-* Acrobat Sign 개발자 계정
-* Acrobat Sign API 문서
-* 샘플 코드
-* Visual Studio 코드
-* 비단뱀
