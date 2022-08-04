@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
 workflow-type: tm+mt
-source-wordcount: '411'
-ht-degree: 4%
+source-wordcount: '431'
+ht-degree: 3%
 
 ---
 
@@ -25,12 +25,22 @@ ht-degree: 4%
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="작업 영역 기본 사항" src="../assets/Workspace_1280.png" />
+      <img alt="작업 영역 기본 사항" src="../assets/NewWorkspace.png" />
     </a>
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>작업 영역 기본 사항</strong></a>
     </div>
     <em>Acrobat 작업 영역을 통해 데스크탑, 웹, 모바일에서 파일과 도구에 간편하게 액세스하는 방법을 살펴보세요</em>
+    <br>
+  </td>
+  <td>
+    <a href="new-workspace.md">
+      <img alt="새로운 작업 영역 환경" src="../assets/Acrobatweb_1280.png" />
+    </a>
+    <div>
+    <a href="new-workspace.md"><strong>새로운 작업 영역 환경</strong></a>
+    </div>
+    <em>Acrobat에서 활성화할 수 있는 새로운 작업 영역 환경에 대해 알아봅니다.</em>
     <br>
   </td>
   <td>
@@ -43,7 +53,9 @@ ht-degree: 4%
     <em>브라우저에서 Acrobat 웹 툴을 사용하여 어디에서나 비즈니스 문서 요청을 처리하는 방법을 살펴보세요</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
     <a href="productivity.md">
       <img alt="어디에서나 업무 생산성 향상" src="../assets/Productivity_1280.png" />
     </a>
@@ -53,9 +65,7 @@ ht-degree: 4%
     <em>Acrobat Reader 모바일 앱을 사용하면 태블릿이나 스마트폰에서 업무 효율성을 높일 수 있습니다</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="../integrate/integrate-overview.md#microsoft">
       <img alt="Microsoft 365로 작업" src="../assets/WorkMicrosoft365_1280.png" />
     </a>
@@ -75,6 +85,8 @@ ht-degree: 4%
     <em>어디에서나 실시간으로 주석을 수집하고, 실시간 답변을 통해 원활하게 협업하고, 문서의 진행 상황을 추적하여 프로젝트를 향상시킬 수 있습니다</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="combine-to-pdf.md">
       <img alt="Combine Files에서 PDF" src="../assets/Combine.jpg" />
@@ -85,9 +97,7 @@ ht-degree: 4%
     <em>다양한 유형의 파일을 단일 PDF으로 결합</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="create-pdf.md">
       <img alt="PDF 파일 만들기" src="../assets/Create.jpg" />
     </a>
@@ -107,6 +117,8 @@ ht-degree: 4%
     <em>PDF 파일에 주석을 추가한 다음 다른 사람과 공유</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="edit-pdf.md">
       <img alt="PDF 편집" src="../assets/Edit.jpg" />
@@ -117,8 +129,6 @@ ht-degree: 4%
     <em>PDF 파일에서 텍스트 및 이미지 편집</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="export-pdf.md">
       <img alt="PDF을 편집 가능한 형식으로 내보내기" src="../assets/Export.jpg" />
@@ -139,7 +149,9 @@ ht-degree: 4%
     <em>다른 응용 프로그램에서 만든 문서를 입력 가능한 PDF 양식으로 변환</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="scan-and-ocr.md">
       <img alt="스캔 및 OCR" src="../assets/Scan.jpg" />
     </a>
@@ -149,9 +161,7 @@ ht-degree: 4%
     <em>공유, 게시 또는 아카이빙의 품질을 그대로 유지하면서 대용량 파일을 줄이고 PDF 최적화</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="organize.md">
       <img alt="페이지 구성" src="../assets/Organize.jpg" />
     </a>
@@ -171,6 +181,8 @@ ht-degree: 4%
     <em>다른 사용자가 파일을 열거나 편집하지 못하도록 PDF에 암호를 추가합니다</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="fill-and-sign.md">
       <img alt="PDF 양식 작성 및 서명" src="../assets/FillSign_1280.png" />
@@ -181,8 +193,6 @@ ht-degree: 4%
     <em>PDF 양식 빠르게 채우기 및 서명</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="signatures.md">
       <img alt="서명 받기" src="../assets/Signatures_1280.png" />
@@ -203,7 +213,9 @@ ht-degree: 4%
     <em>서명 대기 중인 파일과 서명된 파일 항상 확인</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="PDF은 어디에서 제공됩니까?" src="../assets/WherePDFs.jpg" />
     </a>
@@ -211,6 +223,18 @@ ht-degree: 4%
     <a href="where-do-pdfs-come-from.md"><strong>PDF은 어디에서 제공됩니까?</strong></a>
     </div>
     <em>PDF의 출처와 용도 이해</em>
+    <br>
+  </td>
+  </td>
+  <td>
+   <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  </td>
+  <td>
+   <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

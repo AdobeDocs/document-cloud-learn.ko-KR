@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
 workflow-type: tm+mt
-source-wordcount: '398'
-ht-degree: 8%
+source-wordcount: '401'
+ht-degree: 7%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 8%
 + 시작하기 {#getting-started}
    + [개요](getting-started/getting-started-overview.md)
    + [작업 영역 기본 사항](getting-started/get-to-know-the-acrobat-dc-interface.md)
+   + [새로운 작업 영역 환경](getting-started/new-workspace.md)
    + [Acrobat 웹으로 어디에서나 작업](getting-started/acrobatweb.md)
    + [어디에서나 업무 생산성 향상](getting-started/productivity.md)
    + [작업 대상 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
