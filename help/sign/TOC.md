@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 59ff31d39cbc890a68fba1ca62efb278f154c155
+source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 9%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,9 +23,10 @@ ht-degree: 9%
    + [개요](sign-beginner-tutorials/beginner-users-overview.md)
    + 전송 중 {#getting-started-sending}
       + [작업 영역 기본 사항](sign-beginner-tutorials/quick-tour.md)
+      + [처음 보낸 사람을 위한 Acrobat Sign 시작하기](sign-beginner-tutorials/new-sender.md)
       + [단일 수신자에게 보내기](sign-beginner-tutorials/send-to-single-recipient.md)
       + [여러 수신자에게 보내기](sign-beginner-tutorials/send-to-multiple-recipients.md)
-      + [처음 보낸 사람을 위한 Acrobat Sign 시작하기](sign-beginner-tutorials/new-sender.md)
+      + [문서에 필드 추가](sign-beginner-tutorials/adding-fields.md)
       + [전송 후 문서 수정](sign-beginner-tutorials/modify-in-flight.md)
       + [서명자 바꾸기](sign-beginner-tutorials/replace-signer.md)
    + Signing {#getting-started-signing}

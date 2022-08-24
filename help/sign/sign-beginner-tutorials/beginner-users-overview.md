@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '404'
 ht-degree: 1%
 
 ---
@@ -34,6 +34,16 @@ ht-degree: 1%
     <br>
   </td>
   <td>
+    <a href="new-sender.md">
+      <img alt="처음 보낸 사람을 위한 Acrobat Sign 시작하기" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>처음 보낸 사람을 위한 Acrobat Sign 시작하기</strong></a>
+    </div>
+    <em>이 종합적인 튜토리얼은 Acrobat Sign에서 처음 보낸 사람을 위한 좋은 출발점입니다</em>
+    <br>
+  </td>
+  <td>
     <a href="send-to-single-recipient.md">
       <img alt="단일 수신자에게 보내기" src="../assets/Send-to-single-recipient.png" />
     </a>
@@ -56,13 +66,13 @@ ht-degree: 1%
 </tr>
 <tr>
   <td>
-    <a href="new-sender.md">
-      <img alt="처음 보낸 사람을 위한 Acrobat Sign 시작하기" src="../assets/gettingstartednew.png" />
+    <a href="adding-fields.md">
+      <img alt="문서에 필드 추가" src="../assets/AddingFields.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>처음 보낸 사람을 위한 Acrobat Sign 시작하기</strong></a>
+    <a href="adding-fields.md"><strong>문서에 필드 추가</strong></a>
     </div>
-    <em>이 종합적인 튜토리얼은 Acrobat Sign에서 처음 보낸 사람을 위한 좋은 출발점입니다</em>
+    <em>문서에 다른 유형의 필드를 추가하는 방법에 대해 알아봅니다.</em>
     <br>
   </td>
  <td>
@@ -84,6 +94,11 @@ ht-degree: 1%
     </div>
     <em>이미 진행 중인 문서의 서명자를 변경하는 방법 알아보기</em>
      <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>
@@ -122,8 +137,6 @@ ht-degree: 1%
     <em>Acrobat Sign 모바일 앱을 사용하여 직접 다른 사람의 서명 받기</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="delegate-signing.md">
       <img alt="다른 사용자에게 서명 위임" src="../assets/Delegatesigning.png" />
@@ -134,6 +147,8 @@ ht-degree: 1%
     <em>다른 사용자에게 문서 서명을 위임하는 방법 알아보기</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
       <img alt="디지털 서명 소개" src="../assets/Whatisdigsig_1280.jpg" />
@@ -154,6 +169,21 @@ ht-degree: 1%
     <em>스탬프를 사용하여 승인 또는 완료된 문서를 표시합니다.</em>
      <br>
   </td> 
+  <td>
+    <a href="sign-with-a-stamp.md">
+      <img alt="스탬프를 사용하여 서명" src="../assets/Stamp.png" />
+    </a>
+    <div>
+    <a href="sign-with-a-stamp.md"><strong>스탬프를 사용하여 서명</strong></a>
+    </div>
+    <em>스탬프를 사용하여 승인 또는 완료된 문서를 표시합니다.</em>
+     <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>  
 </table>
 
@@ -179,6 +209,11 @@ ht-degree: 1%
     <a href="../sign-advanced-users/create-a-template.md"><strong>문서 템플릿 만들기</strong></a>
     </div>
     <em>재사용 가능한 문서 템플릿을 만들어 조직의 속도와 일관성 유지</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
