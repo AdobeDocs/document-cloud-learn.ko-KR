@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
+source-git-commit: 85bbf4b7eca9e08d30fa941869a50bea1b248eb1
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '422'
 ht-degree: 1%
 
 ---
@@ -66,6 +66,16 @@ ht-degree: 1%
 </tr>
 <tr>
   <td>
+    <a href="sending-options.md">
+      <img alt="보내기 옵션 구성" src="../assets/Sendingoptions.png" />
+    </a>
+    <div>
+    <a href="sending-options.md"><strong>보내기 옵션 구성</strong></a>
+    </div>
+    <em>서명을 위해 문서를 보낼 때 다양한 옵션을 구성하는 방법 알아보기</em>
+    <br>
+  </td>
+  <td>
     <a href="adding-fields.md">
       <img alt="문서에 필드 추가" src="../assets/AddingFields.png" />
     </a>
@@ -75,7 +85,7 @@ ht-degree: 1%
     <em>문서에 다른 유형의 필드를 추가하는 방법에 대해 알아봅니다.</em>
     <br>
   </td>
- <td>
+  <td>
     <a href="modify-in-flight.md">
       <img alt="전송 후 문서 수정" src="../assets/Modifying-sending.png" />
     </a>
@@ -85,7 +95,7 @@ ht-degree: 1%
     <em>이미 진행 중인 문서 수정</em>
     <br>
   </td>
- <td>
+  <td>
     <a href="replace-signer.md">
       <img alt="서명자 바꾸기" src="../assets/replace-signer.png" />
     </a>
@@ -94,11 +104,6 @@ ht-degree: 1%
     </div>
     <em>이미 진행 중인 문서의 서명자를 변경하는 방법 알아보기</em>
      <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
   </td>
 </tr>
 </table>
