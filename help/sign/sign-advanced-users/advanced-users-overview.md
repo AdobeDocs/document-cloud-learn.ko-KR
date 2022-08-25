@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: e5ac7f7782df654f2a59326b8dc14df7abba97ad
+source-git-commit: c1f3544017f268b7f0c9050ed440b3dc97fd20dd
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '284'
 ht-degree: 4%
 
 ---
@@ -54,8 +54,6 @@ ht-degree: 4%
     <em>계약 승인 프로세스에 승인자 역할 추가</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="set-up-online-payments.md">
       <img alt="온라인 결제 설정" src="../assets/Payments.png" />
@@ -66,7 +64,9 @@ ht-degree: 4%
     <em>문서에서 온라인 결제를 설정하고 수락하는 방법에 대해 알아봅니다</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="megasign.md">
       <img alt="한번에 서명 보내기 및 수집" src="../assets/Megasign.png" />
     </a>
@@ -86,9 +86,7 @@ ht-degree: 4%
     <em>웹 사이트에서 직접 전자 서명할 수 있는 문서 만들기</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="adobe-sign-text-tagging.md">
       <img alt="Acrobat Sign 텍스트 태그 지정" src="../assets/Text-Tagging.png" />
   </a>
@@ -96,16 +94,6 @@ ht-degree: 4%
     <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign 텍스트 태그 지정</strong></a>
     </div>
     <em>Adobe Acrobat에서 텍스트 태그를 지정하여 Acrobat Sign 양식 필드 작성</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -123,6 +111,16 @@ ht-degree: 4%
     <a href="edit-a-template.md"><strong>문서 템플릿 관리</strong></a>
     </div>
     <em>라이브러리에서 템플릿 편집 또는 삭제</em>
+    <br>
+  </td>
+  <td>
+    <a href="modify-webform.md">
+      <img alt="기존 웹 양식 수정" src="../assets/Modifywebform.png" />
+    </a>
+    <div>
+    <a href="modify-webform.md"><strong>기존 웹 양식 수정</strong></a>
+    </div>
+    <em>기존 웹 양식을 비활성화, 편집 및 다시 활성화하는 방법에 대해 알아봅니다.</em>
     <br>
   </td>  
   <td>
