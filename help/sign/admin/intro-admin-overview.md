@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
+source-git-commit: e44f36c10c666fc4734df0521dc7c25ae60ce960
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 1%
+source-wordcount: '416'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Sign 관리자 이미지](../assets/Hero-Admin.png)
 
-계정에 사용자를 추가하고, 그룹을 설정하고, 액세스를 공유하고, 워크플로, 외부 보관, 공유 이벤트 및 경고를 설정하는 방법에 대해 알아봅니다. 이 자습서는 설치 단계를 지나 Acrobat Sign 관리를 시작할 준비가 된 관리자를 위해 설계되었습니다. 고급 작업에서는 관리자 설정 부분을 지나서 확장하여 전역 설정, 계정 액세스 및 공유, 텍스트 태그 지정 정의 부분으로 이동하는 항목을 다룹니다.
+계정에 사용자를 추가하고, 그룹을 설정하고, 액세스를 공유하고, 워크플로, 외부 보관, 공유 이벤트 및 경고를 설정하는 방법에 대해 알아봅니다. 이 자습서는 설치 단계를 지나 Acrobat Sign 관리를 시작할 준비가 된 관리자를 위해 설계되었습니다. 고급 작업에서는 관리자 설정 이상으로 확장하여 전역 설정, 계정 액세스 및 공유, 텍스트 태그 지정 정의 단계로 이동하는 항목을 다룹니다.
 
 ## 시작하기
 
@@ -54,8 +54,6 @@ ht-degree: 1%
     <em>Acrobat Sign 계정에 개별적으로 또는 일괄적으로 사용자 추가</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-and-manage-groups.md">
       <img alt="그룹 생성 및 관리" src="../assets/Creating-Groups.png" />
@@ -66,7 +64,9 @@ ht-degree: 1%
     <em>그룹을 만들고, 그룹에 사용자를 추가하고, 그룹 설정을 편집합니다.</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="set-up-your-external-archive.md">
       <img alt="외부 보관 설정" src="../assets/ExternalArchive.png" />
     </a>
@@ -86,8 +86,6 @@ ht-degree: 1%
     <em>빠르고 일관성 있는 재사용 가능한 문서 템플릿 만들기</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-a-report.md">
       <img alt="보고서 생성" src="../assets/Report.png" />
@@ -95,7 +93,7 @@ ht-degree: 1%
     <div>
     <a href="create-a-report.md"><strong>보고서 생성</strong></a>
     </div>
-    <em>보고서를 생성하고 일정을 지정하여 조직의 Acrobat Sign 사용 현황을 파악할 수 있습니다.</em>
+    <em>보고서를 생성하고 일정을 지정하여 조직의 Acrobat Sign 사용을 명확하게 파악할 수 있습니다.</em>
     <br>
   </td>
   <td>
@@ -108,6 +106,18 @@ ht-degree: 1%
     <em>웹 사이트에서 직접 전자 서명할 수 있는 문서 만들기</em>
     <br>
   </td>
+</tr>
+<tr>
+  <td>
+    <a href="../sign-advanced-users/modify-webform.md">
+      <img alt="기존 웹 양식 수정" src="../assets/Modifywebform.png" />
+    </a>
+    <div>
+    <a href="../sign-advanced-users/modify-webform.md"><strong>기존 웹 양식 수정</strong></a>
+    </div>
+    <em>기존 웹 양식을 비활성화, 편집 및 다시 활성화하는 방법에 대해 알아봅니다.</em>
+    <br>
+  </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="한번에 서명 보내기 및 수집" src="../assets/Megasign.png" />
@@ -118,8 +128,6 @@ ht-degree: 1%
     <em>문서에 대해 한 번에 수백 개의 서명 수집</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="워크플로우 설정" src="../assets/BuildingWorkflow.png" />
@@ -128,11 +136,6 @@ ht-degree: 1%
     <a href="building-a-custom-workflow.md"><strong>워크플로우 설정</strong></a>
     </div>
     <em>문서 워크플로우를 자동화하여 전자 서명과 데이터를 빠르게 가져올 수 있습니다</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
@@ -177,8 +180,6 @@ ht-degree: 1%
     <em>관리자와 사용자가 전송, 수정 및 보기 권한을 위임할 수 있도록 계정 공유 설정</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="use-bio-pharma-settings.md">
       <img alt="Bio-Pharma 설정 사용" src="../assets/Bio_1280.png" />
@@ -189,7 +190,9 @@ ht-degree: 1%
     <em>FDA 21 CFR Part 11 요건을 충족할 수 있도록 Bio-pharma 설정을 지정합니다</em>
     <br>
   </td> 
-  <td>
+</tr>
+<tr>
+   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
       <img alt="Acrobat Sign 텍스트 태그 지정" src="../assets/Text-Tagging.png" />
     </a>
@@ -197,6 +200,16 @@ ht-degree: 1%
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign 텍스트 태그 지정</strong></a>
     <div>
     <em>Adobe Acrobat에서 텍스트 태그를 지정하여 Acrobat Sign 양식 필드 작성</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>
