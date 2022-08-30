@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 75a2b43b76f9fe9fc99de2c84e4e0de06b63138a
+source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '457'
 ht-degree: 8%
 
 ---
@@ -53,6 +53,7 @@ ht-degree: 8%
    + 관리 {#advanced-tasks-managing}
       + [문서 템플릿 관리](sign-advanced-users/edit-a-template.md)
       + [기존 웹 양식 수정](sign-advanced-users/modify-webform.md)
+      + [보고서 생성](sign-advanced-users/creating-a-report.md)
 + 관리 {#admin-set-up}
    + [개요](admin/intro-admin-overview.md)
    + 시작하기 {#getting-started-admin}
@@ -62,7 +63,7 @@ ht-degree: 8%
       + [그룹 만들기 및 관리](admin/create-and-manage-groups.md)
       + [외부 보관 설정](admin/set-up-your-external-archive.md)
       + [템플릿 만들기](sign-advanced-users/create-a-template.md)
-      + [보고서 생성](admin/create-a-report.md)
+      + [보고서 차트 만들기](admin/create-a-report.md)
       + [웹 양식 만들기](sign-advanced-users/webform.md)
       + [기존 웹 양식 수정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [한번에 서명 보내기 및 수집](sign-advanced-users/megasign.md)
