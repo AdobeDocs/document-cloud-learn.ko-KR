@@ -6,9 +6,9 @@ product: adobe sign
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 3e12b86951b7d5ba5cde467f385de3a7798c8ba5
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ ht-degree: 0%
 
 * [공공 기관 계약 및 구매요청 Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) 활용 사례
 * [상용 계약 및 구매요청 Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) 활용 사례
+
+>[!NOTE]
+>
+>그룹 관리자는 자신이 관리하는 모든 그룹(기본 그룹뿐만 아니라)에 워크플로를 할당할 수 있습니다. 그룹 관리자는 자신이 관리하는 모든 그룹에 할당된 워크플로를 편집할 수도 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33656?hidetitle=true)
 
