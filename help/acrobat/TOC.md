@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
+source-git-commit: 6c54ff6963cfa41b1c486aeb8c94861448abb627
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '403'
 ht-degree: 7%
 
 ---
@@ -20,20 +20,21 @@ ht-degree: 7%
    + [Acrobat 웹으로 어디에서나 작업](getting-started/acrobatweb.md)
    + [어디에서나 업무 생산성 향상](getting-started/productivity.md)
    + [작업 대상 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
-   + [실시간 공동 작업](getting-started/collaborate.md)
-   + [Combine Files에서 PDF](getting-started/combine-to-pdf.md)
+   + [PDF은 어디에서 제공됩니까?](getting-started/where-do-pdfs-come-from.md)
    + [PDF 만들기](getting-started/create-pdf.md)
-   + [PDF에 댓글 달기](getting-started/comment-on-pdf-files.md)
-   + [PDF 편집](getting-started/edit-pdf.md)
-   + [PDF을 편집 가능한 형식으로 내보내기](getting-started/export-pdf.md)
-   + [채울 수 있는 양식 만들기](getting-started/create-fillable-forms.md)
-   + [스캔 및 OCR](getting-started/scan-and-ocr.md)
+   + [Combine Files에서 PDF](getting-started/combine-to-pdf.md)
    + [페이지 구성](getting-started/organize.md)
-   + [암호로 PDF 파일 Protect](getting-started/password-protect.md)
+   + [PDF 편집](getting-started/edit-pdf.md)
+   + [레이아웃 자동 조정](getting-started/auto-adjust-layout.md)
+   + [PDF을 편집 가능한 형식으로 내보내기](getting-started/export-pdf.md)
+   + [실시간 공동 작업](getting-started/collaborate.md)
+   + [PDF에 댓글 달기](getting-started/comment-on-pdf-files.md)
+   + [채울 수 있는 양식 만들기](getting-started/create-fillable-forms.md)
    + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
+   + [스캔 및 OCR](getting-started/scan-and-ocr.md)
+   + [암호로 PDF 파일 Protect](getting-started/password-protect.md)
    + [서명 받기](getting-started/signatures.md)
    + [문서 추적](getting-started/track.md)
-   + [PDF은 어디에서 제공됩니까?](getting-started/where-do-pdfs-come-from.md)
 + 고급 작업 {#advanced-tasks}
    + [개요](advanced-tasks/advanced-tasks-overview.md)
    + [책갈피 및 하이퍼링크 추가](advanced-tasks/bookmarks.md)
