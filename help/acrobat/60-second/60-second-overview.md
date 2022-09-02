@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -54,8 +54,6 @@ ht-degree: 0%
     <em>Word 파일과 양식을 PDF으로 변환하고 양식 필드를 자동으로 작성</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessible.md">
       <img alt="Acrobat을 통해 액세스 가능한 PDF 제작" src="../assets/60sec_Accessible_1280.jpg" />
@@ -66,6 +64,8 @@ ht-degree: 0%
     <em>PDF 액세스 가능 여부 확인</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="exportwordphone.md">
       <img alt="휴대폰에서 Word로 Export PDF" src="../assets/60sec_Exportphone_1280.jpg" />
@@ -86,8 +86,6 @@ ht-degree: 0%
     <em>PDF에서 텍스트를 검색할 수 있도록 스캔한 PDF 변환</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="combine-to-one-pdf.md">
       <img alt="여러 파일을 하나의 PDF으로 결합" src="../assets/60sec_Combine_1280.jpg" />
@@ -108,6 +106,8 @@ ht-degree: 0%
     <em>PDF을 다운로드하지 않고도 텍스트와 이미지를 간편하게 편집할 수 있습니다</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="search.md">
       <img alt="한 번에 여러 PDF 파일 검색" src="../assets/60sec_Search_1280.jpg" />
@@ -118,8 +118,6 @@ ht-degree: 0%
     <em>PDF 파일에서 검색을 시작한 다음 고급 검색을 열고 PDF 파일의 전체 폴더를 검색합니다</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="photo.md">
       <img alt="한 번에 사진 PDF 만들기" src="../assets/60sec_Photo_1280.jpg" />
@@ -149,7 +147,7 @@ ht-degree: 0%
     </div>
     <em>Adobe Scan을 사용하여 인쇄된 양식에 서명하는 방법 알아보기</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -181,9 +179,7 @@ ht-degree: 0%
     </div>
     <em>Illustrator을 사용하여 PDF에서 그래픽의 고급 편집을 수행하는 방법을 살펴봅니다</em>
     <br>
-  </td> 
-</tr>
-<tr>
+  </td>
   <td>
     <a href="organize.md">
       <img alt="신속한 페이지 구성" src="../assets/60sec_Organize_1280.jpg" />
@@ -194,15 +190,5 @@ ht-degree: 0%
     <em>PDF 구성 툴을 사용하여 페이지를 한눈에 보는 방법을 살펴봅니다</em>
     <br>
   </td>
-  <td>
-   <img alt="스페이서" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="스페이서" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>  
 </tr>
 </table>
