@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 6c54ff6963cfa41b1c486aeb8c94861448abb627
+source-git-commit: 7d25edcbbd49ebc182f74c24fecb2288386204ab
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '406'
 ht-degree: 7%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 7%
    + [PDF 만들기](getting-started/create-pdf.md)
    + [Combine Files에서 PDF](getting-started/combine-to-pdf.md)
    + [페이지 구성](getting-started/organize.md)
+   + [사용자 정의 페이지 추가](getting-started/add-custom-page.md)
    + [PDF 편집](getting-started/edit-pdf.md)
    + [레이아웃 자동 조정](getting-started/auto-adjust-layout.md)
    + [PDF을 편집 가능한 형식으로 내보내기](getting-started/export-pdf.md)
