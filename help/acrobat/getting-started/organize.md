@@ -1,42 +1,20 @@
 ---
 title: 페이지 구성
-description: PDF에서 페이지 추가, 교체, 추출, 회전, 삭제 및 이동
+description: PDF에서 페이지 추가, 교체, 추출, 회전, 삭제 및 재정렬
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: b1bb0e7c027fbd383f8bd0a32ac6d2ffda671941
+source-git-commit: 546be0ae0539aa774e51bd7251b46e3f864401c3
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 2%
+source-wordcount: '53'
+ht-degree: 7%
 
 ---
 
 # 페이지 구성
 
-사용 **[!UICONTROL 페이지 구성]** Acrobat에서 PDF에 페이지를 추가, 교체, 추출, 회전, 삭제 및 이동할 수 있습니다.
+원하는 방식으로 페이지를 빠르게 재정렬하는 방법을 살펴볼 수 있습니다. 불연속 페이지를 삽입, 교체, 분할, 재정렬, 회전 및 추출해 전문가다운 PDF을 만들 수 있습니다. 이 비디오 자습서에서는 [새로운 작업 영역 환경](new-workspace.md).
 
-1. 선택 **[!UICONTROL 페이지 구성]** 에서 [!UICONTROL 도구] 중앙 또는 오른쪽 창
-
-   ![1단계 구성](../assets/Organize_1.png)
-
-1. 페이지를 마우스로 가리키면 시계 방향 또는 시계 반대 방향으로 페이지를 회전하거나 페이지를 삭제할 수 있습니다.
-
-   페이지를 이동하려면 페이지를 선택하고 새 위치로 드래그합니다.
-
-   ![2단계 구성](../assets/Organize_2.png)
-
-1. 선택 **[!UICONTROL Extract]** PDF 모음에서 페이지를 만듭니다.
-
-1. 페이지를 선택한 다음 **[!UICONTROL Extract]**.
-
-   또한 **[!UICONTROL 삽입]** 또는 **[!UICONTROL 바꾸기]** 페이지 및 다음을 선택하여 기타 옵션 보기 **[!UICONTROL 기타]**.
-
-   ![4단계 구성](../assets/Organize_3.png)
-
-1. 선택 **[!UICONTROL 분할]** 하나 이상의 PDF을 여러 개의 작은 PDF으로 분할합니다.
-
-   페이지를 분할할 때는 PDF 수, 파일 크기 또는 최상위 책갈피를 기준으로 분리할 수 있습니다.
-
-   ![스캔 5단계](../assets/Organize_4.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3409022?hidetitle=true)

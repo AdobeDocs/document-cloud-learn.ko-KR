@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: b1bb0e7c027fbd383f8bd0a32ac6d2ffda671941
+source-git-commit: 546be0ae0539aa774e51bd7251b46e3f864401c3
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 4%
@@ -124,12 +124,12 @@ ht-degree: 4%
     </td>
     <td>
       <a href="organize.md">
-        <img alt="페이지 구성" src="../assets/Organize.jpg" />
+        <img alt="페이지 구성" src="../assets/Organize.png" />
       </a>
       <div>
       <a href="organize.md"><strong>페이지 구성</strong></a>
       </div>
-      <em>PDF에서 페이지 추가, 교체, 추출, 회전, 삭제 및 이동</em>
+      <em>PDF에서 페이지 추가, 교체, 추출, 회전, 삭제 및 재정렬</em>
       <br>
     </td>
     <td>
