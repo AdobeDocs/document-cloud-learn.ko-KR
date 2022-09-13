@@ -8,14 +8,14 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4827c827ee06c94c38290d5f0e716e8a8328bd48
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
-# Salesforce용 Acrobat Sign 및 Marketo을 사용하여 알림 보내기
+# Acrobat Sign을 사용하여 알림 보내기 [!DNL Salesforce] 및 [!DNL Marketo]
 
 Acrobat Sign, Salesforce용 Acrobat Sign, Marketo 및 Marketo Salesforce 동기화를 사용하여 서명자에게 계약이 진행 중임을 알리기 위해 문자 메시지, 전자 메일 또는 푸시 알림을 보내는 방법을 알아봅니다. Marketo에서 알림을 보내려면 먼저 Marketo SMS 관리 기능을 구매하거나 구성해야 합니다. 이 연습에서는 [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)하지만 다른 Marketo SMS 솔루션도 사용할 수 있습니다.
 
