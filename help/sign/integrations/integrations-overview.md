@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 59ff31d39cbc890a68fba1ca62efb278f154c155
+source-git-commit: 16514daae1250663dcee1e441873ac07ee9a3906
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '548'
 ht-degree: 0%
 
 ---
@@ -80,13 +80,35 @@ Microsoft, Salesforce, Workday 및 Marketo과 같이 조직이 이미 사용 중
     <br>
   </td>
   <td>
-    <a href="documentautomation.md">
-      <img alt="Microsoft Power Platform용 Acrobat Sign으로 문서 자동화" src="../assets/SF-Button.png" />
+    <a href="auto-archive-sharepoint-power-automate.md">
+      <img alt="파일 자동 보관 위치 [!DNL SharePoint] 에 [!DNL Power Automate]" src="../assets/Autoarchive.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>Microsoft Power Platform용 Acrobat Sign으로 문서 자동화</strong></a>
+    <a href="auto-archive-sharepoint-power-automate.md"><strong>파일 자동 보관 위치 [!DNL SharePoint] 에 [!DNL Power Automate]</strong></a>
     </div>
-    <em>Microsoft Power Apps용 Acrobat Sign 및 Adobe PDF Tools 커넥터를 활성화하고 사용하는 방법에 대해 알아봅니다</em>
+    <em>서명된 문서를 [!DNL SharePoint] 라이브러리 사용 [!DNL Power Automate]</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="documentautomation.md">
+      <img alt="문서 자동화 [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
+    </a>
+    <div>
+    <a href="documentautomation.md"><strong>문서 자동화 [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
+    </div>
+    <em>활성화 및 사용 방법 [!DNL Acrobat Sign] 및 [!DNL Adobe PDF Tools] 커넥터 [!DNL Microsoft Power] 앱</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
