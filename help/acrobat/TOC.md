@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 7d25edcbbd49ebc182f74c24fecb2288386204ab
+source-git-commit: 3b2b8993fefea4a719cb0a642245d9339684eebf
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 7%
+source-wordcount: '410'
+ht-degree: 8%
 
 ---
 
@@ -114,3 +114,4 @@ ht-degree: 7%
 + 모바일 {#mobile}
    + [개요](mobile/mobile-overview.md)
    + [어디에서나 업무 생산성 향상](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [PDF으로 모든 항목 스캔](mobile/scan-mobile-app.md)

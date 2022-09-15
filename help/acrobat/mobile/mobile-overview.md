@@ -8,9 +8,9 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 790253a6c1bf5a7e1dbb2e526b8d8b3d3825396e
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,33 @@ ht-degree: 0%
      <a href="../getting-started/productivity.md"><strong>어디에서나 업무 생산성 향상</strong></a>
     </div>
     <em>Acrobat Reader 모바일 앱을 사용하면 태블릿이나 스마트폰에서 업무 효율성을 높일 수 있습니다</em>
+    <br>
+  </td>
+  <td>
+   <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+## Adobe Scan 모바일 앱 튜토리얼
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="scan-mobile-app.md">
+      <img alt="PDF으로 모든 항목 스캔" src="../assets/Scanmobile.png" />
+    </a>
+    <div>
+     <a href="scan-mobile-app.md"><strong>PDF으로 모든 항목 스캔</strong></a>
+    </div>
+    <em>무료 Adobe Scan 모바일 앱을 사용하여 종이 문서를 PDF으로 변환하는 방법을 살펴보십시오</em>
     <br>
   </td>
   <td>
