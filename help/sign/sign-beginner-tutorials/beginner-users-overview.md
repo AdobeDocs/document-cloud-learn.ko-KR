@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 85bbf4b7eca9e08d30fa941869a50bea1b248eb1
+source-git-commit: 2a81d3fe9dcdbe239d6f7957b2641473137a585e
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '406'
 ht-degree: 1%
 
 ---
@@ -174,15 +174,10 @@ ht-degree: 1%
     <em>스탬프를 사용하여 승인 또는 완료된 문서를 표시합니다.</em>
      <br>
   </td> 
-  <td>
-    <a href="sign-with-a-stamp.md">
-      <img alt="스탬프를 사용하여 서명" src="../assets/Stamp.png" />
-    </a>
+ <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
     <div>
-    <a href="sign-with-a-stamp.md"><strong>스탬프를 사용하여 서명</strong></a>
-    </div>
-    <em>스탬프를 사용하여 승인 또는 완료된 문서를 표시합니다.</em>
-     <br>
+    <br>
   </td>
   <td>
     <img alt="스페이서" src="../assets/Grayspacer.png" />
