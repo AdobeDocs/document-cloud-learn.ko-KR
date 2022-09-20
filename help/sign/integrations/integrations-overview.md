@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
+source-git-commit: d91e070ffeccdd6658cd8065bbc2d52cdf0fffb5
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -120,10 +120,10 @@ Microsoft, Salesforce, Workday 및 Marketo과 같이 조직이 이미 사용 중
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="문서 빌더를 사용하여 재사용 가능한 문서 템플릿을 만드는 방법에 대해 알아봅니다. [!DNL Salesforce]" src="../assets/SF-Template.png" />
+      <img alt="문서 작성기 [!DNL Salesforce]" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>문서 빌더를 사용하여 재사용 가능한 문서 템플릿을 만드는 방법에 대해 알아봅니다. [!DNL Salesforce]</strong></a>
+    <a href="create-an-agreement-template.md"><strong>문서 작성기 [!DNL Salesforce]</strong></a>
     </div>
     <em>문서 빌더를 사용하여 재사용 가능한 문서 템플릿을 만드는 방법에 대해 알아봅니다. [!DNL Salesforce]</em>
     <br>
