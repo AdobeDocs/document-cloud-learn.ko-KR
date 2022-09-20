@@ -1,21 +1,21 @@
 ---
-title: 병합 매핑 설정
-description: Salesforce 데이터를 직접 계약서에 병합하는 방법 알아보기
+title: Salesforce에서 병합 매핑 설정
+description: Salesforce 데이터를 Acrobat Sign 문서에 직접 병합하는 방법 알아보기
 role: Admin
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
-thumbnail: 17350.jpg
+thumbnail: KT-10600.jpg
 exl-id: 47f3b483-106e-48d9-b554-ad9a87e51a7e
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
 # Salesforce에서 병합 매핑 설정
 
-Salesforce에서 Acrobat Sign에 대한 병합 매핑을 설정하는 방법을 알아봅니다. 병합 매핑을 사용하여 Salesforce의 데이터를 직접 계약서에 병합할 수 있습니다.
+Salesforce의 데이터를 Acrobat Sign 문서에 직접 병합하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/17350?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409412?hidetitle=true)

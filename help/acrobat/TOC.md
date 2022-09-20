@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 3b2b8993fefea4a719cb0a642245d9339684eebf
+source-git-commit: c8d43af1f50591c26325fa4e1fd50115eae6e3be
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 8%
 
 ---
@@ -85,10 +85,11 @@ ht-degree: 8%
    + [다음에서 PDF 만들기 [!DNL Microsoft Word]](integrate/createfromword.md)
    + [PDF 만들기 [!DNL Office] 웹](integrate/createofficeweb.md)
    + [PDF 공동 작업 [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
-   + [SharePoint 파일을 사용하여 작업](integrate/acrobatandsp.md)
-   + [Outlook에서 전자 메일 메시지 및 첨부 파일을 PDF으로 변환](integrate/outlook.md)
-   + [Microsoft Edge로 탐색하는 동안 PDF 내용 만들기](integrate/edge.md)
-   + [Google 드라이브용 Adobe Acrobat](integrate/acrobatandgoogle.md)
+   + [공동 작업 [!DNL SharePoint] 파일](integrate/acrobatandsp.md)
+   + [에서 전자 메일 메시지 및 첨부 파일을 PDF으로 변환 [!DNL Outlook]](integrate/outlook.md)
+   + [탐색하는 동안 PDF 내용 만들기 [!DNL Microsoft Edge]](integrate/edge.md)
+   + [Adobe Acrobat [!DNL Google Drive]](integrate/acrobatandgoogle.md)
+   + [의 파일을 사용하여 작업 [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + 업계 및 부서 {#by-industry}
    + [개요](industry/industry-overview.md)
    + 공공 기관 {#gov}

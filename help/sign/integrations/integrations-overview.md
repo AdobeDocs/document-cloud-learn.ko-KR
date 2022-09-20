@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 16514daae1250663dcee1e441873ac07ee9a3906
+source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '557'
 ht-degree: 0%
 
 ---
@@ -140,12 +140,12 @@ Microsoft, Salesforce, Workday 및 Marketo과 같이 조직이 이미 사용 중
   </td>
   <td>
     <a href="set-up-merging-map.md">
-      <img alt="병합 매핑 설정" src="../assets/SF-MergeMapping.png" />
+      <img alt="Salesforce에서 병합 매핑 설정" src="../assets/SF-MergeMapping.png" />
     </a>
     <div>
-    <a href="set-up-merging-map.md"><strong>병합 매핑 설정</strong></a>
+    <a href="set-up-merging-map.md"><strong>Salesforce에서 병합 매핑 설정</strong></a>
     </div>
-    <em>Salesforce의 데이터를 직접 계약서에 병합</em>
+    <em>Salesforce 데이터를 Acrobat Sign 문서에 직접 병합하는 방법 알아보기</em>
     <br>
   </td>
 </tr>

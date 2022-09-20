@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '299'
 ht-degree: 1%
 
 ---
@@ -120,10 +120,35 @@ Acrobat 통합 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]�
 </tr>
 </table>
 
+## Dropbox
+
+에 저장된 파일에 쉽게 액세스하고 작업하는 방법에 대해 알아보십시오 [!DNL Dropbox].
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="acrobat-dropbox.md">
+      <img alt="의 파일을 사용하여 작업 [!DNL Dropbox]" src="../assets/Dropbox.png" />
+    </a>
+    <div>
+    <a href="acrobat-dropbox.md"><strong>의 파일을 사용하여 작업 [!DNL Dropbox]</strong></a>
+    </div>
+    <em>변경 내용을 열고, 만들고, 편집하고, 서명하고, 저장하는 방법에 대해 [!DNL Dropbox] Acrobat 내의 파일</em>
+    <br>
+  </td>
+  <td>
+   <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
 ## 상자
 
 Acrobat 및 [상자](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} 조직의 모든 사용자가 보다 간편하게 비즈니스를 진행할 수 있습니다.
-
-## Dropbox
-
-에 저장된 PDF에 손쉽게 액세스하고 작업하는 방법에 대해 알아보십시오 [Dropbox](https://www.adobe.com/documentcloud/integrations/dropbox.html){target=&quot;_blank&quot;}.
