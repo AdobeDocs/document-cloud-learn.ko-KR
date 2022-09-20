@@ -5,9 +5,9 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 887752f71e1ef9573346377ea8853a8a4bbb1301
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '819'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,18 @@ ht-degree: 0%
 Adobe Acrobat 스킬 빌더는 PDF 워크플로우를 향상시키기 위해 마련된 30분 분량의 세션입니다. 매월 새로운 주제가 강조 표시됩니다.
 
 ## 월별 세션
+
+* **[Microsoft 앱에서 PDF 사용](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/f7e3961b-e322-4253-bfa4-ff1957a08d99/c1111644-e958-41bf-ad6e-dffafafa7fa0){target=&quot;_blank&quot;}**
+날짜: 2022년 12월 15일 Acrobat은 Microsoft 365 앱에 완전히 통합되어 있으므로 화면 간을 이동할 필요가 없으며 작업 흐름 내에서 더 많은 작업을 수행할 수 있습니다. 이 기능 소개 세션에서는 Teams, Outlook, SharePoint, Word, PowerPoint, Excel 등 일상적으로 사용하는 Microsoft 앱에 PDF 워크플로우를 추가하는 방법을 살펴봅니다.
+
+* **[PDF 협업: 공유, 검토 및 공동 작업](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/d1eb8544-6268-4855-8500-2370b1e68045/0dd92858-0587-49f4-be60-8d48c140ef39){target=&quot;_blank&quot;}**
+날짜: 이 기능 작성기는 디지털 문서 공동 작업에 관한 것입니다. 팀원과 문서를 손쉽게 검토하고 주석 툴을 둘러볼 수 있습니다. 또한 Microsoft Teams에 있는 다른 사용자와의 PDF 검토과 Acrobat 모바일 앱 및 Acrobat Web을 사용하여 어디에서나 피드백을 제공하는 방법에 대해서도 살펴봅니다.
+
+* **[PDF 내용 재사용: 편집 및 내보내기](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/68a9bbf2-91ca-40f0-baa1-812dd0730e0b/48c2399c-7392-4d7d-ba51-f623dead313a){target=&quot;_blank&quot;}**
+날짜: 2022년 10월 27일 기존 PDF을 수정하는 방법에 대해 알아봅니다. 텍스트 및 이미지 편집, 하이퍼링크 및 책갈피 추가, Microsoft Word, PowerPoint, Excel 파일로 변환 등 다양한 작업이 가능합니다.
+
+* **[Acrobat 시작하기](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/360c9159-3f6f-47ae-8320-d0ad391883e1/e54db15b-af50-40ff-a274-6e927a22c6e7){target=&quot;_blank&quot;}**
+날짜: 2022년 9월 22일 Adobe Acrobat 및 PDF을 시작합니다. Acrobat 인터페이스를 소개하고 다음 방법을 보여 줍니다. * Word, Excel, PowerPoint 등 이미지 파일과 문서에서 PDF을 만들 수 있습니다. * PDF, Word, 이미지 등 여러 파일을 하나의 편집 가능한 PDF으로 결합할 수 있습니다. * Acrobat Web 및 Mobile을 사용하면 언제 어디에서나 작업할 수 있습니다.
 
 * **[PDF 보안](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target=&quot;_blank&quot;}**
 날짜: 2022년 8월 25일 PDF 콘텐츠 보호에 필요한 모든 정보를 얻을 수 있습니다. 이 세션에서는 암호를 추가하여 PDF을 보거나, 편집하거나, 인쇄하지 못하도록 하는 기술을 공유하고, 보이지 않는 메타데이터에서도 민감한 정보를 영구적으로 제거하는 방법을 보여줍니다!

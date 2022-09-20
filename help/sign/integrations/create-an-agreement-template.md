@@ -1,22 +1,22 @@
 ---
-title: Salesforce용 Acrobat Sign에서 문서 템플릿 만들기
-description: 재사용 가능한 문서 템플릿을 만들어 속도와 일관성을 제공하는 방법에 대해 알아봅니다.
+title: 문서 작성기 [!DNL Salesforce]
+description: Salesforce용 문서 빌더를 사용하여 재사용 가능한 문서 템플릿을 만드는 방법을 알아봅니다
 role: User, Admin
 product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 topic-revisit: Integrations
-thumbnail: 17349.jpg
+thumbnail: KT-10598.jpg
 exl-id: c97d0652-fee5-4533-8567-377e04eabbf2
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# Acrobat Sign에서 문서 템플릿 만들기 [!DNL Salesforce]
+# 문서 작성기 [!DNL Salesforce]
 
-Acrobat Sign용 문서 템플릿을 만드는 방법 [!DNL Salesforce]. 문서 템플릿은 서명 트랜잭션의 속도와 일관성을 제공하고 문서 수정 및 변경을 관리하는 기능을 제공합니다.
+Salesforce용 문서 빌더를 사용하여 재사용 가능한 문서 템플릿을 만드는 방법을 알아봅니다. 재사용 가능한 문서 템플릿은 서명 트랜잭션의 속도와 일관성을 제공하고 문서 수정 및 변경 사항을 관리할 수 있는 기능을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/17349?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409414?hidetitle=true)

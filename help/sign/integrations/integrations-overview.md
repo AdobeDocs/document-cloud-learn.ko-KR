@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -120,12 +120,12 @@ Microsoft, Salesforce, Workday 및 Marketo과 같이 조직이 이미 사용 중
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="Salesforce용 Acrobat Sign에서 문서 템플릿 만들기" src="../assets/SF-Template.png" />
+      <img alt="문서 빌더를 사용하여 재사용 가능한 문서 템플릿을 만드는 방법에 대해 알아봅니다. [!DNL Salesforce]" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>Salesforce용 Acrobat Sign에서 문서 템플릿 만들기</strong></a>
+    <a href="create-an-agreement-template.md"><strong>문서 빌더를 사용하여 재사용 가능한 문서 템플릿을 만드는 방법에 대해 알아봅니다. [!DNL Salesforce]</strong></a>
     </div>
-    <em>재사용 가능한 문서 템플릿을 만들어 속도와 일관성 유지</em>
+    <em>문서 빌더를 사용하여 재사용 가능한 문서 템플릿을 만드는 방법에 대해 알아봅니다. [!DNL Salesforce]</em>
     <br>
   </td>
   <td>

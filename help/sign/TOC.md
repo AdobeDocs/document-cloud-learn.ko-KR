@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 16514daae1250663dcee1e441873ac07ee9a3906
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 8%
@@ -96,7 +96,7 @@ ht-degree: 8%
       + [파일 자동 보관 위치 [!DNL SharePoint] 에 [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Microsoft Power Platform용 Acrobat Sign으로 문서 자동화](integrations/documentautomation.md)
    + Salesforce {#salesforce}
-      + [문서 템플릿 만들기](integrations/create-an-agreement-template.md)
+      + [Salesforce용 문서 빌더](integrations/create-an-agreement-template.md)
       + [데이터 매핑 설정](integrations/set-up-data-mapping.md)
       + [병합 매핑 설정](integrations/set-up-merging-map.md)
       + [사용자 정의 단추 만들기](integrations/create-a-custom-button.md)
