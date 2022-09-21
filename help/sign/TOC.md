@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
+source-git-commit: 4c797e03a02a71bafe1fb3d38c35af88909d4e03
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '466'
 ht-degree: 8%
 
 ---
@@ -50,6 +50,7 @@ ht-degree: 8%
       + [웹 양식 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [온라인 결제 설정](sign-advanced-users/set-up-online-payments.md)
       + [Acrobat Sign 텍스트 태그 지정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [에서 텍스트 태그 지정 사용 [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + 관리 {#advanced-tasks-managing}
       + [문서 템플릿 관리](sign-advanced-users/edit-a-template.md)
       + [기존 웹 양식 수정](sign-advanced-users/modify-webform.md)
