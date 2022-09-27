@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 4c797e03a02a71bafe1fb3d38c35af88909d4e03
+source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '346'
 ht-degree: 3%
 
 ---
@@ -113,6 +113,16 @@ ht-degree: 3%
 
 <table style="table-layout:fixed">
 <tr>
+<td>
+    <a href="creating-a-report.md">
+      <img alt="보고서 생성" src="../assets/Report.png" />
+    </a>
+    <div>
+    <a href="creating-a-report.md"><strong>보고서 생성</strong></a>
+    </div>
+    <em>고유한 보고서를 작성하여 문서 서명 프로세스를 명확하게 확인하는 방법을 살펴보십시오</em>
+    <br>
+  </td>
   <td>
     <a href="edit-a-template.md">
       <img alt="문서 템플릿 관리" src="../assets/ManageTemplate.png" />
@@ -134,19 +144,14 @@ ht-degree: 3%
     <br>
   </td>  
   <td>
-    <a href="creating-a-report.md">
-      <img alt="보고서 생성" src="../assets/Report.png" />
+    <a href="manage-webform-data.md">
+      <img alt="웹 양식 데이터 관리" src="../assets/Managewebform.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>보고서 생성</strong></a>
+    <a href="manage-webform-data.md"><strong>웹 양식 데이터 관리</strong></a>
     </div>
-    <em>고유한 보고서를 작성하여 문서 서명 프로세스를 명확하게 확인하는 방법을 살펴보십시오</em>
+    <em>웹 양식에서 데이터를 추적, 관리 및 내보내는 방법에 대해 알아봅니다</em>
     <br>
   </td>  
-  <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
 </table>
