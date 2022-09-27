@@ -6,9 +6,9 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-10981.jpg
-source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
+source-git-commit: 23ca497130a78091219ba3a611a37658f10ea629
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ PDF에서 [웹 양식](webform.md). 이 자습서에서는 추가 참가자 웹 
 
 >[!NOTE]
 >
->Acrobat Sign 관리자가 다음을 활성화해야 합니다. **추가 참가자 허용** 에 **웹 양식** 섹션 **전역 설정** 추가 참가자 워크플로우를 사용합니다.
+>비즈니스 및 엔터프라이즈 수준 플랜만 웹 양식 액세스 및 서명자 옵션을 구성할 수 있습니다. 웹 양식 액세스 및 서명자 옵션은 계정 > 계정 설정 > 전역 설정 > 웹 양식의 계정 또는 그룹 수준에서 활성화하거나 비활성화합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409607?hidetitle=true)
