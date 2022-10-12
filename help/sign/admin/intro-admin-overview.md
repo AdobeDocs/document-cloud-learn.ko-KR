@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: a58a3fd44e87b1e07aca9471fe713b51c1e05365
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '448'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="get-started-admin.md">
-      <img alt="새 관리자 시작하기" src="../assets/Gettingstartedadmin_1280.png" />
+      <img alt="새 관리자를 위한 시작하기" src="../assets/Gettingstartedadmin_1280.png" />
     </a>
     <div>
-    <a href="get-started-admin.md"><strong>새 관리자 시작하기</strong></a>
+    <a href="get-started-admin.md"><strong>새 관리자를 위한 시작하기</strong></a>
     </div>
-    <em>이 포괄적인 비디오 가이드에서 Acrobat Sign을 사용하여 조직을 꾸미고 실행하는 데 필요한 모든 툴을 살펴보십시오</em>
+    <em>이 포괄적인 비디오 가이드에서 Acrobat Sign을 사용하여 조직을 시작하고 운영하는 데 필요한 모든 툴에 대해 알아보십시오</em>
     <br>
   </td>
   <td>

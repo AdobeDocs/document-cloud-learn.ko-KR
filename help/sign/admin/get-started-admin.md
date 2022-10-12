@@ -1,20 +1,20 @@
 ---
 title: 새 관리자를 위한 시작하기
-description: 이 포괄적인 비디오 가이드에서 Acrobat Sign을 사용하여 조직을 꾸미고 실행하는 데 필요한 모든 툴을 살펴보십시오
+description: 이 포괄적인 비디오 가이드에서 Acrobat Sign을 사용하여 조직을 시작하고 운영하는 데 필요한 모든 툴에 대해 알아보십시오
 role: Admin
 product: adobe sign
 level: Beginner
 thumbnail: KT-11289.jpg
-source-git-commit: 51c192a8c8cbadb87b9c5ef24a415abc7f6cb574
+source-git-commit: 89a9053921912a0b904aed172c5527a846a300f7
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
 # 새 관리자를 위한 시작하기
 
-이 포괄적인 비디오 안내서는 Acrobat Sign 신규 관리자를 위해 특별히 고안된 것입니다. Acrobat Sign을 사용하여 원활하게 업무를 진행하는 데 필요한 모든 툴을 살펴보세요. 이 세부 설명서는 다음 항목을 다룹니다.
+이 포괄적인 비디오 안내서는 Acrobat Sign 신규 관리자를 위해 특별히 고안된 것입니다. Acrobat Sign을 사용하여 원활하게 작업하는 데 필요한 모든 툴을 살펴보세요. 이 세부 설명서는 다음 항목을 다룹니다.
 
 <table style="table-layout:auto">
 <tr>
