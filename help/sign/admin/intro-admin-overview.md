@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ccca5df76b9cfb5864d850f1e84f2f8a54bcdb3a
+source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,16 @@ ht-degree: 0%
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="get-started-admin.md">
+      <img alt="새 관리자 시작하기" src="../assets/Gettingstartedadmin_1280.png" />
+    </a>
+    <div>
+    <a href="get-started-admin.md"><strong>새 관리자 시작하기</strong></a>
+    </div>
+    <em>이 포괄적인 비디오 가이드에서 Acrobat Sign을 사용하여 조직을 꾸미고 실행하는 데 필요한 모든 툴을 살펴보십시오</em>
+    <br>
+  </td>
   <td>
     <a href="up-and-running-admin.md">
       <img alt="관리자용 가동 및 실행" src="../assets/Up-Running.png" />
@@ -54,7 +64,9 @@ ht-degree: 0%
     <em>Acrobat Sign 계정에 개별적으로 또는 일괄적으로 사용자 추가</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="create-and-manage-groups.md">
       <img alt="그룹 생성 및 관리" src="../assets/Creating-Groups.png" />
     </a>
@@ -64,9 +76,7 @@ ht-degree: 0%
     <em>그룹을 만들고, 그룹에 사용자를 추가하고, 그룹 설정을 편집합니다.</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="set-up-your-external-archive.md">
       <img alt="외부 보관 설정" src="../assets/ExternalArchive.png" />
     </a>
@@ -96,6 +106,8 @@ ht-degree: 0%
     <em>맞춤형 보고서와 데이터 내보내기를 작성, 저장 및 관리하는 방법에 대해 알아봅니다</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="웹 양식 만들기" src="../assets/Webform.png" />
@@ -106,8 +118,6 @@ ht-degree: 0%
     <em>웹 사이트에서 직접 전자 서명할 수 있는 문서 만들기</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="기존 웹 양식 수정" src="../assets/Modifywebform.png" />
@@ -128,7 +138,7 @@ ht-degree: 0%
     <em>문서에 대해 한 번에 수백 개의 서명 수집</em>
     <br>
   </td>
-  <td>
+   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="워크플로우 설정" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -136,11 +146,6 @@ ht-degree: 0%
     <a href="building-a-custom-workflow.md"><strong>워크플로우 설정</strong></a>
     </div>
     <em>문서 워크플로우를 자동화하여 전자 서명과 데이터를 빠르게 가져올 수 있습니다</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
