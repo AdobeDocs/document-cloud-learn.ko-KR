@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: 5a3fb2653be5123db740962ffce0d45f6ab71538
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '482'
 ht-degree: 8%
 
 ---
@@ -84,6 +84,8 @@ ht-degree: 8%
    + Digidentity {#digidentity}
       + [Digidentity에서 디지털 ID 받기](digitalid/digidentity-reg.md)
       + [Digidentity를 사용한 서명](digitalid/digidentity-sign.md)
+   + D-Trust {#dtrust}
+      + [[!DNL D-Trust]을(를) 사용하여 등록 및 서명](digitalid/d-trust.md)
    + Intesi Group {#intesi}
       + [Intesi Group에서 디지털 ID 가져오기(고급)](digitalid/intesi-advanced.md)
       + [Intesi Group에서 디지털 ID 받기(적격)](digitalid/intesi-qualified.md)
