@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: b5f60a8d6607b5ecdbd5a0da6e4877a9bae1c2cf
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,11 @@ ht-degree: 0%
 >[!NOTE]
 >
 >클라우드 서명으로 디지털 ID를 사용하려면 먼저 조직의 관리자에게 문의하여 Acrobat Sign에서 공급자 솔루션이 활성화되어 있는지 확인하십시오.
+
+## 새로운 기능
+
+* [D-Trust를 사용하여 등록 및 서명](d-trust.md)
+다음을 사용하여 ID를 등록하는 방법에 대해 알아봅니다. [!DNL D-Trust]를 클릭한 다음 [!DNL D-Trust] Acrobat Sign에서 문서의 디지털 서명
 
 ## [!DNL Aadhaar]
 

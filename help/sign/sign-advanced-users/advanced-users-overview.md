@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b552039d79b6c7835e8139da891fd5b1397aff84
+source-git-commit: 854e70d1dd1d6535e1f8a8b53cfc6907862f5569
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '382'
 ht-degree: 3%
 
 ---
@@ -19,6 +19,13 @@ ht-degree: 3%
 ![고급 이미지 서명](../assets/Hero-Advanced.png)
 
 서명을 위해 문서를 한 번에 100명의 수신자에게 전송하고, 웹 사이트에 사용할 서명 준비 문서를 설정하고, 서명 트랜잭션을 관리하고, 문서 템플릿을 만들고 관리하는 방법을 알아봅니다. 이 튜토리얼은 서명 전송 및 요청의 기본 사항에 이미 익숙한 사용자를 위한 것이며, Acrobat Sign이 사용자를 위해 작동하는 더 많은 방법을 알아보길 원합니다.
+
+## 새로운 기능
+
+* [온라인 결제 설정](set-up-online-payments.md)
+문서에서 온라인 결제를 설정하고 수락하는 방법에 대해 알아봅니다
+* [보고서 생성](creating-a-report.md)
+고유한 보고서를 작성하여 문서 서명 프로세스를 명확하게 확인하는 방법을 살펴보십시오
 
 ## 전송
 

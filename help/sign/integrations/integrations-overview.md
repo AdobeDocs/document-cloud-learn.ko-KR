@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: d91e070ffeccdd6658cd8065bbc2d52cdf0fffb5
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '588'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,13 @@ Microsoft, Salesforce, Workday 및 Marketo과 같이 조직이 이미 사용 중
 
 >[!NOTE]
 > 이러한 기능에 액세스하는 데 문제가 있는 경우 조직의 관리자에게 문의하여 통합이 활성화되어 있는지 확인하십시오.
+
+## 새로운 기능
+
+* [Power Automate를 통해 SharePoint에서 파일 자동 보관](auto-archive-sharepoint-power-automate.md)
+Power Automate를 사용하여 서명된 문서를 SharePoint 라이브러리에 자동으로 보관하는 방법에 대해 알아봅니다
+* [Salesforce용 문서 빌더](create-an-agreement-template.md)
+Salesforce용 문서 빌더를 사용하여 재사용 가능한 문서 템플릿을 만드는 방법을 알아봅니다
 
 ## Microsoft 통합 튜토리얼
 

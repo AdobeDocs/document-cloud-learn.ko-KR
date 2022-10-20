@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2a81d3fe9dcdbe239d6f7957b2641473137a585e
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '440'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,13 @@ ht-degree: 1%
 ![Sign 시작 이미지](../assets/Hero-GettingStarted.png)
 
 간단한 단계별 튜토리얼을 통해 문서를 전송, 서명 및 추적하는 방법을 빠르게 알아볼 수 있습니다. Acrobat Sign을 빠르게 살펴본 다음 한 명 이상의 사람에게 문서를 전송합니다. 이 콘텐츠는 전자 서명 워크플로우를 간소화하기 위해 고안되었습니다.
+
+## 새로운 기능
+
+* [스탬프로 서명](sign-with-a-stamp.md)
+스탬프를 사용하여 승인 또는 완료된 문서를 표시하는 방법 알아보기
+* [서명자 바꾸기](replace-signer.md)
+이미 진행 중인 문서의 서명자를 변경하는 방법 알아보기
 
 ## 전송
 

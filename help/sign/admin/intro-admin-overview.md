@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: a58a3fd44e87b1e07aca9471fe713b51c1e05365
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '448'
-ht-degree: 0%
+source-wordcount: '490'
+ht-degree: 1%
 
 ---
 
@@ -19,6 +19,13 @@ ht-degree: 0%
 ![Sign 관리자 이미지](../assets/Hero-Admin.png)
 
 계정에 사용자를 추가하고, 그룹을 설정하고, 액세스를 공유하고, 워크플로, 외부 보관, 공유 이벤트 및 경고를 설정하는 방법에 대해 알아봅니다. 이 자습서는 설치 단계를 지나 Acrobat Sign 관리를 시작할 준비가 된 관리자를 위해 설계되었습니다. 고급 작업에서는 관리자 설정 이상으로 확장하여 전역 설정, 계정 액세스 및 공유, 텍스트 태그 지정 정의 단계로 이동하는 항목을 다룹니다.
+
+## 새로운 기능
+
+* [새 관리자를 위한 시작하기](get-started-admin.md)
+이 포괄적인 비디오 가이드에서 Acrobat Sign을 사용하여 조직을 시작하고 운영하는 데 필요한 모든 툴에 대해 알아보십시오
+* [워크플로우 설정](building-a-custom-workflow.md)
+문서 워크플로우를 자동화하여 전자 서명과 데이터를 빠르게 가져올 수 있습니다
 
 ## 시작하기
 
