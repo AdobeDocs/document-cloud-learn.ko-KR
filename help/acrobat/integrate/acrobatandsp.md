@@ -7,7 +7,7 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -21,6 +21,8 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Adobe Acrobat [!DNL SharePoint], [!DNL OneDrive]및 [!DNL Office 365] 모든 사용자가 사용할 수 있는 무료 기능(예: PDF 내에서 보기 및 검색)이 포함되어 있습니다. PDF 만들기 및 결합과 같은 일부 기능을 사용하려면 유료 Acrobat for teams 또는 Acrobat for enterprise 구독이 필요합니다.
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/331855?hidetitle=true)
 

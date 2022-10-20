@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -20,6 +20,8 @@ ht-degree: 0%
 >[!TIP]
 >
 >브랜드를 추가하는 방법 [새 사용자 지정 페이지](add-custom-page.md) 있습니다.
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/35452?hidetitle=true)
 
