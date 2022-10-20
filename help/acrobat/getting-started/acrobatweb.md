@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8498.jpg
 kt: 8498
 exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Acrobat 웹으로 어디에서나 작업
 
 브라우저에서 Acrobat 웹 툴을 사용하여 어디에서나 비즈니스 문서 요청을 처리하는 방법을 살펴보세요.
+
+>[!TIP]
+>
+>Acrobat 모바일 도구에 대해 자세히 알아보시겠습니까? 체크아웃 [어디에서나 업무 생산성 향상](productivity.md).
 
 >[!VIDEO](https://video.tv.adobe.com/v/337436?hidetitle=true)
 

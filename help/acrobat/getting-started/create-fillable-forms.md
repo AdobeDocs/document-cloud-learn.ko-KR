@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -36,3 +36,7 @@ ht-degree: 0%
 1. 선택 **[!UICONTROL 편집]** 작업을 계속하려면 **[!UICONTROL 파일]** **>** **[!UICONTROL 다른 이름으로 저장]** PDF 양식을 저장합니다.
 
    ![양식 4단계](../assets/Form_4.png)
+
+>[!TIP]
+>
+>다양한 툴을 사용하여 양식 제작 [고급 기법](../advanced-tasks/advancedforms.md).
