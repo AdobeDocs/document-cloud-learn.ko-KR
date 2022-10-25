@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate
 thumbnail: KT-6858.jpg
 exl-id: 59269c6c-f471-4bc5-9ad4-ad7b7fdcdb76
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,11 @@ ht-degree: 0%
     <a href="https://doccloud.adobeconnect.com/skillbuilder-sigforms/" target="_blank"><strong>서명 준비</strong></a>
     </div>
     <em>전자 서명 필드를 사용하여 PDF 빌드</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -85,8 +90,6 @@ ht-degree: 0%
     <em>PDF에 텍스트, 이미지, 링크 및 워터마크 추가</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/sign/" target="_blank">
       <img alt="작업 서명" src="../assets/sb_signed.png" />
@@ -97,6 +100,8 @@ ht-degree: 0%
     <em>Microsoft Outlook에서 직접 문서에 서명</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/convertpdfs/" target="_blank">
       <img alt="PDF 변환" src="../assets/sb_convert.png" />
@@ -117,9 +122,7 @@ ht-degree: 0%
     <em>모든 디바이스에서 양식을 채우고 서명하여 전자 방식으로 전송</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank">
       <img alt="PDF 최적화" src="../assets/sb_optimize.png" />
     </a>
@@ -127,16 +130,6 @@ ht-degree: 0%
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank"><strong>PDF 최적화</strong></a>
     </div>
     <em>배포할 PDF 준비</em>
-    <br>
-  </td>
-  <td>
-   <img alt="스페이서" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="스페이서" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -164,6 +157,16 @@ ht-degree: 0%
     <a href="https://doccloud.adobeconnect.com/securepdfs/" target="_blank"><strong>PDF 보호</strong></a>
     </div>
     <em>PDF의 민감한 정보 교정 및 보호</em>
+    <br>
+  </td>
+  <td>
+   <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

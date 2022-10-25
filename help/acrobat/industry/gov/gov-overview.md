@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-9910.jpg
 kt: 9910
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ ht-degree: 0%
     </div>
     <em>문서 공동 작업을 위한 간단하고 간편한 워크플로우 구축</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="protect-digital-documents.md">
       <img alt="팁: 3Protect 디지털 문서" src="../../assets/Tip3.png" />
@@ -64,6 +62,7 @@ ht-degree: 0%
     <em>복사, 편집 또는 인쇄를 방지하기 위해 PDF에 암호를 추가합니다</em>
     <br>
   </td>
+</tr>
   <td>
     <a href="work-with-forms-and-signatures.md">
       <img alt="팁 4: 양식 및 서명을 사용하여 작업" src="../../assets/Tip4.png" />
@@ -82,6 +81,16 @@ ht-degree: 0%
     <a href="scan-and-edit-on-mobile.md"><strong>팁 5: 모바일 디바이스에서 스캔 및 편집</strong></a>
     </div>
     <em>Adobe Scan 및 Acrobat Reader 모바일 앱을 사용하여 어디에서나 작업을 수행하는 방법에 대해 알아봅니다</em>
+    <br>
+  </td>
+  <td>
+   <img alt="스페이서" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="스페이서" src="../../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -120,10 +129,8 @@ ht-degree: 0%
     </div>
     <em>에서 작성된 PDF 파일을 만들기 위한 모범 사례 [!DNL Microsoft Word]</em>
     <br>
-  </td>  
-</tr>
-<tr>
-  <td>
+  </td>
+   <td>
     <a href="finishing-in-acrobat.md">
       <img alt="PDF 액세스 가능: Acrobat에서 마무리" src="../../assets/Accessibilityacrobat.png" />
     </a>
@@ -133,6 +140,8 @@ ht-degree: 0%
     <em>Acrobat Pro의 툴을 사용하여 PDF 파일에 액세스 가능하게 만드는 방법을 살펴봅니다</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="making-pdf-ballots-accessible.md">
       <img alt="PDF 투표용지의 접근성 향상" src="../../assets/Accessibleballots.png" />
@@ -143,6 +152,16 @@ ht-degree: 0%
     <em>이 온라인 세미나는 화면 판독기와 같은 보조 기술 사용자가 투표지를 읽고 완료할 수 있도록 하는 데 필요한 PDF 접근성의 주요 영역을 다룹니다</em>
     <br>
   </td>  
+  <td>
+   <img alt="스페이서" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="스페이서" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
   <td>
    <img alt="스페이서" src="../../assets/Grayspacer.png" />
     <div>

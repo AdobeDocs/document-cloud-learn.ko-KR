@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: dd27b6a410af8397fe0d7315fd284bae8a586ab9
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -56,8 +56,6 @@ ht-degree: 0%
     <em>종이 문서를 감사 보고서가 포함된 완벽한 디지털 워크플로우로 신속하게 대체</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="usecasegovreemployment.md">
       <img alt="재취업 지원" src="../assets/UC_WebformsR.png" />
@@ -68,6 +66,8 @@ ht-degree: 0%
     <em>일상적으로 사용할 수 있는 디지털 신청 양식에 맞추지 않고 시민이 필요한 도움을 받을 수 있도록 지원</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="usecasegovpaycheck.md">
       <img alt="급여 보호" src="../assets/UC_PaycheckProtectionR.png" />
@@ -86,6 +86,16 @@ ht-degree: 0%
     <a href="usecasegovremote.md"><strong>원격 영장 청구</strong></a>
     </div>
     <em>전자 서명과 웹 회의를 함께 사용하여 법관의 영장을 청구하고 확보하는 데 걸리는 시간을 줄일 수 있습니다</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -123,6 +133,11 @@ ht-degree: 0%
     <a href="usecasecomtelework.md"><strong>원격 근무 협정</strong></a>
     </div>
     <em>원격 근무 계약을 통해 모든 직원의 서명을 효율적으로 수집할 수 있습니다</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

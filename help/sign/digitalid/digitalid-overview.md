@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,11 @@ ht-degree: 0%
     <a href="aadhaar-sign.md"><strong>다음을 사용하여 서명 [!DNL Aadhaar]</strong></a>
     </div>
     <em>사진 편집 [!DNL Aadhaar] Acrobat Sign을 사용한 디지털 ID</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -85,6 +90,11 @@ ht-degree: 0%
     <div>
     <br>
   </td>
+  <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -100,6 +110,11 @@ ht-degree: 0%
     <a href="d-trust.md"><strong>D-Trust를 사용하여 등록 및 서명</strong></a>
     </div>
     <em>다음을 사용하여 ID를 등록하는 방법에 대해 알아봅니다. [!DNL D-Trust]를 클릭한 다음 [!DNL D-Trust] Acrobat Sign에서 문서의 디지털 서명</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -147,6 +162,11 @@ ht-degree: 0%
     <a href="intesi-sign.md"><strong>다음을 사용하여 서명 [!DNL Intesi Group]</strong></a>
     </div>
     <em>사진 편집 [!DNL Intesi Group] Acrobat Sign을 사용한 디지털 ID</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

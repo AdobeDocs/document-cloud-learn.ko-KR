@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '302'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ Acrobat 통합 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]�
     </div>
     <em>PDF 파일을 만들 때 [!DNL Microsoft Office] 웹 앱용</em>
     <br>
-  </td>  
+  </td> 
   <td>
     <a href="acrobatandsp.md">
       <img alt="공동 작업 [!DNL SharePoint] 파일" src="../assets/SharePoint.png" />
@@ -55,7 +55,7 @@ Acrobat 통합 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]�
     </div>
     <em>문서 워크플로우 간소화 [!DNL SharePoint] 및 Acrobat</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -88,6 +88,11 @@ Acrobat 통합 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]�
     <em>Adobe Acrobat 확장자를 사용하여 웹 페이지를 PDF에 즉시 보관하는 방법에 대해 알아보십시오. [!DNL Microsoft Edge]</em>
     <br>
   </td>
+  <td>
+   <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -117,6 +122,11 @@ Acrobat 통합 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]�
     <div>
     <br>
   </td>
+  <td>
+   <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -134,6 +144,11 @@ Acrobat 통합 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]�
     <a href="acrobat-dropbox.md"><strong>의 파일을 사용하여 작업 [!DNL Dropbox]</strong></a>
     </div>
     <em>변경 내용을 열고, 만들고, 편집하고, 서명하고, 저장하는 방법에 대해 [!DNL Dropbox] Acrobat 내의 파일</em>
+    <br>
+  </td>
+  <td>
+   <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

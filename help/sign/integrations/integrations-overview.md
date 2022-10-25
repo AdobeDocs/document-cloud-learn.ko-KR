@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -64,9 +64,7 @@ Salesforce용 문서 빌더를 사용하여 재사용 가능한 문서 템플릿
     <em>Sharepoint Online 내에서 서명이 필요한 문서 보내기</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="track-an-agreement-with-sharepoint-online.md">
       <img alt="SharePoint Online에서 추적" src="../assets/MS-TrackSP.png" />
     </a>
@@ -76,6 +74,8 @@ Salesforce용 문서 빌더를 사용하여 재사용 가능한 문서 템플릿
     <em>Microsoft Sharepoint에서 직접 계약 진행 상태 추적</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="adobe-sign-teams-mortgage.md">
       <img alt="서명을 위해 문서 보내기 [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
@@ -96,8 +96,6 @@ Salesforce용 문서 빌더를 사용하여 재사용 가능한 문서 템플릿
     <em>서명된 문서를 [!DNL SharePoint] 라이브러리 사용 [!DNL Power Automate]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="documentautomation.md">
       <img alt="문서 자동화 [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
@@ -106,16 +104,6 @@ Salesforce용 문서 빌더를 사용하여 재사용 가능한 문서 템플릿
     <a href="documentautomation.md"><strong>문서 자동화 [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
     <em>활성화 및 사용 방법 [!DNL Acrobat Sign] 및 [!DNL Adobe PDF Tools] 커넥터 [!DNL Microsoft Power] 앱</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -155,8 +143,6 @@ Salesforce용 문서 빌더를 사용하여 재사용 가능한 문서 템플릿
     <em>Salesforce 데이터를 Acrobat Sign 문서에 직접 병합하는 방법 알아보기</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-a-custom-button.md">
       <img alt="사용자 정의 단추 만들기" src="../assets/SF-Button.png" />
@@ -165,16 +151,6 @@ Salesforce용 문서 빌더를 사용하여 재사용 가능한 문서 템플릿
     <a href="create-a-custom-button.md"><strong>사용자 정의 단추 만들기</strong></a>
     </div>
     <em>전송 프로세스를 시작하고 Salesforce 내에서 계약을 자동으로 채우는 사용자 정의 단추를 만듭니다.</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -192,6 +168,11 @@ Salesforce용 문서 빌더를 사용하여 재사용 가능한 문서 템플릿
     <a href="workday.md"><strong>Workday을 사용하여 Acrobat Sign 구성</strong></a>
     </div>
     <em>Workday에서 바로 작동하도록 Acrobat Sign을 구성하여 모든 인사 관련 서류 작업을 원활하게 관리하는 방법에 대해 알아봅니다</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -241,9 +222,7 @@ Salesforce용 문서 빌더를 사용하여 재사용 가능한 문서 템플릿
     <em>일정 기간 후 계약이 서명되지 않은 경우 Marketo에서 전자 메일 미리 알림을 보내는 방법을 읽습니다.</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="marketo-dynamics-reminder.md">
       <img alt="Microsoft Dynamics 및 Marketo용 Acrobat Sign을 사용하여 알림 메시지 보내기" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
@@ -253,6 +232,8 @@ Salesforce용 문서 빌더를 사용하여 재사용 가능한 문서 템플릿
     <em>일정 기간 후 계약이 서명되지 않은 경우 전자 메일 미리 알림을 보내는 방법을 알아봅니다.</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="marketo-dynamics-sms.md">
       <img alt="Microsoft Dynamics 및 Marketo용 Acrobat Sign을 사용하여 알림 보내기" src="../assets/Integrate-Dynamics-SMS.jpg" />
@@ -261,6 +242,16 @@ Salesforce용 문서 빌더를 사용하여 재사용 가능한 문서 템플릿
     <a href="marketo-dynamics-sms.md"><strong>Microsoft Dynamics 및 Marketo용 Acrobat Sign을 사용하여 알림 보내기</strong></a>
     </div>
     <em>서명자에게 계약이 진행 중임을 알리기 위해 문자 메시지, 전자 메일 또는 푸시 알림을 보내는 방법을 알아봅니다.</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>
