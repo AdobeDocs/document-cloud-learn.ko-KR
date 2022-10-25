@@ -6,15 +6,15 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35492.jpg
 exl-id: 75c51400-9ff9-46cf-a3a3-9d521c3eb35c
-source-git-commit: ef4a9f39084c7803a9e277182534376298e8fc7f
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
 # PDF에 댓글 달기
 
-PDF 파일에 주석을 추가한 다음 다른 사람과 파일을 공유하여 실시간으로 추가 주석을 수집하는 방법을 살펴봅니다.
+원활한 협업은 신속하고 규모에 맞게 콘텐츠를 전달하는 데 중요합니다. PDF 파일에 주석을 추가한 다음 다른 사람과 파일을 공유하여 실시간으로 추가 주석을 수집하는 방법을 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35492?hidetitle=true)

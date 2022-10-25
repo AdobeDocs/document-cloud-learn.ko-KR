@@ -7,16 +7,16 @@ level: Beginner
 thumbnail: KT-9155.jpg
 kt: 9155
 exl-id: 143170eb-09c6-4b13-90d3-ab1a658d1572
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
 # 어디에서나 업무 생산성 향상
 
-Acrobat Reader 모바일 앱을 사용하면 태블릿이나 스마트폰에서 업무 효율성을 높일 수 있습니다.
+어디에서나 원격 근무를 할 수 있다면 신속하고 규모에 맞게 콘텐츠를 전달하는 것이 중요합니다. Acrobat Reader 모바일 앱을 사용하여 태블릿 또는 스마트폰에서 최대한 활용하는 방법을 살펴보세요.
 
 >[!TIP]
 >

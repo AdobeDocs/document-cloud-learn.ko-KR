@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '218'
 ht-degree: 1%
 
 ---
 
 # Action Wizard
 
-액션을 사용하여 한 개 또는 여러 개의 파일에 일련의 명령을 자동으로 적용하여 키 입력과 시간을 절약할 수 있습니다.
+최적의 고객 경험을 전달하려면 콘텐츠를 빠르게 만들어야 합니다. 액션을 사용하여 한 개 또는 여러 개의 파일에 일련의 명령을 자동으로 적용하여 키 입력과 시간을 절약할 수 있습니다.
 
 >[!NOTE]
 >
