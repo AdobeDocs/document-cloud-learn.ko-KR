@@ -7,10 +7,10 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: b3e77a9a056caf743f1affa2f1e93d9ce9cda04a
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -56,8 +56,6 @@ Acrobat 통합 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]�
     <em>문서 워크플로우 간소화 [!DNL SharePoint] 및 Acrobat</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="acrobatandteams.md">
       <img alt="PDF 공동 작업 [!DNL Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
@@ -68,6 +66,8 @@ Acrobat 통합 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]�
     <em>PDF을 검토하거나 주석을 추가하거나 검토하면서 동료와 원활하게 협업하고 작업할 수 있습니다 [!DNL Microsoft Teams]</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="outlook.md">
       <img alt="Outlook에서 전자 메일 메시지 및 첨부 파일을 PDF으로 변환" src="../assets/Outlook.jpg" />
@@ -86,6 +86,11 @@ Acrobat 통합 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]�
     <a href="edge.md"><strong>탐색하는 동안 PDF 내용 만들기 [!DNL Microsoft Edge]</strong></a>
     </div>
     <em>Adobe Acrobat 확장자를 사용하여 웹 페이지를 PDF에 즉시 보관하는 방법에 대해 알아보십시오. [!DNL Microsoft Edge]</em>
+    <br>
+  </td>
+  <td>
+   <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>
