@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 546be0ae0539aa774e51bd7251b46e3f864401c3
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 4%
+source-wordcount: '493'
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ![Acrobat 시작 이미지](../assets/Hero-GettingStarted.png)
 
-이 간단한 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아봅니다. 문서 작성에서 PDF 파일 보호에 이르기까지 이 콘텐츠는 PDF 워크플로우를 간소화하도록 설계되었습니다.
+이 간단한 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아봅니다. 문서 만들기에서 보호 또는 [PDF 파일 편집](https://www.adobe.com/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}, 이 콘텐츠는 PDF 작업 과정을 쉽게 진행할 수 있도록 설계되었습니다.
 
 ## 시작하기 자습서
 

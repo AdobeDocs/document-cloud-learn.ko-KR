@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '756'
-ht-degree: 0%
+source-wordcount: '771'
+ht-degree: 1%
 
 ---
 
@@ -86,7 +86,7 @@ PDF의 콘텐츠에 태그를 지정하면 파일이 작성될 뿐만 아니라 
 
 ## 4. 웹 준비
 
-웹 보기용으로 준비하고 파일 크기를 줄여 PDF과 상호 작용하는 환경을 최적화합니다.
+웹 보기 및 [PDF 파일 크기 축소](https://www.adobe.com/kr/acrobat/online/compress-pdf.html){target=&quot;_blank&quot;}.
 
 +++웹용 PDF 준비 방법에 대한 세부 정보 보기
 
@@ -122,7 +122,7 @@ PDF이 웹에 게시되면 파일 이름이 URL의 일부가 됩니다. 유용�
 
 ## 6. PDF 보안
 
-마지막 단계는 PDF을 보호하여 무단 변경을 방지하는 것입니다.
+마지막 단계는 [PDF 보호](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;} - 무단 변경을 방지합니다.
 
 +++PDF 보안 방법에 대한 세부 정보 보기
 

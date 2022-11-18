@@ -5,10 +5,10 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 1d91abad827e53136ffd6f7bb7df07566d061a19
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '833'
-ht-degree: 1%
+source-wordcount: '847'
+ht-degree: 2%
 
 ---
 
@@ -27,10 +27,10 @@ Adobe Acrobat 스킬 빌더는 PDF 워크플로우를 향상시키기 위해 마
 날짜: 이 기능 작성기는 디지털 문서 공동 작업에 관한 것입니다. 팀원과 문서를 손쉽게 검토하고 주석 툴을 둘러볼 수 있습니다. 또한 Microsoft Teams에 있는 다른 사용자와의 PDF 검토과 Acrobat 모바일 앱 및 Acrobat Web을 사용하여 어디에서나 피드백을 제공하는 방법에 대해서도 살펴봅니다.
 
 * **[PDF 내용 재사용: 편집 및 내보내기](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/68a9bbf2-91ca-40f0-baa1-812dd0730e0b/48c2399c-7392-4d7d-ba51-f623dead313a){target=&quot;_blank&quot;}**
-날짜: 2022년 10월 27일 기존 PDF을 수정하는 방법에 대해 알아봅니다. 텍스트 및 이미지 편집, 하이퍼링크 및 책갈피 추가, Microsoft Word, PowerPoint, Excel 파일로 변환 등 다양한 작업이 가능합니다.
+날짜: 2022년 10월 27일 학습 방법 [기존 PDF 수정](https://www.adobe.com/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}: 텍스트 및 이미지 편집, 하이퍼링크 및 책갈피 추가, Microsoft Word, PowerPoint, Excel 파일로 변환 등 다양한 작업이 가능합니다.
 
 * **[Acrobat 시작하기](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/360c9159-3f6f-47ae-8320-d0ad391883e1/e54db15b-af50-40ff-a274-6e927a22c6e7){target=&quot;_blank&quot;}**
-날짜: 2022년 9월 22일 Adobe Acrobat 및 PDF을 시작합니다. Acrobat 인터페이스를 소개하고 다음 방법을 보여 줍니다. * [이미지 파일에서 PDF 만들기](https://www.adobe.com/kr/acrobat/online/convert-pdf.html){target=&quot;_blank&quot;} 및 Word, Excel, PowerPoint 등의 문서. * PDF, Word, 이미지 등 여러 파일을 하나의 편집 가능한 PDF으로 결합할 수 있습니다. * Acrobat Web 및 Mobile을 사용하면 언제 어디에서나 작업할 수 있습니다.
+날짜: 2022년 9월 22일 Adobe Acrobat 및 PDF을 시작합니다. Acrobat 인터페이스를 소개하고 다음 방법을 보여 줍니다. * [이미지 파일에서 PDF 만들기](https://www.adobe.com/kr/acrobat/online/convert-pdf.html){target=&quot;_blank&quot;} 및 Word, Excel, PowerPoint 등의 문서. * [여러 파일 결합](https://www.adobe.com/kr/acrobat/online/merge-pdf.html){target=&quot;_blank&quot;} — PDF, Word, 이미지 등 여러 항목을 하나의 편집 가능한 PDF으로 변환할 수 있습니다. * Acrobat Web 및 Mobile을 사용하면 언제 어디에서나 작업할 수 있습니다.
 
 * **[PDF 보안](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target=&quot;_blank&quot;}**
 날짜: 2022년 8월 25일 필요한 모든 정보 가져오기 [PDF 보호](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;} 콘텐츠. 이 세션에서는 암호를 추가하여 PDF을 보거나, 편집하거나, 인쇄하지 못하도록 하는 기술을 공유하고, 보이지 않는 메타데이터에서도 민감한 정보를 영구적으로 제거하는 방법을 보여줍니다!

@@ -7,16 +7,16 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 0%
+source-wordcount: '128'
+ht-degree: 3%
 
 ---
 
 # 공동 작업 [!DNL SharePoint] 파일
 
-문서 워크플로우 간소화 [!DNL SharePoint] 및 Acrobat 사용 [Microsoft 365용 Adobe Acrobat](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). 안전한 변환 [!DNL Microsoft 365] 파일을 PDF에 취합하고, 여러 문서를 하나의 파일로 취합하고, 주석을 추가하고, 페이지를 재정렬할 수 있으며 [!DNL SharePoint] 온라인.
+문서 워크플로우 간소화 [!DNL SharePoint] 및 Acrobat 사용 [Microsoft 365용 Adobe Acrobat](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). 안전한 변환 [!DNL Microsoft 365] 파일을 PDF으로 [PDF 문서 결합](https://www.adobe.com/kr/acrobat/online/merge-pdf.html){target=&quot;_blank&quot;}을(를) 하나의 파일로 만들고, 주석을 추가하고, 페이지를 재정렬할 수 있습니다. [!DNL SharePoint] 온라인.
 
 >[!NOTE]
 >

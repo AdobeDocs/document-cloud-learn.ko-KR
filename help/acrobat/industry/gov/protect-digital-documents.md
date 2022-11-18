@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 34510.jpg
 exl-id: 3115d182-671a-4d8b-8753-f8aba3c4807e
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 0%
+source-wordcount: '62'
+ht-degree: 8%
 
 ---
 
 # 어디에서나 Acrobat 작업을 위한 5가지 팁 — Protect 디지털 문서
 
-복사, 편집 또는 인쇄를 방지하기 위해 PDF에 암호를 추가합니다.
+[PDF에 암호 추가](https://www.adobe.com/acrobat/online/password-protect-pdf.html)복사, 편집 또는 인쇄를 방지하기 위한 {target=&quot;_blank&quot;}
 
 ## 팁 #3 - Protect 디지털 문서(1:23)
 

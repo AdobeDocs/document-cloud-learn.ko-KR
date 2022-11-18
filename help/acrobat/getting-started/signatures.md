@@ -7,16 +7,16 @@ level: Beginner
 thumbnail: KT-8257.jpg
 kt: 8257
 exl-id: 58c432b1-2067-4a67-b386-ab7d35453543
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 0%
+source-wordcount: '67'
+ht-degree: 7%
 
 ---
 
 # 서명 받기
 
-어디에서나 다른 사람으로부터 법적으로 유효한 전자 서명을 수집하여 비즈니스를 원활하게 진행할 수 있습니다.
+법적 구속력을 수집하여 차질 없는 비즈니스 전개 [전자 서명](https://www.adobe.com/acrobat/online/request-signature.html){target=&quot;_blank&quot;}(다른 사용자의 경우). 어디에서든.
 
 >[!IMPORTANT]
 >

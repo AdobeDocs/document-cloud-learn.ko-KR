@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 3%
+source-wordcount: '186'
+ht-degree: 6%
 
 ---
 
 # 스캔 및 OCR
 
-스캔한 문서 또는 이미지를 검색 및 편집 가능한 PDF 파일로 변환하여 비즈니스를 중단 없이 전개할 수 있습니다.
+스캔한 문서 또는 이미지를 검색 및 [편집 가능한 PDF 파일](https://www.adobe.com/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}.
 
 >[!TIP]
 >
