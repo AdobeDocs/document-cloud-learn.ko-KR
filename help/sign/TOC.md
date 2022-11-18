@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 5a3fb2653be5123db740962ffce0d45f6ab71538
+source-git-commit: ffdc34a1f9e2f0ceef795b6af7072b36a583a80d
 workflow-type: tm+mt
-source-wordcount: '482'
-ht-degree: 8%
+source-wordcount: '486'
+ht-degree: 9%
 
 ---
 
@@ -30,6 +30,7 @@ ht-degree: 8%
       + [보내기 옵션 구성](sign-beginner-tutorials/sending-options.md)
       + [전송 후 문서 수정](sign-beginner-tutorials/modify-in-flight.md)
       + [서명자 바꾸기](sign-beginner-tutorials/replace-signer.md)
+      + [기한 및 미리 알림 설정](sign-beginner-tutorials/set-deadlines-reminders.md)
    + Signing {#getting-started-signing}
       + [문서에 전자 서명](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [문서 채우기 및 서명](sign-beginner-tutorials/fill-and-sign.md)

@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: ffdc34a1f9e2f0ceef795b6af7072b36a583a80d
 workflow-type: tm+mt
-source-wordcount: '440'
-ht-degree: 1%
+source-wordcount: '471'
+ht-degree: 5%
 
 ---
 
@@ -21,10 +21,10 @@ ht-degree: 1%
 
 ## 새로운 기능
 
+* [기한 및 미리 알림 설정](set-deadlines-reminders.md)
+문서에 빠르게 서명을 받기 위해 일반 이메일 알림 메시지 및 최종 기한을 보내는 방법을 알아봅니다
 * [스탬프로 서명](sign-with-a-stamp.md)
 스탬프를 사용하여 승인 또는 완료된 문서를 표시하는 방법 알아보기
-* [서명자 바꾸기](replace-signer.md)
-이미 진행 중인 문서의 서명자를 변경하는 방법 알아보기
 
 ## 전송
 
@@ -112,6 +112,33 @@ ht-degree: 1%
     <em>이미 진행 중인 문서의 서명자를 변경하는 방법 알아보기</em>
      <br>
   </td>
+</tr>
+<tr>
+  <td>
+      <a href="set-deadlines-reminders.md">
+        <img alt="기한 및 미리 알림 설정" src="../assets/Reminders.png" />
+      </a>
+      <div>
+      <a href="set-deadlines-reminders.md"><strong>기한 및 미리 알림 설정</strong></a>
+      </div>
+      <em>문서에 빠르게 서명을 받기 위해 일반 이메일 알림 메시지 및 최종 기한을 보내는 방법을 알아봅니다</em>
+      <br>
+    </td> 
+  <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
 </tr>
 </table>
 
