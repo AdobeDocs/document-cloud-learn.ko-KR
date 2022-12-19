@@ -7,18 +7,18 @@ level: Intermediate, Experienced
 topic-revisit: Administration
 thumbnail: 17358.jpg
 exl-id: 6500d797-0292-4a1b-8922-5c92a962cc8a
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: 8bf47e73f9bc1c82467e7567069bca406b357725
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 전역 설정
 
-조직 전체 또는 특정 그룹의 설정을 전역적으로 편집하는 방법을 알아봅니다.
+[계정] 탭의 [전역 설정] 섹션은 많은 기능들이 있는 섹션 중 하나로서, 모든 설정이 사용 사례별로 다릅니다. 조직 전체 또는 특정 그룹의 설정을 전역적으로 편집하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/17358?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412507?hidetitle=true)
 
 >[!TIP]
 >
