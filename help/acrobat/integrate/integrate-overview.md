@@ -7,7 +7,7 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 8319477c0daffdd28fd6a6607b22b028b6b95cd7
+source-git-commit: 527ef7363945aa05666cd2ff956366c806a2d627
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 1%
@@ -95,7 +95,7 @@ Acrobat 통합 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]�
     <div>
     <a href="microsoftsensitivitylabels.md"><strong>Protect PDF 사용 [!DNL Microsoft Purview Information] 민감도 레이블</strong></a>
     </div>
-    <em>PDF 추가, 편집, 맞춤화 및 삭제를 통해 사용자를 보호하는 방법에 대해 학습합니다 [!DNL Microsoft Purview] Acrobat에서 바로 감도 레이블</em>
+    <em>PDF 추가, 편집, 맞춤화 및 삭제를 통해 사용자를 보호하는 방법에 대해 학습합니다 [!DNL Microsoft Purview] Acrobat에서 직접 감도 레이블</em>
     <br>
   </td>
   <td>
