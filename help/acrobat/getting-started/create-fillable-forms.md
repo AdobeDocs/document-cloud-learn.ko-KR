@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 0%
+source-wordcount: '156'
+ht-degree: 3%
 
 ---
 
 # 채울 수 있는 양식 만들기
 
-스캔한 종이 양식이나 InDesign, Microsoft Word, Excel 또는 기타 응용 프로그램에서 만든 문서를 입력 가능한 PDF 양식으로 변환합니다.
+스캔한 종이 양식이나 InDesign, Microsoft Word, Excel 또는 기타 응용 프로그램에서 만든 문서를 [채울 수 있는 PDF 양식](https://www.adobe.com/kr/acrobat/online/sign-pdf.html).
 
 1. 선택 **[!UICONTROL Prepare Form]** 에서 [!UICONTROL 도구] 중앙 또는 오른쪽 창
 

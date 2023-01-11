@@ -3,10 +3,10 @@ title: 데스크탑 또는 모바일에서 양식 채우기 및 서명
 description: 데스크탑, 브라우저 또는 모바일 앱에서 양식을 빠르게 작성, 서명 및 전송
 solution: Acrobat Sign
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 0%
+source-wordcount: '397'
+ht-degree: 1%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 **4단계:** 흰색 단추를 사용하여 사진을 찍은 다음 을 탭합니다. **[!UICONTROL 사진 사용]**. 탭 **[!UICONTROL 완료]** 클릭합니다.
 
-**5단계:** 앱 아래쪽에서 **[!UICONTROL 자르기]** 도구를 사용하고 안내선을 사용하여 이미지를 자릅니다. 탭 **[!UICONTROL 완료]** 완료 시.
+**5단계:** 앱 아래쪽에서 **[!UICONTROL 자르기]** 도구를 사용하여 [이미지 자르기](https://www.adobe.com/acrobat/online/crop-pdf.html). 탭 **[!UICONTROL 완료]** 완료 시.
 
 ![로컬 문서 이미지](assets/localdoc.jpg)
 

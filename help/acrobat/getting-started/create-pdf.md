@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 8%
+source-wordcount: '77'
+ht-degree: 14%
 
 ---
 
 # PDF 만들기
 
-다양한 유형의 문서에서 PDF을 만드는 방법을 살펴보세요. Microsoft Office 또는 Creative Cloud 앱에서 만든 파일로 시작하거나 이미지, 스캔 또는 웹 사이트를 사용합니다.
+방법 살펴보기 [다양한 유형의 문서에서 PDF 만들기](https://www.adobe.com/kr/acrobat/online/convert-pdf.html). Microsoft Office 또는 Creative Cloud 앱에서 만든 파일로 시작하거나 이미지, 스캔 또는 웹 사이트를 사용합니다.
 
 >[!TIP]
 >
