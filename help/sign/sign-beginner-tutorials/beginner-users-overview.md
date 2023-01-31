@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
+source-git-commit: a044ba6053cc1b7966381b051b40641b23931fc0
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '469'
 ht-degree: 5%
 
 ---
@@ -21,10 +21,10 @@ ht-degree: 5%
 
 ## 새로운 기능
 
+* [Acrobat Sign 시작하기](new-sender.md)
+Acrobat Sign을 처음 사용하십니까? 이 튜토리얼은 시작하기 좋은 곳입니다.
 * [기한 및 미리 알림 설정](set-deadlines-reminders.md)
 문서에 빠르게 서명을 받기 위해 일반 이메일 알림 메시지 및 최종 기한을 보내는 방법을 알아봅니다
-* [스탬프로 서명](sign-with-a-stamp.md)
-스탬프를 사용하여 승인 또는 완료된 문서를 표시하는 방법 알아보기
 
 ## 전송
 
