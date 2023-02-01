@@ -5,7 +5,7 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 0741b4ca7e98b1f2205e94f6511607f13471eede
+source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
 workflow-type: tm+mt
 source-wordcount: '1107'
 ht-degree: 1%
@@ -23,38 +23,38 @@ Adobe Acrobat 스킬 빌더는 PDF 워크플로우를 향상시키기 위해 마
 **[PDF forms 101: 채울 수 있는 Forms 만들기](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/795f4bc7-db42-4022-a624-8a53c51174c6/9d685d0f-4a5b-4236-a1ef-081d1403fb41){target="_blank"}**
 날짜: 2023년 6월 29일 기존 양식과 종이 문서를 입력 가능한 디지털 PDF으로 간편하게 변환할 수 있습니다. Acrobat은 디지털 문서 혁신으로 이어지는 과정에서 유용하게 사용할 수 있는 다양한 방법과 툴을 제공합니다. 이 세션에 포함된 내용:
 
-    * 다양한 파일(PDF, 스캔한 이미지, Word)로 양식 템플릿 만들기
-    * 사용 가능한 필드 유형 이해(텍스트, 확인란, 라디오 단추, 드롭다운, 일정)
-    * 필드 속성 및 생산성 도구 작업(모양, 서식, 계산, 유효성 검사)
+* 다양한 파일(PDF, 스캔한 이미지, Word)로 양식 서식 파일 만들기
+* 사용 가능한 필드 유형 이해(텍스트, 확인란, 라디오 단추, 드롭다운, 일정)
+* 필드 속성 및 생산성 도구 작업(모양, 서식, 계산, 유효성 검사)
 
 **[PDF에 인터랙티브한 요소 추가](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/4ff4d607-8c9f-47dd-ac4f-3b351a0a0fe3/2eb92255-d963-4ff7-b278-2a95a11db755){target="_blank"}**
 날짜: 2023년 5월 25일 고객이 보다 쉽고 매력적으로 PDF을 상호 작용할 수 있도록 하십시오. 이 세션에 포함된 내용:
 
-    * 하이퍼링크와 책갈피를 추가하면 문서를 보다 쉽게 탐색할 수 있습니다.
-    * PDF에 비디오, 사운드, 3D 등 포함
-    * 하나의 문서에서 다양한 유형의 콘텐츠 구성
+* 하이퍼링크와 책갈피를 추가하여 문서 탐색이 쉬워짐
+* PDF에 동영상, 사운드, 3D 등 포함
+* 하나의 문서에서 다양한 유형의 콘텐츠 구성
 
 **[PDF 내용 재사용: 편집 및 내보내기](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/aac3b9af-7d54-4ea5-a6fa-61bc7acea87f/8d7341ee-ff0f-492a-b3fd-935bd11d4ed0){target="_blank"}**
 날짜: 2023년 4월 27일 PDF을 편집하고 내보낼 수 있는데 휠을 다시 만드는 이유는 무엇입니까? 이 세션에서는 Acrobat의 편집 및 내보내기 도구를 사용하여 기존 PDF을 수정하는 방법을 설명합니다. 사용 방법:
 
-    * 텍스트 및 이미지 편집
-    * 하이퍼링크와 책갈피를 추가하면 문서 탐색이 수월해집니다
-    * Microsoft Word, PowerPoint, Excel과 같은 익숙한 형식으로 내보내기
-    * 전체 문서를 내보내거나 특정 텍스트, 이미지 또는 표를 선택합니다
+* 텍스트 및 이미지 편집
+* 하이퍼링크와 책갈피를 추가하여 문서 탐색이 쉬워짐
+* Microsoft Word, PowerPoint, Excel과 같은 익숙한 형식으로 내보내기
+* 전체 문서 내보내기 또는 특정 텍스트, 이미지 또는 표 선택
 
 **[PDF 협업: 공유, 검토 및 공동 작업](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/0ef4709b-0a04-418e-a185-7efdd676c2dd/6a95bece-6f24-46f5-a17f-b408464281be){target="_blank"}**
 날짜: 2023년 3월 23일 Adobe Acrobat 및 PDF을 시작합니다. 생산성을 높이는 데 도움이 되는 Acrobat 인터페이스 및 주요 기능에 대한 소개를 통해 기본 사항을 살펴보세요. 방법:
 
-    * Word, Excel, PowerPoint 등 이미지 파일과 문서에서 PDF 만들기
-    * PDF, Word, 이미지 등 여러 파일을 하나의 편집 가능한 PDF으로 결합할 수 있습니다
-    * Acrobat Web 및 Acrobat Mobile을 사용하여 언제 어디에서나 작업 수행
+* Word, Excel, PowerPoint 등 이미지 파일과 문서에서 PDF 만들기
+* PDF, Word, 이미지 등 여러 파일을 하나의 편집 가능한 PDF으로 결합할 수 있습니다
+* Acrobat Web 및 Acrobat Mobile을 사용하여 언제 어디에서나 작업 수행
 
 **[Acrobat 시작하기](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/5d8acc24-47a1-4db8-b419-8587bfb12708/fe8ec392-f29a-4e25-b7a3-61f48eea45ab){target="_blank"}**
 날짜: 2023년 2월 23일 Adobe Acrobat 및 PDF을 시작합니다. 생산성을 높이는 데 도움이 되는 Acrobat 인터페이스 및 주요 기능에 대한 소개를 통해 기본 사항을 살펴보세요. 방법:
 
-    * Word, Excel, PowerPoint 등 이미지 파일과 문서에서 PDF 만들기
-    * PDF, Word, 이미지 등 여러 파일을 하나의 편집 가능한 PDF으로 결합할 수 있습니다
-    * Acrobat Web 및 Acrobat Mobile을 사용하여 언제 어디에서나 작업 수행
+* Word, Excel, PowerPoint 등 이미지 파일과 문서에서 PDF 만들기
+* PDF, Word, 이미지 등 여러 파일을 하나의 편집 가능한 PDF으로 결합할 수 있습니다
+* Acrobat Web 및 Acrobat Mobile을 사용하여 언제 어디에서나 작업 수행
 
 **[어디에서나 생산성 향상](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9ab6c7a2-5ca2-4670-9a33-2ac11a1cb542/0b591876-aeae-45af-b41a-07a8326043f2){target="_blank"}**
 날짜: 2023년 1월 26일 이 세션에서는 웹 브라우저 또는 모바일 장치에서 즐겨 사용하는 Acrobat 도구에 액세스하는 방법을 설명합니다. Acrobat on the Web을 사용하면 어디에서나 작업할 수 있으며 Acrobat 모바일 앱을 사용하면 생산성이 이동 중에도 원활하게 유지됩니다.
