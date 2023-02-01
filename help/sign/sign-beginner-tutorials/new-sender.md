@@ -8,7 +8,7 @@ level: Beginner
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: f44c72201a0baf86f74e66e28f313bda38fc5a0a
+source-git-commit: efc55a167156f713d5ef6d23a45cb74f7567f223
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -38,14 +38,14 @@ Acrobat Sign을 처음 사용하십니까? 이 종합적인 튜토리얼은 Acro
         <em>0시에 시작</em>
     </td>
      <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=56">
       <img alt="빨리 감기 이미지" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55"><strong>홈 페이지</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=56"><strong>홈 페이지</strong></a>
          <br>
-        <em>0:55에 시작</em>
+        <em>0:56에 시작</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153">
@@ -77,7 +77,7 @@ Acrobat Sign을 처음 사용하십니까? 이 종합적인 튜토리얼은 Acro
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=551"><strong>채울 수 있는 필드 추가</strong></a>
          <br>
-        <em>8시 22분에 시작</em>
+        <em>9시 11분에 시작</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719">
