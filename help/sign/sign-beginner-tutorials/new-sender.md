@@ -8,7 +8,7 @@ level: Beginner
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: e9bb38448e07d1db43fe02a344fabe7a3abe3c64
+source-git-commit: f44c72201a0baf86f74e66e28f313bda38fc5a0a
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -38,34 +38,34 @@ Acrobat Sign을 처음 사용하십니까? 이 종합적인 튜토리얼은 Acro
         <em>0시에 시작</em>
     </td>
      <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=54">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55">
       <img alt="빨리 감기 이미지" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=54"><strong>홈 페이지</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55"><strong>홈 페이지</strong></a>
          <br>
-        <em>0:54에 시작</em>
+        <em>0:55에 시작</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=152">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153">
       <img alt="빨리 감기 이미지" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=152"><strong>프로필 설정</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153"><strong>프로필 설정</strong></a>
         <br>
-        <em>2시 32분에 시작</em>
+        <em>2시 33분에 시작</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=271">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=272">
       <img alt="빨리 감기 이미지" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=271"><strong>전송 설정</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=272"><strong>전송 설정</strong></a>
         <br>
-        <em>4시 31분에 시작</em>
+        <em>4시 32분에 시작</em>
     </td>
   </tr>
   <tr>
@@ -80,24 +80,24 @@ Acrobat Sign을 처음 사용하십니까? 이 종합적인 튜토리얼은 Acro
         <em>8시 22분에 시작</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=718">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719">
       <img alt="빨리 감기 이미지" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=718"><strong>서명 환경</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719"><strong>서명 환경</strong></a>
         <br>
-        <em>11:58에 시작</em>
+        <em>11:59에 시작</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=773">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=774">
       <img alt="빨리 감기 이미지" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=773"><strong>문서 관리 및 추적</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=774"><strong>문서 관리 및 추적</strong></a>
         <br>
-        <em>12:53에 시작</em>
+        <em>12:54에 시작</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=898">
