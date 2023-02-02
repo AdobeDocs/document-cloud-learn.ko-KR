@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 7b00851bd253e219d3dce1fbe0f06df80d8dafef
+source-git-commit: e6a96b762a4d9f15b1aa0ebc716960dc4e65a14f
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '165'
 ht-degree: 4%
 
 ---
@@ -44,11 +44,11 @@ Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF 변환, 편집, 공유 �
     <br>
   </td>
   <td>
-    <a href="skill-builder/skill-builder-overview.md">
+    <a href="skill-builder/skill-builder-webinars.md">
       <img alt="기능 소개" src="assets/acrobat_title_skill_builder.png" />
     </a>
     <div>
-    <a href="skill-builder/skill-builder-overview.md"><strong>스킬 빌더</strong></a>
+    <a href="skill-builder/skill-builder-webinars.md"><strong>기능 소개 온라인 세미나</strong></a>
     </div>
     <em>디지털화, 디지털화, 원활한 작업 수행을 위한 작업 기반의 팁</em>
     <br>

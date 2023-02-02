@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 8319477c0daffdd28fd6a6607b22b028b6b95cd7
+source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '412'
 ht-degree: 8%
 
 ---
@@ -78,7 +78,6 @@ ht-degree: 8%
    + [PDF에서 그래픽 편집](60-second/editgraphic.md)
    + [신속한 페이지 구성](60-second/organize.md)
 + 스킬 빌더 {#skill-builders}
-   + [개요](skill-builder/skill-builder-overview.md)
    + [온라인 세미나](skill-builder/skill-builder-webinars.md)
 + 통합 {#integrations}
    + [개요](integrate/integrate-overview.md)
