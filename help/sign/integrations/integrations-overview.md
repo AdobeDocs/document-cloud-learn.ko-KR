@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: 88482ea5eadc93ff3bfcf995f0725e94c3a660cc
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '615'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Microsoft, Salesforce, Workday 및 Marketo과 같이 조직이 이미 사용 중
 
 ## 새로운 기능
 
+* [공증을 위해 문서 보내기](send-document-notarize.md)
+이 3부로 구성된 튜토리얼에서는 공증을 위해 문서를 보내고, 서명자의 경험을 보고, 결과를 받는 방법을 살펴봅니다
 * [Power Automate를 통해 SharePoint에서 파일 자동 보관](auto-archive-sharepoint-power-automate.md)
 Power Automate를 사용하여 서명된 문서를 SharePoint 라이브러리에 자동으로 보관하는 방법에 대해 알아봅니다
-* [Salesforce용 문서 빌더](create-an-agreement-template.md)
-Salesforce용 문서 빌더를 사용하여 재사용 가능한 문서 템플릿을 만드는 방법을 알아봅니다
 
 ## Microsoft 통합 튜토리얼
 
@@ -104,6 +104,38 @@ Salesforce용 문서 빌더를 사용하여 재사용 가능한 문서 템플릿
     <a href="documentautomation.md"><strong>문서 자동화 [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
     <em>활성화 및 사용 방법 [!DNL Acrobat Sign] 및 [!DNL Adobe PDF Tools] 커넥터 [!DNL Microsoft Power] 앱</em>
+    <br>
+  </td>
+</tr>
+</table>
+
+## [!DNL Notarize] 통합 자습서
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="send-document-notarize.md">
+      <img alt="공증을 위해 문서 보내기" src="../assets/Notarize.png" />
+    </a>
+    <div>
+    <a href="send-document-notarize.md"><strong>공증을 위해 문서 보내기</strong></a>
+    </div>
+    <em>공증을 위해 문서를 보내는 방법 알아보기</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
