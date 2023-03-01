@@ -5,7 +5,8 @@ role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
-source-git-commit: 88482ea5eadc93ff3bfcf995f0725e94c3a660cc
+exl-id: 5a4c3a69-d126-46c2-984e-623516e0eed3
+source-git-commit: b6108850e14e73eb2ad49cfede4f2f477c87f684
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -25,5 +26,3 @@ Adobe Acrobat Sign은 Notarize, Inc.와 협력하여 온라인 공증 서비스�
 >[!TIP]
 >
 >Acrobat Sign 계정에 대해 공증이 활성화되면 전송자는 이를 선택할 수 있습니다. **공증 필요** 수신자 레코드의 오른쪽에 있는 줄임표를 선택합니다. 공증 옵션은 서명자 역할이 있는 수신자만 사용할 수 있습니다.
-
-
