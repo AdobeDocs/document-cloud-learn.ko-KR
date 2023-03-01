@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
+source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 9%
+source-wordcount: '488'
+ht-degree: 0%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 9%
 + [개요](overview.md)
 + 시작하기 {#getting-started}
    + [개요](sign-beginner-tutorials/beginner-users-overview.md)
-   + 전송 중 {#getting-started-sending}
-      + [작업 영역 기본 사항](sign-beginner-tutorials/quick-tour.md)
+   + 보내기 {#getting-started-sending}
+      + [작업 공간 기본 사항](sign-beginner-tutorials/quick-tour.md)
       + [Acrobat Sign 시작하기](sign-beginner-tutorials/new-sender.md)
       + [단일 수신자에게 보내기](sign-beginner-tutorials/send-to-single-recipient.md)
       + [여러 수신자에게 보내기](sign-beginner-tutorials/send-to-multiple-recipients.md)
@@ -31,7 +31,7 @@ ht-degree: 9%
       + [전송 후 문서 수정](sign-beginner-tutorials/modify-in-flight.md)
       + [서명자 바꾸기](sign-beginner-tutorials/replace-signer.md)
       + [기한 및 미리 알림 설정](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + Signing {#getting-started-signing}
+   + 서명 {#getting-started-signing}
       + [문서에 전자 서명](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [문서 채우기 및 서명](sign-beginner-tutorials/fill-and-sign.md)
       + [직접 서명 받기](sign-beginner-tutorials/sign-in-person.md)
@@ -43,7 +43,7 @@ ht-degree: 9%
       + [문서 템플릿 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + 고급 작업 {#advanced-tasks}
    + [개요](sign-advanced-users/advanced-users-overview.md)
-   + 전송 중 {#advanced-tasks-sending}
+   + 보내기 {#advanced-tasks-sending}
       + [서명 순서 설정](sign-advanced-users/setting-up-routing.md)
       + [위임자 역할 사용](sign-advanced-users/delegate-signature.md)
       + [승인자 역할 사용](sign-advanced-users/add-an-approver.md)
@@ -101,6 +101,8 @@ ht-degree: 9%
       + [서명을 위해 전송 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [파일 자동 보관 위치 [!DNL SharePoint] 에 [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Microsoft Power Platform용 Acrobat Sign으로 문서 자동화](integrations/documentautomation.md)
+   + Notarize {#notarize}
+      + [공증을 위해 문서 보내기](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
       + [Salesforce용 문서 빌더](integrations/create-an-agreement-template.md)
       + [데이터 매핑 설정](integrations/set-up-data-mapping.md)
@@ -117,17 +119,17 @@ ht-degree: 9%
 + 업계 및 부서 {#expand}
    + [개요](sign-usecase/expand-inspire-overview.md)
    + 기능 소개 {#innovation}
-      + [온라인 세미나](sign-usecase/innovation-series.md)
+      + [웨비나](sign-usecase/innovation-series.md)
    + 케이스 레시피 사용 {#recipes}
       + [개요](sign-usecase/recipes.md)
-      + 공공 기관 {#gov}
+      + 정부기관 {#gov}
          + [사업 보조금 및 융자금](sign-usecase/usecasegovgrants.md)
          + [원격 근무 협정](sign-usecase/usecasegovtelework.md)
          + [계약서 및 구매요청 양식](sign-usecase/usecasegovcontracts.md)
          + [재취업 지원](sign-usecase/usecasegovreemployment.md)
          + [급여 보호](sign-usecase/usecasegovpaycheck.md)
          + [원격 영장 청구](sign-usecase/usecasegovremote.md)
-      + 기업 {#com}
+      + 상업 {#com}
          + [계약서 및 구매요청 양식](sign-usecase/usecasecomcontracts.md)
          + [정책 계약](sign-usecase/usecasecompolicy.md)
          + [원격 근무 협정](sign-usecase/usecasecomtelework.md)
