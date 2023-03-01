@@ -5,7 +5,7 @@ breadcrumb-title: Acrobat Tutorials
 source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 8%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 8%
 + [개요](overview.md)
 + 시작하기 {#getting-started}
    + [개요](getting-started/getting-started-overview.md)
-   + [작업 영역 기본 사항](getting-started/get-to-know-the-acrobat-dc-interface.md)
+   + [작업 공간 기본 사항](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [새로운 작업 영역 환경](getting-started/new-workspace.md)
    + [Acrobat 웹으로 어디에서나 작업](getting-started/acrobatweb.md)
    + [어디에서나 업무 생산성 향상](getting-started/productivity.md)
@@ -78,7 +78,7 @@ ht-degree: 8%
    + [PDF에서 그래픽 편집](60-second/editgraphic.md)
    + [신속한 페이지 구성](60-second/organize.md)
 + 스킬 빌더 {#skill-builders}
-   + [온라인 세미나](skill-builder/skill-builder-webinars.md)
+   + [웨비나](skill-builder/skill-builder-webinars.md)
 + 통합 {#integrations}
    + [개요](integrate/integrate-overview.md)
    + [다음에서 PDF 만들기 [!DNL Microsoft Word]](integrate/createfromword.md)
@@ -92,7 +92,7 @@ ht-degree: 8%
    + [의 파일을 사용하여 작업 [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + 업계 및 부서 {#by-industry}
    + [개요](industry/industry-overview.md)
-   + 공공 기관 {#gov}
+   + 정부기관 {#gov}
       + [개요](industry/gov/gov-overview.md)
       + 어디에서나 Acrobat으로 작업하기 위한 5가지 팁 {#tips}
          + [어디에서나 Acrobat으로 작업하기 위한 5가지 팁](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
