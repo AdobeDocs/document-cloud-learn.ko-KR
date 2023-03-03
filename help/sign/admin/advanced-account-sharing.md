@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: 41d3a43952dd2bae2747c9a74416f3f24e938f17
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 1%
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->고급 계정 공유는 엔터프라이즈 수준 플랜에만 사용할 수 있습니다. 기술 지원에서는 고급 공유를 활성화할 수 있지만, 일단 활성화되면 되돌릴 수 없는 방식으로 공유 객체의 관계가 변경됩니다. 따라서 고객 성공 관리자에게 연락하여 평가판 계정을 설정하여 기능을 테스트하고 테스트하여 수행하려는 모든 것이 허용되는지 확인하는 것이 좋습니다.
+>고급 계정 공유는 엔터프라이즈 수준 플랜에만 사용할 수 있습니다. 기술 지원에서는 고급 공유를 활성화할 수 있지만, 일단 활성화되면 되돌릴 수 없는 방식으로 공유 객체의 관계가 변경됩니다. 따라서 Adobe 계정 팀에 문의하여 평가판 계정을 설정하여 기능을 테스트하고 원하는 모든 것을 허용하는지 확인하는 것이 좋습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40186?hidetitle=true)
 
