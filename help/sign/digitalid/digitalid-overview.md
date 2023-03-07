@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: ed9ff5078db36fd41021b656f58356edeefa5cea
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -65,24 +65,19 @@ ht-degree: 0%
 
 <table style="table-layout:fixed">
 <tr>
- <td>
-    <a href="digidentity-reg.md">
-      <img alt="다음에서 디지털 ID 가져오기 [!DNL Digidentity]" src="assets/Digidentityreg_1280.png" />
+  <td>
+    <a href="digidentity-sign.md">
+      <img alt="등록 및 서명 [!DNL Digidentity] 디지털 ID" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
-    <a href="digidentity-reg.md"><strong>다음에서 디지털 ID 가져오기 [!DNL Digidentity]</strong></a>
+    <a href="digidentity-sign.md"><strong>등록 및 서명 [!DNL Digidentity] 디지털 ID</strong></a>
     </div>
-    <em>디지털 서명 인증서를 얻는 방법 알아보기 [!DNL Digidentity]</em>
+    <em>등록 및 사용 방법 [!DNL Digidentity] Acrobat Sign을 사용한 디지털 ID</em>
     <br>
   </td>
   <td>
-    <a href="digidentity-sign.md">
-      <img alt="다음을 사용하여 서명 [!DNL Digidentity]" src="assets/Digidentitysign_1280.png" />
-    </a>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
     <div>
-    <a href="digidentity-sign.md"><strong>다음을 사용하여 서명 [!DNL Digidentity]</strong></a>
-    </div>
-    <em>사진 편집 [!DNL Digidentity] Acrobat Sign을 사용한 디지털 ID</em>
     <br>
   </td>
   <td>

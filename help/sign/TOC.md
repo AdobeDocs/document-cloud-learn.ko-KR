@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
+source-git-commit: ed9ff5078db36fd41021b656f58356edeefa5cea
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '486'
 ht-degree: 10%
 
 ---
@@ -83,8 +83,7 @@ ht-degree: 10%
    + Aadhaar {#aadhaar}
       + [Aadhaar를 사용한 서명](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
-      + [Digidentity에서 디지털 ID 받기](digitalid/digidentity-reg.md)
-      + [Digidentity를 사용한 서명](digitalid/digidentity-sign.md)
+      + [등록 및 서명 [!DNL Digidentity] 디지털 ID](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
       + [[!DNL D-Trust]을(를) 사용하여 등록 및 서명](digitalid/d-trust.md)
    + Intesi Group {#intesi}
