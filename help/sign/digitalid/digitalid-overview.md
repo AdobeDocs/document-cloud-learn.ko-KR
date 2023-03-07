@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 9ff23e33bed24593b2675e6aba177ebe41f39b1b
+source-git-commit: 50527e5500d940494bc0792eac8eba87e1082982
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,8 @@ ht-degree: 0%
 
 ## 새로운 기능
 
+* [Digidentity를 사용하여 등록 및 서명](digidentity-sign.md)
+등록 및 사용 방법 [!DNL Digidentity] Acrobat Sign을 사용한 디지털 ID
 * [D-Trust를 사용하여 등록 및 서명](d-trust.md)
 다음을 사용하여 ID를 등록하는 방법에 대해 알아봅니다. [!DNL D-Trust]를 클릭한 다음 [!DNL D-Trust] Acrobat Sign에서 문서의 디지털 서명
 
