@@ -6,7 +6,7 @@ product: adobe sign
 level: Beginner
 thumbnail: 33657.jpg
 exl-id: 1e8603ee-fe16-4842-bf0b-1190b5a69d3b
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Acrobat Sign을 빠르게 시작하고 실행하기 위해 관리자가 집중�
 >
 >보고 기능은 비즈니스 및 엔터프라이즈 수준 플랜에만 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33657?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33657?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

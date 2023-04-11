@@ -8,18 +8,18 @@ level: Beginner
 thumbnail: KT-8702.jpg
 kt: 8702
 exl-id: d16736cf-2cd5-4ea9-b961-34ee95faaf82
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 1%
 
 ---
 
 # 다음에서 디지털 ID 가져오기 [!DNL Intesi Group] (고급)
 
-다음에서 고급 디지털 서명 인증서를 얻는 방법 알아보기 [!DNL Intesi Group]. 등록된 후 ID가 확인되면 [!DNL Intesi Group] Acrobat Sign 클라우드 서명을 적용하는 데 사용되는 디지털 ID에 대한 문제를 해결합니다.
+다음에서 고급 디지털 서명 인증서를 얻는 방법 알아보기 [!DNL Intesi Group]. 등록된 후 ID가 확인되면 [!DNL Intesi Group] Acrobat Sign 클라우드 서명을 적용하는 데 사용되는 디지털 ID를 발급합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/337065?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337065?quality=12&learn=on&hidetitle=true)
 
 <br> 
 

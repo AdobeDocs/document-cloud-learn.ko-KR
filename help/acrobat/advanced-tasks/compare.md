@@ -1,15 +1,15 @@
 ---
 title: 두 PDF 간의 차이 감지
-description: Quickly and accurately detect the differences between two PDF files to improve document review workflows
+description: 두 PDF 파일 간의 차이점을 빠르고 정확하게 감지하여 문서 검토 워크플로우를 향상시킵니다
 role: User
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-8496.jpg
 kt: 8496
 exl-id: 433ed8a5-aab6-420e-a86e-903e81841df7
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,8 @@ ht-degree: 0%
 >
 >Acrobat Pro에서만 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/337211?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337211?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->This video is part of the course [Work smarter with Acrobat DC and Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) that is available for free on Experience League!
+>이 비디오는 과정의 일부입니다 [Acrobat DC 및 Microsoft 365로 스마트하게 작업](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) Experience League에서 무료로 사용할 수 있습니다!

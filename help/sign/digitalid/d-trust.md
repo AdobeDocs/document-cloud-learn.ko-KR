@@ -6,7 +6,8 @@ product: adobe sign
 solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-11120.jpg
-source-git-commit: 5a3fb2653be5123db740962ffce0d45f6ab71538
+exl-id: 091ccb98-4db2-4ea9-8bf0-d585fcdfd9a0
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -17,4 +18,4 @@ ht-degree: 0%
 
 다음을 사용하여 ID를 등록하는 방법에 대해 알아봅니다. [!DNL D-Trust]를 클릭한 다음 [!DNL D-Trust] Acrobat Sign에서 문서의 디지털 서명
 
->[!VIDEO](https://video.tv.adobe.com/v/3410193?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410193?quality=12&learn=on&hidetitle=true)

@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 1%
+source-wordcount: '264'
+ht-degree: 2%
 
 ---
 
@@ -18,15 +18,15 @@ ht-degree: 1%
 
 Gigasign을 사용하면 서명을 받기 위해 문서를 동시에 수천 명의 사용자에게 전송, 수집 및 추적할 수 있습니다. 직원 및 고객과의 대규모 커뮤니케이션을 위해 고안되었으며, 일괄 전송 시 최대 2,500명의 수신자를 지원합니다. GigaSign은 Acrobat Sign API를 사용하여 MegaSign과 동일한 기능을 제공하며 여러 서명자, 수신자 그룹, 수신자 역할, 계약 이름, 사본 등을 지원합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/328113?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## GigaSign 앱 다운로드 및 설치
 
 [GigaSign Zip 파일 다운로드](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8975dbca-98d5-4e66-9164-d21163c91c7f)
 
-[Java 1.8 다운로드 링크(필요한 경우에만)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target=&quot;_blank&quot;}
+[Java 1.8 다운로드 링크(필요한 경우에만)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
-[IP 주소를 허용 목록에 추가(필요한 경우에만)](https://helpx.adobe.com/kr/sign/system-requirements.html#IPs){target=&quot;_blank&quot;}
+[IP 주소를 허용 목록에 추가(필요한 경우에만)](https://helpx.adobe.com/kr/sign/system-requirements.html#IPs){target="_blank"}
 
 ## 기본 설정 지침
 
@@ -36,7 +36,7 @@ Gigasign을 사용하면 서명을 받기 위해 문서를 동시에 수천 명�
 
 1. 화면 왼쪽의 검색 필드에 &quot;Access tokens&quot;를 입력합니다.
 
-1. 오른쪽의 &quot;+&quot; 아이콘을 누릅니다.
+1. 오른쪽에 있는 &quot;+&quot; 아이콘을 누릅니다.
 
 1. 필요한 범위(User_Read, Agreement_Read, Agreement_Write, Agreement_Send, Library_Read)로 키를 작성합니다.
 
@@ -50,4 +50,4 @@ Gigasign을 사용하면 서명을 받기 위해 문서를 동시에 수천 명�
 
 1. 두 번째 줄에서 해당 키를 만드는 데 사용된 계정의 전자 메일 주소를 입력합니다.
 
-1. 클릭 **[!UICONTROL 제출]**.
+1. **[!UICONTROL 전송]**&#x200B;을 클릭합니다.

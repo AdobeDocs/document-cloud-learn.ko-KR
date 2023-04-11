@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-9942.jpg
 exl-id: bf7771ef-1abe-423c-8b0f-ebdee555b53a
-source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >하이브리드 라우팅은 엔터프라이즈 수준 플랜에만 사용할 수 있습니다. Acrobat Sign 관리자는 계정 설정의 전송 설정 섹션에서 이러한 기능을 활성화해야 할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342249?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/342249?quality=12&learn=on&hidetitle=true)

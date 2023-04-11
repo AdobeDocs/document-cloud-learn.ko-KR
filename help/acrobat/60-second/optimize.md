@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-9751.jpg
 KT: 9751
-source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
+exl-id: 4b72b434-b3aa-47b3-8648-4a6568912862
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -21,4 +22,4 @@ ht-degree: 0%
 
 60초 분량의 이 비디오 튜토리얼에서는 Optimize PDF 툴을 사용하여 PDF 파일의 크기를 크게 줄이는 방법을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340077?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340077?quality=12&learn=on&hidetitle=true)

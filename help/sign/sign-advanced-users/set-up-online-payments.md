@@ -6,7 +6,8 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-10606.jpg
-source-git-commit: e5ac7f7782df654f2a59326b8dc14df7abba97ad
+exl-id: 1924193d-99f7-4168-ac29-4dee458536c2
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 42%
@@ -17,6 +18,4 @@ ht-degree: 42%
 
 문서에서 온라인 결제를 설정하고 수락하는 방법에 대해 알아봅니다.  Acrobat Sign의 온라인 지불 서비스는 서명 프로세스에 연결된 지불 게이트웨이로서 [!DNL Braintree]를 통합합니다. 
 
->[!VIDEO](https://video.tv.adobe.com/v/345753?hidetitle=true)
-
-
+>[!VIDEO](https://video.tv.adobe.com/v/345753?quality=12&learn=on&hidetitle=true)

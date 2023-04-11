@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
-source-git-commit: 0c7bec15754d1d09484762d656f1551da839728b
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Acrobat Sign에서 서명을 위해 전송된 문서를 관리하고 추적하는 방법을 알아봅니다. 서명하거나 서명을 위해 전송한 모든 문서에 대해 실시간 상태 업데이트 및 알림을 받을 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/338695?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338695?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

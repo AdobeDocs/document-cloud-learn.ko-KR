@@ -7,7 +7,7 @@ level: Beginner
 thumbnail: KT-8816.jpg
 KT: 8816
 exl-id: 8d9d0fa8-db0f-48be-b19e-b2b758648d3b
-source-git-commit: 2dc395a9495f71742b19a843a72e2efb387c1f89
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 이 60초 비디오 튜토리얼에서는 Acrobat 공유 검토 후 PDF 주석을 다시 InDesign에 로드하는 방법을 살펴봅니다. 이 디지털 작업 과정을 통해 신속하게 수정 작업을 완료할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336907?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336907?quality=12&learn=on&hidetitle=true)

@@ -6,7 +6,8 @@ product: adobe sign
 solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-10264.jpg
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+exl-id: bc9d645b-b99a-4928-b539-3d28b83fc56d
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -21,4 +22,4 @@ ht-degree: 0%
 >
 >수신자 바꾸기 의 기본 설정은 현재 수신자를 새 수신자로 완전히 대체합니다. 비즈니스 및 엔터프라이즈 수준 플랜에는 추가 옵션이 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342340?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/342340?quality=12&learn=on&hidetitle=true)

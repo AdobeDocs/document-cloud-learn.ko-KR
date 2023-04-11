@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 17351.jpg
 exl-id: 52b858aa-9ec9-44dd-b48e-5ae009f75846
-source-git-commit: 4827c827ee06c94c38290d5f0e716e8a8328bd48
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Acrobat Sign의 데이터 매핑을 설정하는 방법 [!DNL Salesforce]. 데이터 매핑을 사용하여 데이터를 가져올 수 있습니다. _뒤_ 로 [!DNL Salesforce] 계약서에 서명한 후
 
->[!VIDEO](https://video.tv.adobe.com/v/3409073?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409073?quality=12&learn=on&hidetitle=true)

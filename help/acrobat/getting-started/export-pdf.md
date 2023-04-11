@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 11%
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 # Microsoft Office 형식으로 PDF 내보내기
 
-PDF 파일을 다음과 같은 편집 가능한 형식으로 내보내는 방법에 대해 알아보십시오 [Microsoft Word](https://www.adobe.com/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/acrobat/online/pdf-to-ppt.html)및 [Excel](https://www.adobe.com/acrobat/online/pdf-to-excel.html). 다른 파일 형식으로 내보내면 문서의 중요한 수정 및 업데이트를 수행할 수 있습니다.
+PDF 파일을 다음과 같은 편집 가능한 형식으로 내보내는 방법에 대해 알아보십시오 [Microsoft Word](https://www.adobe.com/kr/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/kr/acrobat/online/pdf-to-ppt.html)및 [Excel](https://www.adobe.com/kr/acrobat/online/pdf-to-excel.html). 다른 파일 형식으로 내보내면 문서의 중요한 수정 및 업데이트를 수행할 수 있습니다.
 
 >[!TIP]
 >
@@ -23,7 +23,7 @@ PDF 파일을 다음과 같은 편집 가능한 형식으로 내보내는 방법
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35494?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35494?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

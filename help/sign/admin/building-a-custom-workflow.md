@@ -6,7 +6,7 @@ product: adobe sign
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 >
 >그룹 관리자는 자신이 관리하는 모든 그룹(기본 그룹뿐만 아니라)에 워크플로를 할당할 수 있습니다. 그룹 관리자는 자신이 관리하는 모든 그룹에 할당된 워크플로를 편집할 수도 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33656?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

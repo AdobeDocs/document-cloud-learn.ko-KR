@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9345.jpg
 kt: 9345
-source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
+exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -36,7 +37,7 @@ Prepare Form 툴을 사용하여 기존 PDF에 양식 필드를 자동으로 추
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340084?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -46,7 +47,7 @@ Prepare Form 툴을 사용하여 기존 PDF에 양식 필드를 자동으로 추
 
 1. 다운로드 및 열기 *Questionnaire.pdf*.
 1. 선택 **Prepare Form** 를 클릭합니다.
-1. **[시작]**&#x200B;을 선택합니다.
+1. 선택 **시작**.
 1. 선택 **텍스트 및 이미지 편집** 를 눌러 오타를 수정합니다.
 1. 선택 **선택** 을 눌러 편집 모드를 종료합니다.
 1. 맨 위의 양식 필드를 선택하고 삭제합니다.

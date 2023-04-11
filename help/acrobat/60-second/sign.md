@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-9292.jpg
 KT: 9292
-source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
+exl-id: 0d193bf9-6357-414f-987d-7d0d560ddb13
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
@@ -17,4 +18,4 @@ ht-degree: 0%
 
 이 60초 비디오 튜토리얼에서는 Adobe Scan을 사용하여 인쇄된 양식에 서명하는 방법을 살펴봅니다. 간단하게 스캔하고 서명하여 PDF으로 전송하면 됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/338331?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338331?quality=12&learn=on&hidetitle=true)

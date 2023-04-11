@@ -6,9 +6,10 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-10981.jpg
-source-git-commit: 23ca497130a78091219ba3a611a37658f10ea629
+exl-id: e0e09718-1e4f-45d2-a0a4-43468ea4ed29
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -21,4 +22,4 @@ PDF에서 [웹 양식](webform.md). 이 자습서에서는 추가 참가자 웹 
 >
 >비즈니스 및 엔터프라이즈 수준 플랜만 웹 양식 액세스 및 서명자 옵션을 구성할 수 있습니다. 웹 양식 액세스 및 서명자 옵션은 계정 > 계정 설정 > 전역 설정 > 웹 양식의 계정 또는 그룹 수준에서 활성화하거나 비활성화합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409607?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409607?quality=12&learn=on&hidetitle=true)

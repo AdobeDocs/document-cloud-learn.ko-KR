@@ -6,7 +6,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 39372.jpg
 exl-id: c94a7756-1fae-4f17-aab4-ea1437b68645
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Acrobat Sign for Workday을 사용하여 서명 워크플로우를 간소화하고 팀의 업무 생산성을 높일 수 있습니다. 이 비디오 튜토리얼에서는 Workday에서 바로 작동하도록 Acrobat Sign을 구성하여 모든 인사 관련 문서 작업을 원활하게 관리하는 방법을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/39372?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/39372?quality=12&learn=on&hidetitle=true)

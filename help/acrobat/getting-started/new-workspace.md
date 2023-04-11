@@ -5,9 +5,10 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-10781.jpg
-source-git-commit: 4bb3dcfb7c2d64950141a37b5f0b68c5027911b9
+exl-id: 5d88d96d-ae44-4c75-b4bd-d51d864c707c
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '39'
 ht-degree: 0%
 
 ---
@@ -16,4 +17,4 @@ ht-degree: 0%
 
 Acrobat에서 활성화하여 도구와 파일 간을 원활하게 이동할 수 있는 새로운 작업 영역 환경에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345949?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/345949?quality=12&learn=on&hidetitle=true)

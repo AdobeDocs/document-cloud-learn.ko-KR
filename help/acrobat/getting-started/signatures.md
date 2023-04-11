@@ -7,22 +7,22 @@ level: Beginner
 thumbnail: KT-8257.jpg
 kt: 8257
 exl-id: 58c432b1-2067-4a67-b386-ab7d35453543
-source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '65'
 ht-degree: 7%
 
 ---
 
 # 서명 받기
 
-법적 구속력을 수집하여 차질 없는 비즈니스 전개 [전자 서명](https://www.adobe.com/acrobat/online/request-signature.html){target=&quot;_blank&quot;}(다른 사용자의 경우). 어디에서든.
+법적 구속력을 수집하여 차질 없는 비즈니스 전개 [전자 서명](https://www.adobe.com/acrobat/online/request-signature.html){target="_blank"} 어디에서나 공유
 
 >[!IMPORTANT]
 >
 >Acrobat Enterprise 구독 외에 Acrobat Sign Enterprise 권한이 있어야 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/338359?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338359?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

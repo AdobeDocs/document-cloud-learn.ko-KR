@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-4965.jpg
 exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939
-source-git-commit: e49ff9bb170878665c4aeeceab244bd482636be0
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Acrobat Sign의 가장 일반적인 작업 과정으로, 서명을 위해 문서를 보냅니다. 문서를 업로드하고, 양식 필드를 추가하고, 서명을 위해 다른 사람에게 보내는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/341295?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

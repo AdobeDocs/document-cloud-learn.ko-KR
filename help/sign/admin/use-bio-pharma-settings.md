@@ -6,7 +6,7 @@ product: adobe sign
 level: Experienced
 thumbnail: 21748.jpg
 exl-id: 1253f81a-6132-4733-a113-1bbce86b4549
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 FDA 21 CFR Part 11 요구 사항을 충족하도록 Acrobat Sign을 구성할 수 있는 Bio-pharma 설정에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/21748?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/21748?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

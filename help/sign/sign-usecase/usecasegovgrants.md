@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33810.jpg
 exl-id: 47471402-6a7b-4e25-947f-5b5ffdc393fd
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 부여, 대출 및 세금 유예 신청 양식에 대한 셀프 서비스 이용 권한을 제공하여 비즈니스에 빠르게 도움을 줄 수 있습니다. 완료할 수 있는 온라인 웹 양식을 만드는 방법 알아보기 **및** 인쇄하거나 우편으로 전송하지 않고 서명했습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33810?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33810?quality=12&learn=on&hidetitle=true)
 
 비즈니스 부여 및 대출에 대한 단계별 PDF 방법을 다운로드하려면 클릭하십시오.
 
