@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 88482ea5eadc93ff3bfcf995f0725e94c3a660cc
+source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '636'
 ht-degree: 0%
 
 ---
@@ -197,14 +197,19 @@ Power Automate를 사용하여 서명된 문서를 SharePoint 라이브러리에
       <img alt="Workday을 사용하여 Acrobat Sign 구성" src="../assets/WD-Configure.png" />
     </a>
     <div>
-    <a href="workday.md"><strong>Workday을 사용하여 Acrobat Sign 구성</strong></a>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Workday을 사용하여 Acrobat Sign 구성</strong></a>
     </div>
     <em>Workday에서 바로 작동하도록 Acrobat Sign을 구성하여 모든 인사 관련 서류 작업을 원활하게 관리하는 방법에 대해 알아봅니다</em>
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <a href="acrobat-sign-workday-onboarding.md">
+      <img alt="Acrobat Sign + Workday 신규 직원 입사 전형" src="../assets/workday.png" />
+    </a>
     <div>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Acrobat Sign + Workday 신규 직원 입사 전형</strong></a>
+    </div>
+    <em>Acrobat Sign + Workday으로 온보딩 워크플로우를 간소화하는 방법을 살펴보세요.</em>
     <br>
   </td>
   <td>

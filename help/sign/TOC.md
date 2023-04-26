@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 9ff23e33bed24593b2675e6aba177ebe41f39b1b
+source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '489'
 ht-degree: 10%
 
 ---
@@ -109,6 +109,7 @@ ht-degree: 10%
       + [사용자 정의 단추 만들기](integrations/create-a-custom-button.md)
    + 근무 시간 {#workday}
       + [Workday을 사용하여 Acrobat Sign 구성](integrations/workday.md)
+      + [Acrobat Sign + Workday 신규 직원 입사 전형](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
       + [Salesforce용 Acrobat Sign 및 Marketo을 사용하여 알림 보내기](integrations/marketo-salesforce-sms.md)
       + [Salesforce용 Acrobat Sign 및 Marketo 비디오 자습서를 사용하여 미리 알림 보내기](integrations/marketo-salesforce-reminder-video.md)
