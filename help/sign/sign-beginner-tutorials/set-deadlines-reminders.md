@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-10605.jpg
 exl-id: 495184e8-e614-405b-8dd8-4b85d8f82758
-source-git-commit: 5df5181f131c448eafbc94d52203a14006d99ad8
+source-git-commit: f607a2c64afdc609dbdf381cb94ad6ec7a169aa7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '59'
+ht-degree: 6%
 
 ---
 
@@ -23,3 +23,4 @@ ht-degree: 0%
 >엔터프라이즈 및 비즈니스 플랜은 전송 프로세스 중에 미리 알림 옵션을 선별적으로 표시하거나 계정/그룹 전체 자동화를 사용하도록 설정할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411445?quality=12&learn=on&hidetitle=true)
+
