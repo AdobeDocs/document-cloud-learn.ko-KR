@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
+source-git-commit: c3c425ff21cbe50d63521d980b8f37b4c7eadf2e
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '630'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Microsoft, Salesforce, Workday 및 Marketo과 같이 조직이 이미 사용 중
 
 ## 새로운 기능
 
+* [Acrobat Sign + Workday 신규 직원 입사 전형](acrobat-sign-workday-onboarding.md)
+Acrobat Sign + Workday으로 온보딩 워크플로우를 간소화하는 방법을 살펴보세요.
 * [공증을 위해 문서 보내기](send-document-notarize.md)
 이 3부로 구성된 튜토리얼에서는 공증을 위해 문서를 보내고, 서명자의 경험을 보고, 결과를 받는 방법을 살펴봅니다
-* [Power Automate를 통해 SharePoint에서 파일 자동 보관](auto-archive-sharepoint-power-automate.md)
-Power Automate를 사용하여 서명된 문서를 SharePoint 라이브러리에 자동으로 보관하는 방법에 대해 알아봅니다
 
 ## Microsoft 통합 튜토리얼
 
