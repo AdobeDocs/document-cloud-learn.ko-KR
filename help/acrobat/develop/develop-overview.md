@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 193bed355e602b569d475e7c1604fd0ccd5582fb
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -21,12 +21,12 @@ JavaScript, 플러그인 또는 IAC를 사용하여 Acrobat 및 Adobe Reader과 
 
 ## Acrobat SDK
 
-추가 [Acrobat SDK](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/){target=&quot;_blank&quot;}은 Acrobat 기술과 상호 작용하는 소프트웨어를 개발하는 데 도움이 되는 도구 집합입니다.
+추가 [Acrobat SDK](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/){target="_blank"} Acrobat 기술과 상호 작용하는 소프트웨어를 개발하는 데 도움이 되는 일련의 도구입니다.
 
-## Adobe 문서 서비스 API
+## Adobe Acrobat 서비스 API
 
-[Adobe PDF 서비스 API](https://developer.adobe.com/document-services/apis/pdf-services/){target=&quot;_blank&quot;}
-[Adobe PDF Extract API](https://developer.adobe.com/document-services/apis/pdf-extract/){target=&quot;_blank&quot;}
-[Adobe 문서 생성 API](https://developer.adobe.com/document-services/apis/doc-generation/){target=&quot;_blank&quot;}
-[Adobe PDF 임베드 API](https://developer.adobe.com/document-services/apis/pdf-embed/){target=&quot;_blank&quot;}
-[Adobe 문서 서비스 자습서](https://experienceleague.adobe.com/docs/document-services/tutorials/overview.html){target=&quot;_blank&quot;}
+[Adobe PDF 서비스 API](https://developer.adobe.com/document-services/apis/pdf-services/){target="_blank"}
+[Adobe PDF Extract API](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
+[Adobe 문서 생성 API](https://developer.adobe.com/document-services/apis/doc-generation/){target="_blank"}
+[Adobe PDF 임베드 API](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
+[Adobe Acrobat 서비스 자습서](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html){target="_blank"}
