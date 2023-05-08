@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: da1cbeba135380abf5179734efdb86b294887004
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 6%
+source-wordcount: '491'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 6%
 
 ![Acrobat 시작 이미지](../assets/Hero-GettingStarted.png)
 
-이 간단한 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아봅니다. 문서 만들기에서 보호 또는 [PDF 파일 편집](https://www.adobe.com/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}, 이 콘텐츠는 PDF 작업 과정을 쉽게 진행할 수 있도록 설계되었습니다.
+이 간단한 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아봅니다. 문서 만들기에서 보호 또는 [PDF 파일 편집](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}, 이 콘텐츠는 PDF 워크플로우를 간소화하기 위해 고안되었습니다.
 
 ## 시작하기 자습서
 
@@ -25,10 +25,10 @@ ht-degree: 6%
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="작업 영역 기본 사항" src="../assets/Workspace_1280.png" />
+      <img alt="작업 공간 기본 사항" src="../assets/Workspace_1280.png" />
     </a>
     <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>작업 영역 기본 사항</strong></a>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>작업 공간 기본 사항</strong></a>
     </div>
     <em>Acrobat 작업 영역을 통해 데스크탑, 웹, 모바일에서 파일과 도구에 간편하게 액세스하는 방법을 살펴보세요</em>
     <br>
@@ -291,12 +291,12 @@ ht-degree: 6%
     <br>
   </td>
   <td>
-   <img alt="스페이서" src="../assets/Whitespacer.png" />
+   <img alt="스페이서" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="스페이서" src="../assets/Whitespacer.png" />
+   <img alt="스페이서" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
