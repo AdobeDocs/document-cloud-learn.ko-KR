@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
+source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
 workflow-type: tm+mt
-source-wordcount: '1076'
+source-wordcount: '915'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,35 @@ Acrobat Sign 스킬 빌더는 30분 분량의 세션으로 별도의 추가 작�
 
 ## 월별 세션
 
+**[Microsoft 앱에서 전자 서명으로 작업](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb)
+날짜: 2023년 10월 19일 기존 워크플로우에 Adobe Acrobat Sign을 추가하여 Word, Outlook, Sharepoint와 같은 Microsoft 앱 사용 방식을 확장할 수 있습니다. 이 세션에서는 서명을 받거나 상태를 확인하기 위해 컨텍스트 전환이 필요하지 않도록 일반 Microsoft 앱에서 문서 프로세스를 간소화하는 방법을 설명합니다.
+
+**[계약 관리: 계약 상태를 실시간으로 표시](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710)
+날짜: 언제든지 계약 상태를 알 수 있도록 계약 관리 도구 및 모범 사례에 대한 자세한 내용을 살펴보십시오. 이 세션에 포함된 내용:
+
+* 관리 탭에서 문서에 수행할 수 있는 작업
+* 웹 양식 및 대량 전송에서 데이터를 처리하고 사용하는 방법
+* 검색 및 필터링하여 필요한 문서를 찾는 방법
+
+**[서명을 위해 문서 전송을 위한 고급 팁](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a)
+날짜: 2023년 8월 17일 서명을 위해 계약을 전송할 때 사용할 수 있는 모든 옵션을 자세히 살펴볼 수 있으므로 참여하십시오. 이 세션에 포함된 내용:
+
+* 여러 수신자에게 보내기
+* 사용 가능한 수신자 역할(서명자, 양식 작성자, 위임자 및 기타)
+* 참조 필드 추가
+* 암호 보호 등
+
+**[Acrobat Sign 통합: Salesforce 및 Workday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4)
+날짜: 2023년 7월 20일 Salesforce 및 Workday과 함께 제공되는 가장 일반적이고 강력한 Acrobat Sign 통합을 검토할 때 참여하십시오. 이 세션에서는 기존의 툴에서 수동 및 비효율적인 작업을 없애고 100% 디지털 워크플로우와 전자 서명 프로세스를 구축하여 비즈니스 거래를 가속화하는 방법을 살펴봅니다.
+
 **[Adobe Acrobat Sign에 대한 고급 보고](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/fa28b18d-ab38-47d4-8ae8-3e0161550bd3/60081eb2-f8a3-45b6-9d75-4f3a53b4c53a){target="_blank"}**
 날짜: 2023년 6월 22일 Acrobat Sign에서 사용할 수 있는 분석 및 보고서에 대해 알아보고, 데이터를 검토하여 비즈니스 발전에 필요한 인사이트를 제공하는 방법을 살펴보십시오.
 
-**[Acrobat Sign 101: Acrobat Sign 시작하기](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/0fc7ccc5-eb36-47f0-a0d3-1fa3648c8fcf/42a9bbad-0a54-4c8c-8002-597d549600fe){target="_blank"}**
-날짜: 2023년 5월 18일 전자 서명의 기본 사항을 살펴보세요. Acrobat Sign을 사용하여 문서에 전자 서명을 받는 방법, 서명자에게 표시되는 내용, 전송된 계약의 진행 상태를 추적하는 방법
+**[작업 과정 생성 및 사용 - 처음부터 끝까지](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/0fc7ccc5-eb36-47f0-a0d3-1fa3648c8fcf/42a9bbad-0a54-4c8c-8002-597d549600fe){target="_blank"}**
+날짜: 2023년 5월 18일 모든 Acrobat Sign 관리자 및 최종 사용자/개인 콘텐츠 작가에 전화 문의 이 세션에서는 작업 과정의 만들기와 사용에 대해 다룹니다.
+
+* Acrobat Sign 그룹 또는 계정 관리자는 사전 설정된 작업 과정을 정의하여 서명이 필요한 문서를 올바른 당사자에게 자동으로 보낸 다음 전체 Acrobat Sign 그룹에 대한 액세스 권한을 부여하는 방법에 대해 알아봅니다.
+* 또한 최종 사용자는 이러한 워크플로우를 통해 언제 어디에서나 문서에 서명할 수 있습니다.
 
 **[작성 환경에 대한 고급 교육](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/30c06b3c-60f7-4293-9cd2-2544104d9140/85ffced9-7613-4382-b3a3-43ba227af5ba){target="_blank"}**
 날짜: 2023년 4월 20일 Acrobat Sign 제작 환경에서 사용할 수 있는 옵션에 대해 자세히 알아봅니다. 포함된 항목은 다음과 같습니다.
@@ -47,21 +71,3 @@ Acrobat Sign 스킬 빌더는 30분 분량의 세션으로 별도의 추가 작�
 * Adobe Acrobat Sign의 간단한 드래그하여 놓기 작성 환경
 * Adobe Acrobat에서 PDF 양식 설정
 * 빠르게 문서를 제작하기 위해 텍스트 태그 사용
-
-**[Microsoft 앱에서 전자 서명으로 작업](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/efedc73e-796d-4caf-a35b-110cb0d2f415/0ede0086-d92f-4163-94a2-125abeae2c9b){target="_blank"}**
-날짜: 2022년 12월 8일 기존 워크플로우에 Adobe Acrobat Sign을 추가하여 Word, Outlook, Sharepoint와 같은 Microsoft 앱 사용 방식을 확장할 수 있습니다. 이 세션에서는 서명을 받거나 상태를 확인하기 위해 컨텍스트 전환이 필요하지 않도록 일반 Microsoft 앱에서 문서 프로세스를 간소화하는 방법을 설명합니다.
-
-**[서명을 위해 문서 전송을 위한 고급 팁](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/6dc32a47-1784-46ec-939a-f39f1a2957fc/1e8b283c-e36c-46d8-a537-2ab62a90e9a4){target="_blank"}**
-날짜: 계약 전송을 위해 보유 중인 모든 옵션을 자세히 살펴보십시오. 이 세션에서는 서명을 위해 계약을 보내는 뉘앙스에 대해 알아봅니다. - 여러 수신자에게 보내는 방법 - 사용할 수 있는 수신자 역할(서명자, 양식 작성자, 위임자 등) - 참조 필드 추가 - 암호 보호 - 기타!
-
-**[계약 관리: 계약 상태를 실시간으로 표시](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/1c66eec5-0ee4-4ca9-8479-0c645262cc8f/d1a4d8f4-d364-4067-bc17-b46c54795bda){target="_blank"}**
-날짜: 이 세션에서는 계약 관리 도구 및 모범 사례에 대한 자세한 내용을 보여 줍니다. 관리 탭에서 문서에 대해 수행할 수 있는 작업, 웹 양식 및 대량 전송에서 데이터를 처리하고 사용하는 방법, 필요한 문서를 찾기 위해 검색 및 필터링하는 방법을 알아봅니다.
-
-**[작업 과정 생성 및 사용 - 처음부터 끝까지](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9c1f8eb7-ebc8-44c6-9d50-f791eb91ff82/3eaf4640-bcf4-4f1d-8fd0-5ce6db5b49b5){target="_blank"}**
-날짜: 2022년 9월 15일 모든 Acrobat Sign 관리자 및 최종 사용자/개인 콘텐츠 작가에 전화 문의 이 세션에서는 작업 과정의 만들기와 사용에 대해 다룹니다. Acrobat Sign 그룹 또는 계정 관리자는 사전 설정된 작업 과정을 정의하여 서명이 필요한 문서를 올바른 당사자에게 자동으로 보낸 다음, 전체 Acrobat Sign 그룹에 액세스 권한을 부여하여 주요 서명 프로세스에 대한 작업 과정을 실행할 수 있는 방법을 알아봅니다. 또한 최종 사용자는 이러한 워크플로우를 통해 처음과 같은 시기에 적절하게 문서에 서명할 수 있는 방법을 확인할 수 있습니다.
-
-**[Salesforce의 Acrobat Sign 문서 빌더](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/06d8a836-4b51-426b-913e-189b23a82bd6/8b777e11-0e6d-45a8-b954-bbff5c887efc){target="_blank"}**
-날짜: 2022년 8월 18일 Salesforce용 Adobe Acrobat Sign - 문서 빌더용 최신 추가 기능을 검토할 때 참여하십시오. 이 새로운 솔루션을 사용하면 정적 문서 템플릿을 사용하는 대신 서명을 받기 위해 전송하기 전에 Salesforce 데이터를 사용하여 문서를 동적으로 생성할 수 있으므로 한 번 번거로운 프로세스를 더 간단하고 간소화할 수 있습니다. Document Builder for Acrobat Sign을 구성하는 단계별 절차를 안내해 드리며, 이는 시간과 노력을 절약하는 데 도움이 됩니다. 라이브 Q&amp;A가 데모를 따라 진행됩니다.
-
-**[Adobe Acrobat Sign에 대한 고급 보고](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/83926d76-9959-4657-8b0c-f312835b46f6/aa1c9b21-1b16-4890-9c24-26dc630c4a95){target="_blank"}**
-날짜: 2022년 7월 14일 Acrobat Sign에서 사용할 수 있는 분석 및 보고서에 대해 알아보고, 데이터를 검토하여 비즈니스 발전에 필요한 인사이트를 제공하는 방법을 알아봅니다.

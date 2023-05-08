@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: c3c425ff21cbe50d63521d980b8f37b4c7eadf2e
+source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
 workflow-type: tm+mt
-source-wordcount: '630'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -104,6 +104,11 @@ Acrobat Sign + Workday으로 온보딩 워크플로우를 간소화하는 방법
     <a href="documentautomation.md"><strong>문서 자동화 [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
     <em>활성화 및 사용 방법 [!DNL Acrobat Sign] 및 [!DNL Adobe PDF Tools] 커넥터 [!DNL Microsoft Power] 앱</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
