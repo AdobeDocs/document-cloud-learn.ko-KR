@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
+source-git-commit: 2b997c56c852c93f39e523c7b71d597ebb75c615
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,17 @@ Acrobat Sign 스킬 빌더는 30분 분량의 세션으로 별도의 추가 작�
 
 ## 월별 세션
 
-**[Microsoft 앱에서 전자 서명으로 작업](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb)
+**[Microsoft 앱에서 전자 서명으로 작업](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb){target="_blank"}**
 날짜: 2023년 10월 19일 기존 워크플로우에 Adobe Acrobat Sign을 추가하여 Word, Outlook, Sharepoint와 같은 Microsoft 앱 사용 방식을 확장할 수 있습니다. 이 세션에서는 서명을 받거나 상태를 확인하기 위해 컨텍스트 전환이 필요하지 않도록 일반 Microsoft 앱에서 문서 프로세스를 간소화하는 방법을 설명합니다.
 
-**[계약 관리: 계약 상태를 실시간으로 표시](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710)
+**[계약 관리: 계약 상태를 실시간으로 표시](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710){target="_blank"}**
 날짜: 언제든지 계약 상태를 알 수 있도록 계약 관리 도구 및 모범 사례에 대한 자세한 내용을 살펴보십시오. 이 세션에 포함된 내용:
 
 * 관리 탭에서 문서에 수행할 수 있는 작업
 * 웹 양식 및 대량 전송에서 데이터를 처리하고 사용하는 방법
 * 검색 및 필터링하여 필요한 문서를 찾는 방법
 
-**[서명을 위해 문서 전송을 위한 고급 팁](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a)
+**[서명을 위해 문서 전송을 위한 고급 팁](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a){target="_blank"}**
 날짜: 2023년 8월 17일 서명을 위해 계약을 전송할 때 사용할 수 있는 모든 옵션을 자세히 살펴볼 수 있으므로 참여하십시오. 이 세션에 포함된 내용:
 
 * 여러 수신자에게 보내기
@@ -40,7 +40,7 @@ Acrobat Sign 스킬 빌더는 30분 분량의 세션으로 별도의 추가 작�
 * 참조 필드 추가
 * 암호 보호 등
 
-**[Acrobat Sign 통합: Salesforce 및 Workday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4)
+**[Acrobat Sign 통합: Salesforce 및 Workday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4){target="_blank"}**
 날짜: 2023년 7월 20일 Salesforce 및 Workday과 함께 제공되는 가장 일반적이고 강력한 Acrobat Sign 통합을 검토할 때 참여하십시오. 이 세션에서는 기존의 툴에서 수동 및 비효율적인 작업을 없애고 100% 디지털 워크플로우와 전자 서명 프로세스를 구축하여 비즈니스 거래를 가속화하는 방법을 살펴봅니다.
 
 **[Adobe Acrobat Sign에 대한 고급 보고](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/fa28b18d-ab38-47d4-8ae8-3e0161550bd3/60081eb2-f8a3-45b6-9d75-4f3a53b4c53a){target="_blank"}**
