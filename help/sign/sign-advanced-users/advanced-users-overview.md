@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 854e70d1dd1d6535e1f8a8b53cfc6907862f5569
+source-git-commit: b1254c2dbb82932319d62c78e683b8a395e7eece
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '413'
 ht-degree: 3%
 
 ---
@@ -22,12 +22,12 @@ ht-degree: 3%
 
 ## 새로운 기능
 
+* [Acrobat Sign의 인증 방법](authentication-methods.md)
+문서에 서명하는 사람의 ID를 인증하기 위해 Acrobat Sign에서 사용할 수 있는 다양한 방법에 대해 알아봅니다
 * [온라인 결제 설정](set-up-online-payments.md)
 문서에서 온라인 결제를 설정하고 수락하는 방법에 대해 알아봅니다
-* [보고서 생성](creating-a-report.md)
-고유한 보고서를 작성하여 문서 서명 프로세스를 명확하게 확인하는 방법을 살펴보십시오
 
-## 전송
+## 보내기
 
 <table style="table-layout:fixed">
 <tr>
@@ -62,6 +62,18 @@ ht-degree: 3%
     <br>
   </td>
   <td>
+    <a href="authentication-methods.md">
+      <img alt="Acrobat Sign의 인증 방법" src="../assets/authentication.png" />
+    </a>
+    <div>
+    <a href="authentication-methods.md"><strong>Acrobat Sign의 인증 방법</strong></a>
+    </div>
+    <em>Acrobat Sign에서 사용할 수 있는 ID 인증 방법 범위에 대해 알아봅니다.</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="set-up-online-payments.md">
       <img alt="온라인 결제 설정" src="../assets/Payments.png" />
     </a>
@@ -71,38 +83,38 @@ ht-degree: 3%
     <em>문서에서 온라인 결제를 설정하고 수락하는 방법에 대해 알아봅니다</em>
     <br>
   </td>
+  <td>
+      <a href="megasign.md">
+        <img alt="한번에 서명 보내기 및 수집" src="../assets/Megasign.png" />
+      </a>
+      <div>
+      <a href="megasign.md"><strong>한번에 서명 보내기 및 수집</strong></a>
+      </div>
+      <em>몇 단계만으로 모든 문서에 수백 개의 서명을 한 번에 수집할 수 있습니다</em>
+      <br>
+    </td>
+    <td>
+      <a href="webform.md">
+        <img alt="웹 양식 만들기" src="../assets/Webform.png" />
+      </a>
+      <div>
+      <a href="webform.md"><strong>웹 양식 만들기</strong></a>
+      </div>
+      <em>웹 사이트에서 직접 전자 서명할 수 있는 문서 만들기</em>
+      <br>
+    </td>
+    <td>
+      <a href="adobe-sign-text-tagging.md">
+        <img alt="Acrobat Sign 텍스트 태그 지정" src="../assets/Text-Tagging.png" />
+    </a>
+      <div>
+      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign 텍스트 태그 지정</strong></a>
+      </div>
+      <em>Adobe Acrobat에서 텍스트 태그를 지정하여 Acrobat Sign 양식 필드 작성</em>
+      <br>
+    </td>
 </tr>
 <tr>
- <td>
-    <a href="megasign.md">
-      <img alt="한번에 서명 보내기 및 수집" src="../assets/Megasign.png" />
-    </a>
-    <div>
-    <a href="megasign.md"><strong>한번에 서명 보내기 및 수집</strong></a>
-    </div>
-    <em>몇 단계만으로 모든 문서에 수백 개의 서명을 한 번에 수집할 수 있습니다</em>
-    <br>
-  </td>
-  <td>
-    <a href="webform.md">
-      <img alt="웹 양식 만들기" src="../assets/Webform.png" />
-    </a>
-    <div>
-    <a href="webform.md"><strong>웹 양식 만들기</strong></a>
-    </div>
-    <em>웹 사이트에서 직접 전자 서명할 수 있는 문서 만들기</em>
-    <br>
-  </td>
-  <td>
-    <a href="adobe-sign-text-tagging.md">
-      <img alt="Acrobat Sign 텍스트 태그 지정" src="../assets/Text-Tagging.png" />
-  </a>
-    <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign 텍스트 태그 지정</strong></a>
-    </div>
-    <em>Adobe Acrobat에서 텍스트 태그를 지정하여 Acrobat Sign 양식 필드 작성</em>
-    <br>
-  </td>
   <td>
     <a href="text-tagging-word.md">
       <img alt="에서 텍스트 태그 지정 사용 [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
@@ -111,6 +123,21 @@ ht-degree: 3%
     <a href="text-tagging-word.md"><strong>에서 텍스트 태그 지정 사용 [!DNL Microsoft Word]</strong></a>
     </div>
     <em>에서 Acrobat Sign 텍스트 태그를 추가하여 재사용 가능한 문서 템플릿을 만드는 방법에 대해 알아봅니다. [!DNL Microsoft Word]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

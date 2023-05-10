@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
+source-git-commit: 0e5c6ead1bcc3697b224937414b7f417ede0b5b3
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '494'
 ht-degree: 10%
 
 ---
@@ -47,9 +47,10 @@ ht-degree: 10%
       + [서명 순서 설정](sign-advanced-users/setting-up-routing.md)
       + [위임자 역할 사용](sign-advanced-users/delegate-signature.md)
       + [승인자 역할 사용](sign-advanced-users/add-an-approver.md)
+      + [Acrobat Sign의 인증 방법](sign-advanced-users/authentication-methods.md)
+      + [온라인 결제 설정](sign-advanced-users/set-up-online-payments.md)
       + [한번에 서명 보내기 및 수집](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [웹 양식 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [온라인 결제 설정](sign-advanced-users/set-up-online-payments.md)
       + [Acrobat Sign 텍스트 태그 지정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [에서 텍스트 태그 지정 사용 [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + 관리 {#advanced-tasks-managing}
