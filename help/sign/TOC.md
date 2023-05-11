@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 0e5c6ead1bcc3697b224937414b7f417ede0b5b3
+source-git-commit: f09913b9f9dd134a8e2ad723dcc11e070e332ea6
 workflow-type: tm+mt
-source-wordcount: '494'
+source-wordcount: '498'
 ht-degree: 10%
 
 ---
@@ -69,6 +69,7 @@ ht-degree: 10%
       + [외부 보관 설정](admin/set-up-your-external-archive.md)
       + [템플릿 만들기](sign-advanced-users/create-a-template.md)
       + [보고서 차트 만들기](admin/create-a-report.md)
+      + [사용자를 위한 보고서 옵션](admin/report-options.md)
       + [웹 양식 만들기](sign-advanced-users/webform.md)
       + [기존 웹 양식 수정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [한번에 서명 보내기 및 수집](sign-advanced-users/megasign.md)

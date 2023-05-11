@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: e7b475f9d0abce1c88dbb3377f783f53bf794b52
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '510'
 ht-degree: 1%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="ssers 추가" src="../assets/Adding-Users.png" />
+      <img alt="사용자 추가" src="../assets/Adding-Users.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong>사용자 추가</strong></a>
@@ -116,6 +116,16 @@ ht-degree: 1%
 </tr>
 <tr>
   <td>
+    <a href="report-options.md">
+      <img alt="사용자를 위한 보고서 옵션" src="../assets/report-options.png" />
+    </a>
+    <div>
+    <a href="report-options.md"><strong>사용자를 위한 보고서 옵션</strong></a>
+    </div>
+    <em>사용자를 위한 보고서 옵션을 설정하는 방법에 대해 알아봅니다.</em>
+    <br>
+  </td>
+  <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="웹 양식 만들기" src="../assets/Webform.png" />
     </a>
@@ -145,7 +155,9 @@ ht-degree: 1%
     <em>문서에 대해 한 번에 수백 개의 서명 수집</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="building-a-custom-workflow.md">
       <img alt="워크플로우 설정" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -155,7 +167,21 @@ ht-degree: 1%
     <em>문서 워크플로우를 자동화하여 전자 서명과 데이터를 빠르게 가져올 수 있습니다</em>
     <br>
   </td>
-</tr>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </table>
 
 ## 고급 작업
