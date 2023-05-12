@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
+source-git-commit: 2c3dafbd034627ab25186b56c9fd2a276ab3daa5
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '489'
 ht-degree: 1%
 
 ---
@@ -24,8 +24,8 @@ ht-degree: 1%
 
 * [보고서 옵션](report-options.md)
 사용자를 위한 보고서 옵션을 설정하는 방법에 대해 알아봅니다.
-* [새 관리자를 위한 시작하기](get-started-admin.md)
-이 포괄적인 비디오 가이드에서 Acrobat Sign을 사용하여 조직을 시작하고 운영하는 데 필요한 모든 툴에 대해 알아보십시오
+* [사용자 추가](add-users-to-your-account.md)
+Acrobat Sign 사용자를 추가하고 관리하는 방법 알아보기
 
 ## 시작하기
 
