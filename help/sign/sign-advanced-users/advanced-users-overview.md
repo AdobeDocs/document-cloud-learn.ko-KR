@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b1254c2dbb82932319d62c78e683b8a395e7eece
+source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '423'
 ht-degree: 3%
 
 ---
@@ -24,8 +24,8 @@ ht-degree: 3%
 
 * [Acrobat Sign의 인증 방법](authentication-methods.md)
 문서에 서명하는 사람의 ID를 인증하기 위해 Acrobat Sign에서 사용할 수 있는 다양한 방법에 대해 알아봅니다
-* [온라인 결제 설정](set-up-online-payments.md)
-문서에서 온라인 결제를 설정하고 수락하는 방법에 대해 알아봅니다
+* [양식 데이터 관리](manage-form-data.md)
+문서에서 양식 데이터를 통합하는 방법 알아보기
 
 ## 보내기
 
@@ -74,6 +74,16 @@ ht-degree: 3%
 </tr>
 <tr>
   <td>
+      <a href="manage-form-data.md">
+        <img alt="양식 데이터 관리" src="../assets/manage-form-data.png" />
+      </a>
+      <div>
+      <a href="manage-form-data.md"><strong>양식 데이터 관리</strong></a>
+      </div>
+      <em>문서에서 양식 데이터를 통합하는 방법 알아보기</em>
+      <br>
+    </td>
+  <td>
     <a href="set-up-online-payments.md">
       <img alt="온라인 결제 설정" src="../assets/Payments.png" />
     </a>
@@ -92,18 +102,20 @@ ht-degree: 3%
       </div>
       <em>몇 단계만으로 모든 문서에 수백 개의 서명을 한 번에 수집할 수 있습니다</em>
       <br>
-    </td>
-    <td>
-      <a href="webform.md">
+  </td>
+  <td>
+    <a href="webform.md">
         <img alt="웹 양식 만들기" src="../assets/Webform.png" />
-      </a>
-      <div>
-      <a href="webform.md"><strong>웹 양식 만들기</strong></a>
-      </div>
-      <em>웹 사이트에서 직접 전자 서명할 수 있는 문서 만들기</em>
-      <br>
-    </td>
-    <td>
+    </a>
+    <div>
+    <a href="webform.md"><strong>웹 양식 만들기</strong></a>
+    </div>
+    <em>웹 사이트에서 직접 전자 서명할 수 있는 문서 만들기</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign 텍스트 태그 지정" src="../assets/Text-Tagging.png" />
     </a>
@@ -113,8 +125,6 @@ ht-degree: 3%
       <em>Adobe Acrobat에서 텍스트 태그를 지정하여 Acrobat Sign 양식 필드 작성</em>
       <br>
     </td>
-</tr>
-<tr>
   <td>
     <a href="text-tagging-word.md">
       <img alt="에서 텍스트 태그 지정 사용 [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
@@ -123,11 +133,6 @@ ht-degree: 3%
     <a href="text-tagging-word.md"><strong>에서 텍스트 태그 지정 사용 [!DNL Microsoft Word]</strong></a>
     </div>
     <em>에서 Acrobat Sign 텍스트 태그를 추가하여 재사용 가능한 문서 템플릿을 만드는 방법에 대해 알아봅니다. [!DNL Microsoft Word]</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>

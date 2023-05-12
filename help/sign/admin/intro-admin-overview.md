@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 69dc12c570059a7adcbc0d66450abe1889ea26a7
+source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '503'
 ht-degree: 1%
 
 ---
@@ -22,10 +22,10 @@ ht-degree: 1%
 
 ## 새로운 기능
 
+* [보고서 옵션](report-options.md)
+사용자를 위한 보고서 옵션을 설정하는 방법에 대해 알아봅니다.
 * [새 관리자를 위한 시작하기](get-started-admin.md)
 이 포괄적인 비디오 가이드에서 Acrobat Sign을 사용하여 조직을 시작하고 운영하는 데 필요한 모든 툴에 대해 알아보십시오
-* [워크플로우 설정](building-a-custom-workflow.md)
-문서 워크플로우를 자동화하여 전자 서명과 데이터를 빠르게 가져올 수 있습니다
 
 ## 시작하기
 

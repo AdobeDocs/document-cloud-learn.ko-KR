@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: f09913b9f9dd134a8e2ad723dcc11e070e332ea6
+source-git-commit: 9d4c634f9f0b136cbd184051f51f128856a96615
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '501'
 ht-degree: 10%
 
 ---
@@ -48,6 +48,7 @@ ht-degree: 10%
       + [위임자 역할 사용](sign-advanced-users/delegate-signature.md)
       + [승인자 역할 사용](sign-advanced-users/add-an-approver.md)
       + [Acrobat Sign의 인증 방법](sign-advanced-users/authentication-methods.md)
+      + [양식 데이터 관리](sign-advanced-users/manage-form-data.md)
       + [온라인 결제 설정](sign-advanced-users/set-up-online-payments.md)
       + [한번에 서명 보내기 및 수집](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [웹 양식 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
