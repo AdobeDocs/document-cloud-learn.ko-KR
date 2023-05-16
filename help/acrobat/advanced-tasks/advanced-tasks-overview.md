@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
+source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 3%
+source-wordcount: '366'
+ht-degree: 2%
 
 ---
 
@@ -18,6 +18,11 @@ ht-degree: 3%
 ![Acrobat 시작 이미지](../assets/Hero-AdvancedTasks.png)
 
 Acrobat의 고급 툴로 기본 기능 강화 동작을 만들어 일상적인 작업을 반복하고, 민감한 정보를 제거하고, 대용량 파일을 축소 및 최적화하고, 양식 데이터를 빠르게 수집하고, 일반적으로 액세스할 수 있는 PDF 파일을 만드는 방법을 알아봅니다.
+
+## 새로운 기능
+
+* [Acrobat 웹으로 어디에서나 작업](optimizeseo.md)
+웹에서 검색 가능성 및 검색 엔진 순위를 높이기 위해 PDF을 최적화하는 방법에 대해 알아봅니다.
 
 ## 고급 작업 튜토리얼
 

@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: da1cbeba135380abf5179734efdb86b294887004
+source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '515'
 ht-degree: 5%
 
 ---
@@ -18,6 +18,11 @@ ht-degree: 5%
 ![Acrobat 시작 이미지](../assets/Hero-GettingStarted.png)
 
 이 간단한 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아봅니다. 문서 만들기에서 보호 또는 [PDF 파일 편집](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}, 이 콘텐츠는 PDF 워크플로우를 간소화하기 위해 고안되었습니다.
+
+## 새로운 기능
+
+* [Acrobat 웹으로 어디에서나 작업](acrobatweb.md)
+브라우저에서 Acrobat 웹 툴을 사용하여 어디에서나 비즈니스 문서 요청을 처리하는 방법을 살펴보세요
 
 ## 시작하기 자습서
 
