@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
+source-git-commit: 797c9bdce5bae874875b4ff319977c5dc753b7c2
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '540'
 ht-degree: 5%
 
 ---
@@ -23,6 +23,8 @@ ht-degree: 5%
 
 * [Acrobat 웹으로 어디에서나 작업](acrobatweb.md)
 브라우저에서 Acrobat 웹 툴을 사용하여 어디에서나 비즈니스 문서 요청을 처리하는 방법을 살펴보세요
+* [실시간 공동 작업](collaborate.md)
+어디에서나 실시간으로 주석을 수집하고, 실시간 답변을 통해 원활하게 협업하고, 문서의 진행 상황을 추적하여 프로젝트를 향상시킬 수 있습니다
 
 ## 시작하기 자습서
 
