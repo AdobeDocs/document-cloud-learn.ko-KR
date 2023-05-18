@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
+source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -22,58 +22,18 @@ ht-degree: 0%
 
 ## 60초 Acrobat 튜토리얼
 
+## 편집
+
 <table style="table-layout:fixed">
 <tr>
-  <td>
-    <a href="optimize.md">
-      <img alt="신속한 PDF 파일 제작" src="../assets/60sec_Optimize_1280.jpg" />
+   <td>
+    <a href="edit.md">
+      <img alt="Acrobat Web으로 PDF 편집" src="../assets/60sec_Edit_1280.jpg" />
     </a>
     <div>
-    <a href="optimize.md"><strong>신속한 PDF 파일 제작</strong></a>
+    <a href="edit.md"><strong>Acrobat Web으로 PDF 편집</strong></a>
     </div>
-    <em>Optimize PDF 툴을 사용하여 PDF 파일 크기 대폭 축소</em>
-    <br>
-  </td>
-  <td>
-    <a href="protect.md">
-      <img alt="암호로 PDF 파일 Protect" src="../assets/60sec_Protect_1280.jpg" />
-    </a>
-    <div>
-    <a href="protect.md"><strong>암호로 PDF 파일 Protect</strong></a>
-    </div>
-    <em>PDF을 열거나 편집하는 데 암호가 필요하도록 PDF Protect</em>
-    <br>
-  </td>
-  <td>
-    <a href="wordform.md">
-      <img alt="양식 필드를 포함하여 Word를 PDF으로 변환" src="../assets/60sec_Wordform_1280.jpg" />
-    </a>
-    <div>
-     <a href="wordform.md"><strong>양식 필드를 포함하여 Word를 PDF으로 변환</strong></a>
-    </div>
-    <em>Word 파일과 양식을 PDF으로 변환하고 양식 필드를 자동으로 작성</em>
-    <br>
-  </td>
-  <td>
-    <a href="accessible.md">
-      <img alt="Acrobat을 통해 액세스 가능한 PDF 제작" src="../assets/60sec_Accessible_1280.jpg" />
-    </a>
-    <div>
-    <a href="accessible.md"><strong>Acrobat을 통해 액세스 가능한 PDF 제작</strong></a>
-    </div>
-    <em>PDF 액세스 가능 여부 확인</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="exportwordphone.md">
-      <img alt="휴대폰에서 Word로 Export PDF" src="../assets/60sec_Exportphone_1280.jpg" />
-    </a>
-    <div>
-    <a href="exportwordphone.md"><strong>휴대폰에서 Word로 Export PDF</strong></a>
-    </div>
-    <em>Acrobat 모바일 앱을 사용하여 PDF 파일을 편집 가능한 Microsoft Word 문서로 변환</em>
+    <em>PDF을 다운로드하지 않고도 텍스트와 이미지를 간편하게 편집할 수 있습니다</em>
     <br>
   </td>
   <td>
@@ -96,71 +56,19 @@ ht-degree: 0%
     <em>여러 유형의 파일을 단일 PDF으로 결합하여 새 문서를 빠르게 만듭니다.</em>
     <br>
   </td>
-  <td>
-    <a href="edit.md">
-      <img alt="Acrobat Web으로 PDF 편집" src="../assets/60sec_Edit_1280.jpg" />
-    </a>
-    <div>
-    <a href="edit.md"><strong>Acrobat Web으로 PDF 편집</strong></a>
-    </div>
-    <em>PDF을 다운로드하지 않고도 텍스트와 이미지를 간편하게 편집할 수 있습니다</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="search.md">
-      <img alt="한 번에 여러 PDF 파일 검색" src="../assets/60sec_Search_1280.jpg" />
-    </a>
-    <div>
-     <a href="search.md"><strong>한 번에 여러 PDF 파일 검색</strong></a>
-    </div>
-    <em>PDF 파일에서 검색을 시작한 다음 고급 검색을 열고 PDF 파일의 전체 폴더를 검색합니다</em>
-    <br>
-  </td>
-  <td>
-    <a href="photo.md">
-      <img alt="한 번에 사진 PDF 만들기" src="../assets/60sec_Photo_1280.jpg" />
-    </a>
-    <div>
-    <a href="photo.md"><strong>한 번에 사진 PDF 만들기</strong></a>
-    </div>
-    <em>여러 JPG을 Acrobat 아이콘에 드래그하여 놓아 PDF을 만드는 방법을 살펴보세요</em>
-    <br>
-  </td>
-  <td>
-    <a href="phone.md">
-      <img alt="스마트폰에서 PPT 파일을 PDF으로 변환" src="../assets/60sec_Phone_1280.jpg" />
-    </a>
-    <div>
-    <a href="phone.md"><strong>스마트폰에서 PPT 파일을 PDF으로 변환</strong></a>
-    </div>
-    <em>휴대폰에서 전자 메일 PowerPoint 첨부 파일을 PDF으로 변환하는 방법 알아보기</em>
-    <br>
-  </td>  
-  <td>
-    <a href="sign.md">
-      <img alt="종이 문서에 전자 서명" src="../assets/60sec_Sign_1280.jpg" />
-    </a>
-    <div>
-    <a href="sign.md"><strong>종이 문서에 전자 서명</strong></a>
-    </div>
-    <em>Adobe Scan을 사용하여 인쇄된 양식에 서명하는 방법 알아보기</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="indesign.md">
-      <img alt="PDF 주석을 InDesign에 로드" src="../assets/60sec_InDesign_1280.jpg" />
-    </a>
-    <div>
-    <a href="indesign.md"><strong>PDF 주석을 InDesign에 로드</strong></a>
-    </div>
-    <em>Acrobat 공유 검토 후 PDF 주석을 다시 InDesign으로 로드하는 방법에 대해 알아봅니다</em>
-    <br>
-  </td>
    <td>
+    <a href="organize.md">
+      <img alt="신속한 페이지 구성" src="../assets/60sec_Organize_1280.jpg" />
+    </a>
+    <div>
+    <a href="organize.md"><strong>신속한 페이지 구성</strong></a>
+    </div>
+    <em>PDF 구성 툴을 사용하여 페이지를 한눈에 보는 방법을 살펴봅니다</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="editphoto.md">
       <img alt="PDF에서 사진 편집" src="../assets/60sec_Editphoto_1280.jpg" />
     </a>
@@ -181,14 +89,226 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-    <a href="organize.md">
-      <img alt="신속한 페이지 구성" src="../assets/60sec_Organize_1280.jpg" />
+      <img alt="스페이서" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="스페이서" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
+
+## 변환
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="exportwordphone.md">
+      <img alt="휴대폰에서 Word로 Export PDF" src="../assets/60sec_Exportphone_1280.jpg" />
     </a>
     <div>
-    <a href="organize.md"><strong>신속한 페이지 구성</strong></a>
+    <a href="exportwordphone.md"><strong>휴대폰에서 Word로 Export PDF</strong></a>
     </div>
-    <em>PDF 구성 툴을 사용하여 페이지를 한눈에 보는 방법을 살펴봅니다</em>
+    <em>Acrobat 모바일 앱을 사용하여 PDF 파일을 편집 가능한 Microsoft Word 문서로 변환</em>
     <br>
+  </td>
+  <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
+
+## 만들기
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="wordform.md">
+      <img alt="양식 필드를 포함하여 Word를 PDF으로 변환" src="../assets/60sec_Wordform_1280.jpg" />
+    </a>
+    <div>
+     <a href="wordform.md"><strong>양식 필드를 포함하여 Word를 PDF으로 변환</strong></a>
+    </div>
+    <em>Word 파일과 양식을 PDF으로 변환하고 양식 필드를 자동으로 작성</em>
+    <br>
+  </td>
+  <td>
+      <a href="photo.md">
+        <img alt="한 번에 사진 PDF 만들기" src="../assets/60sec_Photo_1280.jpg" />
+      </a>
+      <div>
+      <a href="photo.md"><strong>한 번에 사진 PDF 만들기</strong></a>
+      </div>
+      <em>여러 JPG을 Acrobat 아이콘에 드래그하여 놓아 PDF을 만드는 방법을 살펴보세요</em>
+      <br>
+  </td>
+  <td>
+    <a href="phone.md">
+      <img alt="스마트폰에서 PPT 파일을 PDF으로 변환" src="../assets/60sec_Phone_1280.jpg" />
+    </a>
+    <div>
+    <a href="phone.md"><strong>스마트폰에서 PPT 파일을 PDF으로 변환</strong></a>
+    </div>
+    <em>휴대폰에서 전자 메일 PowerPoint 첨부 파일을 PDF으로 변환하는 방법 알아보기</em>
+    <br>
+  </td>
+  <td>
+      <a href="optimize.md">
+        <img alt="신속한 PDF 파일 제작" src="../assets/60sec_Optimize_1280.jpg" />
+      </a>
+      <div>
+      <a href="optimize.md"><strong>신속한 PDF 파일 제작</strong></a>
+      </div>
+      <em>Optimize PDF 툴을 사용하여 PDF 파일 크기 대폭 축소</em>
+      <br>
+  </td>
+</tr>
+</table>
+
+## 서명
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="sign.md">
+      <img alt="종이 문서에 전자 서명" src="../assets/60sec_Sign_1280.jpg" />
+    </a>
+    <div>
+    <a href="sign.md"><strong>종이 문서에 전자 서명</strong></a>
+    </div>
+    <em>Adobe Scan을 사용하여 인쇄된 양식에 서명하는 방법 알아보기</em>
+    <br>
+  </td>
+  <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
+
+## 보호
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="protect.md">
+      <img alt="암호로 PDF 파일 Protect" src="../assets/60sec_Protect_1280.jpg" />
+    </a>
+    <div>
+    <a href="protect.md"><strong>암호로 PDF 파일 Protect</strong></a>
+    </div>
+    <em>PDF을 열거나 편집하는 데 암호가 필요하도록 PDF Protect</em>
+    <br>
+  </td>
+  <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
+
+## 준비
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="accessible.md">
+      <img alt="Acrobat을 통해 액세스 가능한 PDF 제작" src="../assets/60sec_Accessible_1280.jpg" />
+    </a>
+    <div>
+    <a href="accessible.md"><strong>Acrobat을 통해 액세스 가능한 PDF 제작</strong></a>
+    </div>
+    <em>PDF 액세스 가능 여부 확인</em>
+    <br>
+  </td>
+  <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
+
+## 추가 항목
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="search.md">
+      <img alt="한 번에 여러 PDF 파일 검색" src="../assets/60sec_Search_1280.jpg" />
+    </a>
+    <div>
+     <a href="search.md"><strong>한 번에 여러 PDF 파일 검색</strong></a>
+    </div>
+    <em>PDF 파일에서 검색을 시작한 다음 고급 검색을 열고 PDF 파일의 전체 폴더를 검색합니다</em>
+    <br>
+  </td>
+  <td>
+    <a href="indesign.md">
+      <img alt="PDF 주석을 InDesign에 로드" src="../assets/60sec_InDesign_1280.jpg" />
+    </a>
+    <div>
+    <a href="indesign.md"><strong>PDF 주석을 InDesign에 로드</strong></a>
+    </div>
+    <em>Acrobat 공유 검토 후 PDF 주석을 다시 InDesign으로 로드하는 방법에 대해 알아봅니다</em>
+    <br>
+  </td>
+  <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>

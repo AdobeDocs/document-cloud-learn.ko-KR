@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
+source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -61,22 +61,22 @@ ht-degree: 0%
       + [태그가 지정되지 않은 PDF에 양식 필드 추가](advanced-tasks/accessibilitysession6.md)
 + 60초 Acrobat {#60-second}
    + [개요](60-second/60-second-overview.md)
-   + [신속한 PDF 파일 제작](60-second/optimize.md)
-   + [암호로 PDF 파일 Protect](60-second/protect.md)
-   + [양식 필드를 포함하여 Word를 PDF으로 변환](60-second/wordform.md)
-   + [Acrobat을 통해 액세스 가능한 PDF 제작](60-second/accessible.md)
-   + [휴대폰에서 Word로 Export PDF](60-second/exportwordphone.md)
+   + [Acrobat 웹에서 PDF 편집](60-second/edit.md)
    + [스캔한 PDF 파일에서 텍스트 인식](60-second/textrecognition.md)
    + [여러 파일을 하나의 PDF으로 결합](60-second/combine-to-one-pdf.md)
-   + [Acrobat 웹에서 PDF 편집](60-second/edit.md)
-   + [한 번에 여러 PDF 파일 검색](60-second/search.md)
-   + [한 번에 사진 PDF 만들기](60-second/photo.md)
-   + [스마트폰에서 PPT 파일을 PDF으로 변환](60-second/phone.md)
-   + [종이 문서에 전자 서명](60-second/sign.md)
-   + [PDF 주석을 InDesign에 로드](60-second/indesign.md)
+   + [신속한 페이지 구성](60-second/organize.md)
    + [PDF에서 사진 편집](60-second/editphoto.md)
    + [PDF에서 그래픽 편집](60-second/editgraphic.md)
-   + [신속한 페이지 구성](60-second/organize.md)
+   + [휴대폰에서 Word로 Export PDF](60-second/exportwordphone.md)
+   + [양식 필드를 포함하여 Word를 PDF으로 변환](60-second/wordform.md)
+   + [한 번에 사진 PDF 만들기](60-second/photo.md)
+   + [스마트폰에서 PPT 파일을 PDF으로 변환](60-second/phone.md)
+   + [신속한 PDF 파일 제작](60-second/optimize.md)
+   + [종이 문서에 전자 서명](60-second/sign.md)
+   + [암호로 PDF 파일 Protect](60-second/protect.md)
+   + [Acrobat을 통해 액세스 가능한 PDF 제작](60-second/accessible.md)
+   + [한 번에 여러 PDF 파일 검색](60-second/search.md)
+   + [PDF 주석을 InDesign에 로드](60-second/indesign.md)
 + 스킬 빌더 {#skill-builders}
    + [웨비나](skill-builder/skill-builder-webinars.md)
 + 통합 {#integrations}
