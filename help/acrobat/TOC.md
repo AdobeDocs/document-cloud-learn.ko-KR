@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
+source-git-commit: 3f9dc206aee94fa9a8b9a7938ef4ca0f4de89164
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 7%
+source-wordcount: '434'
+ht-degree: 6%
 
 ---
 
@@ -67,6 +67,9 @@ ht-degree: 7%
    + [신속한 페이지 구성](60-second/organize.md)
    + [PDF에서 사진 편집](60-second/editphoto.md)
    + [PDF에서 그래픽 편집](60-second/editgraphic.md)
+   + [Word로 PDF 변환](60-second/convert-pdf-word.md)
+   + [Excel로 PDF 변환](60-second/convert-pdf-excel.md)
+   + [PowerPoint로 PDF 변환](60-second/convert-pdf-powerpoint.md)
    + [휴대폰에서 Word로 Export PDF](60-second/exportwordphone.md)
    + [양식 필드를 포함하여 Word를 PDF으로 변환](60-second/wordform.md)
    + [한 번에 사진 PDF 만들기](60-second/photo.md)
@@ -75,6 +78,7 @@ ht-degree: 7%
    + [종이 문서에 전자 서명](60-second/sign.md)
    + [암호로 PDF 파일 Protect](60-second/protect.md)
    + [Acrobat을 통해 액세스 가능한 PDF 제작](60-second/accessible.md)
+   + [표준 형식에 맞게 PDF 조정](60-second/conform.md)
    + [한 번에 여러 PDF 파일 검색](60-second/search.md)
    + [PDF 주석을 InDesign에 로드](60-second/indesign.md)
 + 스킬 빌더 {#skill-builders}

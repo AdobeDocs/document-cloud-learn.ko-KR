@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
+source-git-commit: 8d96841361809a5b4e6fd894a3d9cb3fef27ce2c
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '643'
 ht-degree: 0%
 
 ---
@@ -106,6 +106,35 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="convert-pdf-word.md">
+      <img alt="Word로 PDF 변환" src="../assets/60sec_convertword.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-word.md"><strong>Word로 PDF 변환</strong></a>
+    </div>
+    <em>PDF 파일을 편집 가능한 Microsoft Word 문서로 변환</em>
+    <br>
+  </td>
+ <td>
+    <a href="convert-pdf-excel.md">
+      <img alt="Excel로 PDF 변환" src="../assets/60sec_convertexcel.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-excel.md"><strong>Excel로 PDF 변환</strong></a>
+    </div>
+    <em>PDF 파일을 편집 가능한 Microsoft Excel 문서로 변환</em>
+    <br>
+  </td>
+  <td>
+    <a href="convert-pdf-powerpoint.md">
+      <img alt="PowerPoint로 PDF 변환" src="../assets/60sec_convertppt.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-excel.md"><strong>PowerPoint로 PDF 변환</strong></a>
+    </div>
+    <em>PDF 파일을 편집 가능한 Microsoft PowerPoint 문서로 변환</em>
+    <br>
+  </td>
     <a href="exportwordphone.md">
       <img alt="휴대폰에서 Word로 Export PDF" src="../assets/60sec_Exportphone_1280.jpg" />
     </a>
@@ -114,21 +143,6 @@ ht-degree: 0%
     </div>
     <em>Acrobat 모바일 앱을 사용하여 PDF 파일을 편집 가능한 Microsoft Word 문서로 변환</em>
     <br>
-  </td>
-  <td>
-      <img alt="스페이서" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="스페이서" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="스페이서" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
 </tr>
 </table>
@@ -258,10 +272,15 @@ ht-degree: 0%
     <em>PDF 액세스 가능 여부 확인</em>
     <br>
   </td>
-  <td>
-      <img alt="스페이서" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+ <td>
+    <a href="conform.md">
+      <img alt="표준 형식에 맞게 PDF 조정" src="../assets/60sec_standard.png" />
+    </a>
+    <div>
+    <a href="conform.md"><strong>표준 형식에 맞게 PDF 조정</strong></a>
+    </div>
+    <em>PDF/X, PDF/A 또는 PDF/E와 같은 PDF 표준 기준에 따라 PDF 콘텐츠를 검증하는 방법 알아보기</em>
+    <br>
   </td>
   <td>
       <img alt="스페이서" src="../assets/Whitespacer.png" />
