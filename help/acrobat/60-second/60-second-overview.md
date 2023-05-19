@@ -7,7 +7,7 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 8d96841361809a5b4e6fd894a3d9cb3fef27ce2c
+source-git-commit: d1416b3c1137a44897a5a6e4b74ba9b4e6ee63b4
 workflow-type: tm+mt
 source-wordcount: '643'
 ht-degree: 0%
@@ -130,11 +130,12 @@ ht-degree: 0%
       <img alt="PowerPoint로 PDF 변환" src="../assets/60sec_convertppt.png" />
     </a>
     <div>
-    <a href="convert-pdf-excel.md"><strong>PowerPoint로 PDF 변환</strong></a>
+    <a href="convert-pdf-powerpoint.md"><strong>PowerPoint로 PDF 변환</strong></a>
     </div>
     <em>PDF 파일을 편집 가능한 Microsoft PowerPoint 문서로 변환</em>
     <br>
   </td>
+  <td>
     <a href="exportwordphone.md">
       <img alt="휴대폰에서 Word로 Export PDF" src="../assets/60sec_Exportphone_1280.jpg" />
     </a>
