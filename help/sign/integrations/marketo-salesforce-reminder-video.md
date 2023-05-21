@@ -11,7 +11,7 @@ exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
 source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    정보 및 Salesforce용 최신 플러그인을 사용할 수 있습니다. [여기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Salesforce용 Acrobat Sign을 설치합니다.
+1. Salesforce용 Acrobat Sign 설치.
 
    이 플러그인에 대한 정보를 사용할 수 있습니다. [여기](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 

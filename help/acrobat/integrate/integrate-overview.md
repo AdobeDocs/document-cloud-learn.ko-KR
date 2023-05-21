@@ -9,7 +9,7 @@ thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
 source-git-commit: 527ef7363945aa05666cd2ff956366c806a2d627
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '327'
 ht-degree: 1%
 
 ---
@@ -176,4 +176,4 @@ Acrobat 통합 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]�
 
 ## 상자
 
-Acrobat 및 [상자](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} 조직의 모든 사용자가 보다 간편하게 비즈니스를 진행할 수 있습니다.
+Acrobat 및 [상자](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} 모든 팀원이 간편하게 비즈니스를 진행할 수 있습니다.

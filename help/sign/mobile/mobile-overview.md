@@ -10,7 +10,7 @@ exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
 source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 28%
+ht-degree: 34%
 
 ---
 
@@ -34,10 +34,10 @@ ht-degree: 28%
   </td>
   <td>
     <a href="https://itunes.apple.com/kr/app/adobe-sign/id481082197?mt=8" target="_blank">
-      <img alt="iOS 다운로드" src="assets/Mobile_iOS.png" />
+      <img alt="iOS용 다운로드" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>iOS용 Acrobat Sign 모바일 앱 다운로드</strong></a>
+    <a href="https://itunes.apple.com/kr/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>iOS용 Acrobat Sign 모바일 앱 다운로드</strong></a>
     <br>
   </td>
   <td>

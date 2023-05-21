@@ -32,7 +32,7 @@ Acrobat Sign, Microsoft Dynamic용 Acrobat Sign, Marketo 및 Marketo Microsoft D
 
 Marketo Microsoft Dynamics Sync 및 Acrobat Sign for Dynamics 구성이 완료되면 Marketo 관리 터미널에 두 개의 새로운 옵션이 나타납니다.
 
-![관리자](assets/adminTerminal.png)
+![관리](assets/adminTerminal.png)
 
 * 클릭 **[!UICONTROL Dynamics 엔터티 동기화]**.
 
@@ -98,7 +98,7 @@ Marketo 설정 - [!DNL Twilio] SMS Webhook에는 3개의 [!DNL Twilio] 매개 �
 
 1. 클릭 **[!UICONTROL 관리]** 클릭합니다.
 
-   ![관리자](assets/adminTab.png)
+   ![관리](assets/adminTab.png)
 
 1. 클릭 **[!UICONTROL 웹 후크]**&#x200B;을 클릭하고 **[!UICONTROL 새 Webhook]**.
 

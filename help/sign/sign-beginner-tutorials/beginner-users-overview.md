@@ -26,16 +26,16 @@ Acrobat Sign을 처음 사용하십니까? 이 튜토리얼은 시작하기 좋�
 * [기한 및 미리 알림 설정](set-deadlines-reminders.md)
 문서에 빠르게 서명을 받기 위해 일반 이메일 알림 메시지 및 최종 기한을 보내는 방법을 알아봅니다
 
-## 전송
+## 보내기
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="작업 영역 기본 사항" src="../assets/workspace_1280.png" />
+      <img alt="작업 공간 기본 사항" src="../assets/workspace_1280.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>작업 영역 기본 사항</strong></a>
+    <a href="quick-tour.md"><strong>작업 공간 기본 사항</strong></a>
     </div>
     <em>Acrobat Sign 작업 영역을 빠르게 살펴보고 바로 시작할 수 있습니다</em>
     <br>
@@ -142,7 +142,7 @@ Acrobat Sign을 처음 사용하십니까? 이 튜토리얼은 시작하기 좋�
 </tr>
 </table>
 
-## Signing
+## 서명
 
 <table style="table-layout:fixed">
 <tr>

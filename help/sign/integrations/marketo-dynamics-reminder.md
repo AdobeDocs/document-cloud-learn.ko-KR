@@ -31,9 +31,9 @@ ht-degree: 2%
 
 ## 사용자 정의 개체 찾기
 
-Marketo Microsoft Dynamics 동기화 및 Acrobat for Dynamics 구성이 완료되면 Marketo 관리 터미널에 두 개의 새로운 옵션이 나타납니다.
+Marketo Microsoft Dynamics Sync 및 Acrobat Sign for Dynamics 구성이 완료되면 Marketo 관리 터미널에 두 개의 새로운 옵션이 나타납니다.
 
-![관리자](assets/adminTerminal.png)
+![관리](assets/adminTerminal.png)
 
 1. 클릭 **[!UICONTROL Dynamics 엔터티 동기화]**.
 
@@ -205,4 +205,4 @@ Marketo Microsoft Dynamics 동기화 및 Acrobat for Dynamics 구성이 완료�
 
 >[!TIP]
 >
->이 튜토리얼은 [Microsoft Dynamics 및 Marketo용 Acrobat Sign을 사용하여 세일즈 주기 단축](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) Experience League에서 무료로 사용할 수 있습니다!
+>이 튜토리얼은 [Microsoft Dynamics 및 Marketo에서 Acrobat Sign을 사용하여 세일즈 주기 단축](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) Experience League에서 무료로 사용할 수 있습니다!

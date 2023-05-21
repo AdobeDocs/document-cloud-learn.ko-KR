@@ -8,14 +8,14 @@ thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
 source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 6%
+source-wordcount: '184'
+ht-degree: 4%
 
 ---
 
 # 스캔 및 OCR
 
-스캔한 문서 또는 이미지를 검색 및 [편집 가능한 PDF 파일](https://www.adobe.com/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}.
+스캔한 문서 또는 이미지를 검색 및 [편집 가능한 PDF 파일](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}.
 
 >[!TIP]
 >

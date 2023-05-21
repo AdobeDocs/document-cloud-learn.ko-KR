@@ -25,7 +25,7 @@ Acrobat Sign, Salesforce용 Acrobat Sign, Marketo 및 Marketo Salesforce 동기�
 
    정보 및 Salesforce용 최신 플러그인을 사용할 수 있습니다. [여기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Salesforce용 Acrobat Sign을 설치합니다.
+1. Salesforce용 Acrobat Sign 설치.
 
    이 플러그인에 대한 정보를 사용할 수 있습니다. [여기](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
@@ -33,7 +33,7 @@ Acrobat Sign, Salesforce용 Acrobat Sign, Marketo 및 Marketo Salesforce 동기�
 
 Marketo Salesforce 동기화 및 Salesforce용 Acrobat Sign 구성이 완료되면 몇 가지 새로운 옵션이 Marketo 관리 터미널에 나타납니다.
 
-![관리자](assets/adminTab.png)
+![관리](assets/adminTab.png)
 
 ![개체 동기화](assets/salesforceAdmin.png)
 
@@ -99,7 +99,7 @@ Marketo 설정 - Twilio SMS Webhook을 사용하려면 계정에서 세 개의 T
 
 1. 다음을 클릭합니다. **관리** 클릭합니다.
 
-   ![관리자](assets/adminTab.png)
+   ![관리](assets/adminTab.png)
 
 1. 다음을 클릭합니다. **웹 후크**, **새 Webhook**.
 

@@ -9,7 +9,7 @@ kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
 source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '323'
 ht-degree: 1%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 1%
 
 ## 배경 그래픽 추가 방법
 
-사용 [PDF 편집 도구](https://www.adobe.com/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;} - PDF에 배경 그래픽을 추가합니다.
+사용 [PDF 편집 도구](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"} 배경 그래픽을 PDF에 추가합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
 

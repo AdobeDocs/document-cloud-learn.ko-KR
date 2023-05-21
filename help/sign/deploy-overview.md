@@ -10,7 +10,7 @@ exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
 source-git-commit: ed2ef0baf3039d023ae4272bee955fa864cdc8f5
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 10%
+ht-degree: 15%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 10%
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Admin Console에서 Acrobat Sign 관리</strong></a>
+    <a href="https://helpx.adobe.com/kr/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Admin Console에서 Acrobat Sign 관리</strong></a>
     </div>
     <em>Adobe의 엔터프라이즈 플랫폼 Adobe Admin Console에서 Acrobat Sign 사용자 및 라이선스를 관리하는 방법에 대해 알아봅니다.</em>
     <br>

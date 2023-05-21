@@ -9,7 +9,7 @@ exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
 source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
 source-wordcount: '230'
-ht-degree: 7%
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 7%
 
 1. 선택 **[!UICONTROL 표준]** 에서 **[!UICONTROL 설정]** 메뉴를 사용하여 기본 설정을 사용합니다.
 
-   **[!UICONTROL [PDF 최적기]]** 대화 상자에서 설정을 변경할 경우 **[설정]** 메뉴가 자동으로 **[사용자 정의]**&#x200B;로 전환됩니다.
+   에서 설정을 변경한 경우 **[!UICONTROL PDF 최적기]** 대화 상자, **설정** 메뉴가 자동으로 **사용자 정의**.
 
 1. 선택 **[!UICONTROL 기존 유지]** 에서 **[!UICONTROL 호환 가능한]** 메뉴를 사용하여 현재 PDF 버전을 유지하거나 특정 Acrobat 버전을 선택합니다.
 

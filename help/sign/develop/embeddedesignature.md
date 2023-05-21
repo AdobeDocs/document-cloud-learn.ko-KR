@@ -10,7 +10,7 @@ exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
 source-git-commit: 7a27c3ebe52bdb13f99a38abdd6a4881f7fb09c1
 workflow-type: tm+mt
 source-wordcount: '876'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -91,7 +91,7 @@ Acrobat Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시�
 
 ![임시 문서 생성 스크린샷](assets/embeddedesignature/embed_7.png)
 
-계약서를 처음 보낸 후에는 논리를 추가할 준비가 됩니다. 반복을 최소화하기 위해 몇 가지 도우미를 두는 것은 항상 좋은 생각입니다. 몇 가지 예를 들면 다음과 같습니다.
+계약서를 처음 보낸 후에는 논리를 추가할 준비가 됩니다. 반복을 최소화하기 위해 몇 가지 도우미를 두는 것은 항상 좋은 생각입니다. 다음은 몇 가지 예입니다.
 
 **확인**
 

@@ -8,8 +8,8 @@ thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
 source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '747'
-ht-degree: 5%
+source-wordcount: '745'
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 [!DNL Adobe Sign Individual] (Adobe Sign Pro라고도 함)는 2020년 8월부터 2020년 11월 20일까지 제공되는 ETLA(ETLA) 서비스에 포함된 모든 Acrobat DC 권한에서 프로비저닝이 취소됩니다. [!DNL Adobe Sign Individual] 엔터프라이즈급 기능을 제공하지 않으므로 Adobe Sign Enterprise for enterprise 고객으로 대체해야 합니다. 여기에는 독립 실행형 앱으로 라이선스가 부여된 Acrobat DC 및 기업용 Creative Cloud - 모든 앱의 일부로 라이선스가 부여된 Acrobat DC이 포함됩니다.
 
-액세스 대상 [!DNL Adobe Sign Individual] 다음을 통해 Acrobat에서 사용할 수 있습니다. **Adobe Sign** 또는 **Fill &amp; Sign** 도구 ([서명 요청](https://www.adobe.com/acrobat/online/request-signature.html){target=&quot;_blank&quot;}).
+액세스 대상 [!DNL Adobe Sign Individual] 다음을 통해 Acrobat에서 사용할 수 있습니다. **Adobe Sign** 또는 **Fill &amp; Sign** 도구 ([서명 요청](https://www.adobe.com/acrobat/online/request-signature.html){target="_blank"}).
 
 ![[!DNL Adobe Sign Individual] Acrobat DC에서 액세스](../assets/Deploy_SignEntitle1.png)
 
@@ -72,7 +72,7 @@ Adobe Sign Enterprise 권한이 없는 사용자는 새 계약을 보낼 수 없
 * [Adobe Document Cloud 로그인](https://helpx.adobe.com/document-cloud/help/sign-in.html)
 * [파일 관리(내 파일은 어디에 있습니까?)](https://helpx.adobe.com/document-cloud/help/manage-files.html)
 * [사용 [!UICONTROL Acrobat Customization Wizard] 구성](https://www.adobe.com/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
-* [개요 [!UICONTROL Admin Console]](https://helpx.adobe.com/enterprise/using/admin-console.html)
-* [에서 Adobe Sign 관리 [!UICONTROL Admin Console]](https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html)
+* [개요 [!UICONTROL Admin Console]](https://helpx.adobe.com/kr/enterprise/using/admin-console.html)
+* [에서 Adobe Sign 관리 [!UICONTROL Admin Console]](https://helpx.adobe.com/kr/enterprise/using/adobe-sign-for-enterprise.html)
 
 **개정** 2020년 5월 20일; 원본 게시물 - 2019년 8월

@@ -6,7 +6,7 @@ exl-id: 541f7a4d-d893-4768-9c91-638548845378
 source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '519'
-ht-degree: 26%
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ Adobe Document Cloud 검토 서비스를 사용하여 Acrobat 데스크탑 응�
 이 연습에서는
 
 * 주석 달기용 개인 맞춤 초대 보내기
-* 전자 메일에 익명 또는 공용 링크 보내기
+* 전자 메일로 익명 또는 공개 링크 보내기
 
 여기 [데모 파일](assets/01_Review.zip) 사용합니다.
 
@@ -39,9 +39,9 @@ Adobe Document Cloud 검토 서비스를 사용하여 Acrobat 데스크탑 응�
 
 ## 리뷰어 환경
 
-검토자는 검토 PDF에 대한 링크와 함께 전자 메일 초대장을 받게 됩니다. 초대의 링크 또는 **[!UICONTROL [검토]]** 단추를 클릭하면 PDF가 웹 브라우저에 열립니다. 주석 도구를 사용하여 주석을 PDF에 추가할 수 있습니다. Acrobat Reader 또는 Acrobat 데스크탑 응용 프로그램을 사용하여 주석을 추가할 수도 있습니다.
+검토자는 검토용 PDF에 대한 링크가 담긴 전자 메일 초대장을 받습니다. 링크를 클릭하거나 **[!UICONTROL 검토]** PDF이 웹 브라우저에서 열립니다. 주석 도구를 사용하여 PDF에 주석을 추가할 수 있습니다. Acrobat Reader 또는 Acrobat 데스크탑 응용 프로그램을 사용하여 주석을 추가할 수도 있습니다.
 
-## 전자 메일에 익명 또는 공용 링크 보내기
+## 전자 메일로 익명 또는 공개 링크 보내기
 
 **1단계:** 열기 `localFoodTruckmenu_start.pdf` 파일을 엽니다.
 

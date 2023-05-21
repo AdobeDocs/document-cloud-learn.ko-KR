@@ -1,6 +1,6 @@
 ---
 title: 급여 보호
-description: Acrobat Sign을 사용하여 결제 보호 프로그램 양식을 온라인 대화형 양식으로 변환하는 방법을 확인하십시오
+description: Acrobat Sign을 사용하여 결제 보호 프로그램 양식을 온라인 대화형 양식으로 변환하는 방법에 대해 살펴보십시오
 role: User
 product: adobe sign
 solution: Acrobat Sign
