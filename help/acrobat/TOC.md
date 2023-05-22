@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 3f9dc206aee94fa9a8b9a7938ef4ca0f4de89164
+source-git-commit: 16997696e1947a6dfe45418e60bf868e9db5cb23
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '454'
 ht-degree: 6%
 
 ---
@@ -77,6 +77,10 @@ ht-degree: 6%
    + [신속한 PDF 파일 제작](60-second/optimize.md)
    + [종이 문서에 전자 서명](60-second/sign.md)
    + [암호로 PDF 파일 Protect](60-second/protect.md)
+   + [교정: 올바른 방법](60-second/redaction.md)
+   + [댓글 공유](60-second/share-comment.md)
+   + [Teams에서 PDF 파일 공유 및 주석 추가](60-second/share-comment-teams.md)
+   + [요약으로 PDF 주석 처리](60-second/summarize-comments.md)
    + [Acrobat을 통해 액세스 가능한 PDF 제작](60-second/accessible.md)
    + [표준 형식에 맞게 PDF 조정](60-second/conform.md)
    + [한 번에 여러 PDF 파일 검색](60-second/search.md)
