@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 16997696e1947a6dfe45418e60bf868e9db5cb23
+source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '471'
 ht-degree: 6%
 
 ---
@@ -71,6 +71,8 @@ ht-degree: 6%
    + [Excel로 PDF 변환](60-second/convert-pdf-excel.md)
    + [PowerPoint로 PDF 변환](60-second/convert-pdf-powerpoint.md)
    + [휴대폰에서 Word로 Export PDF](60-second/exportwordphone.md)
+   + [Microsoft Word에서 PDF 만들기](60-second/word-to-pdf.md)
+   + [Acrobat을 사용하여 PDF 파일 만들기](60-second/create-from-acrobat.md)
    + [양식 필드를 포함하여 Word를 PDF으로 변환](60-second/wordform.md)
    + [한 번에 사진 PDF 만들기](60-second/photo.md)
    + [스마트폰에서 PPT 파일을 PDF으로 변환](60-second/phone.md)
@@ -81,10 +83,11 @@ ht-degree: 6%
    + [댓글 공유](60-second/share-comment.md)
    + [Teams에서 PDF 파일 공유 및 주석 추가](60-second/share-comment-teams.md)
    + [요약으로 PDF 주석 처리](60-second/summarize-comments.md)
+   + [PDF 주석을 InDesign에 로드](60-second/indesign.md)
    + [Acrobat을 통해 액세스 가능한 PDF 제작](60-second/accessible.md)
    + [표준 형식에 맞게 PDF 조정](60-second/conform.md)
+   + [PDF 비교를 통해 차이점 파악](60-second/compare.md)
    + [한 번에 여러 PDF 파일 검색](60-second/search.md)
-   + [PDF 주석을 InDesign에 로드](60-second/indesign.md)
 + 스킬 빌더 {#skill-builders}
    + [웨비나](skill-builder/skill-builder-webinars.md)
 + 통합 {#integrations}

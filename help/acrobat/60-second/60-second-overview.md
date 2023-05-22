@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: aa2bb2bf7a50fd23d1b71194ffb614c8e8d4e271
+source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -153,6 +153,26 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="word-to-pdf.md">
+      <img alt="Microsoft Word에서 PDF 만들기" src="../assets/60sec_createfromword.png" />
+    </a>
+    <div>
+     <a href="word-to-pdf.md"><strong>Microsoft Word에서 PDF 만들기</strong></a>
+    </div>
+    <em>Microsoft Word에서 PDF 만들기</em>
+    <br>
+  </td>
+  <td>
+    <a href="create-from-acrobat.md">
+      <img alt="Acrobat에서 PDF 만들기" src="../assets/60sec_createfromacrobat.png" />
+    </a>
+    <div>
+     <a href="create-from-acrobat.md"><strong>Acrobat에서 PDF 만들기</strong></a>
+    </div>
+    <em>Acrobat 데스크탑 앱에서 바로 Microsoft 365 파일에서 PDF 만들기</em>
+    <br>
+  </td>
+  <td>
     <a href="wordform.md">
       <img alt="양식 필드를 포함하여 Word를 PDF으로 변환" src="../assets/60sec_Wordform_1280.jpg" />
     </a>
@@ -172,6 +192,8 @@ ht-degree: 0%
       <em>여러 JPG을 Acrobat 아이콘에 드래그하여 놓아 PDF을 만드는 방법을 살펴보세요</em>
       <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="phone.md">
       <img alt="스마트폰에서 PPT 파일을 PDF으로 변환" src="../assets/60sec_Phone_1280.jpg" />
@@ -191,6 +213,16 @@ ht-degree: 0%
       </div>
       <em>Optimize PDF 툴을 사용하여 PDF 파일 크기 대폭 축소</em>
       <br>
+  </td>
+  <td>
+      <img alt="스페이서" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="스페이서" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
@@ -353,6 +385,16 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="compare.md">
+      <img alt="PDF 비교를 통해 차이점 파악" src="../assets/60sec_compare.png" />
+    </a>
+    <div>
+     <a href="compare.md"><strong>PDF 비교를 통해 차이점 파악</strong></a>
+    </div>
+    <em>Acrobat에서 파일 비교 툴을 사용하여 두 PDF 파일 간의 차이점을 찾아보는 방법을 살펴봅니다</em>
+    <br>
+  </td>
+ <td>
     <a href="search.md">
       <img alt="한 번에 여러 PDF 파일 검색" src="../assets/60sec_Search_1280.jpg" />
     </a>
@@ -361,11 +403,6 @@ ht-degree: 0%
     </div>
     <em>PDF 파일에서 검색을 시작한 다음 고급 검색을 열고 PDF 파일의 전체 폴더를 검색합니다</em>
     <br>
-  </td>
- <td>
-      <img alt="스페이서" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
   <td>
       <img alt="스페이서" src="../assets/Whitespacer.png" />
