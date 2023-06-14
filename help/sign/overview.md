@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 41fb2002be6766c896d29c1680bb09546be971f3
+source-git-commit: d8ba36823e1bc16708a15a39f9fb69075d3e9b08
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 5%
+source-wordcount: '93'
+ht-degree: 7%
 
 ---
 
@@ -18,6 +18,15 @@ ht-degree: 5%
 ![Acrobat Sign 메인 이미지](assets/Hero_Sign.jpg)
 
 Adobe Document Cloud 솔루션인 Acrobat Sign은 통합, API, 고급 인증, 추가 관리자 기능 등을 통해 기업의 요구에 맞게 확장할 수 있습니다. 여기에서 Acrobat Sign에 대한 초보자와 관리자 모두를 빠르게 향상시킬 수 있는 다양한 학습 경험을 찾을 수 있습니다.
+
+## 권장 강좌
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 ## 학습 경로
 

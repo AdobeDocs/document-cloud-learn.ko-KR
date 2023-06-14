@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: ceb48d1ab5cad8ee32e3e7833997847050786aad
+source-git-commit: d8ba36823e1bc16708a15a39f9fb69075d3e9b08
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 6%
+source-wordcount: '75'
+ht-degree: 9%
 
 ---
 
@@ -18,6 +18,15 @@ ht-degree: 6%
 ![Acrobat 메인 이미지](assets/Hero_Acrobat.jpg)
 
 Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF 변환, 편집, 공유 및 서명을 통해 비즈니스를 원활하게 진행할 수 있도록 지원합니다. 이 튜토리얼에서는 Adobe Acrobat에서 입문자와 고급 사용자를 모두 신속하게 파악할 수 있는 다양한 학습 환경을 제공합니다.
+
+## 권장 강좌
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 ## 학습 경로
 
