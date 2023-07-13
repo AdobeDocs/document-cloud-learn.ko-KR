@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
+source-git-commit: f8d03aaba0d298c972c7f1fd359fba60d692ecca
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '648'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Microsoft, Salesforce, Workday 및 Marketo과 같이 조직이 이미 사용 중
 
 ## 새로운 기능
 
+* [웹 양식 통합 [!DNL SharePoint] 온라인](integrate-web-form-sharepoint-online.md)
+웹 양식에서 수집한 데이터를 [!DNL SharePoint] 목록
 * [Acrobat Sign + Workday 신규 직원 입사 전형](acrobat-sign-workday-onboarding.md)
 Acrobat Sign + Workday으로 온보딩 워크플로우를 간소화하는 방법을 살펴보세요.
-* [공증을 위해 문서 보내기](send-document-notarize.md)
-이 3부로 구성된 튜토리얼에서는 공증을 위해 문서를 보내고, 서명자의 경험을 보고, 결과를 받는 방법을 살펴봅니다
 
 ## Microsoft 통합 튜토리얼
 
