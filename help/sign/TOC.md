@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 9d4c634f9f0b136cbd184051f51f128856a96615
+source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '488'
 ht-degree: 10%
 
 ---
@@ -96,29 +96,30 @@ ht-degree: 10%
 + 통합 {#integrations}
    + [개요](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
-      + [Outlook에서 채우기 및 서명](integrations/fill-and-sign-doc-microsoft-outlook.md)
-      + [Outlook에서 서명을 위해 보내기](integrations/send-for-signature-with-outlook.md)
-      + [SharePoint Online에서 서명을 위해 보내기](integrations/send-for-signature-with-sharepoint-online.md)
-      + [SharePoint Online에서 추적](integrations/track-an-agreement-with-sharepoint-online.md)
-      + [서명을 위해 전송 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [채우기 및 로그인 [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
+      + [서명을 위해 전송 [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
+      + [서명을 위해 전송 [!DNL SharePoint Online]](integrations/send-for-signature-with-sharepoint-online.md)
+      + [자간 [!DNL SharePoint Online]](integrations/track-an-agreement-with-sharepoint-online.md)
+      + [웹 양식 통합 [!DNL SharePoint Online]](integrations/integrate-web-form-sharepoint-online.md)
       + [파일 자동 보관 위치 [!DNL SharePoint] 에 [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
-      + [Microsoft Power Platform용 Acrobat Sign으로 문서 자동화](integrations/documentautomation.md)
+      + [Acrobat Sign을 사용한 문서 자동화 [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
+      + [서명을 위해 전송 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
    + Notarize {#notarize}
       + [공증을 위해 문서 보내기](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
-      + [Salesforce용 문서 빌더](integrations/create-an-agreement-template.md)
+      + [문서 작성기 [!DNL Salesforce]](integrations/create-an-agreement-template.md)
       + [데이터 매핑 설정](integrations/set-up-data-mapping.md)
       + [병합 매핑 설정](integrations/set-up-merging-map.md)
       + [사용자 정의 단추 만들기](integrations/create-a-custom-button.md)
    + 근무 시간 {#workday}
-      + [Workday을 사용하여 Acrobat Sign 구성](integrations/workday.md)
+      + [Acrobat Sign 구성하기 [!DNL Workday]](integrations/workday.md)
       + [Acrobat Sign + Workday 신규 직원 입사 전형](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
-      + [Salesforce용 Acrobat Sign 및 Marketo을 사용하여 알림 보내기](integrations/marketo-salesforce-sms.md)
-      + [Salesforce용 Acrobat Sign 및 Marketo 비디오 자습서를 사용하여 미리 알림 보내기](integrations/marketo-salesforce-reminder-video.md)
-      + [Salesforce용 Acrobat Sign 및 Marketo 구성 가이드를 사용하여 알림 메시지 전송](integrations/marketo-salesforce-reminder.md)
-      + [Microsoft Dynamics 및 Marketo용 Acrobat Sign을 사용하여 알림 보내기](integrations/marketo-dynamics-sms.md)
-      + [Microsoft Dynamics 365 및 Marketo용 Acrobat Sign을 사용하여 미리 알림 보내기](integrations/marketo-dynamics-reminder.md)
+      + [Acrobat Sign을 사용하여 알림 보내기 [!DNL Salesforce] 및 Marketo](integrations/marketo-salesforce-sms.md)
+      + [Acrobat Sign을 사용하여 알림 메시지 전송 [!DNL Salesforce] 및 Marketo 비디오 자습서](integrations/marketo-salesforce-reminder-video.md)
+      + [Acrobat Sign을 사용하여 알림 메시지 전송 [!DNL Salesforce] 및 Marketo 구성 안내서](integrations/marketo-salesforce-reminder.md)
+      + [Acrobat Sign을 사용하여 알림 보내기 [!DNL Microsoft Dynamics] 및 Marketo](integrations/marketo-dynamics-sms.md)
+      + [Acrobat Sign을 사용하여 알림 메시지 전송 [!DNL Microsoft Dynamics 365] 및 Marketo](integrations/marketo-dynamics-reminder.md)
 + 업계 및 부서 {#expand}
    + [개요](sign-usecase/expand-inspire-overview.md)
    + 기능 소개 {#innovation}
