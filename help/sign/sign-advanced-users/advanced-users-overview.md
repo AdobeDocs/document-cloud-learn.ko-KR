@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
+source-git-commit: d842a83819a9e8fcec3fd91b7cd6ef4f77dd4774
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '457'
 ht-degree: 3%
 
 ---
@@ -22,10 +22,10 @@ ht-degree: 3%
 
 ## 새로운 기능
 
+* [여러 명의 알 수 없는 서명자가 있는 웹 양식 만들기](webform-multiple-signers.md)
+여러 명의 알 수 없는 참가자가 있는 복잡한 웹 양식을 만드는 방법에 대해 알아봅니다.
 * [Acrobat Sign의 인증 방법](authentication-methods.md)
 문서에 서명하는 사람의 ID를 인증하기 위해 Acrobat Sign에서 사용할 수 있는 다양한 방법에 대해 알아봅니다
-* [양식 데이터 관리](manage-form-data.md)
-문서에서 양식 데이터를 통합하는 방법 알아보기
 
 ## 보내기
 
