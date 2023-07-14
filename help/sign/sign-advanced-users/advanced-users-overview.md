@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
+source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '449'
 ht-degree: 3%
 
 ---
@@ -104,17 +104,27 @@ ht-degree: 3%
       <br>
   </td>
   <td>
-    <a href="webform.md">
-        <img alt="웹 양식 만들기" src="../assets/Webform.png" />
+    <a href="webform-multiple-signers.md">
+        <img alt="여러 명의 알 수 없는 서명자가 있는 웹 양식 만들기" src="../assets/Web-form-unknown.png" />
     </a>
     <div>
-    <a href="webform.md"><strong>웹 양식 만들기</strong></a>
+    <a href="webform-multiple-signers.md"><strong>여러 명의 알 수 없는 서명자가 있는 웹 양식 만들기</strong></a>
     </div>
-    <em>웹 사이트에서 직접 전자 서명할 수 있는 문서 만들기</em>
+    <em>여러 명의 알 수 없는 참가자가 있는 복잡한 웹 양식을 만드는 방법에 대해 알아봅니다.</em>
     <br>
   </td>
 </tr>
 <tr>
+  <td>
+      <a href="adobe-sign-text-tagging.md">
+        <img alt="Acrobat Sign 텍스트 태그 지정" src="../assets/Text-Tagging.png" />
+    </a>
+      <div>
+      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign 텍스트 태그 지정</strong></a>
+      </div>
+      <em>Adobe Acrobat에서 텍스트 태그를 지정하여 Acrobat Sign 양식 필드 작성</em>
+      <br>
+    </td>
   <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign 텍스트 태그 지정" src="../assets/Text-Tagging.png" />
@@ -133,11 +143,6 @@ ht-degree: 3%
     <a href="text-tagging-word.md"><strong>에서 텍스트 태그 지정 사용 [!DNL Microsoft Word]</strong></a>
     </div>
     <em>에서 Acrobat Sign 텍스트 태그를 추가하여 재사용 가능한 문서 템플릿을 만드는 방법에 대해 알아봅니다. [!DNL Microsoft Word]</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
