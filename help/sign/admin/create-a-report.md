@@ -3,9 +3,10 @@ title: 보고서 차트 생성
 description: 맞춤형 보고서와 데이터 내보내기를 작성, 저장 및 관리하는 방법에 대해 알아봅니다
 role: User, Admin
 level: Intermediate
+jira: KT-5504
 thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 17%

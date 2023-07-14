@@ -4,10 +4,11 @@ description: 서명이 필요한 문서 전송, 전자 서명 진행 상황 추�
 role: User
 product: adobe sign
 level: Intermediate
+jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 34%

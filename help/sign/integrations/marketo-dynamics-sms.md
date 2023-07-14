@@ -5,9 +5,10 @@ role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
+jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: a1e0b30321760c5e84fb40ac083183b98170d1e1
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%
@@ -36,9 +37,9 @@ Marketo Microsoft Dynamics Sync 및 Acrobat Sign for Dynamics 구성이 완료�
 
 * 클릭 **[!UICONTROL Dynamics 엔터티 동기화]**.
 
-   사용자 정의 엔티티를 동기화하려면 먼저 동기화를 비활성화해야 합니다. 클릭 **[!UICONTROL 스키마 동기화]** 처음이시면 그렇지 않으면 **[!UICONTROL 스키마 새로 고침]**.
+  사용자 정의 엔티티를 동기화하려면 먼저 동기화를 비활성화해야 합니다. 클릭 **[!UICONTROL 스키마 동기화]** 처음이시면 그렇지 않으면 **[!UICONTROL 스키마 새로 고침]**.
 
-   ![새로 고침](assets/refreshSchema.png)
+  ![새로 고침](assets/refreshSchema.png)
 
 ## 사용자 정의 개체 동기화
 

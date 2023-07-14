@@ -5,9 +5,9 @@ role: User, Developer
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7488.jpg
-kt: 7488
+jira: KT-7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '2436'
 ht-degree: 1%
@@ -203,7 +203,7 @@ Microsoft Power Apps용 Acrobat Sign 및 Adobe PDF Tools 커넥터를 활성화�
 1. 필요한 정보를 구성합니다. 선택 **이름** 의 동적 변수 도우미에서 **계약 이름**.
 선택 **문서 ID** 의 동적 변수 도우미에서 **문서 ID**.
 선택 **서명자 전자 메일** 의 동적 변수 도우미에서 **참가자 전자 메일**.
-&quot;1&quot;을 **참가자 순서**.
+&quot;1&quot; 입력 **참가자 순서**.
 선택 **서명자** 의 드롭다운에서 **참가자 역할**.
 
    ![필수 정보 스크린샷](assets/documentautomation/automation_20.png)

@@ -5,10 +5,11 @@ role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
+jira: KT-8198
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '744'
 ht-degree: 0%
@@ -26,7 +27,7 @@ ht-degree: 0%
 ## 2021년 세션
 
 * **[AbbVie, 디지털 혁신으로 가는 길](https://use-case-showcase-with-abbvie.joinus.adobeevents.com/){target="_blank"}**
-날짜: 2021년 8월 4일 AbbVie의 전략은 혁신적인 의약품을 전달하고 사람들의 삶에 놀라운 영향을 주는 것입니다. 민첩성을 높이고 직원들이 보다 복잡한 업무에 집중할 수 있도록 하기 위해 회사는 일부 비즈니스 프로세스를 자동화하기 위해 노력하고 있습니다. 펜과 종이에서 벗어나기 위한 전환은 중요한 첫 단계입니다. AbbVie와 함께 디지털 혁신을 성공으로 이끌기 위한 목표, 전략 및 프로세스에 대해 논의하십시오.
+날짜: 2021년 8월 4일 애브비의 전략은 혁신적인 의약품을 전달하고 사람들의 삶에 놀라운 영향을 끼치려는 것이다. 민첩성을 높이고 직원들이 보다 복잡한 업무에 집중할 수 있도록 하기 위해 회사는 일부 비즈니스 프로세스를 자동화하기 위해 노력하고 있습니다. 펜과 종이에서 벗어나기 위한 전환은 중요한 첫 단계입니다. AbbVie와 함께 디지털 혁신을 성공으로 이끌기 위한 목표, 전략 및 프로세스에 대해 논의하십시오.
 
 * **[볼보 자동차 온디맨드 녹화 기능](https://gateway.on24.com/wcc/eh/2172296/lp/2963219/adobe-sign-use-case-showcase%3A-featuring-volvo-cars/){target="_blank"}**
 자동차 쇼핑의 미래는 어떠한가? 스웨덴 자동차 볼보자동차가 차세대 자동차 구매자에 대한 고객의 기대에 영향을 미칠 비즈니스 모델을 변경하고 있습니다. 가장 중요한 것은 자사의 프리미엄 제품에 맞는 최상의 고객 경험을 제공하는 것입니다.

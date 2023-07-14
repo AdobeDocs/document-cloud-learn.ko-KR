@@ -4,12 +4,13 @@ description: 기존 시스템, 프로세스 및 애플리케이션에 Acrobat Si
 role: User
 product: adobe sign
 level: Intermediate
+jira: KT-6850
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: f8d03aaba0d298c972c7f1fd359fba60d692ecca
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '621'
 ht-degree: 0%
 
 ---
@@ -202,17 +203,7 @@ Acrobat Sign + Workday으로 온보딩 워크플로우를 간소화하는 방법
 
 <table style="table-layout:fixed">
 <tr>
-  <td>
-    <a href="workday.md">
-      <img alt="Workday을 사용하여 Acrobat Sign 구성" src="../assets/WD-Configure.png" />
-    </a>
-    <div>
-    <a href="acrobat-sign-workday-onboarding.md"><strong>Workday을 사용하여 Acrobat Sign 구성</strong></a>
-    </div>
-    <em>Workday에서 바로 작동하도록 Acrobat Sign을 구성하여 모든 인사 관련 서류 작업을 원활하게 관리하는 방법에 대해 알아봅니다</em>
-    <br>
-  </td>
-  <td>
+ <td>
     <a href="acrobat-sign-workday-onboarding.md">
       <img alt="Acrobat Sign + Workday 신규 직원 입사 전형" src="../assets/workday.png" />
     </a>
@@ -220,6 +211,11 @@ Acrobat Sign + Workday으로 온보딩 워크플로우를 간소화하는 방법
     <a href="acrobat-sign-workday-onboarding.md"><strong>Acrobat Sign + Workday 신규 직원 입사 전형</strong></a>
     </div>
     <em>Acrobat Sign + Workday으로 온보딩 워크플로우를 간소화하는 방법을 살펴보세요.</em>
+    <br>
+  </td>
+ <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
