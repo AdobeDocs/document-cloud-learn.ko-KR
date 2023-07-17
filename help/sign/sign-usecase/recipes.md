@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: d52fb4316df05e45f472f43066a84f760cbf7b05
+source-git-commit: 1e5b8a8f33abd0f90ff6831288eb2648a27ec615
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,8 @@ ht-degree: 0%
 ![사례 배너 사용](../assets/Hero-Recipe.png)
 
 공공 기관 및 상업용 전자 서명 예시를 통해 기업의 디지털 워크플로우를 가속화할 수 있습니다. 특정 전자 서명 사용 사례를 설정하는 방법에 대한 리소스 및 세부 정보가 포함된 PDF을 보려면 클릭하십시오.
+
+## 새로운 기능
 
 * [여러 명의 서명자를 알 수 없는 공공 기관 대출 신청](webform-multiple-signers.md)
 웹 양식이 여러 명의 알 수 없는 참가자를 포함하는 복잡한 정부 대출 신청 워크플로우에 사용되는 방법을 알아봅니다.
