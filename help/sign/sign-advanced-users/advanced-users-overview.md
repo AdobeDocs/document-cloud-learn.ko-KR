@@ -8,9 +8,9 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
+source-git-commit: 428983c7cc727096261d3c92897c25c255078261
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '430'
 ht-degree: 3%
 
 ---
@@ -105,13 +105,13 @@ ht-degree: 3%
       <br>
   </td>
  <td>
-      <a href="adobe-sign-text-tagging.md">
-        <img alt="Acrobat Sign 텍스트 태그 지정" src="../assets/Text-Tagging.png" />
+      <a href="webform.md">
+        <img alt="웹 양식 만들기" src="../assets/Webform.png" />
     </a>
       <div>
-      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign 텍스트 태그 지정</strong></a>
+      <a href="webform.md"><strong>웹 양식 만들기</strong></a>
       </div>
-      <em>Adobe Acrobat에서 텍스트 태그를 지정하여 Acrobat Sign 양식 필드 작성</em>
+      <em>웹 사이트에서 직접 전자 서명할 수 있는 문서를 만드는 방법을 알아봅니다</em>
       <br>
   </td>
 </tr>
