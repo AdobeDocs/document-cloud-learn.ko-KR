@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -22,10 +22,23 @@ ht-degree: 0%
 
 공공 기관 및 상업용 전자 서명 예시를 통해 기업의 디지털 워크플로우를 가속화할 수 있습니다. 특정 전자 서명 사용 사례를 설정하는 방법에 대한 리소스 및 세부 정보가 포함된 PDF을 보려면 클릭하십시오.
 
+* [여러 명의 서명자를 알 수 없는 공공 기관 대출 신청](webform-multiple-signers.md)
+웹 양식이 여러 명의 알 수 없는 참가자를 포함하는 복잡한 정부 대출 신청 워크플로우에 사용되는 방법을 알아봅니다.
+
 ## 공공 기관 활용 사례
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="webform-multiple-signers.md">
+      <img alt="여러 명의 서명자를 알 수 없는 공공 기관 대출 신청" src="../assets/UC_Business.png" />
+    </a>
+    <div>
+    <a href="webform-multiple-signers.md"><strong>여러 명의 서명자를 알 수 없는 공공 기관 대출 신청</strong></a>
+    </div>
+    <em>웹 양식이 여러 명의 알 수 없는 참가자를 포함하는 복잡한 정부 대출 신청 워크플로우에 사용되는 방법을 알아봅니다.</em>
+    <br>
+  </td> 
   <td>
     <a href="usecasegovgrants.md">
       <img alt="사업 보조금 및 융자금" src="../assets/UC_Business.png" />
@@ -56,7 +69,9 @@ ht-degree: 0%
     <em>종이 문서를 감사 보고서가 포함된 완벽한 디지털 워크플로우로 신속하게 대체</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="usecasegovreemployment.md">
       <img alt="재취업 지원" src="../assets/UC_WebformsR.png" />
     </a>
@@ -66,8 +81,6 @@ ht-degree: 0%
     <em>일상적으로 사용할 수 있는 디지털 신청 양식에 맞추지 않고 시민이 필요한 도움을 받을 수 있도록 지원</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="usecasegovpaycheck.md">
       <img alt="급여 보호" src="../assets/UC_PaycheckProtectionR.png" />
@@ -86,11 +99,6 @@ ht-degree: 0%
     <a href="usecasegovremote.md"><strong>원격 영장 청구</strong></a>
     </div>
     <em>전자 서명과 웹 회의를 함께 사용하여 법관의 영장을 청구하고 확보하는 데 걸리는 시간을 줄일 수 있습니다</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
