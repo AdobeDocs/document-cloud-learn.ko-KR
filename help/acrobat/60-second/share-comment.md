@@ -3,8 +3,10 @@ title: 댓글 달기 PDF 공유
 description: PDF을 공유하여 하나의 파일에 여러 사람의 피드백을 빠르게 수집하는 방법을 살펴보세요
 role: User
 product: adobe acrobat
-level: Beginner
-source-git-commit: 2893f61194774376b5171ced71cdcd38af1ff1f2
+level: Intermediate
+jira: KT-13295
+exl-id: efba836a-17be-44b3-9126-4540aa7ec942
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%

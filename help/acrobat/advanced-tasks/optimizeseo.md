@@ -5,8 +5,9 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
+jira: KT-9347
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 1%
@@ -33,7 +34,7 @@ PDF 내용은 다음과 같이 고유하고 구조화되어야 합니다.
 * 실행 [텍스트 인식](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) 스캔한 모든 문서
 * 모바일 친화적인 PDF 구축 PDF의 모바일 보기 환경을 확인하려면 [Acrobat Reader 모바일 앱](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) Liquid Mode를 켭니다. 탐색 기능을 향상시키기 위해 필요한 경우 추가 소호를 포함합니다.
 
-   ![Acrobat Reader 모바일 앱의 Liquid Mode 스크린샷](../assets/optimizeseo1.png)
+  ![Acrobat Reader 모바일 앱의 Liquid Mode 스크린샷](../assets/optimizeseo1.png)
 
 +++
 

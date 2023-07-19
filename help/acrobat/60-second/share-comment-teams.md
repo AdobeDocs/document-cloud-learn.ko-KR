@@ -3,8 +3,10 @@ title: Teams에서 PDF 파일 공유 및 주석 추가
 description: Microsoft Teams의 PDF 파일에서 실시간으로 공동 작업하는 방법 알아보기
 role: User
 product: adobe acrobat
-level: Beginner
-source-git-commit: 16997696e1947a6dfe45418e60bf868e9db5cb23
+level: Intermediate
+jira: KT-13296
+exl-id: b8411496-6488-4c13-b26e-dd5f6b825494
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
