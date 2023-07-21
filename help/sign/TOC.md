@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: ec0a3c86e42a185d22c623911274b823886d261c
+source-git-commit: ed04a9ec6562c0104e77cedbec2f28bf610a673e
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '508'
 ht-degree: 10%
 
 ---
@@ -140,6 +140,7 @@ ht-degree: 10%
          + [원격 근무 협정](sign-usecase/usecasecomtelework.md)
       + 교육 {#edu}
          + [교육 웹 양식 인턴십 신청](sign-usecase/usecase-edu-intern.md)
+         + [교육 웹 양식 인턴십 응용 프로그램 만들기](sign-usecase/usecase-edu-intern-create.md)
    + 활용 사례 {#use-case}
       + [쇼케이스](sign-usecase/use-case-showcase.md)
 + 현상 {#develop}

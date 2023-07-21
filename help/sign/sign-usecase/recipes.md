@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 3c5ae4ba8e264cf68fc696bd6ad3b1c066ec5a1f
+source-git-commit: ed04a9ec6562c0104e77cedbec2f28bf610a673e
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,8 @@ ht-degree: 0%
 
 * [교육 웹 양식 인턴십 신청](usecase-edu-intern.md)
 웹 양식을 사용하여 학생들이 필수 양식에 액세스하는 방법을 알아봅니다.
+* [교육 웹 양식 인턴십 응용 프로그램 만들기](usecase-edu-intern-create.md)
+인턴십 웹 양식을 만드는 방법 알아보기
 * [여러 명의 서명자를 알 수 없는 공공 기관 대출 신청](webform-multiple-signers.md)
 웹 양식이 여러 명의 알 수 없는 참가자를 포함하는 복잡한 정부 대출 신청 워크플로우에 사용되는 방법을 알아봅니다.
 
@@ -170,10 +172,15 @@ ht-degree: 0%
     <br>
   </td> 
   <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <a href="usecase-edu-intern-create.md">
+      <img alt="교육 웹 양식 인턴십 응용 프로그램 만들기" src="../assets/Webform-internship-create.png" />
+    </a>
     <div>
+    <a href="usecase-edu-intern-create.md"><strong>교육 웹 양식 인턴십 응용 프로그램 만들기</strong></a>
+    </div>
+    <em>인턴십 웹 양식을 만드는 방법 알아보기</em>
     <br>
-  </td>
+  </td> 
   <td>
     <img alt="스페이서" src="../assets/Whitespacer.png" />
     <div>
