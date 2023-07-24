@@ -3,11 +3,11 @@ title: 공공 기관을 위한 Acrobat
 description: 연방, 주 및 지방 자치 단체용으로 특별히 제작된 Acrobat 튜토리얼을 살펴보십시오
 role: User
 product: adobe acrobat
-level: Beginner
+level: Beginner, Intermediate, Experienced
 thumbnail: KT-9910.jpg
 jira: KT-9910
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 0%

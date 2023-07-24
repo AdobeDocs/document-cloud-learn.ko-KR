@@ -2,13 +2,11 @@
 title: 전송 후 문서 수정
 description: 이미 진행 중인 문서의 작업 과정을 수정하는 방법에 대해 알아봅니다.
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-5316
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%

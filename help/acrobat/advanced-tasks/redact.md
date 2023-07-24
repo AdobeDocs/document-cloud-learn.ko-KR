@@ -2,12 +2,11 @@
 title: 교정 및 기밀 정보 가리기
 description: PDF에서 개인 정보 또는 민감한 정보를 영구적으로 제거하는 방법 알아보기
 role: User
-product: adobe acrobat
-level: Experienced
+level: Intermediate
 thumbnail: KT-6804.jpg
 jira: KT-6804
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%

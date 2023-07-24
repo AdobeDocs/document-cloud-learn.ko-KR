@@ -3,9 +3,10 @@ title: 웹 양식 통합 [!DNL SharePoint Online]
 description: 웹 양식에서 수집한 데이터를 [!DNL SharePoint] 목록
 role: User
 product: adobe sign
+topic: Integrations
 level: Intermediate
 jira: KT-13597
-source-git-commit: d60b665c16133e8fba47848ab9c9e55f448df9cc
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%

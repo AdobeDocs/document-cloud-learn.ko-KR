@@ -2,8 +2,10 @@
 title: 온라인으로 PDF 파일 공유 및 검토
 description: Adobe Document Cloud 사용 요령 및 팁 살펴보기
 solution: Acrobat
+role: User
+level: Beginner
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 10%
@@ -93,4 +95,4 @@ Acrobat을 사용하여 디자인 버전을 검토하고 공유할 수 있습니
 * 한곳에서 피드백 관리
 * 브라우저만 있으면 됩니다.
 
-한 곳에서 주석을 간편하게 보내고 추적할 수 있습니다. 수신자는 Acrobat이 없어도 볼 수 있습니다. 브라우저를 통해 댓글을 달도록 다른 사람을 초대할 수 있습니다. 시간 및 노력 절약
+한 곳에서 주석을 손쉽게 전송하고 추적할 수 있습니다. 수신자는 Acrobat이 없어도 볼 수 있습니다. 브라우저를 통해 댓글을 달도록 다른 사람을 초대할 수 있습니다. 시간 및 노력 절약

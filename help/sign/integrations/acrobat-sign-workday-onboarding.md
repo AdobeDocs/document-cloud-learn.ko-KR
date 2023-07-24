@@ -1,11 +1,11 @@
 ---
 title: Acrobat Sign + Workday 신규 직원 입사 전형
 description: Acrobat Sign + Workday으로 온보딩 워크플로우를 간소화하는 방법을 살펴보세요.
-product: adobe sign
 level: Intermediate
+topic: Integrations
 topic-revisit: Integrations
 exl-id: e8a1b95e-d2ee-4d84-a5d2-79678ffa17e2
-source-git-commit: 0e5c6ead1bcc3697b224937414b7f417ede0b5b3
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%

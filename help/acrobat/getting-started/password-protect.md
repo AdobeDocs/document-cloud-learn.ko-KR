@@ -2,12 +2,11 @@
 title: 암호로 PDF 파일 Protect
 description: 다른 사용자가 파일을 열거나 편집하지 못하도록 PDF에 암호를 추가하는 방법에 대해 알아봅니다
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 35497.jpg
 jira: KT-5532
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 11%

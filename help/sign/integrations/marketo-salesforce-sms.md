@@ -2,14 +2,14 @@
 title: Salesforce용 Acrobat Sign 및 Marketo을 사용하여 알림 보내기
 description: 서명자에게 계약이 진행 중임을 알리기 위해 문자 메시지, 전자 메일 또는 푸시 알림을 보내는 방법을 알아봅니다.
 role: Admin
-product: adobe sign
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 jira: KT-7247
+topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 1%

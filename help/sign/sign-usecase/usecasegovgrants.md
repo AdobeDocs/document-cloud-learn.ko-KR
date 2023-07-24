@@ -2,13 +2,11 @@
 title: 정부 사업 보조금 및 융자금
 description: 부여, 대출 및 세금 유예 신청 양식에 대한 셀프 서비스 이용 권한을 제공하여 비즈니스에 신속한 지원을 제공할 수 있습니다
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-5299
 thumbnail: 33810.jpg
 exl-id: 47471402-6a7b-4e25-947f-5b5ffdc393fd
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%

@@ -2,12 +2,11 @@
 title: 레이아웃 자동 조정
 description: 콘텐츠를 자동으로 조정하는 새로운 편집 모드에 대해 알아봅니다
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-10835.jpg
 jira: KT-10835
 exl-id: f6d9daa7-5022-4581-9a24-42637cf5fd47
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%

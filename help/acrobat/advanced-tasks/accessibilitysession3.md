@@ -2,12 +2,11 @@
 title: 복합 테이블
 description: 이 온디맨드 세션에서는 액세스 가능성을 위한 PDF을 해결하는 데 있어 가장 일반적인 문제 중 하나인 복잡한 테이블을 해결합니다
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-8610.jpg
 jira: KT-8610
 exl-id: ed5d829e-ab8a-4f1d-ac3a-81034710e438
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%

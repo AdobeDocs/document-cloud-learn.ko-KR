@@ -2,11 +2,10 @@
 title: 어디에서나 Acrobat으로 작업하기 위한 5가지 팁 — 툴 다운로드
 description: Acrobat 툴과 함께 사용 가능한 모바일 앱을 어디에서나 사용하는 방법을 살펴보세요
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 34290.jpg
 exl-id: 1ef1b939-3745-41d2-881c-67c026c05a0b
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%

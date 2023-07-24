@@ -2,12 +2,11 @@
 title: 60초 Acrobat 개요
 description: 60초 분량의 Acrobat에서 1분 이내에 Acrobat의 새로운 기법을 배울 수 있는 바이트 크기의 튜토리얼을 확인할 수 있습니다
 role: User
-product: adobe acrobat
-level: Beginner
+level: Beginner, Intermediate
 thumbnail: KT-8493.jpg
 jira: KT-8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%

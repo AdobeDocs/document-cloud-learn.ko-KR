@@ -2,12 +2,11 @@
 title: PDF 접근성 소개
 description: 이 세션에서는 PDF을 액세스 가능하게 만드는 것이 무엇을 의미하는지, 액세스 가능성을 위한 PDF에서 작동하도록 Acrobat Pro을 설정하는 방법, 소스 문서에서 PDF으로 변환하는 프로세스를 알아봅니다
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-8606.jpg
 jira: KT-8606
 exl-id: 3765673b-15fd-4071-bb31-e589feffa471
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%

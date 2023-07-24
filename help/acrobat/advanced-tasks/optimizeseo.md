@@ -2,12 +2,11 @@
 title: SEO(검색 엔진 최적화) Optimize PDF
 description: 웹에서 검색 가능성 및 검색 엔진 순위를 높이기 위해 PDF을 최적화하는 방법에 대해 알아봅니다.
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 jira: KT-9347
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 1%

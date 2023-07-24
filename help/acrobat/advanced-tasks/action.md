@@ -2,12 +2,11 @@
 title: Action Wizard
 description: 액션을 사용하여 한 개 또는 여러 개의 파일에 일련의 명령을 자동으로 적용하여 키 입력과 시간 절약
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 jira: KT-6803
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%

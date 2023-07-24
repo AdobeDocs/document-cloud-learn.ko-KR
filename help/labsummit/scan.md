@@ -1,9 +1,11 @@
 ---
 title: Adobe Scan으로 디지털화
 description: Adobe Document Cloud 사용 요령 및 팁 살펴보기
-solution: Acrobat Sign
+solution: Acrobat
+role: User
+level: Beginner
 exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
@@ -24,7 +26,7 @@ ht-degree: 0%
 
 **2단계:** Adobe Scan 앱을 엽니다.
 
-**3단계:** 앱에서 휴대폰에 저장할 연락처 정보가 포함된 명함을 촬영합니다.
+**3단계:** 앱에서 휴대폰에 저장하려는 연락처 정보가 포함된 명함을 촬영합니다.
 
 ![B 카드 이미지](assets/scanbcard.png)
 

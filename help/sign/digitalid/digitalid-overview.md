@@ -2,13 +2,12 @@
 title: 디지털 ID 개요
 description: Acrobat Sign을 사용하여 전 세계 디지털 ID를 사용하는 방법 학습
 role: User
-product: adobe sign
 level: Beginner
 jira: KT-8990
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%

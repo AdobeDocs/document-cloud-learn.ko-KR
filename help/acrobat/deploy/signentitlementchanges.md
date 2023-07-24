@@ -2,12 +2,11 @@
 title: ETLA 고객을 위한 중요한 Acrobat DC 제품 업데이트
 description: 2020년 8월부터 2020년 11월 20일까지 ETLA(ETLA(Enterprise Term License Agreement))에 포함된 Acrobat DC 권한의 중요한 변경 사항에 대해 알아보기
 role: Admin
-product: adobe acrobat
 level: Intermediate
 thumbnail: KT-7269.jpg
 jira: KT-7269
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 6%

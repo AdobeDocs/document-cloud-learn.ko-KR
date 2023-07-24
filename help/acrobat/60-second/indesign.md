@@ -2,12 +2,11 @@
 title: PDF 주석을 InDesign에 로드
 description: Acrobat 공유 검토 후 PDF 주석을 다시 InDesign으로 로드하는 방법에 대해 알아봅니다
 role: User
-product: adobe acrobat
-level: Beginner
+level: Intermediate
 thumbnail: KT-8816.jpg
 jira: KT-8816
 exl-id: 8d9d0fa8-db0f-48be-b19e-b2b758648d3b
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%

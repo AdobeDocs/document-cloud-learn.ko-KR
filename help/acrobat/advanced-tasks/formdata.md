@@ -2,12 +2,11 @@
 title: 양식 데이터를 사용한 작업
 description: Acrobat에서 양식 필드 데이터를 단일 스프레드시트로 병합
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-6828.jpg
 jira: KT-6828
 exl-id: d1284027-7df6-4242-9756-e0d401156498
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%

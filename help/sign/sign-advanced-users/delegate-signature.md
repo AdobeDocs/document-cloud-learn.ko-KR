@@ -2,13 +2,11 @@
 title: 위임자 역할 사용
 description: 위임자 역할을 사용하여 중개인에게 문서를 보내고 중개인은 서명을 받을 문서를 보낼 수 있습니다.
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-5322
 thumbnail: 17366.jpg
 exl-id: b9d7c6f4-a7fc-4cb8-a80d-91cc4c5b5298
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 3%

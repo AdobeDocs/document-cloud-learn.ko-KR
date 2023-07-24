@@ -2,12 +2,11 @@
 title: 공유 계정 액세스
 description: 다른 사용자의 계정에서 트랜잭션에 대한 보기 전용 액세스 권한을 설정하는 방법에 대해 알아봅니다.
 role: User, Admin
-product: adobe sign
 level: Intermediate
 jira: KT-5494
 thumbnail: 40187.jpg
 exl-id: 3154f0d0-3cc7-45ab-9515-bd69f5e46546
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%

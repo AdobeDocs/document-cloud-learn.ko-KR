@@ -2,13 +2,11 @@
 title: 정부 원격 근무 협정
 description: 원격 근무 계약, 정책 업데이트 등으로 모든 직원의 서명을 효율적으로 수집할 수 있습니다
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-5294
 thumbnail: 33808.jpg
 exl-id: 4efd2d9a-715b-4d1a-9c6b-0ff5795cbf3b
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%

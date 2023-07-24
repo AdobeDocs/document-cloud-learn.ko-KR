@@ -2,13 +2,12 @@
 title: Acrobat Sign 기능 소개
 description: Acrobat Sign 스킬 빌더는 30분 분량의 세션으로 별도의 추가 작업 없이 전자 서명을 사용할 수 있습니다
 role: User
-product: adobe sign
-level: Intermediate
+level: Beginner, Intermediate
 jira: KT-8197
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '915'
 ht-degree: 0%

@@ -2,11 +2,10 @@
 title: 표준 형식에 PDF 맞추기
 description: PDF/X, PDF/A 또는 PDF/E와 같은 PDF 표준 기준에 따라 PDF 콘텐츠를 검증하는 방법 알아보기
 role: User
-product: adobe acrobat
 level: Intermediate
 jira: KT-13287
 exl-id: 19b0c869-cbbb-48a5-8d95-a2262bb83b12
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

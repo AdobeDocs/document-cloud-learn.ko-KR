@@ -2,13 +2,13 @@
 title: 에서 전자 메일 메시지 및 첨부 파일을 PDF으로 변환 [!DNL Outlook]
 description: 보다 전문적이고 안전한 방식으로 [!DNL Outlook]
 role: User
-product: adobe acrobat
+topic: Integrations
 level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-8494.jpg
 jira: KT-8494
 exl-id: 8876c886-fe3a-4a51-91c7-0aac0ee4ada7
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%

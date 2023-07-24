@@ -2,13 +2,12 @@
 title: 승인자 역할 사용
 description: 계약 승인 프로세스에 승인자 역할을 추가하는 방법에 대해 알아봅니다.
 role: User
-product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 jira: KT-5324
 thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 22%

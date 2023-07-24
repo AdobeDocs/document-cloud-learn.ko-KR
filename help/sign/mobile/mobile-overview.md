@@ -2,13 +2,12 @@
 title: 모바일 개요
 description: 서명이 필요한 문서 전송, 전자 서명 진행 상황 추적, 모바일 디바이스에서 실시간 업데이트 확인
 role: User
-product: adobe sign
 level: Intermediate
 jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 34%

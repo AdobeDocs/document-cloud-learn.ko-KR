@@ -2,13 +2,13 @@
 title: PDF 공동 작업 [!DNL Microsoft Teams]
 description: Adobe Acrobat for Teams를 사용하면 PDF을 보거나 주석을 추가하고 검토함으로써 동료와 협업하고 작업할 수 있습니다 [!DNL Microsoft Teams]
 role: User
-product: adobe acrobat
+topic: Integrations
 level: Beginner
 topic-revisit: Integrations
 thumbnail: 331277.jpg
 jira: KT-7119
 exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%

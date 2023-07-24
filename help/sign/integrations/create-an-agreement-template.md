@@ -2,14 +2,13 @@
 title: 문서 작성기 [!DNL Salesforce]
 description: Salesforce용 문서 빌더를 사용하여 재사용 가능한 문서 템플릿을 만드는 방법을 알아봅니다
 role: User, Admin
-product: adobe sign
-solution: Acrobat Sign
+topic: Integrations
 level: Intermediate
 jira: KT-10598
 topic-revisit: Integrations
 thumbnail: KT-10598.jpg
 exl-id: c97d0652-fee5-4533-8567-377e04eabbf2
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%

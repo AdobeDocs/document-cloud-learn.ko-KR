@@ -2,13 +2,12 @@
 title: Acrobat 모바일 개요
 description: 모바일 장치에서 PDF 만들기, 채우기 및 서명
 role: User
-product: adobe acrobat
-level: Intermediate
+level: Beginner, Intermediate
 topic-revisit: mobile
 thumbnail: KT-6863.jpg
 jira: KT-6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 7%

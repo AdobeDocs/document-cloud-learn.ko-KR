@@ -2,8 +2,10 @@
 title: Adobe Document Cloud을 통해 디지털 경험을 향상시키기 위한 연습
 description: Adobe Document Cloud 사용 요령 및 팁 살펴보기
 solution: Acrobat
+role: User
+level: Beginner
 exl-id: 5fab3cd2-315e-4c5d-b435-2d1401bd172a
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 1%

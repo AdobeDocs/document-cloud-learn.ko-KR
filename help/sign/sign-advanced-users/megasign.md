@@ -2,13 +2,11 @@
 title: 한번에 서명 보내기 및 수집
 description: 몇 단계만으로 모든 문서에 수백 개의 서명을 한 번에 수집하는 방법을 살펴볼 수 있습니다
 role: User, Admin
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%

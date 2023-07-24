@@ -1,11 +1,10 @@
 ---
 title: 교육 웹 양식 인턴십 응용 프로그램 만들기
 description: 인턴십 웹 양식을 만드는 방법 알아보기
-product: adobe sign
-solution: Acrobat Sign
+role: User, Admin
 level: Intermediate
 jira: KT-13695
-source-git-commit: ed04a9ec6562c0104e77cedbec2f28bf610a673e
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%

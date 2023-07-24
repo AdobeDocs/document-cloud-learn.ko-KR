@@ -2,12 +2,11 @@
 title: 이벤트 및 경고에 대한 알림 구성
 description: 이벤트 및 경고에 대한 알림을 구성하는 방법 알아보기
 role: User, Admin
-product: adobe sign
 level: Intermediate
 jira: KT-5507
 thumbnail: 17359.jpg
 exl-id: 7f8271cc-fe90-4929-964c-d78681fd0dcb
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%

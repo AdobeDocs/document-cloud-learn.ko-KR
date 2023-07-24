@@ -2,11 +2,10 @@
 title: PDF은 어디에서 제공됩니까?
 description: PDF의 출처와 용도 이해
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 17096.jpg
 exl-id: 0ba6a9b7-ad6e-4ad7-bc03-f60102cdbf65
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%

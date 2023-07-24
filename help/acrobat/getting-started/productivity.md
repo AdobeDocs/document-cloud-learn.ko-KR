@@ -2,12 +2,11 @@
 title: 어디에서나 업무 생산성 향상
 description: Acrobat Reader 모바일 앱을 사용하면 태블릿이나 스마트폰에서 업무 효율성을 높일 수 있습니다
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-9155.jpg
 jira: KT-9155
 exl-id: 143170eb-09c6-4b13-90d3-ab1a658d1572
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%

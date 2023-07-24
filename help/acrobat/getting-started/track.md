@@ -2,12 +2,11 @@
 title: 문서 추적
 description: 서명 대기 중인 파일과 서명된 파일 항상 확인
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-8256.jpg
 jira: KT-8256
 exl-id: 2a86c55a-cb15-4ccb-9a8d-54df1164310f
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%

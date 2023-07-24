@@ -2,14 +2,14 @@
 title: Microsoft Dynamics 365 및 Marketo용 Acrobat Sign을 사용하여 미리 알림 보내기
 description: 일정 기간 후 계약이 서명되지 않은 경우 전자 메일 미리 알림을 보내는 방법을 알아봅니다.
 role: Admin
-product: adobe sign
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
+topic: Integrations
 topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 2%

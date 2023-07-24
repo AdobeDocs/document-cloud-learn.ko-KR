@@ -2,11 +2,10 @@
 title: 어디에서나 Acrobat을 사용하여 작업하기 위한 5가지 팁 - Forms 및 서명을 사용하여 작업
 description: 양식 작성 시 디지털을 유지하는 방법 알아보기
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 34512.jpg
 exl-id: e1dd4546-10ad-438b-9dae-31c4393353d8
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 6%

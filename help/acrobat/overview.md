@@ -2,12 +2,11 @@
 title: Acrobat Tutorials
 description: Adobe Acrobat에 대한 튜토리얼, 웨비나 및 활용 사례 모음
 role: User
-product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 jira: KT-6864
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 6%

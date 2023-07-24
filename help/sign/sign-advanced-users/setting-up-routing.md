@@ -2,13 +2,11 @@
 title: 서명 순서 설정
 description: 여러 서명자의 서명 순서를 설정하는 방법 알아보기
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-9942
 thumbnail: KT-9942.jpg
 exl-id: bf7771ef-1abe-423c-8b0f-ebdee555b53a
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
