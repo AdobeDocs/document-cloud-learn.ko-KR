@@ -9,9 +9,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 2577034fea81ceaaafd620a983e4b40ae6251d83
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,10 @@ Microsoft, Salesforce, Workday 및 Marketo과 같이 조직이 이미 사용 중
 
 ## 새로운 기능
 
+* [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
+Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Customer Service는 셀프 서비스 고객 웹 포털에서 고객 만족도를 향상시키는 데 사용됩니다.
 * [웹 양식 통합 [!DNL SharePoint] 온라인](integrate-web-form-sharepoint-online.md)
 웹 양식에서 수집한 데이터를 [!DNL SharePoint] 목록
-* [Acrobat Sign + Workday 신규 직원 입사 전형](acrobat-sign-workday-onboarding.md)
-Acrobat Sign + Workday으로 온보딩 워크플로우를 간소화하는 방법을 살펴보세요.
 
 ## Microsoft 통합 튜토리얼
 
@@ -116,6 +116,33 @@ Acrobat Sign + Workday으로 온보딩 워크플로우를 간소화하는 방법
     <a href="adobe-sign-teams-mortgage.md"><strong>서명을 위해 전송 [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>서명이 필요한 문서를 [!DNL Microsoft Teams]</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="dynamics-customer-service.md">
+      <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
+    </a>
+    <div>
+    <a href="dynamics-customer-service.md"><strong>Microsoft Dynamics 365 for Customer Service</strong></a>
+    </div>
+    <em>Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Customer Service는 셀프 서비스 고객 웹 포털에서 고객 만족도를 향상시키는 데 사용됩니다.</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: ed04a9ec6562c0104e77cedbec2f28bf610a673e
+source-git-commit: 2577034fea81ceaaafd620a983e4b40ae6251d83
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '513'
 ht-degree: 10%
 
 ---
@@ -104,6 +104,7 @@ ht-degree: 10%
       + [파일 자동 보관 위치 [!DNL SharePoint] 에 [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Acrobat Sign을 사용한 문서 자동화 [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
       + [서명을 위해 전송 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [Microsoft Dynamics 365 for Customer Service](integrations/dynamics-customer-service.md)
    + Notarize {#notarize}
       + [공증을 위해 문서 보내기](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
