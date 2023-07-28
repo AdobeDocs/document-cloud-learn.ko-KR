@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 2577034fea81ceaaafd620a983e4b40ae6251d83
+source-git-commit: 4632f7ca6a015e33166ba9ae26560fd532865f36
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '519'
 ht-degree: 10%
 
 ---
@@ -142,6 +142,7 @@ ht-degree: 10%
       + 교육 {#edu}
          + [교육 웹 양식 인턴십 신청](sign-usecase/usecase-edu-intern.md)
          + [교육 웹 양식 인턴십 응용 프로그램 만들기](sign-usecase/usecase-edu-intern-create.md)
+         + [교육 기관 IEP 프로세스에 대한 사용자 정의 워크플로우](sign-usecase/usecase-edu-iep.md)
    + 활용 사례 {#use-case}
       + [쇼케이스](sign-usecase/use-case-showcase.md)
 + 현상 {#develop}

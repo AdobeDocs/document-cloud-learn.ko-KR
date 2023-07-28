@@ -7,9 +7,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4632f7ca6a015e33166ba9ae26560fd532865f36
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '441'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,8 @@ ht-degree: 0%
 
 ## 새로운 기능
 
+* [교육 기관 IEP 프로세스에 대한 사용자 정의 워크플로우](usecase-edu-iep.md)
+사용자 정의 작업 과정 디자이너를 사용하여 IEP(Indialized Education Program) 프로세스를 디지털화하는 방법을 알아봅니다.
 * [교육 웹 양식 인턴십 신청](usecase-edu-intern.md)
 웹 양식을 사용하여 학생들이 필수 양식에 액세스하는 방법을 알아봅니다.
 * [교육 웹 양식 인턴십 응용 프로그램 만들기](usecase-edu-intern-create.md)
@@ -180,8 +182,13 @@ ht-degree: 0%
     <br>
   </td> 
   <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <a href="usecase-edu-iep.md">
+      <img alt="교육 기관 IEP 프로세스에 대한 사용자 정의 워크플로우" src="../assets/Workflow-iep.png" />
+    </a>
     <div>
+    <a href="usecase-edu-iep.md"><strong>교육 기관 IEP 프로세스에 대한 사용자 정의 워크플로우</strong></a>
+    </div>
+    <em>사용자 정의 작업 과정 디자이너를 사용하여 IEP(Indialized Education Program) 프로세스를 디지털화하는 방법을 알아봅니다.</em>
     <br>
   </td>
   <td>
