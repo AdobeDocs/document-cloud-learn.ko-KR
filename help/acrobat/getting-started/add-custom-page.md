@@ -1,12 +1,13 @@
 ---
 title: 사용자 정의 페이지 추가
 description: 통합 Adobe Express 앱을 사용하여 PDF에 사용자 정의 페이지를 추가하는 방법 알아보기
+feautre: Create PDF
 role: User
 level: Beginner
-thumbnail: KT-10836.jpg
 jira: KT-10836
+thumbnail: KT-10836.jpg
 exl-id: 900815b4-6242-457e-86cf-7aa995016f29
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 5%

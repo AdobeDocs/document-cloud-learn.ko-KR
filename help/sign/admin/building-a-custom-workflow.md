@@ -1,12 +1,13 @@
 ---
 title: 사용자 정의 작업 과정 만들기
 description: 문서 워크플로우를 맞춤화하고 자동화하여 전자 서명을 빠르게 받고 양식 데이터를 수집하는 방법을 살펴보십시오
+feature: Administration, Workflow
 role: User, Admin
 level: Experienced
 jira: KT-5495
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

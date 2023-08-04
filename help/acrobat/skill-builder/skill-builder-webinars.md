@@ -1,11 +1,12 @@
 ---
 title: Adobe Acrobat 기능 소개 온라인 세미나
 description: Adobe Acrobat 스킬 빌더는 PDF 워크플로우를 한 차원 발전시키기 위해 마련된 30분 분량의 세션입니다
+feature: Accessibility, Action, Security, Integrations, Collaboration, Edit PDF, Convert PDF, Share, Mobile, Skill Builder, Form
 level: Beginner, Intermediate
-thumb: KT-8199.jpg
 jira: KT-8199
+thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '1111'
 ht-degree: 0%

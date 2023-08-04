@@ -1,10 +1,11 @@
 ---
 title: 교육 웹 양식 인턴십 응용 프로그램 만들기
 description: 인턴십 웹 양식을 만드는 방법 알아보기
+feature: Use Cases, Web Forms
 role: User, Admin
 level: Intermediate
 jira: KT-13695
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%

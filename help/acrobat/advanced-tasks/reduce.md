@@ -1,12 +1,13 @@
 ---
 title: 파일 크기 축소 및 최적화
 description: 공유, 게시 또는 아카이빙의 품질을 그대로 유지하면서 대용량 파일을 줄이고 PDF 최적화
+feature: Optimize PDF
 role: User
 level: Intermediate
-thumbnail: KT-6827.jpg
 jira: KT-6827
+thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%

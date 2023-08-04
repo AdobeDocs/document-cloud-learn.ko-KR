@@ -1,13 +1,14 @@
 ---
 title: 업계 및 부서 개요
 description: 실제 업계 및 부서의 활용 사례, 팁 및 웨비나를 통해 고객 및 직원의 전자 서명 경험을 혁신하는 방법을 살펴볼 수 있습니다
+feature: Use Cases, Skill Builder
 role: User, Admin
 level: Intermediate
 jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%

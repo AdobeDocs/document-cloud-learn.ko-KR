@@ -1,12 +1,13 @@
 ---
 title: 보고서 생성
 description: 고유한 보고서를 작성하여 문서 서명 프로세스를 명확하게 확인하는 방법을 살펴보십시오
+feature: Report
 role: User, Admin
 level: Intermediate
 jira: KT-11027
 thumbnail: KT-11027.jpg
 exl-id: f30d174d-7990-499b-a6a6-3e68ab2a8e50
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%

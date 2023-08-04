@@ -1,14 +1,15 @@
 ---
 title: 다음에서 PDF 파일 만들기 [!DNL Microsoft Word]
 description: 하이퍼링크로 연결된 목차 및 상호 참조, 책갈피, 첨부 파일 등을 제공하는 풍부하고 강력한 PDF 파일은 [!DNL Microsoft Word]
+feature: Integrations, Create PDF
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: 331736.jpg
 jira: KT-7142
+thumbnail: 331736.jpg
 exl-id: 95540954-d0c7-4cae-a919-00e3927d2f83
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%

@@ -1,12 +1,13 @@
 ---
 title: PDF에 댓글 달기
 description: 주석을 추가한 다음 다른 사람과 검토를 위해 PDF을 공유하는 방법을 알아봅니다
+feature: Collaboration
 role: User
 level: Beginner
-thumbnail: 35492.jpg
 jira: KT-5527
+thumbnail: 35492.jpg
 exl-id: 75c51400-9ff9-46cf-a3a3-9d521c3eb35c
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%

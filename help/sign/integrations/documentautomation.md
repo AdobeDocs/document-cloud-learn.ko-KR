@@ -1,13 +1,14 @@
 ---
 title: Microsoft Power Platform용 Acrobat Sign으로 문서 자동화
 description: Microsoft Power Apps용 Acrobat Sign 및 Adobe PDF Tools 커넥터를 활성화하고 사용하는 방법에 대해 알아봅니다. 코드 없이도 비즈니스 승인 및 서명 프로세스를 빠르고 안전하게 자동화하는 워크플로우를 구축할 수 있습니다
+feature: Integrations, Workflow
 role: User, Developer
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7488.jpg
 jira: KT-7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '2436'
 ht-degree: 1%

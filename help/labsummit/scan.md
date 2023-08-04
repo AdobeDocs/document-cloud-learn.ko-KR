@@ -1,11 +1,12 @@
 ---
 title: Adobe Scan으로 디지털화
 description: Adobe Document Cloud 사용 요령 및 팁 살펴보기
+feature: Create PDF
 solution: Acrobat
 role: User
 level: Beginner
 exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%

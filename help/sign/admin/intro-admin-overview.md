@@ -1,13 +1,14 @@
 ---
 title: 관리자 개요
 description: 사용자를 계정에 추가하고, 그룹을 설정하고, 액세스를 공유하고, 워크플로, 외부 보관, 공유 이벤트 및 경고를 설정하는 기본적인 방법을 알아봅니다
+feature: Administration, Deploy, Workflow, Report, Web Forms
 role: Admin
 level: Intermediate
 jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 1%

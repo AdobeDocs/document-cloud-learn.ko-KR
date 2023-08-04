@@ -1,13 +1,14 @@
 ---
 title: 현상 개요
 description: Acrobat Sign API를 사용하여 팀, 파트너 및 고객을 위한 맞춤형 애플리케이션을 제작하는 방법에 대해 학습합니다
+feature: Workflow, Integrations
 role: Developer
 level: Intermediate
 jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 13%

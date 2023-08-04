@@ -1,12 +1,13 @@
 ---
 title: 문서 채우기 및 서명
 description: 양식을 채우고 문서에 전자 서명을 추가하는 방법 알아보기
+feature: Form, Sign
 role: User
 level: Beginner
 jira: KT-4964
 thumbnail: 33660.jpg
 exl-id: 4bb7caab-002c-4e8e-b0c6-fdde220037a4
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%

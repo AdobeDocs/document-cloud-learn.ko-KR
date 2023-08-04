@@ -1,13 +1,13 @@
 ---
 title: 다음에서 디지털 ID 가져오기 [!DNL Intesi Group] (고급)
 description: 다음에서 고급 디지털 서명 인증서를 얻는 방법 알아보기 [!DNL Intesi Group]
+feature: Digital ID
 role: User
 level: Beginner
 jira: KT-8702
 thumbnail: KT-8702.jpg
-kt: 8702
 exl-id: d16736cf-2cd5-4ea9-b961-34ee95faaf82
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 1%

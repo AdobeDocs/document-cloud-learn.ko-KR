@@ -1,12 +1,13 @@
 ---
 title: 입력 가능한 Forms 만들기
 description: InDesign, Microsoft Word 또는 Excel에서 만든 문서를 입력 가능한 PDF 양식으로 변환
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-6831.jpg
 jira: KT-6831
+thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 3%

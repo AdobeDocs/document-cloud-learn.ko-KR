@@ -1,6 +1,7 @@
 ---
 title: 포함된 전자 서명 및 문서 환경 만들기
 description: Acrobat Sign API를 사용하여 웹 플랫폼, 콘텐츠 및 문서 관리 시스템에 전자 서명 및 문서 경험을 포함하는 방법에 대해 알아봅니다
+feature: Integrations, Workflow
 role: Developer
 level: Intermediate
 topic: Integrations
@@ -8,7 +9,7 @@ jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 2%

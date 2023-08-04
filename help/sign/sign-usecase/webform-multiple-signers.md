@@ -1,10 +1,11 @@
 ---
 title: 여러 명의 알 수 없는 서명자가 있는 공공 기관 대출 신청
 description: 웹 양식이 여러 명의 알 수 없는 참가자를 포함하는 복잡한 정부 대출 신청 워크플로우에 사용되는 방법을 알아봅니다.
+feature: Use Cases, Web Forms
 role: User
 level: Intermediate
 jira: KT-13596
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

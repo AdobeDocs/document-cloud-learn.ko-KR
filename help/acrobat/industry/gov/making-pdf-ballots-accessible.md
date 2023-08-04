@@ -1,13 +1,14 @@
 ---
 title: 보다 접근성 있는 PDF 투표 만들기
 description: 화면 판독기와 같은 보조 기술 사용자가 투표지를 읽고 완료할 수 있도록 하는 데 필요한 PDF 접근성의 주요 영역에 대해 알아봅니다
+feature: Accessibility
 role: User
 level: Experienced
 topic-revisit: Accessibility
-thumbnail: KT-6817.jpg
 jira: KT-6817
+thumbnail: KT-6817.jpg
 exl-id: 3a8eff2f-1b39-4073-828e-18bfc5d89dd3
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%

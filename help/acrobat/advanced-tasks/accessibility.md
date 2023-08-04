@@ -1,13 +1,14 @@
 ---
 title: PDF 액세스 가능성 확인
 description: 장애가 있는 사용자가 PDF에 일반적으로 액세스할 수 있는지 확인하는 방법을 알아봅니다.
+feature: Accessibility
 role: User
 level: Intermediate
 topics: Accessibility
-thumbnail: KT-6829.jpg
 jira: KT-6829
+thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%

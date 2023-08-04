@@ -1,12 +1,13 @@
 ---
 title: 새 관리자를 위한 시작하기
 description: 이 포괄적인 비디오 가이드에서 Acrobat Sign을 사용하여 조직을 시작하고 운영하는 데 필요한 모든 툴에 대해 알아보십시오
+feature: Administration, Deploy
 role: Admin
 level: Beginner
 jira: KT-11289
 thumbnail: KT-11289.jpg
 exl-id: 71a00fa1-2814-4f8b-87e1-61bbce752308
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%

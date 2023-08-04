@@ -1,12 +1,13 @@
 ---
 title: 새 작업 영역 환경
 description: Acrobat에서 활성화할 수 있는 새로운 작업 영역 환경에 대해 알아봅니다.
+feature: Workspace
 role: User
 level: Beginner
-thumbnail: KT-10781.jpg
 jira: KT-10781
+thumbnail: KT-10781.jpg
 exl-id: 5d88d96d-ae44-4c75-b4bd-d51d864c707c
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 0%

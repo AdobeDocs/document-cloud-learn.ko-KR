@@ -1,12 +1,13 @@
 ---
 title: 기업 정책 계약
 description: 정책 계약, 업데이트 등에서 모든 직원의 서명을 효율적으로 수집할 수 있습니다
+feature: Use Cases, Form
 role: User
 level: Intermediate
 jira: KT-5296
 thumbnail: 33979.jpg
 exl-id: caba5740-6111-4cc4-a63f-5eec2d742578
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%

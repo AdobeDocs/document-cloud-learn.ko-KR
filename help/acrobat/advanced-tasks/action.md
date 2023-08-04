@@ -1,12 +1,13 @@
 ---
 title: Action Wizard
 description: 액션을 사용하여 한 개 또는 여러 개의 파일에 일련의 명령을 자동으로 적용하여 키 입력과 시간 절약
+feature: Action
 role: User
-level: Experienced
-thumbnail: KT-6803.jpg
+level: Intermediate
 jira: KT-6803
+thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%

@@ -1,12 +1,13 @@
 ---
 title: 페이지 구성
 description: PDF에서 페이지 추가, 교체, 추출, 회전, 삭제 및 재정렬
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-6832.jpg
 jira: KT-6832
+thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 30%

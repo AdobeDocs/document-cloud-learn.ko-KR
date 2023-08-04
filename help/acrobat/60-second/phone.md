@@ -1,12 +1,13 @@
 ---
 title: 스마트폰에서 PPT 파일을 PDF으로 변환
 description: 휴대폰에서 전자 메일 PowerPoint 첨부 파일을 PDF으로 변환하는 방법 알아보기
+feature: Convert PDF, Mobile
 role: User
 level: Beginner
-thumbnail: KT-8576.jpg
 jira: KT-8576
+thumbnail: KT-8576.jpg
 exl-id: 8d927cd6-f944-45b7-81c9-4f70e1ed5276
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 4%

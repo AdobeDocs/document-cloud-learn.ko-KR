@@ -1,6 +1,7 @@
 ---
 title: Salesforce용 Acrobat Sign 및 Marketo을 사용하여 알림 보내기
 description: 서명자에게 계약이 진행 중임을 알리기 위해 문자 메시지, 전자 메일 또는 푸시 알림을 보내는 방법을 알아봅니다.
+feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
@@ -9,7 +10,7 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 1%
@@ -26,7 +27,7 @@ Acrobat Sign, Salesforce용 Acrobat Sign, Marketo 및 Marketo Salesforce 동기�
 
    정보 및 Salesforce용 최신 플러그인을 사용할 수 있습니다. [여기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Salesforce용 Acrobat Sign 설치.
+1. Salesforce용 Acrobat Sign을 설치합니다.
 
    이 플러그인에 대한 정보를 사용할 수 있습니다. [여기](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 

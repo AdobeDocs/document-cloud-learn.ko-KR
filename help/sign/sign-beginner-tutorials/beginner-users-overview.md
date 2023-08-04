@@ -1,12 +1,13 @@
 ---
 title: 시작 개요
 description: 간단한 단계별 튜토리얼을 통해 문서를 전송, 서명 및 추적하는 방법을 빠르게 알아볼 수 있습니다
+feature: Workspace, Sign, Workflow, Form, Digital ID
 role: User
 level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 5%

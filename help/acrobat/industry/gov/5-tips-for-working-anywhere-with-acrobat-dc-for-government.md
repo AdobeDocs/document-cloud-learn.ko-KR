@@ -1,11 +1,12 @@
 ---
 title: 어디에서나 Acrobat으로 작업하기 위한 5가지 팁
 description: Acrobat을 사용하여 어디에서나 근무하는 공공 기관 직원 팁 5개
+feature: Workspace, Mobile
 role: User
 level: Beginner
 thumbnail: 34200.jpg
 exl-id: 7486a89c-2c60-42a6-8ab2-2878c42f9eda
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%

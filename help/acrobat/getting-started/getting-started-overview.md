@@ -1,12 +1,13 @@
 ---
 title: Acrobat 시작 개요
 description: 이 간단한(1-2분) 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아봅니다
+feature: Edit PDF, Create PDF, Convert PDF, Sign, Security, Share, Collaboration, Workspace
 role: User
 level: Beginner
-thumbnail: KT-6856.jpg
 jira: KT-6856
+thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 5%

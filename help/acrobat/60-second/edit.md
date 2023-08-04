@@ -1,12 +1,13 @@
 ---
 title: Acrobat Web으로 PDF 편집
 description: PDF을 다운로드하지 않고도 텍스트와 이미지를 간편하게 편집할 수 있습니다
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-8573.jpg
 jira: KT-8573
+thumbnail: KT-8573.jpg
 exl-id: 4d87faf3-758e-49d5-a1d4-7418ace14709
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 6%

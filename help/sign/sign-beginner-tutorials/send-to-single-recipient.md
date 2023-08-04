@@ -1,12 +1,13 @@
 ---
 title: 단일 수신자에게 보내기
 description: 서명이 필요한 문서를 손쉽게 전송하는 방법을 살펴보세요
+feature: Sign
 role: User
 level: Beginner
 jira: KT-4965
 thumbnail: KT-4965.jpg
 exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%

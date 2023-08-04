@@ -1,12 +1,13 @@
 ---
 title: Bio-Pharma 설정 사용
 description: FDA 21 CFR Part 11 요구 사항을 충족하도록 Acrobat Sign을 구성할 수 있는 Bio-pharma 설정에 대해 알아봅니다
+feature: Administration
 role: Admin
 level: Experienced
 jira: KT-5509
 thumbnail: 21748.jpg
 exl-id: 1253f81a-6132-4733-a113-1bbce86b4549
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%

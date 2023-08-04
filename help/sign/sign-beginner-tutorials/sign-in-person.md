@@ -1,13 +1,14 @@
 ---
 title: 직접 서명 받기
 description: Acrobat Sign 모바일 앱을 사용하여 다른 사람의 서명을 직접 받는 방법을 알아봅니다.
+features: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-5317
 topic-revisit: Mobile
 thumbnail: 17362.jpg
 exl-id: 0b45fb6b-170e-4842-8627-dd9f0bc7b25d
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%

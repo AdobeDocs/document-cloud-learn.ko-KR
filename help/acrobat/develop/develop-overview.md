@@ -1,12 +1,13 @@
 ---
 title: Acrobat 현상 개요
 description: JavaScript, 플러그인 또는 IAC를 사용하여 Acrobat 및 Adobe Reader과 통합되는 소프트웨어 개발
+feature: Integrations
 role: Developer
 level: Intermediate
-thumbnail: KT-6861.jpg
 jira: KT-6861
+thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%

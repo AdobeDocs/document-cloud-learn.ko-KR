@@ -1,12 +1,13 @@
 ---
 title: 한번에 서명 보내기 및 수집
 description: 몇 단계만으로 모든 문서에 수백 개의 서명을 한 번에 수집하는 방법을 살펴볼 수 있습니다
+feature: Workflow, Sign
 role: User, Admin
 level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%

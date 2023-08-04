@@ -1,12 +1,13 @@
 ---
 title: Acrobat Sign 텍스트 태그 지정
 description: Adobe Acrobat을 사용하여 텍스트 태그를 지정하여 Acrobat Sign 양식 필드를 만드는 방법에 대해 알아봅니다.
+feature: Workflow, Sign
 role: User, Admin
 level: Experienced
 jira: KT-6059
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%

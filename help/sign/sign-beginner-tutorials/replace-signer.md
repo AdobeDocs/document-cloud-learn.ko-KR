@@ -1,12 +1,13 @@
 ---
 title: 서명자 바꾸기
 description: 서명을 위해 문서를 전송할 때 잘못된 전자 메일이 사용된 경우와 같이 서명자를 바꾸는 방법을 알아봅니다.
+feature: Sign, Workflow
 role: User
 level: Beginner
 jira: KT-10264
 thumbnail: KT-10264.jpg
 exl-id: bc9d645b-b99a-4928-b539-3d28b83fc56d
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%

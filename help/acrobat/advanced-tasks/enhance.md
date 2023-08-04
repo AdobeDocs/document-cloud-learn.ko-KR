@@ -1,12 +1,13 @@
 ---
 title: PDF 향상
 description: 그래픽 개선 사항과 자동 번호 매기기를 추가하여 PDF을 변형하는 방법을 살펴보세요
+feature: Edit PDF
 role: User
 level: Intermediate
-thumbnail: KT-9343.jpg
 jira: KT-9343
+thumbnail: KT-9343.jpg
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 1%

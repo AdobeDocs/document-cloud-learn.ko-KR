@@ -1,6 +1,7 @@
 ---
 title: 서명을 위해 전송 [!DNL Microsoft Teams]
 description: 서명을 위해 계약을 보내고, 계약 상태를 확인하고, 내에서 알림 메시지를 보내는 방법을 알아봅니다. [!DNL Microsoft Teams]
+feature: Integrations
 role: User
 topic: Integrations
 level: Intermediate
@@ -8,7 +9,7 @@ jira: KT-6208
 topic-revisit: Integrations
 thumbnail: 40125.jpg
 exl-id: dc6b8cc8-6d9d-46a0-add2-dc5ada06fbaf
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%

@@ -1,13 +1,14 @@
 ---
 title: 활용 사례
 description: 활용 사례 쇼케이스는 라이브 스트리밍 세션에서 새로운 Acrobat Sign 활용 사례, 트렌드를 소개하고 조직이 이를 구현하고 활용할 수 있는 방법을 설명합니다
+feature: Use Cases
 role: User
 level: Intermediate
 jira: KT-8198
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '744'
 ht-degree: 0%

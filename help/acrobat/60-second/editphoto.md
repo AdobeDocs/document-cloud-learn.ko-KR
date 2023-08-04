@@ -1,12 +1,13 @@
 ---
 title: PDF에서 사진 편집
 description: Photoshop을 사용하여 PDF에서 사진을 고급 편집하는 방법 알아보기
+feature: Edit PDF
 role: User
 level: Intermediate
-thumbnail: KT-9276.jpg
 jira: KT-9276
+thumbnail: KT-9276.jpg
 exl-id: 05b2b256-2a1f-464e-8409-6d74e423cb65
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%

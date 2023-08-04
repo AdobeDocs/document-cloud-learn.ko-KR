@@ -1,6 +1,7 @@
 ---
 title: Outlook의 Send for Signature
 description: Microsoft Outlook 내에서 바로 서명할 계약 보내기
+feature: Integrations
 role: User
 level: Intermediate
 topic: Integrations
@@ -8,7 +9,7 @@ jira: KT-6463
 topic-revisit: Integrations
 thumbnail: KT-6463.jpg
 exl-id: 06d8e6c5-6dbf-4d6c-bf49-b620da707b3c
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%

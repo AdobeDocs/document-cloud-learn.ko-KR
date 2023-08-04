@@ -1,12 +1,13 @@
 ---
 title: 두 PDF 간의 차이 감지
 description: 두 PDF 파일 간의 차이점을 빠르고 정확하게 감지하여 문서 검토 워크플로우를 향상시킵니다
+feature: Workflow, Collaboration
 role: User
 level: Intermediate
-thumbnail: KT-8496.jpg
 jira: KT-8496
+thumbnail: KT-8496.jpg
 exl-id: 433ed8a5-aab6-420e-a86e-903e81841df7
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%

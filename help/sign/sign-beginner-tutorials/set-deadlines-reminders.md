@@ -1,12 +1,13 @@
 ---
 title: 기한 및 미리 알림 설정
 description: 문서에 빠르게 서명을 받기 위해 일반 이메일 알림 메시지 및 최종 기한을 보내는 방법을 알아봅니다
+feature: Deadline, Sign
 role: User
 level: Beginner
 jira: KT-10605
 thumbnail: KT-10605.jpg
 exl-id: 495184e8-e614-405b-8dd8-4b85d8f82758
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 6%
