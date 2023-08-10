@@ -8,9 +8,9 @@ jira: KT-8197
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 9941cafa708906325fc7458aa29c63191f5a2a19
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '1049'
 ht-degree: 0%
 
 ---
@@ -23,26 +23,34 @@ Acrobat Sign 스킬 빌더는 30분 분량의 세션으로 별도의 추가 작�
 
 ## 월별 세션
 
-**[Microsoft 앱에서 전자 서명으로 작업](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb){target="_blank"}**
-날짜: 2023년 10월 19일 기존 워크플로우에 Adobe Acrobat Sign을 추가하여 Word, Outlook, Sharepoint와 같은 Microsoft 앱 사용 방식을 확장할 수 있습니다. 이 세션에서는 서명을 받거나 상태를 확인하기 위해 컨텍스트 전환이 필요하지 않도록 일반 Microsoft 앱에서 문서 프로세스를 간소화하는 방법을 설명합니다.
-
-**[계약 관리: 계약 상태를 실시간으로 표시](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710){target="_blank"}**
+**[계약 관리: 계약 상태를 실시간으로 표시](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/aad26d3c-699b-4d99-a272-30bcbfbc1bf2/e1b6dd21-c94a-4c1b-9eeb-abec464e3cbd){target="_blank"}**
 날짜: 언제든지 계약 상태를 알 수 있도록 계약 관리 도구 및 모범 사례에 대한 자세한 내용을 살펴보십시오. 이 세션에 포함된 내용:
 
 * 관리 탭에서 문서에 수행할 수 있는 작업
 * 웹 양식 및 대량 전송에서 데이터를 처리하고 사용하는 방법
 * 검색 및 필터링하여 필요한 문서를 찾는 방법
 
-**[서명을 위해 문서 전송을 위한 고급 팁](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a){target="_blank"}**
-날짜: 2023년 8월 17일 서명을 위해 계약을 전송할 때 사용할 수 있는 모든 옵션을 자세히 살펴볼 수 있으므로 참여하십시오. 이 세션에 포함된 내용:
+**[Microsoft 앱에서 전자 서명으로 작업](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb){target="_blank"}**
+날짜: 2023년 10월 19일 기존 워크플로우에 Adobe Acrobat Sign을 추가하여 Word, Outlook, Sharepoint와 같은 Microsoft 앱 사용 방식을 확장할 수 있습니다. 이 세션에서는 서명을 받거나 상태를 확인하기 위해 컨텍스트 전환이 필요하지 않도록 일반 Microsoft 앱에서 문서 프로세스를 간소화하는 방법을 설명합니다.
+
+**[서명을 위해 문서 전송을 위한 고급 팁](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710){target="_blank"}**
+날짜: 2023년 9월 21일 서명을 위해 계약서를 전송할 때 사용할 수 있는 모든 옵션을 자세히 살펴볼 수 있으므로 참여해 주십시오. 이 세션에 포함된 내용:
 
 * 여러 수신자에게 보내기
 * 사용 가능한 수신자 역할(서명자, 양식 작성자, 위임자 및 기타)
 * 참조 필드 추가
 * 암호 보호 등
 
-**[Acrobat Sign 통합: Salesforce 및 Workday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4){target="_blank"}**
-날짜: 2023년 7월 20일 Salesforce 및 Workday과 함께 제공되는 가장 일반적이고 강력한 Acrobat Sign 통합을 검토할 때 참여하십시오. 이 세션에서는 기존의 툴에서 수동 및 비효율적인 작업을 없애고 100% 디지털 워크플로우와 전자 서명 프로세스를 구축하여 비즈니스 거래를 가속화하는 방법을 살펴봅니다.
+**[Salesforce의 Acrobat Sign 문서 빌더](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a){target="_blank"}**
+날짜: 2023년 8월 17일 Salesforce에서 데이터 기반 문서 준비와 같은 일상적인 작업을 자동화하여 사전 채워진 제안서, 계약서, 인보이스 등을 신속하게 제공하여 세일즈 팀의 역량을 강화할 수 있습니다. 문서 빌더를 사용하면 서명을 받기 위해 전송하기 전에 Salesforce 데이터를 사용하여 문서를 동적으로 생성할 수 있으므로 한 번 번거로운 프로세스를 더 간단하고 간소화할 수 있습니다. 단계별 절차를 안내해 드리오니 시간과 노력을 절약하시기 바랍니다.
+
+**[Microsoft Power Automate 기반의 워크플로우 자동화](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4){target="_blank"}**
+날짜: 2023년 7월 20일 Adobe Acrobat Sign에서 Microsoft의 저코드/코딩이 필요 없는 솔루션 Power Automate를 사용하면 모든 자동화 기능을 활용할 수 있습니다. 개발자가 아닌 일반인도 차세대 워크플로우를 구축할 수 있는 강력하고 유연한 방법을 공유합니다. 이 세션에 포함된 내용:
+
+* 시작하려면 워크플로 통합 설정
+* 사전 구성된 템플릿을 사용하여 작업 과정 제작
+* 방대한 커넥터 에코시스템을 활용하여 Acrobat Sign을 패키지 및 맞춤형 애플리케이션에 통합
+* Acrobat Sign의 생산성 향상 및 기능 확장
 
 **[Adobe Acrobat Sign에 대한 고급 보고](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/fa28b18d-ab38-47d4-8ae8-3e0161550bd3/60081eb2-f8a3-45b6-9d75-4f3a53b4c53a){target="_blank"}**
 날짜: 2023년 6월 22일 Acrobat Sign에서 사용할 수 있는 분석 및 보고서에 대해 알아보고, 데이터를 검토하여 비즈니스 발전에 필요한 인사이트를 제공하는 방법을 살펴보십시오.
