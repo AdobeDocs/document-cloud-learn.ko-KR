@@ -1,6 +1,6 @@
 ---
 title: 통합 개요
-description: 기존 시스템, 프로세스 및 애플리케이션에 Acrobat Sign을 추가하는 방법에 대해 학습합니다
+description: 기존 시스템, 프로세스 및 애플리케이션에 Acrobat Sign을 추가하는 방법에 대해 알아봅니다
 feature: Integrations
 role: User
 product: adobe sign
@@ -10,28 +10,30 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 1da6eaba52a01164c487f93a0b729cb2f8fc56bf
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
 
 # 통합 개요
 
-![이미지 통합 서명](../assets/Hero-Integrate.png)
+![서명 통합 이미지](../assets/Hero-Integrate.png)
 
-Microsoft, Salesforce, Workday 및 Marketo과 같이 조직이 이미 사용 중인 다른 애플리케이션에서 Acrobat Sign을 사용할 수 있습니다. 통합 안내서 및 튜토리얼을 통해 전자 서명 워크플로우를 간소화하는 방법을 살펴보십시오.
+Acrobat Sign, Salesforce, Workday 및 Marketo과 같이 조직에서 이미 사용하고 있는 다른 응용 프로그램 내에서 Microsoft을 사용할 수 있습니다. 이러한 통합 안내서 및 튜토리얼에서 전자 서명 작업 과정을 간소화하는 방법을 알아봅니다.
 
 >[!NOTE]
-> 이러한 기능에 액세스하는 데 문제가 있는 경우 조직의 관리자에게 문의하여 통합이 활성화되어 있는지 확인하십시오.
+> 이러한 기능에 액세스하는 데 문제가 있는 경우 귀사의 관리자에게 문의하여 통합이 활성화되어 있는지 확인하십시오.
 
 ## 새로운 기능
 
+* [Microsoft Dynamics 365 for Field Service](dynamics-field-service.md)
+Acrobat Sign에서 [!DNL Power Automate], 및 [!DNL Microsoft Dynamics 365] 현장 서비스에서는 고객의 현장 작업을 간소화하기 위해 사용됩니다.
 * [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
-Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Customer Service는 셀프 서비스 고객 웹 포털에서 고객 만족도를 향상시키는 데 사용됩니다.
-* [웹 양식 통합 [!DNL SharePoint] 온라인](integrate-web-form-sharepoint-online.md)
-웹 양식에서 수집한 데이터를 [!DNL SharePoint] 목록
+Acrobat Sign 및 [!DNL Microsoft Dynamics 365] 고객 서비스는 셀프서비스 고객 웹 포털에서 고객 만족도를 향상시키는 데 사용됩니다.
+* [웹 양식을 다음과 통합 [!DNL SharePoint] 온라인](integrate-web-form-sharepoint-online.md)
+웹 양식에서 수집된 데이터를 [!DNL SharePoint] 목록
 
 ## Microsoft 통합 튜토리얼
 
@@ -39,12 +41,12 @@ Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Customer Service는 셀프 �
 <tr>
   <td>
     <a href="fill-and-sign-doc-microsoft-outlook.md">
-      <img alt="Microsoft Outlook 채우기 및 서명" src="../assets/MS-FillSign.png" />
+      <img alt="Microsoft Outlook 작성 및 서명" src="../assets/MS-FillSign.png" />
     </a>
     <div>
-    <a href="fill-and-sign-doc-microsoft-outlook.md"><strong>Microsoft Outlook 채우기 및 서명</strong></a>
+    <a href="fill-and-sign-doc-microsoft-outlook.md"><strong>Microsoft Outlook 작성 및 서명</strong></a>
     </div>
-    <em>Microsoft Outlook에서 직접 양식 채우기 및 서명</em>
+    <em>Microsoft Outlook 내에서 직접 양식 작성 및 서명</em>
     <br>
   </td>
   <td>
@@ -54,7 +56,7 @@ Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Customer Service는 셀프 �
     <div>
     <a href="send-for-signature-with-outlook.md"><strong>Outlook에서 서명을 위해 보내기</strong></a>
     </div>
-    <em>Microsoft Outlook에서 바로 서명이 필요한 문서 전송</em>
+    <em>Microsoft Outlook 내에서 직접 서명할 문서 보내기</em>
     <br>
   </td>
   <td>
@@ -64,7 +66,7 @@ Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Customer Service는 셀프 �
     <div>
     <a href="send-for-signature-with-sharepoint-online.md"><strong>SharePoint Online에서 서명을 위해 보내기</strong></a>
     </div>
-    <em>Sharepoint Online 내에서 서명이 필요한 문서 보내기</em>
+    <em>Sharepoint Online 내에서 직접 서명할 문서 보내기</em>
     <br>
   </td>
    <td>
@@ -74,39 +76,39 @@ Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Customer Service는 셀프 �
     <div>
     <a href="track-an-agreement-with-sharepoint-online.md"><strong>SharePoint Online에서 추적</strong></a>
     </div>
-    <em>Microsoft Sharepoint에서 직접 계약 진행 상태 추적</em>
+    <em>Microsoft Sharepoint 내에서 직접 계약의 진행 상황 추적</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="integrate-web-form-sharepoint-online.md">
-      <img alt="웹 양식 통합 [!DNL SharePoint Online]" src="../assets/Web-form-sp.png" />
+      <img alt="웹 양식을 다음과 통합 [!DNL SharePoint Online]" src="../assets/Web-form-sp.png" />
     </a>
     <div>
-    <a href="integrate-web-form-sharepoint-online.md"><strong>웹 양식 통합 [!DNL SharePoint Online]</strong></a>
+    <a href="integrate-web-form-sharepoint-online.md"><strong>웹 양식을 다음과 통합 [!DNL SharePoint Online]</strong></a>
     </div>
-    <em>웹 양식에서 수집한 데이터를 [!DNL SharePoint] 목록</em>
+    <em>웹 양식에서 수집된 데이터를 [!DNL SharePoint] 목록</em>
     <br>
   </td>
   <td>
     <a href="auto-archive-sharepoint-power-automate.md">
-      <img alt="파일 자동 보관 위치 [!DNL SharePoint] 에 [!DNL Power Automate]" src="../assets/Autoarchive.png" />
+      <img alt="파일 자동 보관 위치 [!DNL SharePoint] 적용 [!DNL Power Automate]" src="../assets/Autoarchive.png" />
     </a>
     <div>
-    <a href="auto-archive-sharepoint-power-automate.md"><strong>파일 자동 보관 위치 [!DNL SharePoint] 에 [!DNL Power Automate]</strong></a>
+    <a href="auto-archive-sharepoint-power-automate.md"><strong>파일 자동 보관 위치 [!DNL SharePoint] 적용 [!DNL Power Automate]</strong></a>
     </div>
-    <em>서명된 문서를 [!DNL SharePoint] 라이브러리 사용 [!DNL Power Automate]</em>
+    <em>서명된 문서를 [!DNL SharePoint] 다음을 사용하여 라이브러리: [!DNL Power Automate]</em>
     <br>
   </td>
   <td>
     <a href="documentautomation.md">
-      <img alt="문서 자동화 [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
+      <img alt="문서 자동화: [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>문서 자동화 [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
+    <a href="documentautomation.md"><strong>문서 자동화: [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
-    <em>활성화 및 사용 방법 [!DNL Acrobat Sign] 및 [!DNL Adobe PDF Tools] 커넥터 [!DNL Microsoft Power] 앱</em>
+    <em>활성화 및 사용 방법 알아보기 [!DNL Acrobat Sign] 및 [!DNL Adobe PDF Tools] 커넥터: [!DNL Microsoft Power] 앱</em>
     <br>
   </td>
    <td>
@@ -114,9 +116,9 @@ Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Customer Service는 셀프 �
       <img alt="서명을 위해 문서 보내기 [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>서명을 위해 전송 [!DNL Microsoft Teams]</strong></a>
+    <a href="adobe-sign-teams-mortgage.md"><strong>서명을 위해 보내기 [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>서명이 필요한 문서를 [!DNL Microsoft Teams]</em>
+    <em>다음에서 바로 서명할 문서 보내기 [!DNL Microsoft Teams]</em>
     <br>
   </td>
 </tr>
@@ -128,12 +130,17 @@ Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Customer Service는 셀프 �
     <div>
     <a href="dynamics-customer-service.md"><strong>Microsoft Dynamics 365 for Customer Service</strong></a>
     </div>
-    <em>Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Customer Service는 셀프 서비스 고객 웹 포털에서 고객 만족도를 향상시키는 데 사용됩니다.</em>
+    <em>Acrobat Sign 및 [!DNL Microsoft Dynamics 365] 고객 서비스는 셀프서비스 고객 웹 포털에서 고객 만족도를 향상시키는 데 사용됩니다.</em>
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <a href="dynamics-field-service.md">
+      <img alt="Microsoft Dynamics 365 for Field Service" src="../assets/Dynamics-field-service.png" />
+    </a>
     <div>
+    <a href="dynamics-field-service.md"><strong>Microsoft Dynamics 365 for Field Service</strong></a>
+    </div>
+    <em>Acrobat Sign에서 [!DNL Power Automate], 및 [!DNL Microsoft Dynamics 365] 현장 서비스에서는 고객의 현장 작업을 간소화하기 위해 사용됩니다.</em>
     <br>
   </td>
   <td>
@@ -149,16 +156,16 @@ Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Customer Service는 셀프 �
 </tr>
 </table>
 
-## [!DNL Notarize] 통합 자습서
+## [!DNL Notarize] 통합 튜토리얼
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="send-document-notarize.md">
-      <img alt="공증을 위해 문서 보내기" src="../assets/Notarize.png" />
+      <img alt="공증을 위해 문서 전송" src="../assets/Notarize.png" />
     </a>
     <div>
-    <a href="send-document-notarize.md"><strong>공증을 위해 문서 보내기</strong></a>
+    <a href="send-document-notarize.md"><strong>공증을 위해 문서 전송</strong></a>
     </div>
     <em>공증을 위해 문서를 보내는 방법 알아보기</em>
     <br>
@@ -181,18 +188,18 @@ Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Customer Service는 셀프 �
 </tr>
 </table>
 
-## Salesforce 통합 자습서
+## Salesforce 통합 튜토리얼
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="문서 작성기 [!DNL Salesforce]" src="../assets/SF-Template.png" />
+      <img alt="문서작성기 [!DNL Salesforce]" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>문서 작성기 [!DNL Salesforce]</strong></a>
+    <a href="create-an-agreement-template.md"><strong>문서작성기 [!DNL Salesforce]</strong></a>
     </div>
-    <em>문서 빌더를 사용하여 재사용 가능한 문서 템플릿을 만드는 방법에 대해 알아봅니다. [!DNL Salesforce]</em>
+    <em>Document Builder를 사용하여 재사용 가능한 문서 템플릿을 만드는 방법을 알아보십시오 [!DNL Salesforce]</em>
     <br>
   </td>
   <td>
@@ -202,7 +209,7 @@ Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Customer Service는 셀프 �
     <div>
     <a href="set-up-data-mapping.md"><strong>데이터 매핑 설정</strong></a>
     </div>
-    <em>계약에 서명한 후 데이터를 Salesforce에 다시 가져오기</em>
+    <em>계약에 서명한 후 Salesforce로 데이터를 다시 가져옵니다.</em>
     <br>
   </td>
   <td>
@@ -212,7 +219,7 @@ Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Customer Service는 셀프 �
     <div>
     <a href="set-up-merging-map.md"><strong>Salesforce에서 병합 매핑 설정</strong></a>
     </div>
-    <em>Salesforce 데이터를 Acrobat Sign 문서에 직접 병합하는 방법 알아보기</em>
+    <em>Salesforce의 데이터를 Acrobat Sign 문서로 직접 병합하는 방법에 대해 알아보십시오</em>
     <br>
   </td>
   <td>
@@ -228,18 +235,18 @@ Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Customer Service는 셀프 �
 </tr>
 </table>
 
-## Workday 통합 자습서
+## Workday 통합 튜토리얼
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="acrobat-sign-workday-onboarding.md">
-      <img alt="Acrobat Sign + Workday 신규 직원 입사 전형" src="../assets/workday.png" />
+      <img alt="Acrobat Sign + Workday 신규 채용 온보딩" src="../assets/workday.png" />
     </a>
     <div>
-    <a href="acrobat-sign-workday-onboarding.md"><strong>Acrobat Sign + Workday 신규 직원 입사 전형</strong></a>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Acrobat Sign + Workday 신규 채용 온보딩</strong></a>
     </div>
-    <em>Acrobat Sign + Workday으로 온보딩 워크플로우를 간소화하는 방법을 살펴보세요.</em>
+    <em>Acrobat Sign + Workday으로 온보딩 워크플로를 간소화하는 방법에 대해 알아봅니다.</em>
     <br>
   </td>
  <td>
@@ -260,48 +267,48 @@ Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Customer Service는 셀프 �
 </tr>
 </table>
 
-## Marketo 통합 자습서 및 구성 안내서
+## Marketo 통합 튜토리얼 및 구성 안내서
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="marketo-salesforce-sms.md">
-      <img alt="Salesforce용 Acrobat Sign 및 Marketo을 사용하여 알림 보내기" src="../assets/Integrate-Salesforce-SMS.jpg" />
+      <img alt="Salesforce 및 Marketo용 Acrobat Sign을 사용하여 알림 보내기" src="../assets/Integrate-Salesforce-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-sms.md"><strong>Salesforce용 Acrobat Sign 및 Marketo을 사용하여 알림 보내기</strong></a>
+    <a href="marketo-salesforce-sms.md"><strong>Salesforce 및 Marketo용 Acrobat Sign을 사용하여 알림 보내기</strong></a>
     </div>
-    <em>서명자에게 계약이 진행 중임을 알리기 위해 문자 메시지, 전자 메일 또는 푸시 알림을 보내는 방법을 알아봅니다.</em>
+    <em>서명자에게 계약이 진행 중임을 알리기 위해 문자 메시지, 이메일 또는 푸시 알림을 보내는 방법에 대해 알아봅니다.</em>
     <br>
   </td>
   <td>
     <a href="marketo-salesforce-reminder-video.md">
-      <img alt="Salesforce용 Acrobat Sign 및 Marketo 비디오 자습서를 사용하여 미리 알림 보내기" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
+      <img alt="Salesforce용 Acrobat Sign 및 Marketo 비디오 튜토리얼을 사용하여 미리 알림 보내기" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Salesforce용 Adobe Sign 및 Marketo 비디오 자습서를 사용하여 미리 알림 보내기</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Salesforce용 Adobe Sign 및 Marketo 비디오 튜토리얼을 사용하여 미리 알림 보내기</strong></a>
     </div>
-    <em>일정 기간 후 계약에 서명이 없는 경우 Marketo에서 전자 메일 미리 알림을 보내는 방법을 알아봅니다.</em>
+    <em>일정 기간 후 계약이 서명되지 않은 상태로 유지되는 경우 Marketo에서 이메일 알림 메시지를 보내는 방법을 알아봅니다.</em>
     <br>
   </td>
   <td>
     <a href="marketo-salesforce-reminder.md">
-      <img alt="Salesforce용 Acrobat Sign 및 Marketo 구성 가이드를 사용하여 알림 메시지 전송" src="../assets/Integrate-Salesforce-Reminder.jpg" />
+      <img alt="Salesforce용 Acrobat Sign 및 Marketo 구성 안내서를 사용하여 미리 알림 보내기" src="../assets/Integrate-Salesforce-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Salesforce용 Acrobat Sign 및 Marketo 구성 가이드를 사용하여 알림 메시지 전송</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Salesforce용 Acrobat Sign 및 Marketo 구성 안내서를 사용하여 미리 알림 보내기</strong></a>
     </div>
-    <em>일정 기간 후 계약이 서명되지 않은 경우 Marketo에서 전자 메일 미리 알림을 보내는 방법을 읽습니다.</em>
+    <em>일정 기간 후 계약이 서명되지 않은 상태로 유지될 때 Marketo에서 이메일 알림 메시지를 보내는 방법을 읽어보십시오</em>
     <br>
   </td>
    <td>
     <a href="marketo-dynamics-reminder.md">
-      <img alt="Microsoft Dynamics 및 Marketo용 Acrobat Sign을 사용하여 알림 메시지 보내기" src="../assets/Integrate-Dynamics-Reminder.jpg" />
+      <img alt="Microsoft Dynamics 및 Marketo용 Acrobat Sign을 사용하여 미리 알림 보내기" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-reminder.md"><strong>Microsoft Dynamics 및 Marketo용 Acrobat Sign을 사용하여 알림 메시지 보내기</strong></a>
+    <a href="marketo-dynamics-reminder.md"><strong>Microsoft Dynamics 및 Marketo용 Acrobat Sign을 사용하여 미리 알림 보내기</strong></a>
     </div>
-    <em>일정 기간 후 계약이 서명되지 않은 경우 전자 메일 미리 알림을 보내는 방법을 알아봅니다.</em>
+    <em>일정 기간 후 계약이 서명되지 않은 상태로 유지되는 경우 전자 메일 알림 메시지를 보내는 방법을 알아봅니다.</em>
     <br>
   </td>
 </tr>
@@ -313,7 +320,7 @@ Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Customer Service는 셀프 �
     <div>
     <a href="marketo-dynamics-sms.md"><strong>Microsoft Dynamics 및 Marketo용 Acrobat Sign을 사용하여 알림 보내기</strong></a>
     </div>
-    <em>서명자에게 계약이 진행 중임을 알리기 위해 문자 메시지, 전자 메일 또는 푸시 알림을 보내는 방법을 알아봅니다.</em>
+    <em>서명자에게 계약이 진행 중임을 알리기 위해 문자 메시지, 이메일 또는 푸시 알림을 보내는 방법에 대해 알아봅니다.</em>
     <br>
   </td>
   <td>
