@@ -11,9 +11,9 @@ breadcrumb-title: Acrobat Sign Tutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
-source-git-commit: 09999a6a30fd97b796f97a4ed8860162d5e93579
+source-git-commit: 0838027300c9d15a20af03b7d49f190acb6256ec
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '522'
 ht-degree: 10%
 
 ---
@@ -107,8 +107,9 @@ ht-degree: 10%
       + [파일 자동 보관 위치 [!DNL SharePoint] 적용 [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Acrobat Sign을 사용한 문서 자동화 [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
       + [서명을 위해 보내기 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-      + [Microsoft Dynamics 365 for Customer Service](integrations/dynamics-customer-service.md)
-      + [Microsoft Dynamics 365 for Field Service](integrations/dynamics-field-service.md)
+      + [[!DNL Microsoft Dynamics 365] 고객 서비스용](integrations/dynamics-customer-service.md)
+      + [[!DNL Microsoft Dynamics 365] Field Service 용](integrations/dynamics-field-service.md)
+      + [[!DNL Microsoft Dynamics 365] 판매용](integrations/dynamics-sales.md)
    + 공증 {#notarize}
       + [공증을 위해 문서 전송](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}

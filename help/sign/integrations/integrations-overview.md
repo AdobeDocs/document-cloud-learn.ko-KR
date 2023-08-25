@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 1da6eaba52a01164c487f93a0b729cb2f8fc56bf
+source-git-commit: 0838027300c9d15a20af03b7d49f190acb6256ec
 workflow-type: tm+mt
-source-wordcount: '707'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,8 @@ Acrobat Sign, Salesforce, Workday 및 Marketo과 같이 조직에서 이미 사�
 
 ## 새로운 기능
 
+* [Microsoft Dynamics 365 for Sales](dynamics-sales.md)
+Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Sales는 sales quote 서명 프로세스를 자동화하는 데 사용됩니다.
 * [Microsoft Dynamics 365 for Field Service](dynamics-field-service.md)
 Acrobat Sign에서 [!DNL Power Automate], 및 [!DNL Microsoft Dynamics 365] 현장 서비스에서는 고객의 현장 작업을 간소화하기 위해 사용됩니다.
 * [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
@@ -144,8 +146,13 @@ Acrobat Sign 및 [!DNL Microsoft Dynamics 365] 고객 서비스는 셀프서비�
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <a href="dynamics-sales.md">
+      <img alt="Microsoft Dynamics 365 for Sales" src="../assets/Dynamics-sales.png" />
+    </a>
     <div>
+    <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
+    </div>
+    <em>Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Sales는 sales quote 서명 프로세스를 자동화하는 데 사용됩니다.</em>
     <br>
   </td>
   <td>
