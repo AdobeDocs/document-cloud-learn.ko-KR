@@ -2,7 +2,7 @@
 title: 통합 개요
 description: 기존 시스템, 프로세스 및 애플리케이션에 Acrobat Sign을 추가하는 방법에 대해 알아봅니다
 feature: Integrations
-role: User
+role: User, Admin
 product: adobe sign
 level: Intermediate
 jira: KT-6850
@@ -10,7 +10,7 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 0838027300c9d15a20af03b7d49f190acb6256ec
+source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
 workflow-type: tm+mt
 source-wordcount: '750'
 ht-degree: 0%

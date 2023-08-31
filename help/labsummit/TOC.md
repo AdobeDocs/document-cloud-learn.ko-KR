@@ -1,5 +1,5 @@
 ---
-user-guide-title: Adobe Document Cloud으로 디지털 경험 혁신
+user-guide-title: Adobe Document Cloud으로 디지털 경험 활용하기
 solution: Acrobat
 solution-title: Adobe Document Cloud Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/acrobat.html
@@ -8,7 +8,8 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 feature-set: Document Cloud
-source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
+role: User
+source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -16,11 +17,11 @@ ht-degree: 0%
 ---
 
 
-# Adobe Document Cloud으로 디지털 경험 혁신 {#lab719}
+# Adobe Document Cloud으로 디지털 경험 활용하기 {#lab719}
 
-+ [랩 개요 및 소개](overview.md)
-+ Adobe Document Cloud으로 디지털 경험 혁신 {#gsd}
-   + [Adobe Document Cloud으로 디지털 경험 혁신](gsd.md)
-   + [예 1: 양식 스캔](scan.md)
-   + [예 2: 각종 양식 채우기 및 서명](fillsign.md)
-   + [예 3: 온라인으로 PDF 파일 공유 및 검토](review.md)
++ [실습실 개요 및 소개](overview.md)
++ Adobe Document Cloud으로 디지털 경험 활용하기 {#gsd}
+   + [Adobe Document Cloud으로 디지털 경험 활용하기](gsd.md)
+   + [Ex.1: 모든 양식 스캔](scan.md)
+   + [Ex.2: 모든 양식 작성 및 서명](fillsign.md)
+   + [예 3: PDF 파일 공유 및 온라인 검토](review.md)
