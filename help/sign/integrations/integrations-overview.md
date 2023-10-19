@@ -10,16 +10,14 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b9eff7f50025d984a829eb7999bb1cd229822dbc
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '739'
 ht-degree: 0%
 
 ---
 
 # 통합 개요
-
-![서명 통합 이미지](../assets/Hero-Integrate.png)
 
 Acrobat Sign, Salesforce, Workday 및 Marketo과 같이 조직에서 이미 사용하고 있는 다른 응용 프로그램 내에서 Microsoft을 사용할 수 있습니다. 이러한 통합 안내서 및 튜토리얼에서 전자 서명 작업 과정을 간소화하는 방법을 알아봅니다.
 

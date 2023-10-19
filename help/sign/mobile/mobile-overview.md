@@ -8,16 +8,14 @@ jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: c3caf3df6418e079fdad9c6a0f766067f5b9c8fd
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 27%
+source-wordcount: '126'
+ht-degree: 28%
 
 ---
 
 # 모바일 개요
-
-![Sign 모바일 이미지](../assets/Hero-Mobile.png)
 
 모든 모바일 장치에서 서명을 위해 문서를 보내고, 전자 서명 진행 상황을 추적하고, 실시간 업데이트를 받을 수 있습니다.
 

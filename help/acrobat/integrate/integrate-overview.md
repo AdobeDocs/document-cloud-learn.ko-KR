@@ -1,6 +1,6 @@
 ---
 title: Acrobat 통합 개요
-description: Acrobat과 Box, Dropbox, Google Drive, OneDrive 및 Microsoft 앱 통합
+description: Box, Dropbox, Google Drive, OneDrive, Microsoft 앱과 Acrobat 통합
 feature: Integrations, Create PDF, Collaboration, Security
 role: User
 topic: Integrations
@@ -9,22 +9,20 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '324'
 ht-degree: 1%
 
 ---
 
 # 통합 개요
 
-![Acrobat 이미지 통합](../assets/Hero-Integrate.png)
-
-Acrobat 통합 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]및 [!DNL Microsoft] 있습니다.
+Acrobat 통합: [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive], 및 [!DNL Microsoft] 앱.
 
 ## Microsoft
 
-팀원 모두가 PDF 파일을 사용하여 원활하게 작업하는 방법을 살펴보세요 [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html).
+팀의 모든 사용자가 내부에서 PDF 파일로 원활하게 작업하는 방법에 대해 알아봅니다 [Microsoft](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html).
 
 <table style="table-layout:fixed">
 <tr>
@@ -35,27 +33,27 @@ Acrobat 통합 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]�
     <div>
     <a href="createfromword.md"><strong>다음에서 PDF 파일 만들기 [!DNL Microsoft Word]</strong></a>
     </div>
-    <em>하이퍼링크로 연결된 목차, 상호 참조, 책갈피, PDF에서 바로 첨부 파일 등을 사용하여 풍부하고 강력한 PDF 파일을 만들 수 있습니다 [!DNL Microsoft Word]</em>
+    <em>하이퍼링크된 목차, 상호 참조, 책갈피 및 첨부 파일로 풍부하고 강력한 PDF 파일 만들기 [!DNL Microsoft Word]</em>
     <br>
   </td>
   <td>
     <a href="createofficeweb.md">
-      <img alt="PDF 만들기 [!DNL Office] 웹" src="../assets/Officeweb_1280.png" />
+      <img alt="다음에서 PDF 만들기 [!DNL Office] 웹용" src="../assets/Officeweb_1280.png" />
     </a>
     <div>
-    <a href="createofficeweb.md"><strong>PDF 만들기 [!DNL Office] 웹</strong></a>
+    <a href="createofficeweb.md"><strong>다음에서 PDF 만들기 [!DNL Office] 웹용</strong></a>
     </div>
-    <em>PDF 파일을 만들 때 [!DNL Microsoft Office] 웹 앱용</em>
+    <em>파일을 유지하면서 PDF 파일을 만드는 방법 알아보기 [!DNL Microsoft Office] 웹 앱용</em>
     <br>
   </td> 
   <td>
     <a href="acrobatandsp.md">
-      <img alt="공동 작업 [!DNL SharePoint] 파일" src="../assets/SharePoint.png" />
+      <img alt="다음을 사용하여 작업 [!DNL SharePoint] 파일" src="../assets/SharePoint.png" />
     </a>
     <div>
-    <a href="acrobatandsp.md"><strong>공동 작업 [!DNL SharePoint] 파일</strong></a>
+    <a href="acrobatandsp.md"><strong>다음을 사용하여 작업 [!DNL SharePoint] 파일</strong></a>
     </div>
-    <em>문서 워크플로우 간소화 [!DNL SharePoint] 및 Acrobat</em>
+    <em>다음을 통해 문서 작업 과정 간소화: [!DNL SharePoint] 및 Acrobat</em>
     <br>
   </td>
   <td>
@@ -65,7 +63,7 @@ Acrobat 통합 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]�
     <div>
     <a href="acrobatandteams.md"><strong>PDF 공동 작업 [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>PDF을 검토하거나 주석을 추가하거나 검토하면서 동료와 원활하게 협업하고 작업할 수 있습니다 [!DNL Microsoft Teams]</em>
+    <em>PDF을 떠나지 않고도 보고, 주석을 달고, 검토하여, 동료와 공동 작업하고 작업할 수 있습니다 [!DNL Microsoft Teams]</em>
     <br>
   </td>
 </tr>
@@ -75,29 +73,29 @@ Acrobat 통합 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]�
       <img alt="Outlook에서 전자 메일 메시지 및 첨부 파일을 PDF으로 변환" src="../assets/Outlook.jpg" />
     </a>
     <div>
-    <a href="outlook.md"><strong>에서 전자 메일 메시지 및 첨부 파일을 PDF으로 변환 [!DNL Outlook]</strong></a>
+    <a href="outlook.md"><strong>전자 메일 메시지 및 첨부 파일을 다음 위치에서 PDF으로 변환 [!DNL Outlook]</strong></a>
     </div>
-    <em>보다 전문적이고 안전한 방식으로 [!DNL Outlook]</em>
+    <em>보다 전문적이고 안전한 방식으로 정보를 제공하는 방법 알아보기 [!DNL Outlook]</em>
     <br>
   </td>
   <td>
     <a href="edge.md">
-      <img alt="탐색하는 동안 PDF 내용 만들기 [!DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
+      <img alt="을(를) 탐색하는 동안 PDF 콘텐츠 만들기 [!DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
     </a>
     <div>
-    <a href="edge.md"><strong>탐색하는 동안 PDF 내용 만들기 [!DNL Microsoft Edge]</strong></a>
+    <a href="edge.md"><strong>을(를) 탐색하는 동안 PDF 콘텐츠 만들기 [!DNL Microsoft Edge]</strong></a>
     </div>
-    <em>Adobe Acrobat 확장자를 사용하여 웹 페이지를 PDF에 즉시 보관하는 방법에 대해 알아보십시오. [!DNL Microsoft Edge]</em>
+    <em>Adobe Acrobat 확장 프로그램을 사용하여 즉시 PDF 할 수 있도록 웹 페이지를 보관하는 방법에 대해 알아보십시오. [!DNL Microsoft Edge]</em>
     <br>
   </td>
   <td>
     <a href="microsoftsensitivitylabels.md">
-      <img alt="탐색하는 동안 PDF 내용 만들기 [!DNL Microsoft Edge]" src="../assets/Purview_1280.png" />
+      <img alt="을(를) 탐색하는 동안 PDF 콘텐츠 만들기 [!DNL Microsoft Edge]" src="../assets/Purview_1280.png" />
     </a>
     <div>
-    <a href="microsoftsensitivitylabels.md"><strong>Protect PDF 사용 [!DNL Microsoft Purview Information] 민감도 레이블</strong></a>
+    <a href="microsoftsensitivitylabels.md"><strong>Protect PDF [!DNL Microsoft Purview Information] 민감도 레이블</strong></a>
     </div>
-    <em>PDF 추가, 편집, 맞춤화 및 삭제를 통해 사용자를 보호하는 방법에 대해 학습합니다 [!DNL Microsoft Purview] Acrobat에서 직접 감도 레이블</em>
+    <em>추가, 편집, 사용자 정의 및 삭제를 통해 PDF을 보호하는 방법에 대해 알아봅니다. [!DNL Microsoft Purview] Acrobat에서 바로 민감도 레이블</em>
     <br>
   </td>
   <td>
@@ -110,7 +108,7 @@ Acrobat 통합 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]�
 
 ## Google Drive
 
-필수 PDF 및 전자 서명 툴을 사용하여 짧은 시간에 더 많은 작업을 수행하는 방법을 살펴보세요 [!DNL Google Drive].
+내부에 필수 PDF 및 전자 서명 도구를 사용하여 더 짧은 시간에 더 많은 작업을 수행하는 방법에 대해 알아봅니다. [!DNL Google Drive].
 
 <table style="table-layout:fixed">
 <tr>
@@ -119,9 +117,9 @@ Acrobat 통합 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]�
       <img alt="Google 드라이브용 Adobe Acrobat" src="../assets/acrobatgoogle.jpg" />
     </a>
     <div>
-    <a href="acrobatandgoogle.md"><strong>Adobe Acrobat [!DNL Google Drive]</strong></a>
+    <a href="acrobatandgoogle.md"><strong>Adobe Acrobat for [!DNL Google Drive]</strong></a>
     </div>
-    <em>시간을 절약해주는 PDF 툴과 전자 서명 워크플로우를 [!DNL Google Drive] app</em>
+    <em>문서 내에서 바로 시간을 절약해 주는 PDF 도구와 전자 서명 워크플로우에 액세스할 수 있습니다. [!DNL Google Drive] 앱</em>
     <br>
   </td>
   <td>
@@ -150,12 +148,12 @@ Acrobat 통합 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]�
 <tr>
   <td>
     <a href="acrobat-dropbox.md">
-      <img alt="의 파일을 사용하여 작업 [!DNL Dropbox]" src="../assets/Dropbox.png" />
+      <img alt="다음에서 파일을 사용하여 작업 [!DNL Dropbox]" src="../assets/Dropbox.png" />
     </a>
     <div>
-    <a href="acrobat-dropbox.md"><strong>의 파일을 사용하여 작업 [!DNL Dropbox]</strong></a>
+    <a href="acrobat-dropbox.md"><strong>다음에서 파일을 사용하여 작업 [!DNL Dropbox]</strong></a>
     </div>
-    <em>변경 내용을 열고, 만들고, 편집하고, 서명하고, 저장하는 방법에 대해 [!DNL Dropbox] Acrobat 내의 파일</em>
+    <em>문서를 열고, 만들고, 편집하고, 서명하고, 변경 내용을 저장하는 방법에 대해 알아봅니다. [!DNL Dropbox] Acrobat 내부의 파일</em>
     <br>
   </td>
   <td>
@@ -178,4 +176,4 @@ Acrobat 통합 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]�
 
 ## 상자
 
-Acrobat 및 [상자](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} 모든 팀원이 간편하게 비즈니스를 진행할 수 있습니다.
+Acrobat 및 [상자](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} 조직의 모든 사용자가 비즈니스를 더욱 간편하게 수행할 수 있도록 합니다.

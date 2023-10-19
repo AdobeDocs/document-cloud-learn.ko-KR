@@ -1,24 +1,22 @@
 ---
 title: Acrobat Tutorials
-description: Adobe Acrobat에 대한 튜토리얼, 웨비나 및 활용 사례 모음
+description: Adobe Acrobat에 대한 튜토리얼, 웨비나 및 사용 사례의 컬렉션
 feature: Accessibility, Action, Collaboration, Create PDF, Edit PDF, Convert PDF, Deploy, Mobile, Optimize PDF, Security, Workflow, Workspace, Skill Builder, Sign, Form
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6864
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 6%
+source-wordcount: '70'
+ht-degree: 7%
 
 ---
 
 # Acrobat 튜토리얼
 
-![Acrobat 메인 이미지](assets/Hero_Acrobat.jpg)
-
-Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF 변환, 편집, 공유 및 서명을 통해 비즈니스를 원활하게 진행할 수 있도록 지원합니다. 이 튜토리얼에서는 Adobe Acrobat에서 입문자와 고급 사용자를 모두 신속하게 파악할 수 있는 다양한 학습 환경을 제공합니다.
+Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF을 변환, 편집, 공유 및 서명하여 비즈니스를 지속적으로 움직이는 데 도움이 됩니다. Adobe Acrobat에서 초보자와 고급 사용자를 모두 빠르게 최신 상태로 만들 수 있는 다양한 학습 환경을 살펴보세요.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -43,7 +41,7 @@ Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF 변환, 편집, 공유 �
   </td>
   <td>
     <a href="skill-builder/skill-builder-webinars.md">
-      <img alt="기능 소개" src="assets/acrobat_title_skill_builder.png" />
+      <img alt="스킬 빌더" src="assets/acrobat_title_skill_builder.png" />
     </a>
   </td>
   <td>
@@ -55,7 +53,7 @@ Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF 변환, 편집, 공유 �
 <tr>
   <td>
     <a href="industry/industry-overview.md">
-      <img alt="업계 및 부서" src="assets/acrobat_title_industry.png" />
+      <img alt="업종 및 부서" src="assets/acrobat_title_industry.png" />
     </a>
   </td>  
   <td>
