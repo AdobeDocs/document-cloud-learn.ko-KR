@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 5%
+source-wordcount: '543'
+ht-degree: 4%
 
 ---
 
@@ -20,10 +20,10 @@ ht-degree: 5%
 
 ## 새로운 기능
 
+* [이 PDF 스타일화](stylize-this-PDF.md)
+Adobe Express에서 사용하기 쉬운 통합 디자인 도구를 사용하여 전문가 수준의 PDF을 만드는 방법을 알아봅니다.
 * [Acrobat 웹으로 장소에 상관없이 작업](acrobatweb.md)
 브라우저에서 Acrobat 웹 도구를 사용하여 어디서나 비즈니스 문서 요청을 처리하는 방법에 대해 알아보십시오
-* [실시간으로 공동 작업 수행](collaborate.md)
-언제 어디서나 실시간으로 댓글을 수집하고, 공동 작업에 참여하고, 문서의 진행 상황을 추적하여 프로젝트를 진행하세요.
 
 ## 시작하기 자습서
 
@@ -166,6 +166,16 @@ ht-degree: 5%
       <br>
     </td>
     <td>
+      <a href="stylize-this-PDF.md">
+        <img alt="이 PDF 스타일화" src="../assets/Stylize.png" />
+      </a>
+      <div>
+      <a href="stylize-this-PDF.md"><strong>이 PDF 스타일화</strong></a>
+      </div>
+      <em>콘텐츠를 자동으로 조정하는 새로운 편집 모드에 대해 알아봅니다.</em>
+      <br>
+    </td>
+   <td>
       <a href="auto-adjust-layout.md">
         <img alt="자동 조정 레이아웃" src="../assets/Autoadjust.png" />
       </a>
@@ -183,11 +193,6 @@ ht-degree: 5%
       <a href="export-pdf.md"><strong>편집 가능한 형식으로 PDF 내보내기</strong></a>
       </div>
       <em>PDF 파일을 편집 가능한 형식으로 내보내는 방법에 대해 알아보십시오</em>
-      <br>
-    </td>
-    <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
-      <div>
       <br>
     </td>
   </tr>

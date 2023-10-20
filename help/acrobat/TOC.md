@@ -5,9 +5,9 @@ breadcrumb-title: Acrobat Tutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '474'
 ht-degree: 6%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 6%
    + [페이지 구성](getting-started/organize.md)
    + [사용자 정의 페이지 추가](getting-started/add-custom-page.md)
    + [PDF 편집](getting-started/edit-pdf.md)
+   + [이 PDF 스타일화](getting-started/stylize-this-PDF.md)
    + [자동 조정 레이아웃](getting-started/auto-adjust-layout.md)
    + [편집 가능한 형식으로 PDF 내보내기](getting-started/export-pdf.md)
    + [실시간으로 공동 작업 수행](getting-started/collaborate.md)
