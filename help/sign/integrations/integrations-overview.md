@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 6d7d37621489f4799b619034b76c4751293ee654
 workflow-type: tm+mt
-source-wordcount: '739'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ Acrobat Sign, Salesforce, Workday 및 Marketo과 같이 조직에서 이미 사�
 
 ## 새로운 기능
 
+* [고급 워크플로우 만들기 [!DNL Power Automate]](advanced-workflow-power-automate.md)
+고급 워크플로우를 만드는 방법 알아보기 [!DNL Power Automate] 커넥터
 * [다음을 사용하여 간단한 작업 과정 만들기 [!DNL Power Automate]](simple-workflow-power-automate.md)
 다음을 사용하여 간단한 워크플로우를 만드는 방법에 대해 알아봅니다. [!DNL Power Automate] 커넥터
 * [Microsoft Dynamics 365 for Sales](dynamics-sales.md)
 Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Sales는 sales quote 서명 프로세스를 자동화하는 데 사용됩니다.
-* [Microsoft Dynamics 365 for Field Service](dynamics-field-service.md)
-Acrobat Sign에서 [!DNL Power Automate], 및 [!DNL Microsoft Dynamics 365] 현장 서비스에서는 고객의 현장 작업을 간소화하기 위해 사용됩니다.
 
 
 ## Microsoft 통합 튜토리얼
@@ -133,6 +133,16 @@ Acrobat Sign에서 [!DNL Power Automate], 및 [!DNL Microsoft Dynamics 365] 현�
     <br>
   </td>
   <td>
+    <a href="advanced-workflow-power-automate.md">
+      <img alt="Power Automate로 고급 워크플로우 만들기" src="../assets/advanced-workflow.png" />
+    </a>
+    <div>
+    <a href="advanced-workflow-power-automate.md"><strong>Power Automate로 고급 워크플로우 만들기</strong></a>
+    </div>
+    <em>고급 워크플로우를 만드는 방법 알아보기 [!DNL Power Automate] 커넥터</em>
+    <br>
+  </td>
+  <td>
     <a href="dynamics-customer-service.md">
       <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
     </a>
@@ -152,6 +162,7 @@ Acrobat Sign에서 [!DNL Power Automate], 및 [!DNL Microsoft Dynamics 365] 현�
     <em>Acrobat Sign에서 [!DNL Power Automate], 및 [!DNL Microsoft Dynamics 365] 현장 서비스에서는 고객의 현장 작업을 간소화하기 위해 사용됩니다.</em>
     <br>
   </td>
+<tr>  
   <td>
     <a href="dynamics-sales.md">
       <img alt="Microsoft Dynamics 365 for Sales" src="../assets/Dynamics-sales.png" />
@@ -160,6 +171,21 @@ Acrobat Sign에서 [!DNL Power Automate], 및 [!DNL Microsoft Dynamics 365] 현�
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
     <em>Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Sales는 sales quote 서명 프로세스를 자동화하는 데 사용됩니다.</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
