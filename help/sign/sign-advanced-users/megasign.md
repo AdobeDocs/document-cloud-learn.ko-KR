@@ -1,32 +1,35 @@
 ---
-title: 한번에 서명 보내기 및 수집
-description: 몇 단계만으로 모든 문서에 수백 개의 서명을 한 번에 수집하는 방법을 살펴볼 수 있습니다
+title: 서명 대량 전송 및 수집
+description: 몇 단계만으로 모든 문서에 대해 수백 개의 서명을 한 번에 수집하는 방법을 살펴보세요
 feature: Workflow, Sign
 role: User, Admin
 level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-# 한번에 서명 보내기 및 수집
+# 서명 대량 전송 및 수집
 
-몇 단계만으로 수백 개의 서명을 수집하는 방법을 살펴보십시오. 이 사용 사례에서는 모든 사람이 각자의 면책 동의서에 서명할 수 있으며, 각 면책 동의서의 진행 상황을 추적할 수 있으므로 서명자와 서명하지 않은 사람을 정확하게 알 수 있습니다. 수집한 각 온라인 서명은 안전하고 안전하며 법적으로 유효합니다.
+몇 단계만으로 수백 개의 서명을 수집하는 방법을 살펴보세요. 이 사용 사례에서는 모든 사용자가 서명할 책임 면제를 받게 되며 각 개별 면제의 진행률을 추적할 수 있으므로 서명하지 않은 사람이나 사용자를 정확하게 알 수 있습니다. 캡처한 각 온라인 서명은 안전하며 법적 효력이 있습니다.
 
-이 추가 실제 환경을 확인하십시오. [원격 근무 협정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en) 활용 사례
+[!BADGE 사용 사례]
+
+* [재택근무 협정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en)
+* [정책 계약](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=en)
 
 >[!NOTE]
 >
->기업 및 비즈니스 플랜은 대량 전송 도구를 사용하여 한 트랜잭션에서 최대 300개의 이메일을 보낼 수 있습니다. 체크 아웃해야 합니다. [GigaSign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?lang=en) 한 번에 300개 이상의 서명을 수집해야 하는 경우
+>엔터프라이즈 및 비즈니스 플랜은 대량 전송 도구를 사용하여 하나의 트랜잭션에서 최대 300개의 전자 메일을 보낼 수 있습니다. 꼭 체크아웃하세요 [GigaSign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?lang=en) 한 번에 300개 이상의 서명을 수집해야 하는 경우.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
 
-[샘플 CSV 파일을 ZIP 형식으로 다운로드합니다.](../assets/megasign_merge_sample.zip)
+[ZIP 형식의 샘플 CSV 파일 다운로드](../assets/megasign_merge_sample.zip)
 
 >[!TIP]
 >

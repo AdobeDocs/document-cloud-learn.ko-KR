@@ -1,24 +1,29 @@
 ---
-title: 여러 명의 알 수 없는 서명자가 있는 공공 기관 대출 신청
+title: 여러 서명자를 알 수 없는 정부 대출 신청
 description: 웹 양식이 여러 명의 알 수 없는 참가자를 포함하는 복잡한 정부 대출 신청 워크플로우에 사용되는 방법을 알아봅니다.
 feature: Use Cases, Web Forms
 role: User
 level: Intermediate
 jira: KT-13596
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+exl-id: c3da976d-df41-4632-ab9b-c3be3e4a7ffc
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
-# 여러 명의 서명자를 알 수 없는 공공 기관 대출 신청
+# 여러 서명자를 알 수 없는 정부 대출 신청
 
-방법 살펴보기 [웹 양식](../sign-advanced-users/webform.md) 여러 명의 알 수 없는 참가자를 포함하는 복잡한 정부 대출 신청 워크플로우에 사용됩니다. 이러한 양식은 웹 사이트에 포함되거나 전자 메일의 링크로 전송될 수 있습니다. 또한 장소에 상관없이 모든 디바이스에 파일을 채울 수 있으므로 프로세스 및 서비스 제공 속도가 향상됩니다.
+방법 알아보기 [웹 양식](../sign-advanced-users/webform.md) 여러 알 수 없는 참가자가 포함된 복잡한 정부 대출 신청 워크플로우에 사용됩니다. 이러한 양식은 웹 사이트에 임베드하거나 전자 메일에 링크로 전송할 수 있습니다. 또한 어느 장치에서나 어느 위치에서나 데이터를 입력할 수 있어 프로세스 및 서비스 제공 속도를 높일 수 있습니다.
 
-실제 웹 양식 활용 사례:
+[!BADGE 사용 사례]
 
-* [사업 보조금 및 융자금](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en) 활용 사례
-* [재취업 지원](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en) 활용 사례
+* [교육 웹 양식 인턴십 응용 프로그램](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
+웹 양식을 사용하여 필요한 양식에 대한 학생들의 액세스 권한을 향상시키는 방법에 대해 알아봅니다.
+* [교육 웹 양식 인턴십 응용 프로그램 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
+인턴십 웹 양식을 만드는 방법 알아보기
+* [사업 보조금 및 융자](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
+* [재취업 지원](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421619?quality=12&learn=on&hidetitle=true)
