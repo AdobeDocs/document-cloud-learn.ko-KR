@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 6d7d37621489f4799b619034b76c4751293ee654
+source-git-commit: 08ecfae16049ddc497beaea06c6213f5e6dd8a6d
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,12 @@ Acrobat Sign, Salesforce, Workday 및 Marketo과 같이 조직에서 이미 사�
 
 ## 새로운 기능
 
+* [실시간 서명 대상 [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
+서명하는 동안 직접 서명과 유사한 온라인 서명 경험을 만드는 방법에 대해 알아봅니다. [!DNL Microsoft Teams] 회의
 * [고급 워크플로우 만들기 [!DNL Power Automate]](advanced-workflow-power-automate.md)
 고급 워크플로우를 만드는 방법 알아보기 [!DNL Power Automate] 커넥터
 * [다음을 사용하여 간단한 작업 과정 만들기 [!DNL Power Automate]](simple-workflow-power-automate.md)
 다음을 사용하여 간단한 워크플로우를 만드는 방법에 대해 알아봅니다. [!DNL Power Automate] 커넥터
-* [Microsoft Dynamics 365 for Sales](dynamics-sales.md)
-Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Sales는 sales quote 서명 프로세스를 자동화하는 데 사용됩니다.
-
 
 ## Microsoft 통합 튜토리얼
 
@@ -123,6 +122,16 @@ Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Sales는 sales quote 서명 �
 </tr>
 <tr>
   <td>
+    <a href="live-sign-microsoft-teams.md">
+      <img alt="라이브 로그인 [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
+    </a>
+    <div>
+    <a href="live-sign-microsoft-teams.md"><strong>라이브 로그인 [!DNL Microsoft Teams]</strong></a>
+    </div>
+    <em>서명하는 동안 직접 서명과 유사한 온라인 서명 경험을 만드는 방법에 대해 알아봅니다. [!DNL Microsoft Teams] 회의</em>
+    <br>
+  </td>
+   <td>
     <a href="simple-workflow-power-automate.md">
       <img alt="Power Automate로 간단한 워크플로우 만들기" src="../assets/simple-workflow.png" />
     </a>
@@ -152,6 +161,7 @@ Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Sales는 sales quote 서명 �
     <em>Acrobat Sign 및 [!DNL Microsoft Dynamics 365] 고객 서비스는 셀프서비스 고객 웹 포털에서 고객 만족도를 향상시키는 데 사용됩니다.</em>
     <br>
   </td>
+<tr>
   <td>
     <a href="dynamics-field-service.md">
       <img alt="Microsoft Dynamics 365 for Field Service" src="../assets/Dynamics-field-service.png" />
@@ -162,7 +172,6 @@ Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Sales는 sales quote 서명 �
     <em>Acrobat Sign에서 [!DNL Power Automate], 및 [!DNL Microsoft Dynamics 365] 현장 서비스에서는 고객의 현장 작업을 간소화하기 위해 사용됩니다.</em>
     <br>
   </td>
-<tr>  
   <td>
     <a href="dynamics-sales.md">
       <img alt="Microsoft Dynamics 365 for Sales" src="../assets/Dynamics-sales.png" />
@@ -171,11 +180,6 @@ Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Sales는 sales quote 서명 �
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
     <em>Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Sales는 sales quote 서명 프로세스를 자동화하는 데 사용됩니다.</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
