@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 08ecfae16049ddc497beaea06c6213f5e6dd8a6d
+source-git-commit: 1af2db7abc73f889d71806a66d2debc2f6fbb334
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '789'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Acrobat Sign, Salesforce, Workday 및 Marketo과 같이 조직에서 이미 사�
 
 ## 새로운 기능
 
-* [실시간 서명 대상 [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
+* [다음에 대한 Adobe Acrobat Sign의 라이브 서명 [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
 서명하는 동안 직접 서명과 유사한 온라인 서명 경험을 만드는 방법에 대해 알아봅니다. [!DNL Microsoft Teams] 회의
 * [고급 워크플로우 만들기 [!DNL Power Automate]](advanced-workflow-power-automate.md)
 고급 워크플로우를 만드는 방법 알아보기 [!DNL Power Automate] 커넥터
@@ -123,10 +123,10 @@ Acrobat Sign, Salesforce, Workday 및 Marketo과 같이 조직에서 이미 사�
 <tr>
   <td>
     <a href="live-sign-microsoft-teams.md">
-      <img alt="라이브 로그인 [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
+      <img alt="다음에 대한 Adobe Acrobat Sign의 라이브 서명 [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
     </a>
     <div>
-    <a href="live-sign-microsoft-teams.md"><strong>라이브 로그인 [!DNL Microsoft Teams]</strong></a>
+    <a href="live-sign-microsoft-teams.md"><strong>다음에 대한 Adobe Acrobat Sign의 라이브 서명 [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>서명하는 동안 직접 서명과 유사한 온라인 서명 경험을 만드는 방법에 대해 알아봅니다. [!DNL Microsoft Teams] 회의</em>
     <br>
