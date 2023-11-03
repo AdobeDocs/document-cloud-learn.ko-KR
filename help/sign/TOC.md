@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1af2db7abc73f889d71806a66d2debc2f6fbb334
+source-git-commit: afca817b03c2d3748c21c4c110eebe44b0251c46
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '548'
 ht-degree: 10%
 
 ---
@@ -109,6 +109,7 @@ ht-degree: 10%
       + [Acrobat Sign을 사용한 문서 자동화 [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
       + [서명을 위해 보내기 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [다음에 대한 Adobe Acrobat Sign의 라이브 서명 [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)
+      + [문서 탭 통합 [!DNL Microsoft Teams]](integrations/acrobat-sign-teams-documents-tab.md)
       + [간단한 워크플로를 [!DNL Power Automate]](integrations/simple-workflow-power-automate.md)
       + [고급 워크플로우 만들기 [!DNL Power Automate]](integrations/advanced-workflow-power-automate.md)
       + [[!DNL Microsoft Dynamics 365] 고객 서비스용](integrations/dynamics-customer-service.md)

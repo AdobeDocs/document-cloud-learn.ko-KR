@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 1af2db7abc73f889d71806a66d2debc2f6fbb334
+source-git-commit: afca817b03c2d3748c21c4c110eebe44b0251c46
 workflow-type: tm+mt
-source-wordcount: '789'
+source-wordcount: '811'
 ht-degree: 0%
 
 ---
@@ -132,11 +132,21 @@ Acrobat Sign, Salesforce, Workday 및 Marketo과 같이 조직에서 이미 사�
     <br>
   </td>
    <td>
+    <a href="acrobat-sign-teams-documents-tab.md">
+      <img alt="Power Automate로 간단한 워크플로우 만들기" src="../assets/Documents-tab.png" />
+    </a>
+    <div>
+    <a href="acrobat-sign-teams-documents-tab.md"><strong>의 문서 탭 통합 [!DNL Microsoft Teams]</strong></a>
+    </div>
+    <em>의 문서 탭에서 직접 서명을 위해 문서를 전송하는 방법을 알아보십시오. [!DNL Microsoft Teams]</em>
+    <br>
+  </td>
+ <td>
     <a href="simple-workflow-power-automate.md">
       <img alt="Power Automate로 간단한 워크플로우 만들기" src="../assets/simple-workflow.png" />
     </a>
     <div>
-    <a href="simple-workflow-power-automate.md"><strong>Power Automate로 간단한 워크플로우 만들기</strong></a>
+    <a href="simple-workflow-power-automate.md"><strong>다음을 사용하여 간단한 작업 과정 만들기 [!DNL Power Automate]</strong></a>
     </div>
     <em>다음을 사용하여 간단한 워크플로우를 만드는 방법에 대해 알아봅니다. [!DNL Power Automate] 커넥터</em>
     <br>
@@ -151,6 +161,7 @@ Acrobat Sign, Salesforce, Workday 및 Marketo과 같이 조직에서 이미 사�
     <em>고급 워크플로우를 만드는 방법 알아보기 [!DNL Power Automate] 커넥터</em>
     <br>
   </td>
+<tr>
   <td>
     <a href="dynamics-customer-service.md">
       <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
@@ -161,7 +172,6 @@ Acrobat Sign, Salesforce, Workday 및 Marketo과 같이 조직에서 이미 사�
     <em>Acrobat Sign 및 [!DNL Microsoft Dynamics 365] 고객 서비스는 셀프서비스 고객 웹 포털에서 고객 만족도를 향상시키는 데 사용됩니다.</em>
     <br>
   </td>
-<tr>
   <td>
     <a href="dynamics-field-service.md">
       <img alt="Microsoft Dynamics 365 for Field Service" src="../assets/Dynamics-field-service.png" />
@@ -180,11 +190,6 @@ Acrobat Sign, Salesforce, Workday 및 Marketo과 같이 조직에서 이미 사�
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
     <em>Acrobat Sign 및 [!DNL Microsoft Dynamics 365] for Sales는 sales quote 서명 프로세스를 자동화하는 데 사용됩니다.</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
