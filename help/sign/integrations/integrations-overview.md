@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: afca817b03c2d3748c21c4c110eebe44b0251c46
+source-git-commit: fa90a5ba08f7147e264bb7da0571b7838dcadf6d
 workflow-type: tm+mt
-source-wordcount: '811'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ Acrobat Sign, Salesforce, Workday 및 Marketo과 같이 조직에서 이미 사�
 
 ## 새로운 기능
 
+* [의 문서 탭 통합 [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
+의 문서 탭에서 직접 서명을 위해 문서를 전송하는 방법을 알아보십시오. [!DNL Microsoft Teams]
 * [다음에 대한 Adobe Acrobat Sign의 라이브 서명 [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
 서명하는 동안 직접 서명과 유사한 온라인 서명 경험을 만드는 방법에 대해 알아봅니다. [!DNL Microsoft Teams] 회의
 * [고급 워크플로우 만들기 [!DNL Power Automate]](advanced-workflow-power-automate.md)
 고급 워크플로우를 만드는 방법 알아보기 [!DNL Power Automate] 커넥터
-* [다음을 사용하여 간단한 작업 과정 만들기 [!DNL Power Automate]](simple-workflow-power-automate.md)
-다음을 사용하여 간단한 워크플로우를 만드는 방법에 대해 알아봅니다. [!DNL Power Automate] 커넥터
 
 ## Microsoft 통합 튜토리얼
 
