@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
+source-git-commit: 44c0c060f7847efb1f20bd0dc0de5bbcbfc49f5e
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '175'
 ht-degree: 3%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
 
-[ZIP 형식의 샘플 CSV 파일 다운로드](../assets/sendInBulkSample.zip)
+[ZIP 형식의 샘플 CSV 파일 다운로드](../assets/sendInBulkSample.zip). CSV 파일에 설정할 수 있는 모든 값에 대해 알아보십시오. [여기](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html).
 
 >[!TIP]
 >
