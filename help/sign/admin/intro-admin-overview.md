@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '486'
-ht-degree: 2%
+source-wordcount: '503'
+ht-degree: 3%
 
 ---
 
@@ -21,6 +21,8 @@ ht-degree: 2%
 
 ## 새로운 기능
 
+* [Send in Bulk](../sign-advanced-users/megasign.md)
+간단한 몇 단계만으로 모든 문서에 대해 한 번에 수천 개의 서명을 수집하는 방법을 알아봅니다
 * [보고서 옵션](report-options.md)
 사용자를 위한 보고서 옵션을 설정하는 방법에 대해 알아봅니다.
 * [사용자 추가](add-users-to-your-account.md)
@@ -146,12 +148,12 @@ Acrobat Sign 사용자를 추가하고 관리하는 방법에 대해 알아보�
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
-      <img alt="서명 대량 전송 및 수집" src="../assets/Megasign.png" />
+      <img alt="대량 전송" src="../assets/send-in-bulk.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>서명 대량 전송 및 수집</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>대량 전송</strong></a>
     </div>
-    <em>모든 문서에 대해 수백 개의 서명을 한 번에 수집</em>
+    <em>모든 문서에 대해 한 번에 수천 개의 서명 수집</em>
     <br>
   </td>
 </tr>

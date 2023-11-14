@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 3%
+source-wordcount: '428'
+ht-degree: 5%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 3%
 
 ## 새로운 기능
 
+* [Send in Bulk](megasign.md)
+간단한 몇 단계만으로 모든 문서에 대해 한 번에 수천 개의 서명을 수집하는 방법을 알아봅니다
 * [Acrobat Sign의 인증 방법](authentication-methods.md)
 Acrobat Sign에서 문서에 서명하는 사람의 신원을 인증하는 다양한 방법에 대해 알아봅니다
-* [온라인 결제 설정](set-up-online-payments.md)
-문서에서 온라인 결제를 설정하고 수락하는 방법에 대해 알아보십시오
 
-## 보내기
+## 전송
 
 <table style="table-layout:fixed">
 <tr>
@@ -93,12 +93,12 @@ Acrobat Sign에서 문서에 서명하는 사람의 신원을 인증하는 다�
   </td>
   <td>
       <a href="megasign.md">
-        <img alt="서명 대량 전송 및 수집" src="../assets/Megasign.png" />
+        <img alt="대량 전송" src="../assets/send-in-bulk.png" />
       </a>
       <div>
-      <a href="megasign.md"><strong>서명 대량 전송 및 수집</strong></a>
+      <a href="megasign.md"><strong>대량 전송</strong></a>
       </div>
-      <em>몇 번의 간단한 단계를 거쳐 어떤 문서에나 수백 개의 서명을 한 번에 수집할 수 있습니다</em>
+      <em>간단한 몇 단계만으로 모든 문서에 대해 한 번에 수천 개의 서명을 수집할 수 있습니다</em>
       <br>
   </td>
  <td>
