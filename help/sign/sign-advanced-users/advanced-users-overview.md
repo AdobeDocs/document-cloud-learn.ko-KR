@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
+source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 5%
@@ -98,7 +98,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 신원을 인증하는 다�
       <div>
       <a href="megasign.md"><strong>대량 전송</strong></a>
       </div>
-      <em>간단한 몇 단계만으로 모든 문서에 대해 한 번에 수천 개의 서명을 수집할 수 있습니다</em>
+      <em>몇 번의 간단한 단계를 거쳐 어떤 문서에나 수백 개의 서명을 한 번에 수집할 수 있습니다</em>
       <br>
   </td>
  <td>
