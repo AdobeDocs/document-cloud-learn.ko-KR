@@ -8,9 +8,9 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: 84aa3c18e0da0d4e5c83130c4e3303407ebf784a
+source-git-commit: 25aa2a1255431787b5db306781eba22707129111
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '243'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Gigasign을 사용하면 동시에 수천 명의 사람들에게 서명을 받�
 
 ## GigaSign 앱 다운로드 및 설치
 
-[GigaSign Zip 파일 다운로드](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:d1a3f4f2-0f7b-466f-9785-81dff2217776)
+[GigaSign Zip 파일 다운로드](https://acrobat.adobe.com/id/urn:aaid:sc:US:f2046f79-b1bf-47d2-821d-546c8f2ed8b6)
 
 [Java 1.8 다운로드 링크(필요한 경우에만)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
