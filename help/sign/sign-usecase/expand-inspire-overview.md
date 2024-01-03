@@ -8,9 +8,9 @@ jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -33,12 +33,12 @@ ht-degree: 0%
   </td>
   <td>
     <a href="recipes.md">
-      <img alt="사례 조리법 사용" src="../assets/Expand_RecipeR.png" />
+      <img alt="사용 사례" src="../assets/Usecase.png" />
     </a>
     <div>
-    <a href="recipes.md"><strong>사례 조리법 사용</strong></a>
+    <a href="recipes.md"><strong>사용 사례</strong></a>
     </div>
-    <em>다양한 전자 서명 부서 작업 과정을 빠르게 배포하는 데 필요한 리소스를 직접 다운로드하세요.</em>
+    <em>이러한 실제 사용 사례를 통해 다양한 조직이 Acrobat Sign을 어떻게 사용하는지 살펴보십시오</em>
     <br>
   </td>
   <td>

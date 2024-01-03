@@ -1,5 +1,5 @@
 ---
-title: 사용 사례 조리법
+title: 사용 사례
 description: 정부 및 상업용 전자 서명 예시로 조직의 디지털 워크플로우 가속화
 feature: Use Cases
 role: User
@@ -8,16 +8,16 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
 
-# 사례 조리법 사용
+# 사용 사례
 
-정부 및 상업용 전자 서명 예시로 조직의 디지털 워크플로를 가속화하십시오. 특정 전자 서명 사용 사례를 설정하는 방법에 대한 리소스 및 세부 정보가 있는 PDF을 보려면 클릭하십시오.
+다양한 조직이 Acrobat Sign을 사용하여 이러한 실제 사용 사례를 통해 조직의 디지털 워크플로우를 어떻게 변화시키고 있는지 살펴보십시오.
 
 ## 새로운 기능
 
