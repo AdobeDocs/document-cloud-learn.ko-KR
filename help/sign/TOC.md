@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
+source-git-commit: cee496745a920f2ce06e02829aa9ecfec72f32c1
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 11%
+source-wordcount: '508'
+ht-degree: 7%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 11%
 + [개요](overview.md)
 + 시작하기 {#getting-started}
    + [개요](sign-beginner-tutorials/beginner-users-overview.md)
-   + 전송 {#getting-started-sending}
+   + 보내기 {#getting-started-sending}
       + [작업 공간 기본 사항](sign-beginner-tutorials/quick-tour.md)
       + [Acrobat Sign 시작하기](sign-beginner-tutorials/new-sender.md)
       + [단일 수신자에게 보내기](sign-beginner-tutorials/send-to-single-recipient.md)
@@ -47,14 +47,14 @@ ht-degree: 11%
       + [문서 템플릿 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + 고급 작업 {#advanced-tasks}
    + [개요](sign-advanced-users/advanced-users-overview.md)
-   + 전송 {#advanced-tasks-sending}
+   + 보내기 {#advanced-tasks-sending}
       + [서명 순서 설정](sign-advanced-users/setting-up-routing.md)
       + [위임자 역할 사용](sign-advanced-users/delegate-signature.md)
       + [승인자 역할 사용](sign-advanced-users/add-an-approver.md)
       + [Acrobat Sign의 인증 방법](sign-advanced-users/authentication-methods.md)
       + [양식 데이터 관리](sign-advanced-users/manage-form-data.md)
       + [온라인 결제 설정](sign-advanced-users/set-up-online-payments.md)
-      + [대량 전송](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [Send in Bulk](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [웹 양식 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Acrobat Sign 텍스트 태그 지정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [텍스트 태그 지정 사용 [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
@@ -122,7 +122,7 @@ ht-degree: 11%
       + [데이터 매핑 설정](integrations/set-up-data-mapping.md)
       + [병합 매핑 설정](integrations/set-up-merging-map.md)
       + [사용자 정의 단추 만들기](integrations/create-a-custom-button.md)
-   + 근무 시간 {#workday}
+   + Workday {#workday}
       + [Acrobat Sign 구성 [!DNL Workday]](integrations/workday.md)
       + [Acrobat Sign + Workday 신규 채용 온보딩](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
@@ -135,9 +135,9 @@ ht-degree: 11%
    + [개요](sign-usecase/expand-inspire-overview.md)
    + 스킬 빌더 {#innovation}
       + [웨비나](sign-usecase/innovation-series.md)
-   + 사용 사례 조리법 {#recipes}
+   + 사용 사례 {#recipes}
       + [개요](sign-usecase/recipes.md)
-      + 정부기관 {#gov}
+      + 정부 {#gov}
          + [여러 서명자를 알 수 없는 정부 대출 신청](sign-usecase/webform-multiple-signers.md)
          + [사업 보조금 및 융자](sign-usecase/usecasegovgrants.md)
          + [재택근무 협정](sign-usecase/usecasegovtelework.md)
@@ -149,7 +149,7 @@ ht-degree: 11%
          + [계약 및 구매요청 양식](sign-usecase/usecasecomcontracts.md)
          + [정책 계약](sign-usecase/usecasecompolicy.md)
          + [재택근무 협정](sign-usecase/usecasecomtelework.md)
-      + 교육 {#edu}
+      + 교육기관 {#edu}
          + [교육 웹 양식 인턴십 응용 프로그램](sign-usecase/usecase-edu-intern.md)
          + [교육 웹 양식 인턴십 응용 프로그램 만들기](sign-usecase/usecase-edu-intern-create.md)
          + [교육기관 IEP 프로세스를 위한 사용자 정의 워크플로우](sign-usecase/usecase-edu-iep.md)
