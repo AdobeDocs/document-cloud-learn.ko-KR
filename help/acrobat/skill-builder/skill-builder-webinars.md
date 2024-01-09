@@ -7,9 +7,9 @@ role: User
 jira: KT-8199
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: ae50de493d898a6997df19b8069efb036c0cd0a4
+source-git-commit: ec5e2b5a185108c242b6a26d585a92624c380c78
 workflow-type: tm+mt
-source-wordcount: '1017'
+source-wordcount: '1015'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Adobe Acrobat Skill Builder는 PDF 워크플로우의 수준을 한 단계 끌�
 
 **[6가지 필수 Adobe Acrobat 도구 살펴보기](https://www.adobe.com/documentcloud/webinars/discover-6-essential-adobe-acrobat-tools.html){target="_blank"}**
 날짜: 2024년 1월 24일 디지털 작업 세계의 주요 동향에 대한 업계 보고서의 설명과 모든 팀의 귀중한 시간을 절약하기 위해 Acrobat에서 문서 워크플로우를 손쉽게 통합하는 방법을 알아봅니다.
-다음 방법을 알려 드리도록 하겠습니다.
+방법 알아보기:
 
 * 여러 표면에서 자연스럽게 Acrobat 탐색
 * 문서를 손쉽게 결합 및 편집
@@ -32,7 +32,7 @@ Adobe Acrobat Skill Builder는 PDF 워크플로우의 수준을 한 단계 끌�
 
 **[Adobe Acrobat 시작하기](https://www.adobe.com/documentcloud/webinars/get-started-with-adobe-acrobat.html){target="_blank"}**
 날짜: 2024년 1월 18일 Adobe Acrobat이 빠르고 안전한 비즈니스를 지원하기 위해 일상적인 문서 작업을 무리하게 수행하는 방법에 대해 알아봅니다.
-다음 방법을 배웁니다.
+방법 알아보기:
 
 * 여러 표면에서 자연스럽게 Acrobat 탐색
 * 빠르게 문서 결합 및 편집
@@ -41,7 +41,7 @@ Adobe Acrobat Skill Builder는 PDF 워크플로우의 수준을 한 단계 끌�
 * Adobe Acrobat Sign으로 간편한 전자 서명 워크플로우 만들기
 
 **[Action Wizard을 사용한 간단한 자동화](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/41d505bb-252a-4e26-9576-6ae82293e6c9/97be1628-5cb6-44be-ac61-c0cc26fbb58d){target="_blank"}**
-날짜: 2023년 11월 16일 단순 수동 작업 반복을 중지합니다. 이 세션에서는 Acrobat Pro의 Action Wizard을 사용하여 PDF 파일을 일괄 처리하고 문서를 액세스 가능하게 만들기, 문서 보호, 파일 최적화, 보관 등과 같은 일련의 반복 작업을 자동으로 수행하는 방법을 알아봅니다. 다음 사항을 살펴보십시오.
+날짜: 2023년 11월 16일 단순 수동 작업 반복을 중지합니다. 이 세션에서는 Acrobat Pro의 Action Wizard을 사용하여 PDF 파일을 일괄 처리하고 문서를 액세스 가능하게 만들기, 문서 보호, 파일 최적화, 보관 등과 같은 일련의 반복 작업을 자동으로 수행하는 방법을 알아봅니다. 방법 알아보기:
 
 * 조치 사항
 * 사전 설치된 동작 사용 방법
