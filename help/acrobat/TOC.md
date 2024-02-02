@@ -5,10 +5,11 @@ breadcrumb-title: Acrobat Tutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
-source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
+auto-video-transcripts: true
+source-git-commit: 2cf300b9b6b73dcf76be74279cdee05afb4d52e3
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 6%
+source-wordcount: '471'
+ht-degree: 4%
 
 ---
 
@@ -107,7 +108,7 @@ ht-degree: 6%
    + [다음에서 파일을 사용하여 작업 [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + 업종 및 부서 {#by-industry}
    + [개요](industry/industry-overview.md)
-   + 정부기관 {#gov}
+   + 정부 {#gov}
       + [개요](industry/gov/gov-overview.md)
       + 어디서나 Acrobat으로 작업할 수 있는 5가지 팁 {#tips}
          + [어디서나 Acrobat으로 작업할 수 있는 5가지 팁](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
@@ -116,7 +117,7 @@ ht-degree: 6%
          + [팁 #3 - Protect 디지털 문서](industry/gov/protect-digital-documents.md)
          + [팁 #4 - 양식 및 서명 작업](industry/gov/work-with-forms-and-signatures.md)
          + [팁 #5 - 모바일에서 스캔 및 편집](industry/gov/scan-and-edit-on-mobile.md)
-      + 접근성 {#pdfs}
+      + 액세스 가능성 {#pdfs}
          + [PDF 액세스 가능](industry/gov/making-pdfs-accessible.md)
          + [#1 - 액세스 가능성 이해](industry/gov/understanding-accessibility.md)
          + [#2 - Word에서 작성](industry/gov/authoring-in-word.md)
