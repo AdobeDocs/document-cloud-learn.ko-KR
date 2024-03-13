@@ -8,9 +8,9 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: 25aa2a1255431787b5db306781eba22707129111
+source-git-commit: 636119a247f7d891c6edaa16149fcc8083ccee7e
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '298'
 ht-degree: 1%
 
 ---
@@ -19,11 +19,15 @@ ht-degree: 1%
 
 Gigasign을 사용하면 동시에 수천 명의 사람들에게 서명을 받을 문서를 보내고 수집하고 추적할 수 있습니다. 직원 및 고객과의 대량 커뮤니케이션을 위해 설계되었으며 각 대량 전송에 최대 2,500명의 수신자를 지원합니다. GigaSign은 Acrobat Sign API를 사용하여 MegaSign과 동일한 기능을 제공하며 여러 서명자, 수신자 그룹, 수신자 역할, 계약 이름, Carbon Copy 등에 대한 지원을 포함합니다.
 
+>[!IMPORTANT]
+>
+>GigaSign은 더 이상 최신 버전의 Java 또는 Acrobat Sign으로 업데이트되지 않으며 제한된 지원만 제공합니다. GigaSign의 기능은 [Send in Bulk](https://helpx.adobe.com/acrobat/using/send-in-bulk.html) 기능. GigaSign의 사용이 명시적으로 필요하지 않은 모든 사용 사례에 대해 대량 전송 을 사용하십시오.
+
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## GigaSign 앱 다운로드 및 설치
 
-[GigaSign Zip 파일 다운로드](https://acrobat.adobe.com/id/urn:aaid:sc:US:f2046f79-b1bf-47d2-821d-546c8f2ed8b6)
+[GigaSign Zip 파일 다운로드](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
 
 [Java 1.8 다운로드 링크(필요한 경우에만)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
@@ -51,4 +55,4 @@ Gigasign을 사용하면 동시에 수천 명의 사람들에게 서명을 받�
 
 1. 두 번째 줄에 해당 키를 만드는 데 사용되는 계정의 이메일 주소를 입력합니다.
 
-1. **[!UICONTROL 전송]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL 제출]**&#x200B;을 클릭합니다.
