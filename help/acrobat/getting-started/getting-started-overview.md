@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 38f311470c6b30dc7c731a37025381fba3651001
+source-git-commit: 39294d60838d7e4b67485a80538f6ff1c523369f
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '534'
 ht-degree: 2%
 
 ---
@@ -20,10 +20,11 @@ ht-degree: 2%
 
 ## 새로운 기능
 
+* [PDF 만들기](create-pdf.md)
+모든 유형의 문서에서 PDF을 만드는 방법을 알아봅니다.
+
 * [이 PDF 스타일화](stylize-this-PDF.md)
 Adobe Express에서 사용하기 쉬운 통합 디자인 도구를 사용하여 전문가 수준의 PDF을 만드는 방법을 알아봅니다.
-* [Acrobat 웹으로 장소에 상관없이 작업](acrobatweb.md)
-브라우저에서 Acrobat 웹 도구를 사용하여 어디서나 비즈니스 문서 요청을 처리하는 방법에 대해 알아보십시오
 
 ## 시작하기 자습서
 
