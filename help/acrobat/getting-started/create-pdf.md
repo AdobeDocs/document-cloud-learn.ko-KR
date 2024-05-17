@@ -1,26 +1,26 @@
 ---
 title: PDF 만들기
-description: 다른 모든 유형의 문서에서 PDF 만들기
+description: 모든 유형의 문서에서 PDF 만들기
 feature: Create PDF
 role: User
 level: Beginner
 jira: KT-5526
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: e17e2c1550578dac2b477943e31b46d603d62e44
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 6%
+source-wordcount: '102'
+ht-degree: 0%
 
 ---
 
 # PDF 만들기
 
-방법 살펴보기 [다양한 유형의 문서에서 PDF 만들기](https://www.adobe.com/kr/acrobat/online/convert-pdf.html). Microsoft Office 또는 Creative Cloud 앱에서 만든 파일로 시작하거나 이미지, 스캔 또는 웹 사이트를 사용합니다.
+방법 알아보기 [모든 유형의 문서에서 PDF 만들기](https://www.adobe.com/kr/acrobat/online/convert-pdf.html). Microsoft Office 또는 Creative Cloud 앱에서 만든 파일로 시작하거나 이미지, 스캔 또는 웹 사이트를 이용할 수 있습니다. 콘텐츠를 PDF으로 전환하면 원래 서식을 유지하면서 문서를 편리하고 안정적으로 공유, 보존 및 보호할 수 있습니다. 이 비디오 튜토리얼에서는 [새 작업 영역 환경](new-workspace.md).
 
 >[!TIP]
 >
->Microsoft Office를 항상 사용합니까? 확인해 보세요 [통합](../integrate/integrate-overview.md#microsoft) 따라서 자주 사용하는 Office 응용 프로그램에서 직접 PDF을 만들 수 있습니다.
+>Microsoft Office를 항상 사용하십니까? 다음 내용 확인 [통합](../integrate/integrate-overview.md#microsoft) 이를 통해 자주 사용하는 Office 응용 프로그램에서 직접 PDF을 만들 수 있습니다.
 
 <br> 
 

@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
+source-git-commit: 38f311470c6b30dc7c731a37025381fba3651001
 workflow-type: tm+mt
-source-wordcount: '543'
-ht-degree: 4%
+source-wordcount: '542'
+ht-degree: 2%
 
 ---
 
@@ -34,7 +34,7 @@ Adobe Express에서 사용하기 쉬운 통합 디자인 도구를 사용하여 
       <img alt="작업 공간 기본 사항" src="../assets/Workspace_1280.png" />
     </a>
     <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>작업 공간 기본 사항</strong></a>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>작업 영역 기본 사항</strong></a>
     </div>
     <em>Acrobat 작업 영역에서 데스크탑, 웹 및 모바일의 파일과 도구에 손쉽게 액세스하는 방법을 살펴봅니다</em>
     <br>
@@ -110,7 +110,7 @@ Adobe Express에서 사용하기 쉬운 통합 디자인 도구를 사용하여 
   <tr>
     <td>
       <a href="create-pdf.md">
-        <img alt="PDF 파일 만들기" src="../assets/Create.jpg" />
+        <img alt="PDF 파일 만들기" src="../assets/create.png" />
       </a>
       <div>
       <a href="create-pdf.md"><strong>PDF 만들기</strong></a>
