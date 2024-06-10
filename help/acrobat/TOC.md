@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 2cf300b9b6b73dcf76be74279cdee05afb4d52e3
+source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '473'
 ht-degree: 4%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 4%
    + [Combine Files에서 PDF](getting-started/combine-to-pdf.md)
    + [페이지 구성](getting-started/organize.md)
    + [사용자 정의 페이지 추가](getting-started/add-custom-page.md)
-   + [PDF 편집](getting-started/edit-pdf.md)
+   + [PDF에서 텍스트 편집](getting-started/edit-pdf.md)
    + [이 PDF 스타일화](getting-started/stylize-this-PDF.md)
    + [자동 조정 레이아웃](getting-started/auto-adjust-layout.md)
    + [편집 가능한 형식으로 PDF 내보내기](getting-started/export-pdf.md)

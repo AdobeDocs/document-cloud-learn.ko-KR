@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 39294d60838d7e4b67485a80538f6ff1c523369f
+source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
 workflow-type: tm+mt
-source-wordcount: '534'
-ht-degree: 2%
+source-wordcount: '536'
+ht-degree: 1%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 2%
 
 ## 새로운 기능
 
+* [PDF에서 텍스트 편집](edit-pdf.md)
+PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아봅니다.
+
 * [PDF 만들기](create-pdf.md)
 모든 유형의 문서에서 PDF을 만드는 방법을 알아봅니다.
-
-* [이 PDF 스타일화](stylize-this-PDF.md)
-Adobe Express에서 사용하기 쉬운 통합 디자인 도구를 사용하여 전문가 수준의 PDF을 만드는 방법을 알아봅니다.
 
 ## 시작하기 자습서
 
@@ -158,7 +158,7 @@ Adobe Express에서 사용하기 쉬운 통합 디자인 도구를 사용하여 
   <tr>
     <td>
       <a href="edit-pdf.md">
-        <img alt="PDF 편집" src="../assets/Edit.jpg" />
+        <img alt="PDF에서 텍스트 편집" src="../assets/edit-text.png" />
       </a>
       <div>
       <a href="edit-pdf.md"><strong>PDF 편집</strong></a>
