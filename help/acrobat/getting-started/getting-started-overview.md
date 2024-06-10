@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
+source-git-commit: 64302c2088c88610c4a855d3599bce3f9420a247
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '539'
 ht-degree: 1%
 
 ---
@@ -161,9 +161,9 @@ PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아�
         <img alt="PDF에서 텍스트 편집" src="../assets/edit-text.png" />
       </a>
       <div>
-      <a href="edit-pdf.md"><strong>PDF 편집</strong></a>
+      <a href="edit-pdf.md"><strong>PDF에서 텍스트 편집</strong></a>
       </div>
-      <em>PDF 파일에서 텍스트 및 이미지 편집</em>
+      <em>PDF에서 텍스트를 편집하는 방법 알아보기</em>
       <br>
     </td>
     <td>
