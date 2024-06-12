@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-5529
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
+source-git-commit: 0597b1dd1c99ed2b37cb084d192174a497ba307a
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '147'
 ht-degree: 2%
 
 ---
 
 # PDF을 다른 파일 형식으로 변환
 
-PDF 파일을 다음과 같은 다양한 파일 형식으로 변환하는 방법에 대해 알아보십시오. [Microsoft Word](https://www.adobe.com/kr/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/kr/acrobat/online/pdf-to-ppt.html), 및 [Excel](https://www.adobe.com/kr/acrobat/online/pdf-to-excel.html). PDF 변환 [Adobe Express](https://express.adobe.com) 브랜디드 디자인 요소를 추가하는 방법도 다룹니다. Microsoft Word와 같은 다른 파일 형식으로 PDF을 변환할 경우 문서 작업 과정의 효율성이 향상되고 긴 문서를 광범위하게 변경할 때 많은 시간이 절약됩니다.
+PDF 파일을 다음과 같은 다양한 파일 형식으로 변환하는 방법에 대해 알아보십시오. [Microsoft Word](https://www.adobe.com/kr/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/kr/acrobat/online/pdf-to-ppt.html), 및 [Excel](https://www.adobe.com/kr/acrobat/online/pdf-to-excel.html). PDF 변환 [Adobe Express](https://express.adobe.com) 브랜디드 디자인 요소를 추가하는 방법도 다룹니다. Microsoft Word와 같은 다른 파일 형식으로 PDF을 변환할 경우 문서 작업 과정의 효율성이 향상되고 긴 문서를 광범위하게 변경할 때 많은 시간이 절약됩니다. 이 비디오 튜토리얼에서는 새로운 작업 영역 환경을 사용합니다.
 
 >[!TIP]
 >
