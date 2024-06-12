@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: e84363fee3a210b055396e9c524ee7080e1ef30f
+source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '567'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 이 간단한 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아보십시오. 문서 작성에서 보호 또는 [PDF 파일 편집](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}, 이 콘텐츠는 PDF 워크플로우에 쉽게 액세스할 수 있도록 설계되었습니다.
 
 ## 새로운 기능
+
+* [PDF을 다른 파일 형식으로 변환](export-pdf.md)
+PDF 파일을 Microsoft Word, Excel 또는 PowerPoint와 같은 다른 파일 형식으로 변환하는 방법에 대해 알아봅니다
 
 * [PDF에서 텍스트 편집](edit-pdf.md)
 PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아봅니다.
@@ -188,12 +191,12 @@ PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아�
     </td>
     <td>
       <a href="export-pdf.md">
-        <img alt="편집 가능한 형식으로 PDF 내보내기" src="../assets/Export.jpg" />
+        <img alt="PDF을 다른 파일 형식으로 변환" src="../assets/convert.png" />
       </a>
       <div>
-      <a href="export-pdf.md"><strong>편집 가능한 형식으로 PDF 내보내기</strong></a>
+      <a href="export-pdf.md"><strong>PDF을 다른 파일 형식으로 변환</strong></a>
       </div>
-      <em>PDF 파일을 편집 가능한 형식으로 내보내는 방법에 대해 알아보십시오</em>
+      <em>PDF 파일을 Microsoft Word, Excel 또는 PowerPoint와 같은 다른 파일 형식으로 변환하는 방법에 대해 알아봅니다</em>
       <br>
     </td>
   </tr>
