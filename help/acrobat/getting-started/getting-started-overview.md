@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
+source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '613'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 이 간단한 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아보십시오. 문서 작성에서 보호 또는 [PDF 파일 편집](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}, 이 콘텐츠는 PDF 워크플로우에 쉽게 액세스할 수 있도록 설계되었습니다.
 
 ## 새로운 기능
+
+* [AI Assistant를 사용하여 PDF 인사이트 탐색](ai-assistant.md)
+AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방법을 알아봅니다
 
 * [PDF을 다른 파일 형식으로 변환](export-pdf.md)
 PDF 파일을 Microsoft Word, Excel 또는 PowerPoint와 같은 다른 파일 형식으로 변환하는 방법에 대해 알아봅니다
@@ -54,6 +57,16 @@ PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아�
     <br>
   </td>
   <td>
+    <a href="ai-assistant.md">
+      <img alt="AI Assistant를 사용하여 PDF 인사이트 탐색" src="../assets/ai-assistant.png" />
+    </a>
+    <div>
+    <a href="ai-assistant.md"><strong>AI Assistant를 사용하여 PDF 인사이트 탐색</strong></a>
+    </div>
+    <em>AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방법을 알아봅니다</em>
+    <br>
+  </td>
+  <td>
     <a href="acrobatweb.md">
       <img alt="Acrobat 웹으로 장소에 상관없이 작업" src="../assets/Acrobatweb_1280.png" />
     </a>
@@ -63,6 +76,8 @@ PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아�
     <em>브라우저에서 Acrobat 웹 도구를 사용하여 어디서나 비즈니스 문서 요청을 처리하는 방법에 대해 알아보십시오</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="productivity.md">
       <img alt="이동 중의 생산성" src="../assets/Productivity_1280.png" />
@@ -73,8 +88,6 @@ PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아�
     <em>Acrobat Reader 모바일 앱을 사용하여 태블릿이나 휴대폰에서 더 많은 작업을 바로 수행할 수 있습니다.</em>
     <br>
   </td>
-</tr>
-<tr>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
         <img alt="Microsoft 365를 사용한 작업" src="../assets/WorkMicrosoft365_1280.png" />
@@ -93,11 +106,6 @@ PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아�
       <a href="where-do-pdfs-come-from.md"><strong>PDF은 어디에서 오나요?</strong></a>
       </div>
       <em>PDF의 출처와 용도 파악</em>
-      <br>
-    </td>
-    <td>
-    <img alt="스페이서" src="../assets/Grayspacer.png" />
-      <div>
       <br>
     </td>
     <td>
