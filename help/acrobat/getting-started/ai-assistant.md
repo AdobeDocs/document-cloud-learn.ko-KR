@@ -1,11 +1,11 @@
 ---
 title: AI Assistant를 사용하여 PDF 인사이트 탐색
 description: AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방법을 알아봅니다
-feature: Workspace
+feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-15743
-source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
+source-git-commit: f96a3ef8c480e307885eef5dc72f6cbe8f2ee1cc
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
