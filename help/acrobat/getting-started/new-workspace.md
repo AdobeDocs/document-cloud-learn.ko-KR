@@ -1,21 +1,21 @@
 ---
 title: 새 작업 영역 환경
-description: Acrobat에서 활성화할 수 있는 새로운 작업 영역 환경에 대해 알아봅니다.
+description: 도구를 빠르게 찾고 PDF 작업을 효율적으로 완료하는 데 도움이 되는 Acrobat의 새로운 작업 영역에 대해 알아보십시오
 feature: Workspace
 role: User
 level: Beginner
 jira: KT-10781
 thumbnail: KT-10781.jpg
 exl-id: 5d88d96d-ae44-4c75-b4bd-d51d864c707c
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 98e38a8e7ddf7c5ea051398d7cc77eb2dab7a0df
 workflow-type: tm+mt
-source-wordcount: '39'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# 새로운 작업 영역 환경
+# 새 작업 영역 환경
 
-Acrobat에서 활성화하여 도구와 파일 간을 원활하게 이동할 수 있는 새로운 작업 영역 환경에 대해 알아봅니다.
+도구를 빠르게 찾고 PDF 작업을 효율적으로 완료하는 데 도움이 되는 Acrobat의 새로운 작업 영역에 대해 알아봅니다. 작업 영역은 직관적이고 유동적이며, 데스크탑, 웹 및 모바일과 같은 모든 표면에 걸쳐 일관된 경험을 제공합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345949?quality=12&learn=on&hidetitle=true)

@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
+source-git-commit: 98e38a8e7ddf7c5ea051398d7cc77eb2dab7a0df
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '628'
 ht-degree: 1%
 
 ---
@@ -20,6 +20,9 @@ ht-degree: 1%
 
 ## 새로운 기능
 
+* [새 작업 영역 환경](new-workspace.md)
+도구를 빠르게 찾고 PDF 작업을 효율적으로 완료하는 데 도움이 되는 Acrobat의 새로운 작업 영역에 대해 알아보십시오
+
 * [AI Assistant를 사용하여 PDF 인사이트 탐색](ai-assistant.md)
 AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방법을 알아봅니다
 
@@ -29,13 +32,21 @@ PDF 파일을 Microsoft Word, Excel 또는 PowerPoint와 같은 다른 파일 �
 * [PDF에서 텍스트 편집](edit-pdf.md)
 PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아봅니다.
 
-* [PDF 만들기](create-pdf.md)
-모든 유형의 문서에서 PDF을 만드는 방법을 알아봅니다.
 
 ## 시작하기 자습서
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="new-workspace.md">
+      <img alt="새 작업 영역 환경" src="../assets/new-workspace.png" />
+    </a>
+    <div>
+    <a href="new-workspace.md"><strong>새 작업 영역 환경</strong></a>
+    </div>
+    <em>도구를 빠르게 찾고 PDF 작업을 효율적으로 완료하는 데 도움이 되는 Acrobat의 새로운 작업 영역에 대해 알아보십시오</em>
+    <br>
+  </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
       <img alt="작업 공간 기본 사항" src="../assets/workspace_acrobat.png" />
@@ -44,16 +55,6 @@ PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아�
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>작업 영역 기본 사항</strong></a>
     </div>
     <em>Acrobat 작업 영역에서 데스크탑, 웹 및 모바일의 파일과 도구에 손쉽게 액세스하는 방법을 살펴봅니다</em>
-    <br>
-  </td>
-  <td>
-    <a href="new-workspace.md">
-      <img alt="새 작업 영역 환경" src="../assets/NewWorkspace.png" />
-    </a>
-    <div>
-    <a href="new-workspace.md"><strong>새 작업 영역 환경</strong></a>
-    </div>
-    <em>Acrobat에서 활성화할 수 있는 새로운 작업 영역 환경에 대해 알아봅니다.</em>
     <br>
   </td>
   <td>
