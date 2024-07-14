@@ -7,31 +7,27 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 98e38a8e7ddf7c5ea051398d7cc77eb2dab7a0df
+source-git-commit: 9db61d9c32ab7ac66f11835132e065bcafdf7964
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 1%
+source-wordcount: '385'
+ht-degree: 2%
 
 ---
 
 # 시작 개요
 
-이 간단한 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아보십시오. 문서 작성에서 보호 또는 [PDF 파일 편집](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}, 이 콘텐츠는 PDF 워크플로우에 쉽게 액세스할 수 있도록 설계되었습니다.
+이 간단한 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아보십시오. 이 콘텐츠는 문서를 만드는 것부터 [PDF 파일을 편집하거나](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}하는 것까지 PDF 작업 과정에 쉽게 참여할 수 있도록 설계되었습니다.
 
 ## 새로운 기능
 
 * [새 작업 영역 환경](new-workspace.md)
 도구를 빠르게 찾고 PDF 작업을 효율적으로 완료하는 데 도움이 되는 Acrobat의 새로운 작업 영역에 대해 알아보십시오
-
-* [AI Assistant를 사용하여 PDF 인사이트 탐색](ai-assistant.md)
+* [AI 도우미를 사용하여 PDF 인사이트 탐색](ai-assistant.md)
 AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방법을 알아봅니다
-
 * [PDF을 다른 파일 형식으로 변환](export-pdf.md)
 PDF 파일을 Microsoft Word, Excel 또는 PowerPoint와 같은 다른 파일 형식으로 변환하는 방법에 대해 알아봅니다
-
 * [PDF에서 텍스트 편집](edit-pdf.md)
 PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아봅니다.
-
 
 ## 시작하기 자습서
 
@@ -41,73 +37,36 @@ PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아�
     <a href="new-workspace.md">
       <img alt="새 작업 영역 환경" src="../assets/new-workspace.png" />
     </a>
-    <div>
-    <a href="new-workspace.md"><strong>새 작업 영역 환경</strong></a>
-    </div>
-    <em>도구를 빠르게 찾고 PDF 작업을 효율적으로 완료하는 데 도움이 되는 Acrobat의 새로운 작업 영역에 대해 알아보십시오</em>
-    <br>
   </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="작업 공간 기본 사항" src="../assets/workspace_acrobat.png" />
+      <img alt="작업 공간 기본 사항" src="../assets/workspace-basics.png" />
     </a>
-    <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>작업 영역 기본 사항</strong></a>
-    </div>
-    <em>Acrobat 작업 영역에서 데스크탑, 웹 및 모바일의 파일과 도구에 손쉽게 액세스하는 방법을 살펴봅니다</em>
-    <br>
   </td>
   <td>
     <a href="ai-assistant.md">
       <img alt="AI Assistant를 사용하여 PDF 인사이트 탐색" src="../assets/ai-assistant.png" />
     </a>
-    <div>
-    <a href="ai-assistant.md"><strong>AI Assistant를 사용하여 PDF 인사이트 탐색</strong></a>
-    </div>
-    <em>AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방법을 알아봅니다</em>
-    <br>
   </td>
   <td>
     <a href="acrobatweb.md">
-      <img alt="Acrobat 웹으로 장소에 상관없이 작업" src="../assets/Acrobatweb_1280.png" />
+      <img alt="Acrobat 웹으로 장소에 상관없이 작업" src="../assets/acrobat-web.png" />
     </a>
-    <div>
-    <a href="acrobatweb.md"><strong>Acrobat 웹으로 장소에 상관없이 작업</strong></a>
-    </div>
-    <em>브라우저에서 Acrobat 웹 도구를 사용하여 어디서나 비즈니스 문서 요청을 처리하는 방법에 대해 알아보십시오</em>
-    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="productivity.md">
-      <img alt="이동 중의 생산성" src="../assets/Productivity_1280.png" />
-    </a>
-    <div>
-     <a href="productivity.md"><strong>이동 중의 생산성</strong></a>
-    </div>
-    <em>Acrobat Reader 모바일 앱을 사용하여 태블릿이나 휴대폰에서 더 많은 작업을 바로 수행할 수 있습니다.</em>
-    <br>
+      <img alt="이동 중의 생산성" src="../assets/productivity.png" />
   </td>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
-        <img alt="Microsoft 365를 사용한 작업" src="../assets/WorkMicrosoft365_1280.png" />
-      </a>
-      <div>
-      <a href="../integrate/integrate-overview.md#microsoft"><strong>Microsoft 365를 사용한 작업</strong></a>
-      </div>
-      <em>Acrobat 및 XD를 사용하여 생산성 및 비즈니스 문서 작업 과정 향상 [!DNL Microsoft 365]</em>
-      <br>
+        <img alt="Microsoft 365를 사용한 작업" src="../assets/microsoft-365.png" />
     </td>
     <td>
       <a href="where-do-pdfs-come-from.md">
-        <img alt="PDF은 어디에서 오나요?" src="../assets/WherePDFs.jpg" />
+        <img alt="PDF은 어디에서 오나요?" src="../assets/where-pdfs.png" />
       </a>
-      <div>
-      <a href="where-do-pdfs-come-from.md"><strong>PDF은 어디에서 오나요?</strong></a>
-      </div>
-      <em>PDF의 출처와 용도 파악</em>
-      <br>
     </td>
     <td>
     <img alt="스페이서" src="../assets/Grayspacer.png" />
@@ -125,41 +84,20 @@ PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아�
       <a href="create-pdf.md">
         <img alt="PDF 파일 만들기" src="../assets/create.png" />
       </a>
-      <div>
-      <a href="create-pdf.md"><strong>PDF 만들기</strong></a>
-      </div>
-      <em>모든 종류의 문서에서 PDF 만들기</em>
-      <br>
     </td>
     <td>
       <a href="combine-to-pdf.md">
-        <img alt="Combine Files에서 PDF" src="../assets/Combine.jpg" />
-      </a>
-      <div>
-      <a href="combine-to-pdf.md"><strong>파일을 PDF에 결합</strong></a>
-      </div>
-      <em>서로 다른 여러 유형의 파일을 단일 PDF으로 결합</em>
-      <br>
+        <img alt="Combine Files에서 PDF" src="../assets/combine.png" />
     </td>
     <td>
       <a href="organize.md">
-        <img alt="페이지 구성" src="../assets/Organize.png" />
+        <img alt="페이지 구성" src="../assets/organize-pages.png" />
       </a>
-      <div>
-      <a href="organize.md"><strong>페이지 구성</strong></a>
-      </div>
-      <em>PDF에서 페이지 추가, 바꾸기, 추출, 회전, 삭제, 재정렬</em>
-      <br>
     </td>
     <td>
       <a href="add-custom-page.md">
-        <img alt="사용자 정의 페이지 추가" src="../assets/Custompage.png" />
+        <img alt="사용자 정의 페이지 추가" src="../assets/custom.png" />
       </a>
-      <div>
-      <a href="add-custom-page.md"><strong>사용자 정의 페이지 추가</strong></a>
-      </div>
-      <em>통합 Adobe Express 앱을 사용하여 PDF에 사용자 정의 페이지를 추가하는 방법을 알아봅니다.</em>
-      <br>
     </td>
   </tr>
   </table>
@@ -172,41 +110,21 @@ PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아�
       <a href="edit-pdf.md">
         <img alt="PDF에서 텍스트 편집" src="../assets/edit-text.png" />
       </a>
-      <div>
-      <a href="edit-pdf.md"><strong>PDF에서 텍스트 편집</strong></a>
-      </div>
-      <em>PDF에서 텍스트를 편집하는 방법 알아보기</em>
-      <br>
     </td>
     <td>
       <a href="stylize-this-PDF.md">
-        <img alt="이 PDF 스타일화" src="../assets/Stylize.png" />
+        <img alt="이 PDF 스타일화" src="../assets/stylize-pdf.png" />
       </a>
-      <div>
-      <a href="stylize-this-PDF.md"><strong>이 PDF 스타일화</strong></a>
-      </div>
-      <em>콘텐츠를 자동으로 조정하는 새로운 편집 모드에 대해 알아봅니다.</em>
-      <br>
     </td>
    <td>
       <a href="auto-adjust-layout.md">
-        <img alt="자동 조정 레이아웃" src="../assets/Autoadjust.png" />
+        <img alt="자동 조정 레이아웃" src="../assets/auto-adjust.png" />
       </a>
-      <div>
-      <a href="auto-adjust-layout.md"><strong>자동 조정 레이아웃</strong></a>
-      </div>
-      <em>콘텐츠를 자동으로 조정하는 새로운 편집 모드에 대해 알아봅니다.</em>
-      <br>
     </td>
     <td>
       <a href="export-pdf.md">
         <img alt="PDF을 다른 파일 형식으로 변환" src="../assets/convert.png" />
       </a>
-      <div>
-      <a href="export-pdf.md"><strong>PDF을 다른 파일 형식으로 변환</strong></a>
-      </div>
-      <em>PDF 파일을 Microsoft Word, Excel 또는 PowerPoint와 같은 다른 파일 형식으로 변환하는 방법에 대해 알아봅니다</em>
-      <br>
     </td>
   </tr>
   </table>
@@ -220,9 +138,9 @@ PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아�
         <img alt="실시간으로 공동 작업 수행" src="../assets/Collaborate_1280.png" />
       </a>
       <div>
-      <a href="collaborate.md"><strong>실시간으로 공동 작업 수행</strong></a>
+      <a href="collaborate.md"><strong>실시간 공동 작업</strong></a>
       </div>
-      <em>언제 어디서나 실시간으로 댓글을 수집하고, 공동 작업에 참여하고, 문서의 진행 상황을 추적하여 프로젝트를 진행하세요.</em>
+      <em>댓글을 수집하고, 공동 작업을 수행하고, 문서의 진행 상황을 실시간으로 추적하여 프로젝트를 진행하세요.</em>
       <br>
     </td>
     <td>
@@ -230,7 +148,7 @@ PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아�
         <img alt="PDF 댓글 달기" src="../assets/Comment.jpg" />
       </a>
       <div>
-      <a href="comment-on-pdf-files.md"><strong>PDF 댓글 달기</strong></a>
+      <a href="comment-on-pdf-files.md"><strong>PDF에 댓글</strong></a>
       </div>
       <em>PDF 파일에 주석을 추가한 다음 다른 사람과 공유</em>
       <br>
@@ -279,7 +197,7 @@ PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아�
     <div>
     <a href="scan-and-ocr.md"><strong>스캔 및 OCR</strong></a>
     </div>
-    <em>공유, 게시 또는 아카이빙의 품질을 저하시키지 않고 대용량 파일을 줄이고 PDF 최적화</em>
+    <em>공유, 게시 또는 보관 품질을 손상시키지 않고 대용량 파일을 줄이고 PDF을 최적화하십시오</em>
     <br>
   </td>
   <td>
@@ -287,9 +205,9 @@ PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아�
       <img alt="암호로 PDF 파일 Protect" src="../assets/Protect.jpg" />
     </a>
     <div>
-    <a href="password-protect.md"><strong>암호로 PDF 파일 Protect</strong></a>
+    <a href="password-protect.md"><strong>암호가 있는 PDF 파일 Protect</strong></a>
     </div>
-    <em>다른 사람이 파일을 열거나 편집하지 못하도록 PDF에 암호를 추가합니다</em>
+    <em>PDF에 암호를 추가하여 다른 사람이 파일을 열거나 편집하지 못하도록 보호</em>
     <br>
   </td>
 </tr>
@@ -301,7 +219,7 @@ PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아�
     <div>
     <a href="signatures.md"><strong>서명 받기</strong></a>
     </div>
-    <em>어디에서나 다른 사람에게 법적 구속력이 있는 전자 서명을 수집하여 비즈니스를 지속적으로 운영할 수 있습니다.</em>
+    <em>어디에서나 다른 사람에게 법적 구속력이 있는 전자 서명을 수집하여 비즈니스를 계속 진행하십시오.</em>
     <br>
   </td>
   <td>
