@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 45f8a9e0886f0c7c4f0dfa1ef0a8b705d3674696
+source-git-commit: 23ccd52c03d641ee945b7ba9a9356f5d4894a50b
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '232'
 ht-degree: 4%
 
 ---
@@ -20,14 +20,12 @@ ht-degree: 4%
 
 ## 새로운 기능
 
+* [PDF에서 그래픽 편집](edit-graphics.md)
+PDF에서 그래픽을 만들고 편집하고 향상시키는 방법을 살펴봅니다
 * [새 작업 영역 환경](new-workspace.md)
 도구를 빠르게 찾고 PDF 작업을 효율적으로 완료하는 데 도움이 되는 Acrobat의 새로운 작업 영역에 대해 알아보십시오
 * [AI 도우미를 사용하여 PDF 인사이트 탐색](ai-assistant.md)
 AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방법을 알아봅니다
-* [PDF을 다른 파일 형식으로 변환](export-pdf.md)
-PDF 파일을 Microsoft Word, Excel 또는 PowerPoint와 같은 다른 파일 형식으로 변환하는 방법에 대해 알아봅니다
-* [PDF에서 텍스트 편집](edit-pdf.md)
-PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아봅니다.
 
 ## 시작하기 자습서
 
@@ -112,6 +110,11 @@ PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아�
       </a>
     </td>
     <td>
+      <a href="edit-graphics.md">
+        <img alt="PDF에서 그래픽 편집" src="../assets/edit-graphics.png" />
+      </a>
+    </td>
+    <td>
       <a href="stylize-this-PDF.md">
         <img alt="이 PDF 스타일화" src="../assets/stylize-pdf.png" />
       </a>
@@ -121,13 +124,29 @@ PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아�
         <img alt="자동 조정 레이아웃" src="../assets/auto-adjust.png" />
       </a>
     </td>
+  </tr>
     <td>
       <a href="export-pdf.md">
         <img alt="PDF을 다른 파일 형식으로 변환" src="../assets/convert.png" />
       </a>
     </td>
-  </tr>
-  </table>
+    <td>
+   <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+   <td>
+   <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
 ## 공동 작업 튜토리얼
 
