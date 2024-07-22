@@ -10,7 +10,7 @@ kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
 source-git-commit: 68305a58ae7f9d5844568f2195be734245b8846d
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -65,7 +65,7 @@ Acrobat Sign을 처음 사용하십니까? 이 포괄적인 튜토리얼은 Acro
   <td>
      <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=272"><strong>전송 설정</strong></a>
         <br>
-        <em>4시 32분에 시작</em>
+        <em>4:32에 시작</em>
     </td>
   </tr>
   <tr>
@@ -77,7 +77,7 @@ Acrobat Sign을 처음 사용하십니까? 이 포괄적인 튜토리얼은 Acro
   <td>
      <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=551"><strong>채울 수 있는 필드 추가</strong></a>
          <br>
-        <em>9시 11분에 시작</em>
+        <em>9:11에 시작</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=719">

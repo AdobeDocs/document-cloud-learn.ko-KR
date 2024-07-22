@@ -5,16 +5,16 @@ feature: Convert PDF
 role: User
 level: Beginner
 jira: KT-13290
-exl-id: b5b3908e-422e-4ee5-95e9-5fd72c165242
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+exl-id: ed397b50-9b11-44ba-adeb-e962a078e772
+source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
 
 ---
 
-# PowerPoint로 PDF 변환
+# PDF을 PowerPoint로 변환
 
-60초 분량의 이 비디오 튜토리얼에서는 PDF 파일을 편집 가능한 Microsoft PowerPoint 문서로 변환하는 방법을 살펴봅니다.
+이 60초 분량의 비디오 튜토리얼에서는 PDF 파일을 완전히 편집 가능한 Microsoft PowerPoint 문서로 변환하는 방법을 살펴보세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342629?quality=12&learn=on&hidetitle=true)

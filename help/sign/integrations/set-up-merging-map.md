@@ -1,6 +1,6 @@
 ---
 title: Salesforce에서 병합 매핑 설정
-description: Salesforce 데이터를 Acrobat Sign 문서에 직접 병합하는 방법 알아보기
+description: Salesforce의 데이터를 Acrobat Sign 문서로 직접 병합하는 방법에 대해 알아보십시오
 feature: Integrations
 role: Admin
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Salesforce에서 병합 매핑 설정
 
-Salesforce의 데이터를 Acrobat Sign 문서에 직접 병합하는 방법에 대해 알아봅니다.
+Salesforce의 데이터를 Acrobat Sign 문서로 직접 병합하는 방법에 대해 알아보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409412?quality=12&learn=on&hidetitle=true)

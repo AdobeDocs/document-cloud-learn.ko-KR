@@ -16,6 +16,6 @@ ht-degree: 5%
 
 # 사용자 정의 페이지 추가
 
-수천 개의 템플릿을 선택할 수 있는 통합 Adobe Express 앱을 사용하여 PDF에 사용자 정의 페이지를 추가하는 방법을 알아봅니다. 이 비디오 튜토리얼에서는 [새 작업 영역 환경](new-workspace.md).
+수천 개의 템플릿을 선택할 수 있는 통합 Adobe Express 앱을 사용하여 PDF에 사용자 정의 페이지를 추가하는 방법을 알아봅니다. 이 비디오 튜토리얼에서는 [새로운 작업 영역 환경](new-workspace.md)을 사용합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347331?quality=12&learn=on&hidetitle=true)

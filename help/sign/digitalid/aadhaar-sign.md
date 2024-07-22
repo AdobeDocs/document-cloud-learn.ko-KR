@@ -1,6 +1,6 @@
 ---
-title: 다음을 사용하여 서명 [!DNL Aadhaar]
-description: 사진 편집 [!DNL Aadhaar] 디지털 ID - Acrobat Sign에서 문서에 대한 ID를 인증하고 원격 디지털 서명(클라우드 서명)을 승인합니다.
+title: ' [!DNL Aadhaar]을(를) 사용하여 서명'
+description: Acrobat Sign에서  [!DNL Aadhaar] 디지털 ID를 사용하여 ID를 인증하고 문서에 원격 디지털 서명(클라우드 서명)을 부여하는 방법을 알아봅니다
 feature: Digital ID
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 다음을 사용하여 서명 [!DNL Aadhaar]
+# [!DNL Aadhaar]을(를) 사용하여 서명
 
-사진 편집 [!DNL Aadhaar] 디지털 ID - Acrobat Sign에서 문서에 대한 ID를 인증하고 원격 디지털 서명(클라우드 서명)을 승인합니다.
+Acrobat Sign에서 [!DNL Aadhaar] 디지털 ID를 사용하여 ID를 인증하고 문서에 원격 디지털 서명(클라우드 서명)을 부여하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338362?quality=12&learn=on&hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: 의 파일을 사용하여 작업 [!DNL Dropbox]
-description: 변경 내용을 열고, 만들고, 편집하고, 서명하고, 저장하는 방법에 대해 [!DNL Dropbox] Acrobat 내의 파일
+title: ' [!DNL Dropbox]의 파일을 사용하여 작업'
+description: Acrobat 내에서  [!DNL Dropbox] 파일을 열고, 만들고, 편집하고, 서명하고, 변경 내용을 저장하는 방법을 알아봅니다.
 feature: Integrations, Create PDF, Sign, Edit PDF
 role: User
 level: Beginner
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 의 파일을 사용하여 작업 [!DNL Dropbox]
+# [!DNL Dropbox]의 파일을 사용하여 작업
 
-변경 내용을 열고, 만들고, 편집하고, 서명하고, 저장하는 방법에 대해 [!DNL Dropbox] 내보낼 수 있습니다. Dropbox 계정을 Acrobat에 연결하면 모든 파일을 간편하게 사용할 수 있으므로 시간을 절약할 수 있습니다.
+Acrobat 내에서 [!DNL Dropbox] 파일을 열고, 만들고, 편집하고, 서명하고, 변경 내용을 저장하는 방법을 알아봅니다. Dropbox 계정을 Acrobat에 연결하면 모든 파일을 손쉽게 이용할 수 있어 시간을 절약할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409411?quality=12&learn=on&hidetitle=true)

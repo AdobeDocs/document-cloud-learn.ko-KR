@@ -1,6 +1,6 @@
 ---
-title: 어디에서나 업무 생산성 향상
-description: Acrobat Reader 모바일 앱을 사용하면 태블릿이나 스마트폰에서 업무 효율성을 높일 수 있습니다
+title: 이동 중의 생산성
+description: Acrobat Reader 모바일 앱을 사용하여 태블릿이나 휴대폰에서 더 많은 작업을 바로 수행할 수 있습니다.
 feature: Mobile
 role: User
 level: Beginner
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 어디에서나 업무 생산성 향상
+# 이동 중의 생산성
 
-어디에서나 원격 근무를 할 수 있다면 신속하고 규모에 맞게 콘텐츠를 전달하는 것이 중요합니다. Acrobat Reader 모바일 앱을 사용하여 태블릿 또는 스마트폰에서 최대한 활용하는 방법을 살펴보세요.
+어디에서나 원격 작업을 수행할 수 있으므로 속도와 규모를 갖춘 컨텐츠를 제공하는 것이 매우 중요합니다. Acrobat Reader 모바일 앱을 사용하여 태블릿 또는 휴대폰에서 더 많은 작업을 올바르게 수행하는 방법에 대해 알아봅니다.
 
 >[!TIP]
 >
->어디에서나 액세스할 수 있는 Acrobat 툴에 대해 자세히 알아보시겠습니까? 체크아웃 [Acrobat 웹으로 어디에서나 작업](acrobatweb.md).
+>어디에서나 액세스할 수 있는 Acrobat 도구에 대해 자세히 알아보고 싶으신가요? [Acrobat 웹으로 어디에서나 작업](acrobatweb.md)을 확인하십시오.
 
 <br> 
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 ![QR 코드](../assets/Acrobatqrcode.jpg)
 
-QR 코드를 스캔하여 앱을 가져옵니다.
+QR 코드를 스캔하여 앱을 다운로드하세요.

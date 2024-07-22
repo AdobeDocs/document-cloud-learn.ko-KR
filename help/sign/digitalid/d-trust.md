@@ -1,6 +1,6 @@
 ---
-title: '[!DNL D-Trust]을(를) 사용하여 등록 및 서명'
-description: '[!DNL D-Trust]을(를) 사용하여 ID를 등록한 다음 Acrobat Sign의 문서에서 [!DNL D-Trust] 디지털 서명을 사용하는 방법을 알아봅니다.'
+title: '[!DNL D-Trust]를 사용하여 등록 및 서명'
+description: '[!DNL D-Trust]로 ID를 등록한 다음 Acrobat Sign에서 문서에 [!DNL D-Trust] 디지털 서명을 사용하는 방법을 알아봅니다'
 feature: Digital ID
 role: User
 solution: Acrobat Sign
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# 다음을 사용하여 등록 및 서명 [!DNL D-Trust]
+# [!DNL D-Trust]을(를) 사용하여 등록 및 서명
 
-다음을 사용하여 ID를 등록하는 방법에 대해 알아봅니다. [!DNL D-Trust]를 클릭한 다음 [!DNL D-Trust] Acrobat Sign에서 문서의 디지털 서명
+[!DNL D-Trust]에 ID를 등록한 다음 Acrobat Sign에서 문서에 [!DNL D-Trust] 디지털 서명을 사용하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410193?quality=12&learn=on&hidetitle=true)

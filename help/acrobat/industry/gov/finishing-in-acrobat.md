@@ -1,5 +1,5 @@
 ---
-title: PDF 액세스 가능하게 만들기—Acrobat에서 마무리
+title: PDF 액세스 가능 - Acrobat에서 마무리
 description: Acrobat에서 액세스 가능한 문서 만들기 완료
 feature: Accessibility
 role: User
@@ -9,14 +9,14 @@ thumbnail: 34514.jpg
 exl-id: 422ba8be-b24a-422b-b2d6-6070c2f06a7d
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
 # PDF 액세스 가능: Acrobat에서 마무리
 
-PDF 액세스 가능 시리즈의 세 번째 비디오 튜토리얼에서는 Acrobat Pro의 툴을 사용하여 PDF 파일에 액세스 가능하게 만드는 방법을 살펴봅니다.
+Acrobat Pro의 도구를 사용하여 PDF 파일에 액세스 가능하게 만드는 과정을 마치는 방법은 PDF 액세스 가능 만들기 시리즈의 세 번째 비디오 자습서에서 확인할 수 있습니다.
 
 >[!NOTE]
 >

@@ -10,7 +10,7 @@ exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
 source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
 workflow-type: tm+mt
 source-wordcount: '428'
-ht-degree: 5%
+ht-degree: 2%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 5%
 
 ## 새로운 기능
 
-* [Send in Bulk](megasign.md)
+* [대량 전송](megasign.md)
 간단한 몇 단계만으로 모든 문서에 대해 한 번에 수천 개의 서명을 수집하는 방법을 알아봅니다
 * [Acrobat Sign의 인증 방법](authentication-methods.md)
 Acrobat Sign에서 문서에 서명하는 사람의 신원을 인증하는 다양한 방법에 대해 알아봅니다
@@ -36,7 +36,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 신원을 인증하는 다�
     <div>
     <a href="setting-up-routing.md"><strong>서명 순서 설정</strong></a>
     </div>
-    <em>여러 서명자에 대한 서명 순서 설정</em>
+    <em>여러 서명자의 서명 순서 설정</em>
     <br>
   </td>
   <td>
@@ -46,7 +46,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 신원을 인증하는 다�
     <div>
     <a href="delegate-signature.md"><strong>위임자 역할 사용</strong></a>
     </div>
-    <em>위임자 역할을 사용하여 중개인에게 문서를 보낸 다음 서명을 위해 문서를 라우팅할 수 있습니다.</em>
+    <em>위임자 역할을 사용하여 서명을 받을 문서를 전달할 중개자에게 문서를 보낸 다음 서명을 받을 문서를 전달할 수 있습니다.</em>
     <br>
   </td>
   <td>
@@ -66,7 +66,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 신원을 인증하는 다�
     <div>
     <a href="authentication-methods.md"><strong>Acrobat Sign의 인증 방법</strong></a>
     </div>
-    <em>Acrobat Sign에서 사용할 수 있는 신원 인증 방법 범위에 대해 알아보기</em>
+    <em>Acrobat Sign에서 사용할 수 있는 ID 인증 방법 범위에 대해 알아보기</em>
     <br>
   </td>
 </tr>
@@ -78,7 +78,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 신원을 인증하는 다�
       <div>
       <a href="manage-form-data.md"><strong>양식 데이터 관리</strong></a>
       </div>
-      <em>문서에서 양식 데이터를 통합하는 방법 알아보기</em>
+      <em>문서에서 양식 데이터를 통합하는 방법</em>
       <br>
     </td>
   <td>
@@ -88,7 +88,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 신원을 인증하는 다�
     <div>
     <a href="set-up-online-payments.md"><strong>온라인 결제 설정</strong></a>
     </div>
-    <em>문서에서 온라인 결제를 설정하고 수락하는 방법에 대해 알아보십시오</em>
+    <em>문서에서 온라인 결제를 설정하고 수락하는 방법에 대해 알아보세요</em>
     <br>
   </td>
   <td>
@@ -98,7 +98,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 신원을 인증하는 다�
       <div>
       <a href="megasign.md"><strong>대량 전송</strong></a>
       </div>
-      <em>몇 번의 간단한 단계를 거쳐 어떤 문서에나 수백 개의 서명을 한 번에 수집할 수 있습니다</em>
+      <em>간단한 몇 단계만으로 모든 문서에 대해 수백 개의 서명을 한 번에 수집</em>
       <br>
   </td>
  <td>
@@ -128,9 +128,9 @@ Acrobat Sign에서 문서에 서명하는 사람의 신원을 인증하는 다�
       <img alt="텍스트 태그 지정 사용 [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
   </a>
     <div>
-    <a href="text-tagging-word.md"><strong>텍스트 태그 지정 사용 [!DNL Microsoft Word]</strong></a>
+    <a href="text-tagging-word.md"><strong>[!DNL Microsoft Word]</strong></a>에서 텍스트 태그 지정 사용
     </div>
-    <em>다음에서 Acrobat Sign 텍스트 태그를 추가하여 재사용 가능한 문서 템플릿을 만드는 방법을 알아봅니다. [!DNL Microsoft Word]</em>
+    <em>[!DNL Microsoft Word]</em>에서 Acrobat Sign 텍스트 태그를 추가하여 재사용 가능한 문서 템플릿을 만드는 방법을 알아봅니다.
     <br>
   </td>
   <td>
@@ -157,7 +157,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 신원을 인증하는 다�
     <div>
     <a href="creating-a-report.md"><strong>보고서 만들기</strong></a>
     </div>
-    <em>자체 보고서를 작성하여 문서 서명 프로세스를 확인하는 방법을 알아보십시오</em>
+    <em>문서 서명 프로세스를 확인하기 위해 보고서를 만드는 방법을 알아봅니다.</em>
     <br>
   </td>
   <td>
@@ -177,7 +177,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 신원을 인증하는 다�
     <div>
     <a href="modify-webform.md"><strong>기존 웹 양식 수정</strong></a>
     </div>
-    <em>기존 웹 양식을 비활성화, 편집 및 다시 활성화하는 방법 알아보기</em>
+    <em>기존 웹 양식을 비활성화, 편집 및 다시 활성화하는 방법</em> 알아보기
     <br>
   </td>  
   <td>
@@ -187,7 +187,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 신원을 인증하는 다�
     <div>
     <a href="manage-webform-data.md"><strong>웹 양식 데이터 관리</strong></a>
     </div>
-    <em>웹 폼에서 데이터를 추적, 관리 및 내보내는 방법을 알아봅니다.</em>
+    <em>웹 양식에서 데이터를 추적, 관리 및 내보내는 방법을 알아보세요</em>
     <br>
   </td>  
 </tr>

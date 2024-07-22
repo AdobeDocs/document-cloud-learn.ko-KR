@@ -1,6 +1,6 @@
 ---
 title: 기존 웹 양식 수정
-description: 기존 웹 양식을 비활성화, 편집 및 다시 활성화하는 방법에 대해 알아봅니다.
+description: 기존 웹 양식을 비활성화, 편집 및 다시 활성화하는 방법 알아보기
 feature: Web Forms
 role: User, Admin
 level: Intermediate

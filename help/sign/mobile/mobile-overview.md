@@ -10,8 +10,8 @@ thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 28%
+source-wordcount: '100'
+ht-degree: 10%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 28%
     <div>
     <a href="sign-mobile.md"><strong>이동 중에 문서에 서명</strong></a>
     </div>
-    <em>Acrobat Sign 모바일 앱을 사용하여 문서에 서명하는 방법을 알아봅니다.</em>
+    <em>Acrobat Sign 모바일 앱을 사용하여 문서에 서명하는 방법 알아보기</em>
     <br>
   </td>
   <td>
@@ -38,7 +38,7 @@ ht-degree: 28%
     <div>
     <a href="liquidmode.md"><strong>Acrobat Sign의 Liquid Mode</strong></a>
     </div>
-    <em>Liquid Mode가 모바일 서명 경험을 개선하는 방법에 대해 알아보기</em>
+    <em>Liquid Mode로 모바일 서명 환경을 개선하는 방법 알아보기</em>
     <br>
   </td>
   <td>

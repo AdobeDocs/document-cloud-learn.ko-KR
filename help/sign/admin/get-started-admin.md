@@ -9,7 +9,7 @@ thumbnail: KT-11289.jpg
 exl-id: 71a00fa1-2814-4f8b-87e1-61bbce752308
 source-git-commit: 2d78b8ab24e6ecd73a01889c29b50093f055edf5
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=358"><strong>전역 설정 및 구성</strong></a>
         <br>
-        <em>5시 58분에 시작</em>
+        <em>5:58에 시작</em>
     </td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=460"><strong>계정 브랜딩 및 설정</strong></a>
          <br>
-        <em>7시 40분에 시작</em>
+        <em>7:40에 시작</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=502">
@@ -100,7 +100,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=595"><strong>전송 설정</strong></a>
         <br>
-        <em>9시 55분에 시작</em>
+        <em>9:55에 시작</em>
     </td>
   </tr>
   <tr>
@@ -140,7 +140,7 @@ ht-degree: 0%
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=917"><strong>워크플로우 만들기 및 활성화</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=917"><strong>워크플로 만들기 및 활성화</strong></a>
         <br>
         <em>15:17에 시작</em>
   </td>
@@ -152,7 +152,7 @@ ht-degree: 0%
     </a>
     </td>
     <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=1145"><strong>지원 및 추가 리소스 이용</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=1145"><strong>지원 및 추가 리소스에 액세스</strong></a>
         <br>
         <em>19:05에 시작</em>
     </td>

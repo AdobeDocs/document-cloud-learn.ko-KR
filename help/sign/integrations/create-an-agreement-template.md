@@ -1,6 +1,6 @@
 ---
-title: 문서 작성기 [!DNL Salesforce]
-description: Salesforce용 문서 빌더를 사용하여 재사용 가능한 문서 템플릿을 만드는 방법을 알아봅니다
+title: ' [!DNL Salesforce]용 Document Builder'
+description: Salesforce용 Document Builder를 사용하여 재사용 가능한 문서 템플릿을 만드는 방법을 알아보십시오
 feature: Integrations
 role: User, Admin
 topic: Integrations
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 문서 작성기 [!DNL Salesforce]
+# [!DNL Salesforce]용 Document Builder
 
-Salesforce용 문서 빌더를 사용하여 재사용 가능한 문서 템플릿을 만드는 방법을 알아봅니다. 재사용 가능한 문서 템플릿은 서명 트랜잭션의 속도와 일관성을 제공하고 문서 수정 및 변경 사항을 관리할 수 있는 기능을 제공합니다.
+Salesforce용 Document Builder를 사용하여 재사용 가능한 문서 템플릿을 만드는 방법을 알아보십시오. 재사용 가능한 문서 템플릿은 Sign 트랜잭션에서 속도와 일관성을 제공하고 문서 수정 및 변경 내용을 관리하는 기능을 제공합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409414?quality=12&learn=on&hidetitle=true)

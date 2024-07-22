@@ -9,7 +9,7 @@ thumbnail: 17346.jpg
 exl-id: 2489676e-5dd4-458e-99b6-14c671ed336d
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '45'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->이 비디오는 과정의 일부입니다 [사용자를 위한 고급 작업](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) Experience League에서 무료로 사용할 수 있습니다!
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 [사용자를 위한 고급 작업](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 과정의 일부입니다.

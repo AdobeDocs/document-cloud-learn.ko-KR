@@ -1,6 +1,6 @@
 ---
-title: 전송 옵션 구성
-description: 서명을 위해 문서를 보낼 때 다양한 옵션을 구성하는 방법 알아보기
+title: 보내기 옵션 구성
+description: 서명을 위해 문서를 전송할 때 다양한 옵션을 구성하는 방법에 대해 알아보십시오
 feature: Sign, Workflow
 role: User
 level: Beginner
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 보내기 옵션 구성
 
-서명을 위해 문서를 보낼 때 다양한 옵션을 구성하는 방법에 대해 알아봅니다. 문서 메시지, 파일 형식, 알림 메시지 빈도 및 문서 만료를 설정하는 방법을 살펴봅니다.
+서명을 위해 문서를 보낼 때 다양한 옵션을 구성하는 방법에 대해 알아봅니다. 문서 메시지, 파일 형식, 미리 알림 빈도 및 문서 만료를 설정하는 방법을 살펴보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)

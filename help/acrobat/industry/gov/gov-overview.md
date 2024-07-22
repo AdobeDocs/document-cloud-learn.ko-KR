@@ -1,6 +1,6 @@
 ---
-title: 공공 기관을 위한 Acrobat
-description: 연방, 주 및 지방 자치 단체용으로 특별히 제작된 Acrobat 튜토리얼을 살펴보십시오
+title: 정부용 Acrobat
+description: 연방, 주 및 지방 자치 단체용으로 특별히 설계된 Acrobat 튜토리얼을 살펴보세요
 feature: Accessibility, Collaboration, Workspace, Mobile, Security
 role: User
 level: Beginner, Intermediate, Experienced
@@ -9,37 +9,37 @@ thumbnail: KT-9910.jpg
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
 
-# 공공 기관을 위한 Acrobat
+# 정부용 Acrobat
 
-연방, 주 및 지방 자치 기관을 위해 특별히 고안된 Acrobat 튜토리얼을 살펴보십시오.
+연방, 주 및 지방 자치 단체용으로 특별히 설계된 Acrobat 튜토리얼을 살펴보세요.
 
-## 어디에서나 Acrobat으로 작업하기 위한 5가지 팁
+## 어디서나 Acrobat으로 작업할 수 있는 5가지 팁
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="5-tips-for-working-anywhere-with-acrobat-dc-for-government.md">
-      <img alt="어디에서나 Acrobat으로 작업하기 위한 5가지 팁(완료 15:12)" src="../../assets/5tipscomplete.png" />
+      <img alt="Acrobat으로 장소에 상관없이 작업하기 위한 5가지 팁(전체 15:12)" src="../../assets/5tipscomplete.png" />
     </a>
     <div>
-    <a href="5-tips-for-working-anywhere-with-acrobat-dc-for-government.md"><strong>어디에서나 Acrobat으로 작업하기 위한 5가지 팁(완료 15:12)</strong></a>
+    Acrobat으로 장소에 상관없이 작업하기 위한 <a href="5-tips-for-working-anywhere-with-acrobat-dc-for-government.md"><strong>5가지 팁(15:12 완료)</strong></a>
     </div>
-    <em>Acrobat의 툴과 함께 사용 가능한 모바일 앱을 사용하여 어디에서나 작업하는 방법을 살펴보세요</em>
+    <em>Acrobat 및 모바일 앱의 도구를 가져와 사용하여 어디서나 작업하는 방법을 알아보세요</em>
     <br>
   </td>
   <td>
     <a href="get-your-tools.md">
-      <img alt="팁 1: 툴 다운로드" src="../../assets/Tip1.png" />
+      <img alt="팁 1: 도구 다운로드" src="../../assets/Tip1.png" />
     </a>
     <div>
-    <a href="get-your-tools.md"><strong>팁 1: 툴 다운로드</strong></a>
+    <a href="get-your-tools.md"><strong>팁 1: 도구 가져오기</strong></a>
     </div>
-    <em>어디에서나 작업을 시작할 수 있는 첫 번째 단계는 Acrobat 툴과 함께 제공되는 모바일 앱을 이용하는 것입니다</em>
+    <em>장소에 상관없이 작업을 시작하는 첫 번째 단계는 Acrobat 도구와 보조 모바일 앱을 얻는 것입니다</em>
     <br>
   </td>  
   <td>
@@ -49,7 +49,7 @@ ht-degree: 0%
     <div>
     <a href="collaborate-on-documents.md"><strong>팁 2: 문서에서 공동 작업</strong></a>
     </div>
-    <em>문서 공동 작업을 위한 간단하고 간편한 워크플로우 구축</em>
+    <em>문서 공동 작업을 위한 간단하고 쉬운 워크플로우 만들기</em>
     <br>
   </td>
   <td>
@@ -59,28 +59,28 @@ ht-degree: 0%
     <div>
     <a href="protect-digital-documents.md"><strong>팁 3: Protect 디지털 문서</strong></a>
     </div>
-    <em>복사, 편집 또는 인쇄를 방지하기 위해 PDF에 암호를 추가합니다</em>
+    <em>PDF에 암호를 추가하여 복사, 편집 또는 인쇄를 방지하세요.</em>
     <br>
   </td>
 </tr>
   <td>
     <a href="work-with-forms-and-signatures.md">
-      <img alt="팁 4: 양식 및 서명을 사용하여 작업" src="../../assets/Tip4.png" />
+      <img alt="팁 4: 양식 및 서명 작업" src="../../assets/Tip4.png" />
     </a>
     <div>
-    <a href="work-with-forms-and-signatures.md"><strong>팁 4: 양식 및 서명을 사용하여 작업</strong></a>
+    <a href="work-with-forms-and-signatures.md"><strong>팁 4: 양식 및 서명 작업</strong></a>
     </div>
-    <em>양식 작성 시 디지털을 유지하는 방법 알아보기</em>
+    <em>양식을 작성할 때 디지털로 유지하는 방법 알아보기</em>
     <br>
   </td>
   <td>
     <a href="scan-and-edit-on-mobile.md">
-      <img alt="팁 5: 모바일 디바이스에서 스캔 및 편집" src="../../assets/Tip5.png" />
+      <img alt="팁 5: 모바일에서 스캔 및 편집" src="../../assets/Tip5.png" />
     </a>
     <div>
-    <a href="scan-and-edit-on-mobile.md"><strong>팁 5: 모바일 디바이스에서 스캔 및 편집</strong></a>
+    <a href="scan-and-edit-on-mobile.md"><strong>팁 5: 모바일에서 스캔 및 편집</strong></a>
     </div>
-    <em>Adobe Scan 및 Acrobat Reader 모바일 앱을 사용하여 어디에서나 작업을 수행하는 방법에 대해 알아봅니다</em>
+    <em>Adobe Scan 및 Acrobat Reader 모바일 앱을 사용하여 어디서나 작업을 수행하는 방법을 알아보세요</em>
     <br>
   </td>
   <td>
@@ -102,12 +102,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="making-pdfs-accessible.md">
-      <img alt="PDF 액세스 가능(완료 14:11)" src="../../assets/Accessiblecomplete.png" />
+      <img alt="PDF 액세스 가능(14:11 완료)" src="../../assets/Accessiblecomplete.png" />
     </a>
     <div>
-    <a href="making-pdfs-accessible.md"><strong>PDF 액세스 가능(완료 14:11)</strong></a>
+    <a href="making-pdfs-accessible.md"><strong>PDF 액세스 가능(14:11 완료)</strong></a>
     </div>
-    <em>액세스 가능한 PDF 파일을 만들기 위한 최적의 작업 과정에 대해 알아봅니다.</em>
+    <em>액세스 가능한 PDF 파일을 만드는 최적의 워크플로에 대해 알아보세요</em>
     <br>
   </td>
   <td>
@@ -115,9 +115,9 @@ ht-degree: 0%
       <img alt="PDF 액세스 가능: 액세스 가능성 이해" src="../../assets/Accessibiityunderstanding.png" />
     </a>
     <div>
-    <a href="understanding-accessibility.md"><strong>PDF 액세스 가능: 액세스 가능성 이해</strong></a>
+    <a href="understanding-accessibility.md"><strong>PDF 액세스 가능: 접근성 이해</strong></a>
     </div>
-    <em>장애가 있는 사용자가 액세스할 수 있는 PDF을 만드는 것의 의미를 알아봅니다</em>
+    <em>장애가 있는 사용자가 PDF에 액세스할 수 있도록 만드는 방법에 대해 알아보세요</em>
     <br>
   </td>  
   <td>
@@ -127,7 +127,7 @@ ht-degree: 0%
     <div>
     <a href="collaborate-on-documents.md"><strong>PDF 액세스 가능: Word에서 작성</strong></a>
     </div>
-    <em>에서 작성된 PDF 파일을 만들기 위한 모범 사례 [!DNL Microsoft Word]</em>
+    <em>[!DNL Microsoft Word]</em>에서 작성된 PDF 파일을 만들기 위한 모범 사례 알아보기
     <br>
   </td>
    <td>
@@ -135,21 +135,21 @@ ht-degree: 0%
       <img alt="PDF 액세스 가능: Acrobat에서 마무리" src="../../assets/Accessibilityacrobat.png" />
     </a>
     <div>
-    <a href="finishing-in-acrobat.md"><strong>PDF 액세스 가능: Acrobat에서 마무리</strong></a>
+    <a href="finishing-in-acrobat.md"><strong>PDF에 액세스 가능하게 만들기: Acrobat에서 마침</strong></a>
     </div>
-    <em>Acrobat Pro의 툴을 사용하여 PDF 파일에 액세스 가능하게 만드는 방법을 살펴봅니다</em>
+    <em>Acrobat Pro의 도구를 사용하여 PDF 파일에 액세스할 수 있도록 완료하는 방법</em>을 알아보세요.
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="making-pdf-ballots-accessible.md">
-      <img alt="PDF 투표용지의 접근성 향상" src="../../assets/Accessibleballots.png" />
+      <img alt="보다 접근성 높은 PDF 투표 만들기" src="../../assets/Accessibleballots.png" />
     </a>
     <div>
-    <a href="making-pdf-ballots-accessible.md"><strong>PDF 투표용지의 접근성 향상</strong></a>
+    <a href="making-pdf-ballots-accessible.md"><strong>더 접근하기 쉬운 PDF 투표 만들기</strong></a>
     </div>
-    <em>이 온라인 세미나는 화면 판독기와 같은 보조 기술 사용자가 투표지를 읽고 완료할 수 있도록 하는 데 필요한 PDF 접근성의 주요 영역을 다룹니다</em>
+    <em>이 웨비나는 화면 판독기와 같은 보조 기술 사용자가 투표지를 읽고 완료하는 데 필요한 PDF 접근성의 주요 영역을 다룹니다</em>
     <br>
   </td>  
   <td>

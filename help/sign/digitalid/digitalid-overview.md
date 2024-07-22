@@ -25,9 +25,9 @@ ht-degree: 0%
 ## 새로운 기능
 
 * [Digidentity를 사용하여 등록 및 서명](digidentity-sign.md)
-다음을 등록하고 사용하는 방법에 대해 알아보십시오. [!DNL Digidentity] Acrobat Sign이 포함된 디지털 ID
+Acrobat Sign에서 [!DNL Digidentity] 디지털 ID를 등록하고 사용하는 방법에 대해 알아봅니다.
 * [D-Trust를 사용하여 등록 및 서명](d-trust.md)
-다음으로 ID를 등록하는 방법 알아보기 [!DNL D-Trust]을 클릭한 다음 [!DNL D-Trust] Acrobat Sign 문서의 디지털 서명
+[!DNL D-Trust]에 ID를 등록한 다음 Acrobat Sign에서 문서에 [!DNL D-Trust] 디지털 서명을 사용하는 방법에 대해 알아봅니다
 
 ## [!DNL Aadhaar]
 
@@ -38,9 +38,9 @@ ht-degree: 0%
       <img alt="다음을 사용하여 서명 [!DNL Aadhaar]" src="assets/Aadhaarsign_1280.png" />
     </a>
     <div>
-    <a href="aadhaar-sign.md"><strong>다음을 사용하여 서명 [!DNL Aadhaar]</strong></a>
+    <a href="aadhaar-sign.md"><strong>[!DNL Aadhaar]</strong></a>을(를) 사용하여 서명
     </div>
-    <em>다음 기능을 사용하는 방법 알아보기 [!DNL Aadhaar] Acrobat Sign이 포함된 디지털 ID</em>
+    <em>Acrobat Sign에서 [!DNL Aadhaar] 디지털 ID를 사용하는 방법</em> 알아보기
     <br>
   </td>
   <td>
@@ -67,12 +67,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="digidentity-sign.md">
-      <img alt="다음을 사용하여 등록 및 서명 [!DNL Digidentity] 디지털 ID" src="assets/Digidentitysign_1280.png" />
+      <img alt="[!DNL Digidentity] 디지털 ID를 사용하여 등록 및 서명" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
-    <a href="digidentity-sign.md"><strong>다음을 사용하여 등록 및 서명 [!DNL Digidentity]</strong></a>
+    <a href="digidentity-sign.md"><strong>[!DNL Digidentity]</strong></a>을(를) 사용하여 등록 및 서명
     </div>
-    <em>다음을 등록하고 사용하는 방법에 대해 알아보십시오. [!DNL Digidentity] Acrobat Sign이 포함된 디지털 ID</em>
+    <em>Acrobat Sign에서 [!DNL Digidentity] 디지털 ID를 등록하고 사용하는 방법을 알아보세요</em>
     <br>
   </td>
   <td>
@@ -104,7 +104,7 @@ ht-degree: 0%
     <div>
     <a href="d-trust.md"><strong>D-Trust를 사용하여 등록 및 서명</strong></a>
     </div>
-    <em>다음으로 ID를 등록하는 방법 알아보기 [!DNL D-Trust]을 클릭한 다음 [!DNL D-Trust] Acrobat Sign 문서의 디지털 서명</em>
+    <em>ID를 [!DNL D-Trust]에 등록한 다음 Acrobat Sign에서 문서에 [!DNL D-Trust] 디지털 서명을 사용하는 방법을 알아보세요</em>
     <br>
   </td>
   <td>
@@ -134,19 +134,19 @@ ht-degree: 0%
       <img alt="Intesi Group에서 디지털 ID 받기(고급)" src="assets/IntesiAdvanced_1280.png" />
     </a>
     <div>
-    <a href="intesi-advanced.md"><strong>다음에서 디지털 ID 받기 [!DNL Intesi Group] (고급)</strong></a>
+    <a href="intesi-advanced.md"><strong>[!DNL Intesi Group](고급)에서 디지털 ID 가져오기</strong></a>
     </div>
-    <em>에서 고급 디지털 서명 인증서를 가져오는 방법에 대해 알아보십시오. [!DNL Intesi Group]</em>
+    <em>[!DNL Intesi Group]</em>에서 고급 디지털 서명 인증서를 받는 방법을 알아보세요.
     <br>
   </td>
   <td>
     <a href="intesi-qualified.md">
-      <img alt="다음에서 디지털 ID 받기 [!DNL Intesi Group] (적격)" src="assets/IntesiQualified_1280.png" />
+      <img alt="[!DNL Intesi Group](한정됨)에서 디지털 ID 가져오기" src="assets/IntesiQualified_1280.png" />
     </a>
     <div>
-    <a href="intesi-qualified.md"><strong>다음에서 디지털 ID 받기 [!DNL Intesi Group] (적격)</strong></a>
+    <a href="intesi-qualified.md"><strong>[!DNL Intesi Group](한정됨)에서 디지털 ID 가져오기</strong></a>
     </div>
-    <em>다음 링크에서 자격을 갖춘 디지털 서명 인증서를 받는 방법에 대해 알아보십시오. [!DNL Intesi Group]</em>
+    <em>[!DNL Intesi Group]</em>에서 자격을 갖춘 디지털 서명 인증서를 받는 방법에 대해 알아보세요.
     <br>
   </td>
   <td>
@@ -154,9 +154,9 @@ ht-degree: 0%
       <img alt="Intesi Group을 사용하여 서명" src="assets/IntesiSign_1280.png" />
     </a>
     <div>
-    <a href="intesi-sign.md"><strong>다음을 사용하여 서명 [!DNL Intesi Group]</strong></a>
+    <a href="intesi-sign.md"><strong>[!DNL Intesi Group]</strong></a>을(를) 사용하여 서명
     </div>
-    <em>다음 기능을 사용하는 방법 알아보기 [!DNL Intesi Group] Acrobat Sign이 포함된 디지털 ID</em>
+    <em>Acrobat Sign에서 [!DNL Intesi Group] 디지털 ID를 사용하는 방법</em> 알아보기
     <br>
   </td>
   <td>

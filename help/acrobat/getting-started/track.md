@@ -1,6 +1,6 @@
 ---
 title: 문서 추적
-description: 서명 대기 중인 파일과 서명된 파일 항상 확인
+description: 서명 대기 중인 파일과 서명된 파일을 항상 확인
 feature: Sign
 role: User
 level: Beginner
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 문서 추적
 
-서명 대기 중인 파일과 서명된 파일을 항상 확인합니다.
+항상 어떤 파일이 서명 대기 중이며 어떤 파일이 서명되었는지 알고 있어야 합니다.
 
 >[!IMPORTANT]
 >

@@ -21,14 +21,14 @@ ht-degree: 0%
 [!BADGE 사용 사례]
 애플리케이션, 자료, Fact Sheet, 설명서, 정책, 보고서, RFP(구매 요청)
 
-[!BADGE 조직적 영향]
+[!BADGE 조직 영향]
 비용 절감, 조직 효율성, 시간 절약, 품질 보증
 
 >[!VIDEO](https://video.tv.adobe.com/v/337211?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
-이 비디오는 과정의 일부입니다. [Acrobat DC 및 Microsoft 365로 보다 스마트하게 작업](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 그것은 Experience League에서 무료로 사용할 수 있습니다!
+이 비디오는 Experience League에서 무료로 사용할 수 있는 [Acrobat DC 및 Microsoft 365로 더 스마트하게 작업하기](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 과정의 일부입니다.
 
 >[!NOTE]
 >

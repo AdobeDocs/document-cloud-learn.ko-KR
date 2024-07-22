@@ -1,6 +1,6 @@
 ---
 title: 책갈피 및 하이퍼링크 추가
-description: 책갈피와 하이퍼링크를 추가하여 PDF 파일과 손쉽게 탐색하고 상호 작용할 수 있는 방법을 살펴봅니다
+description: PDF 파일을 보다 효율적으로 탐색하고 상호 작용하기 위해 책갈피와 하이퍼링크를 추가하는 방법을 알아봅니다
 feature: Edit PDF
 role: User
 level: Intermediate
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 책갈피 및 하이퍼링크 추가
 
-책갈피와 하이퍼링크를 추가하여 PDF 파일과 손쉽게 탐색하고 상호 작용하는 방법을 살펴봅니다.
+PDF 파일을 더 잘 탐색하고 상호 작용하기 위해 책갈피와 하이퍼링크를 추가하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340837?quality=12&learn=on&hidetitle=true)

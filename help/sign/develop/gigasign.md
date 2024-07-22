@@ -21,7 +21,7 @@ Gigasign을 사용하면 동시에 수천 명의 사람들에게 서명을 받�
 
 >[!IMPORTANT]
 >
->GigaSign은 더 이상 최신 버전의 Java 또는 Acrobat Sign으로 업데이트되지 않으며 제한된 지원만 제공합니다. GigaSign의 기능은 [Send in Bulk](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?) 기능. GigaSign의 사용이 명시적으로 필요하지 않은 모든 사용 사례에 대해 대량 전송 을 사용하십시오.
+>GigaSign은 더 이상 최신 버전의 Java 또는 Acrobat Sign으로 업데이트되지 않으며 제한된 지원만 제공합니다. GigaSign의 기능은 [대량 전송](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?) 기능 아래에 제품에 추가됩니다. GigaSign의 사용이 명시적으로 필요하지 않은 모든 사용 사례에 대해 대량 전송 을 사용하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
@@ -31,13 +31,13 @@ Gigasign을 사용하면 동시에 수천 명의 사람들에게 서명을 받�
 
 [Java 1.8 다운로드 링크(필요한 경우에만)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
-[흰색 목록에 IP 주소(필요한 경우에만)](https://helpx.adobe.com/kr/sign/system-requirements.html#IPs){target="_blank"}
+[허용 목록에 IP 주소(필요한 경우에만)](https://helpx.adobe.com/kr/sign/system-requirements.html#IPs){target="_blank"}
 
 ## 기본 설정 지침
 
 1. Acrobat Sign 계정에 로그인합니다.
 
-1. 다음을 수행합니다. **[!UICONTROL 그룹]** 또는 **[!UICONTROL 계정]**, 맨 위에 표시되는 항목 중 하나를 선택합니다.
+1. **[!UICONTROL 그룹]** 또는 **[!UICONTROL 계정]** 중 맨 위에 표시되는 항목을 클릭합니다.
 
 1. 화면 왼쪽의 검색 필드에 &quot;액세스 토큰&quot;을 입력합니다.
 
@@ -49,7 +49,7 @@ Gigasign을 사용하면 동시에 수천 명의 사람들에게 서명을 받�
 
 1. GigaSign을 엽니다.
 
-1. 다음을 클릭합니다. **[!UICONTROL 설정]** 아이콘을 클릭합니다.
+1. 오른쪽 상단의 **[!UICONTROL 설정]** 아이콘을 클릭합니다.
 
 1. 첫 번째 줄에 통합 키를 붙여넣습니다.
 

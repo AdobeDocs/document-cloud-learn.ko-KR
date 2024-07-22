@@ -1,6 +1,6 @@
 ---
 title: 데이터 매핑 설정
-description: Acrobat Sign의 데이터 매핑을 설정하는 방법 [!DNL Salesforce]
+description: ' [!DNL Salesforce]에서 Acrobat Sign에 대한 데이터 매핑을 설정하는 방법 알아보기'
 feature: Integrations
 role: Admin
 topic: Integrations
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 데이터 매핑 설정 [!DNL Salesforce]
+# [!DNL Salesforce]에서 데이터 매핑 설정
 
-Acrobat Sign의 데이터 매핑을 설정하는 방법 [!DNL Salesforce]. 데이터 매핑을 사용하여 데이터를 가져올 수 있습니다. _뒤_ 로 [!DNL Salesforce] 계약서에 서명한 후
+[!DNL Salesforce]에서 Acrobat Sign에 대한 데이터 매핑을 설정하는 방법에 대해 알아보십시오. 데이터 매핑을 사용하면 계약에 서명한 후 _뒤로_ 데이터를 [!DNL Salesforce](으)로 가져올 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409073?quality=12&learn=on&hidetitle=true)

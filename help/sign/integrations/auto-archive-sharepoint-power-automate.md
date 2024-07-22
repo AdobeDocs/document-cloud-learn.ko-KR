@@ -1,6 +1,6 @@
 ---
-title: 파일 자동 보관 위치 [!DNL SharePoint] 에 [!DNL Power Automate]
-description: 서명된 문서를 [!DNL SharePoint] 라이브러리 사용 [!DNL Power Automate]
+title: ' [!DNL SharePoint] 포함 [!DNL Power Automate]에서 파일 자동 보관'
+description: ' [!DNL Power Automate]을(를) 사용하여 서명된 문서를  [!DNL SharePoint] 라이브러리에 자동으로 보관하는 방법을 알아보십시오.'
 feature: Integrations
 role: Admin, User
 level: Intermediate
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# 파일 자동 보관 위치 [!DNL SharePoint] 에 [!DNL Power Automate]
+# [!DNL Power Automate]을(를) 사용하여 [!DNL SharePoint]의 파일 자동 보관
 
-서명된 문서를 [!DNL SharePoint] 라이브러리 사용 [!DNL Power Automate].
+[!DNL Power Automate]을(를) 사용하여 서명된 문서를 [!DNL SharePoint] 라이브러리에 자동으로 보관하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409121?quality=12&learn=on&hidetitle=true)

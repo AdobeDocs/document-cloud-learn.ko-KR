@@ -5,15 +5,16 @@ feature: Edit PDF
 role: User
 level: Intermediate
 jira: KT-14195
-source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
+exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
+source-git-commit: 40215bac6760f1a3640f82e43cee3f2f02fafcd8
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 4%
+source-wordcount: '45'
+ht-degree: 0%
 
 ---
 
 # 이 PDF 스타일화
 
-사용하기 쉬운 통합 디자인 도구를 사용하여 전문가 수준의 PDF을 만드는 방법을 살펴보세요. [Adobe Express](https://express.adobe.com). 이 비디오 튜토리얼에서는 [새 작업 영역 환경](new-workspace.md).
+[Adobe Express](https://express.adobe.com)에서 사용하기 쉬운 통합 디자인 도구를 사용하여 전문가 수준의 PDF을 만드는 방법을 알아봅니다. 이 비디오 튜토리얼에서는 [새로운 작업 영역 환경](new-workspace.md)을 사용합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425137?quality=12&learn=on&hidetitle=true)

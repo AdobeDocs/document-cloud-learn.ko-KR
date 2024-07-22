@@ -27,9 +27,9 @@ ht-degree: 0%
       <img alt="정부 튜토리얼" src="../assets/Government.png" />
     </a>
     <div>
-    <a href="gov/gov-overview.md"><strong>정부 튜토리얼</strong></a>
+    <a href="gov/gov-overview.md"><strong>정부 자습서</strong></a>
     </div>
-    <em>연방, 주 및 지방 자치 단체용으로 특별히 설계된 Acrobat 튜토리얼을 살펴보세요</em>
+    <em>연방, 주 및 지방 자치 단체를 위해 특별히 설계된 Acrobat 튜토리얼 살펴보기</em>
     <br>
   </td>
   <td>

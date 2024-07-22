@@ -1,6 +1,6 @@
 ---
-title: 다른 사용자에게 서명 위임
-description: 다른 사용자에게 문서 서명을 위임하는 방법 알아보기
+title: 다른 사람에게 서명 위임
+description: 문서 서명을 다른 사람에게 위임하는 방법을 알아보십시오
 feature: Sign, Workflow
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 다른 사용자에게 서명 위임
+# 다른 사람에게 서명 위임
 
-문서 서명을 다른 사람에게 위임하는 방법을 알아봅니다.
+문서 서명을 다른 사람에게 위임하는 방법을 알아보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343856?quality=12&learn=on&hidetitle=true)

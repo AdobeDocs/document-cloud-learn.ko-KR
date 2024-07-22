@@ -38,7 +38,7 @@ ht-degree: 0%
     <div>
     <a href="recipes.md"><strong>사용 사례</strong></a>
     </div>
-    <em>이러한 실제 사용 사례를 통해 다양한 조직이 Acrobat Sign을 어떻게 사용하는지 살펴보십시오</em>
+    <em>이러한 실제 사용 사례로 다양한 조직에서 Acrobat Sign을 사용하는 방법을 살펴보십시오</em>
     <br>
   </td>
   <td>
@@ -46,9 +46,9 @@ ht-degree: 0%
       <img alt="사용 사례 쇼케이스" src="../assets/UseCaseShowcaseR.png" />
     </a>
     <div>
-    <a href="use-case-showcase.md"><strong>사용 사례 쇼케이스</strong></a>
+    <a href="use-case-showcase.md"><strong>사용 사례 전시</strong></a>
     </div>
-    <em>새로운 Acrobat Sign 사용 사례 및 트렌드에 대해 소개하는 라이브 또는 녹화된 세션을 시청하십시오.</em>
+    <em>새로운 Acrobat Sign 사용 사례 및 트렌드에 대해 소개하는 라이브 또는 녹화된 세션 시청</em>
     <br>
   </td>
   <td>

@@ -9,7 +9,7 @@ thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
 source-git-commit: 580ab332226b408d735639342bd3f6b96323a9b3
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '152'
 ht-degree: 3%
 
 ---
@@ -20,13 +20,13 @@ ht-degree: 3%
 
 [!BADGE 사용 사례]
 
-* [재택근무 협정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en)
+* [텔레워크 계약](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en)
 * [정책 계약](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=en)
 
 >[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
 
-[ZIP 형식의 샘플 CSV 파일 다운로드](../assets/sendInBulkSample.zip). CSV 파일에 설정할 수 있는 모든 값에 대해 알아보십시오. [여기](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html).
+[ZIP 형식의 샘플 CSV 파일을 다운로드합니다](../assets/sendInBulkSample.zip). CSV 파일에서 설정할 수 있는 모든 값에 대해 알아보세요. [여기](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html).
 
 >[!TIP]
 >
-이 비디오는 [사용자를 위한 고급 작업](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 및 [관리자용 Acrobat Sign 시작하기](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) Experience League에서 무료로 이용할 수 있는 강의!
+이 비디오는 Experience League에서 무료로 사용할 수 있는 [사용자를 위한 고급 작업](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 및 [관리자용 Acrobat Sign 시작하기](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) 과정의 일부입니다.

@@ -1,6 +1,6 @@
 ---
 title: 문서에 필드 추가
-description: 문서에 다른 유형의 필드를 추가하는 방법에 대해 알아봅니다.
+description: 문서에 다양한 유형의 필드를 추가하는 방법에 대해 알아봅니다.
 feature: Sign, Workspace
 role: User
 level: Beginner
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 문서에 필드 추가
 
-문서에 필드를 자동으로 배치하거나 Acrobat Sign 내에서 드래그하여 놓기 작성 환경을 사용하는 방법에 대해 알아봅니다.
+문서에 필드를 자동으로 배치하거나 Acrobat Sign 내에서 끌어다 놓기 저작 환경을 사용하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346620?quality=12&learn=on&hidetitle=true)

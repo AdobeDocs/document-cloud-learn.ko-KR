@@ -5,8 +5,8 @@ feature: Form
 role: User, Admin
 level: Intermediate
 jira: KT-13233
-exl-id: 017efd3b-4091-45b5-b330-7483fde952ea
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+exl-id: 9e9d3077-763c-4ccc-806b-e3bc057a2626
+source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # 양식 데이터 관리
 
-문서의 양식 데이터를 통합하여 보고서나 Excel 스프레드시트에서 보고 관리하는 방법을 살펴봅니다.
+보고서 또는 Excel 스프레드시트에서 보고 관리할 수 있도록 문서의 양식 데이터를 통합하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419330?quality=12&learn=on&hidetitle=true)

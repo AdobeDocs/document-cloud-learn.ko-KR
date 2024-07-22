@@ -10,8 +10,8 @@ thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
 source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 3%
+source-wordcount: '506'
+ht-degree: 2%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 3%
 
 ## 새로운 기능
 
-* [Send in Bulk](../sign-advanced-users/megasign.md)
+* [대량 전송](../sign-advanced-users/megasign.md)
 간단한 몇 단계만으로 모든 문서에 대해 한 번에 수천 개의 서명을 수집하는 방법을 알아봅니다
 * [보고서 옵션](report-options.md)
 사용자를 위한 보고서 옵션을 설정하는 방법에 대해 알아봅니다.
@@ -37,9 +37,9 @@ Acrobat Sign 사용자를 추가하고 관리하는 방법에 대해 알아보�
       <img alt="새 관리자를 위해 시작하기" src="../assets/Gettingstartedadmin_1280.png" />
     </a>
     <div>
-    <a href="get-started-admin.md"><strong>새 관리자를 위해 시작하기</strong></a>
+    <a href="get-started-admin.md"><strong>새 관리자를 위해 시작</strong></a>
     </div>
-    <em>이 포괄적인 비디오 안내서에서 Acrobat Sign을 사용하여 조직을 시작하고 실행하는 데 필요한 모든 도구에 대해 알아보십시오</em>
+    <em>이 포괄적인 비디오 안내서에서 Acrobat Sign을 사용하여 조직을 시작하고 실행하는 데 필요한 모든 도구에 대해 알아보세요</em>
     <br>
   </td>
   <td>
@@ -47,9 +47,9 @@ Acrobat Sign 사용자를 추가하고 관리하는 방법에 대해 알아보�
       <img alt="관리자를 위한 실행" src="../assets/Up-Running.png" />
     </a>
     <div>
-    <a href="up-and-running-admin.md"><strong>관리자용 실행</strong></a>
+    <a href="up-and-running-admin.md"><strong>관리자용 설치 및 실행</strong></a>
     </div>
-    <em>관리자가 Acrobat Sign에서 빠르게 시작하고 실행할 수 있는 7가지 핵심 영역 개요</em>
+    <em>관리자가 Acrobat Sign에서 빠르게 시작하고 실행할 수 있는 7가지 핵심 영역에 대한 개요</em>
     <br>
   </td>
   <td>
@@ -59,7 +59,7 @@ Acrobat Sign 사용자를 추가하고 관리하는 방법에 대해 알아보�
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>이벤트 및 경고에 대한 알림 구성</strong></a>
     </div>
-    <em>계정에 대한 이벤트 및 경고 알림 구성</em>
+    <em>계정의 이벤트 및 경고에 대한 알림 구성</em>
     <br>
   </td>
   <td>
@@ -79,9 +79,9 @@ Acrobat Sign 사용자를 추가하고 관리하는 방법에 대해 알아보�
       <img alt="그룹 생성 및 관리" src="../assets/Creating-Groups.png" />
     </a>
     <div>
-    <a href="create-and-manage-groups.md"><strong>그룹 생성 및 관리</strong></a>
+    <a href="create-and-manage-groups.md"><strong>그룹 만들기 및 관리</strong></a>
     </div>
-    <em>그룹을 만들고, 그룹에 사용자를 추가하고, 그룹 설정을 편집합니다.</em>
+    <em>그룹을 만들고, 사용자를 그룹에 추가하고, 그룹 설정을 편집합니다</em>
     <br>
   </td>
   <td>
@@ -91,7 +91,7 @@ Acrobat Sign 사용자를 추가하고 관리하는 방법에 대해 알아보�
     <div>
     <a href="set-up-your-external-archive.md"><strong>외부 보관 설정</strong></a>
     </div>
-    <em>서명된 계약의 백업 복사본에 대한 외부 보관 만들기</em>
+    <em>서명한 계약의 백업 복사본에 대한 외부 보관 만들기</em>
     <br>
   </td>
   <td>
@@ -111,7 +111,7 @@ Acrobat Sign 사용자를 추가하고 관리하는 방법에 대해 알아보�
     <div>
     <a href="create-a-report.md"><strong>보고서 차트 만들기</strong></a>
     </div>
-    <em>사용자 정의 보고서 및 데이터 내보내기를 빌드, 저장 및 관리하는 방법을 알아봅니다.</em>
+    <em>사용자 지정 보고서 및 데이터 내보내기를 빌드하고, 저장하고, 관리하는 방법에 대해 알아보세요</em>
     <br>
   </td>
 </tr>
@@ -123,7 +123,7 @@ Acrobat Sign 사용자를 추가하고 관리하는 방법에 대해 알아보�
     <div>
     <a href="report-options.md"><strong>사용자를 위한 보고서 옵션</strong></a>
     </div>
-    <em>사용자를 위한 보고서 옵션을 설정하는 방법에 대해 알아봅니다.</em>
+    <em>사용자에 대한 보고서 옵션을 설정하는 방법</em>
     <br>
   </td>
   <td>
@@ -143,7 +143,7 @@ Acrobat Sign 사용자를 추가하고 관리하는 방법에 대해 알아보�
     <div>
     <a href="../sign-advanced-users/modify-webform.md"><strong>기존 웹 양식 수정</strong></a>
     </div>
-    <em>기존 웹 양식을 비활성화, 편집 및 다시 활성화하는 방법 알아보기</em>
+    <em>기존 웹 양식을 비활성화, 편집 및 다시 활성화하는 방법</em> 알아보기
     <br>
   </td>
   <td>
@@ -153,7 +153,7 @@ Acrobat Sign 사용자를 추가하고 관리하는 방법에 대해 알아보�
     <div>
     <a href="../sign-advanced-users/megasign.md"><strong>대량 전송</strong></a>
     </div>
-    <em>모든 문서에 대해 한 번에 수천 개의 서명 수집</em>
+    <em>모든 문서에 대해 한 번에 수천 개의 서명을 수집합니다</em>
     <br>
   </td>
 </tr>
@@ -165,7 +165,7 @@ Acrobat Sign 사용자를 추가하고 관리하는 방법에 대해 알아보�
     <div>
     <a href="building-a-custom-workflow.md"><strong>워크플로우 설정</strong></a>
     </div>
-    <em>문서 워크플로우를 자동화하여 전자 서명 및 데이터 빠르게 받기</em>
+    <em>전자 서명 및 데이터를 빠르게 가져오기 위한 문서 워크플로 자동화</em>
     <br>
   </td>
   <td>
@@ -216,7 +216,7 @@ Acrobat Sign 사용자를 추가하고 관리하는 방법에 대해 알아보�
     <div>
     <a href="advanced-account-sharing.md"><strong>고급 계정 공유</strong></a>
     </div>
-    <em>관리자와 사용자가 자신의 전송, 수정 및 보기 권한을 위임할 수 있도록 계정 공유 설정</em>
+    <em>관리자와 사용자가 자신의 전송, 수정 및 보기 권한을 위임할 수 있도록 계정 공유를 설정합니다.</em>
     <br>
   </td>
   <td>

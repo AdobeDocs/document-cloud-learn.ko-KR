@@ -1,6 +1,6 @@
 ---
-title: 다음을 사용하여 서명 [!DNL Intesi Group]
-description: 사진 편집 [!DNL Intesi Group] Acrobat Sign을 사용한 디지털 ID
+title: ' [!DNL Intesi Group]을(를) 사용하여 서명'
+description: Acrobat Sign에서  [!DNL Intesi Group] 디지털 ID를 사용하는 방법 알아보기
 feature: Digital ID
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 다음을 사용하여 서명 [!DNL Intesi Group]
+# [!DNL Intesi Group]을(를) 사용하여 서명
 
-사진 편집 [!DNL Intesi Group] 디지털 ID를 사용하여 ID를 인증하고 문서에 대한 원격 디지털 서명(클라우드 서명)을 승인합니다.
+[!DNL Intesi Group] 디지털 ID를 사용하여 ID를 인증하고 문서에서 원격 디지털 서명(클라우드 서명)을 승인하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336989?quality=12&learn=on&hidetitle=true)

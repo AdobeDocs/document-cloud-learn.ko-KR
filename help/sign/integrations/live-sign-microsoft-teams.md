@@ -1,6 +1,6 @@
 ---
-title: 다음에 대한 Adobe Acrobat Sign의 라이브 서명 [!DNL Microsoft Teams]
-description: 서명하는 동안 직접 서명과 유사한 온라인 서명 경험을 만드는 방법에 대해 알아봅니다. [!DNL Microsoft Teams] 회의
+title: ' [!DNL Microsoft Teams]용 Adobe Acrobat Sign에 실시간 서명'
+description: ' [!DNL Microsoft Teams] 회의 중 직접 서명과 유사한 온라인 서명 경험을 만드는 방법을 알아봅니다.'
 feature: Integrations
 role: User
 topic: Integrations
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# 다음에 대한 Adobe Acrobat Sign의 라이브 서명 [!DNL Microsoft Teams]
+# [!DNL Microsoft Teams]용 Adobe Acrobat Sign에 라이브 서명
 
 Microsoft Teams 회의 중 직접 서명과 유사한 온라인 서명 경험을 만드는 방법을 알아봅니다. Live Sign을 사용하면 모든 장치에서 빠르고 안전한 개인 서명 경험을 호스팅할 수 있습니다.
 

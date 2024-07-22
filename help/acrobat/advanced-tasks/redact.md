@@ -22,53 +22,53 @@ ht-degree: 0%
 >
 >Acrobat Pro에서만 사용할 수 있습니다.
 
-[!BADGE 조직적 영향]
+[!BADGE 조직 영향]
 고객 데이터 보호, 위험 관리
 
 ## 텍스트 및 이미지 교정
 
-1. 선택 **[!UICONTROL 교정]** 에서 [!UICONTROL 도구] 가운데 또는 오른쪽 창.
+1. [!UICONTROL 도구] 중앙 또는 오른쪽 창에서 **[!UICONTROL 교정]**&#x200B;을 선택합니다.
 
-   ![1단계 교정](../assets/Redact_1.png)
+   ![단계 1 교정](../assets/Redact_1.png)
 
-1. 선택 **[!UICONTROL 텍스트 및 이미지 교정]** **>** **[!UICONTROL 속성]** 교정 상자 또는 텍스트 오버레이의 색상을 포함하여 교정의 모양을 사용자 정의합니다.
+1. **[!UICONTROL 텍스트 및 이미지 교정]** **>** **[!UICONTROL 속성]**&#x200B;을 선택하여 교정 상자 또는 텍스트 오버레이의 색상을 포함하여 교정 모양을 사용자 지정합니다.
 
-   ![2단계 교정](../assets/Redact_2.png)
+   ![2 단계 교정](../assets/Redact_2.png)
 
 정보를 교정하려면 먼저 제거할 항목에 표시를 한 다음 교정을 적용합니다. 전체 페이지 또는 선택한 내용을 교정할 수 있습니다.
 
-1. 선택 **[!UICONTROL 페이지 교정]**, 교정할 페이지 또는 페이지 범위를 선택하고 **[!UICONTROL 확인]**.
+1. **[!UICONTROL 페이지 교정]**&#x200B;을 선택한 다음 교정할 페이지 또는 페이지 범위를 선택하고 **[!UICONTROL 확인]**&#x200B;을 선택합니다.
 
-   ![4단계 교정](../assets/Redact_3.png)
+   ![4](../assets/Redact_3.png)단계 교정
 
 또는 커서를 사용하여 교정할 내용을 선택합니다. 선택한 콘텐츠 위로 마우스를 가져가면 교정의 미리보기를 볼 수 있습니다.
 
    ![5a단계 교정](../assets/Redact_4.png)
 
-1. 선택 **[!UICONTROL 텍스트 및 이미지 교정]** **>** **[!UICONTROL 텍스트 찾기 및 교정]** 교정할 특정 콘텐츠를 찾습니다.
+1. **[!UICONTROL 텍스트 및 이미지 교정]** **>** **[!UICONTROL 텍스트 및 교정 찾기]**&#x200B;를 선택하여 교정할 특정 콘텐츠를 찾습니다.
 
 검색 상자를 사용하여 특정 단어나 구를 검색합니다.
 
-1. 선택 **[!UICONTROL 패턴]** 특정 형식을 찾으려면 of 를 선택하고 확인란을 선택한 다음 **[!UICONTROL 텍스트 검색 및 제거]**.
+1. **[!UICONTROL 패턴]**&#x200B;을 선택하여 특정 형식을 찾습니다. of 그런 다음 상자를 선택하고 **[!UICONTROL 텍스트 검색 및 제거]**&#x200B;를 선택합니다.
 
-   ![5b 교정](../assets/Redact_5.png)
+   ![5b단계 교정](../assets/Redact_5.png)
 
-1. 선택 **[!UICONTROL 적용]** 이미지를 [!UICONTROL 교정] 표시된 교정을 적용하고 교정된 파일을 저장하는 상단 메뉴.
+1. [!UICONTROL 교정] 상단 메뉴에서 **[!UICONTROL 적용]**&#x200B;을 선택하여 표시된 교정을 적용하고 교정된 파일을 저장합니다.
 
-   ![6단계 교정](../assets/Redact_6.png)
+   ![6](../assets/Redact_6.png)단계 교정
 
 ## 문서의 기밀 정보 가리기
 
-1. 선택 **[!UICONTROL 문서 기밀 정보 가리기]** 이미지를 [!UICONTROL 교정] 상단 메뉴.
+1. [!UICONTROL 교정] 상단 메뉴에서 **[!UICONTROL 문서의 기밀 정보 가리기]**&#x200B;를 선택합니다.
 
-1. 선택 **[!UICONTROL 확인]** 숨겨진 정보 제거를 확인합니다. 또는 **[!UICONTROL 여기를 클릭]** 숨겨진 정보를 선택적으로 제거합니다.
+1. **[!UICONTROL 확인]**&#x200B;을 선택하여 숨겨진 정보 제거를 확인합니다. 또는 **[!UICONTROL 여기를 클릭]**&#x200B;을 선택하여 숨겨진 정보를 선택적으로 제거합니다.
 
-   ![2단계 기밀 정보 가리기](../assets/Redact_7.png)
-
->[!TIP]
->
-교정 프로세스의 속도를 높이려면 다음을 확인하십시오. [Action Wizard](../advanced-tasks/action.md).
+   ![단계 기밀 정보 가리기](../assets/Redact_7.png)
 
 >[!TIP]
 >
-이 비디오는 과정의 일부입니다. [Acrobat DC 및 Microsoft 365로 보다 스마트하게 작업](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 그것은 Experience League에서 무료로 사용할 수 있습니다!
+교정 프로세스 속도를 높이려면 [Action Wizard](../advanced-tasks/action.md)를 확인하세요.
+
+>[!TIP]
+>
+이 비디오는 Experience League에서 무료로 사용할 수 있는 [Acrobat DC 및 Microsoft 365로 더 스마트하게 작업하기](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 과정의 일부입니다.

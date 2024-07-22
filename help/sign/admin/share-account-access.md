@@ -1,5 +1,5 @@
 ---
-title: 공유 계정 액세스
+title: 계정 액세스 공유
 description: 다른 사용자의 계정에서 트랜잭션에 대한 보기 전용 액세스 권한을 설정하는 방법에 대해 알아봅니다.
 feature: Administration
 role: User, Admin
@@ -9,17 +9,17 @@ thumbnail: 40187.jpg
 exl-id: 3154f0d0-3cc7-45ab-9515-bd69f5e46546
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
 # 계정 액세스 공유
 
-다른 사용자의 계정에서 트랜잭션에 대한 보기 전용 액세스를 설정하는 방법에 대해 알아봅니다.
+다른 사용자의 계정에서 트랜잭션에 대한 보기 전용 액세스 권한을 설정하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40187?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->이 비디오는 과정의 일부입니다 [관리자를 위한 고급 작업](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) Experience League에서 무료로 사용할 수 있습니다!
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 [관리자를 위한 고급 작업](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) 과정의 일부입니다.
