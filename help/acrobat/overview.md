@@ -7,10 +7,10 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6864
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 40960e4931e5491275f63775590e7029ff698c49
+source-git-commit: 6756af6adb638285d01f16a8340dd3d1c8dfe782
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 4%
+source-wordcount: '127'
+ht-degree: 3%
 
 ---
 
@@ -29,25 +29,56 @@ Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF을 변환, 편집, 공유
 
 <table style="table-layout:fixed">
 <tr>
-  <td>
+ <td>
     <a href="getting-started/getting-started-overview.md">
       <img alt="시작하기" src="assets/start.png" />
     </a>
+    <div>
+    <a href="getting-started/getting-started-overview.md"><strong>시작하기</strong></a>
+    </div>
+    PDF 파일을 사용하여 생성, 편집, 변환, 보호 등을 수행하는 방법에 대해 최신 정보를 얻으십시오.
+    <br>
   </td>
   <td>
     <a href="advanced-tasks/advanced-tasks-overview.md">
       <img alt="고급 작업" src="assets/advanced-tasks.png" />
     </a>
+    <div>
+    <a href="advanced-tasks/advanced-tasks-overview.md"><strong>고급 작업</strong></a>
+    </div>
+    특정 작업 및 자동화를 통해 기본 사항 극대화
+    <br>
   </td>
   <td>
     <a href="60-second/60-second-overview.md">
       <img alt="초 Acrobat" src="assets/60-sec.png" />
     </a>
+  <div>
+    <a href="60-second/60-second-overview.md"><strong>60초 Acrobat</strong></a>
+    </div>
+    1분 이내에 Acrobat의 새로운 기법을 학습할 수 있는 바이트 크기의 튜토리얼
+    <br>
   </td>
+</tr>
   <td>
     <a href="integrate/integrate-overview.md">
       <img alt="통합" src="assets/integrations.png" />
     </a>
+    <div>
+    <a href="integrate/integrate-overview.md"><strong>통합</strong></a>
+    </div>
+    Microsoft, Google Drive, Dropbox, Box와 같은 기존 애플리케이션에 Acrobat 추가
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="assets/Grayspacer.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>

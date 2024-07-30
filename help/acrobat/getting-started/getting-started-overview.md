@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 68b95d15285b0b11688a7f99c74086c60c36466e
+source-git-commit: f71746be00bd71ea2e7fb242705fd4ec3f273803
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 4%
+source-wordcount: '582'
+ht-degree: 1%
 
 ---
 
@@ -35,36 +35,73 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
     <a href="new-workspace.md">
       <img alt="새 작업 영역 환경" src="../assets/new-workspace.png" />
     </a>
+    <div>
+    <a href="new-workspace.md"><strong>새 작업 영역 환경</strong></a>
+    </div>
+    Acrobat의 새로운 작업 영역에 대해 알아보기
+    <br>
   </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
       <img alt="작업 공간 기본 사항" src="../assets/workspace-basics.png" />
     </a>
+    <div>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>작업 영역 기본 사항</strong></a>
+    </div>
+    데스크탑, 웹 및 모바일에서 파일과 도구에 액세스하는 방법 알아보기
+    <br>
   </td>
   <td>
     <a href="ai-assistant.md">
       <img alt="AI Assistant를 사용하여 PDF 인사이트 탐색" src="../assets/ai-assistant.png" />
     </a>
+    <div>
+    <a href="ai-assistant.md"><strong>AI 도우미를 사용하여 PDF 인사이트 탐색</strong></a>
+    </div>
+    AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방법을 알아봅니다
+    <br>
   </td>
   <td>
     <a href="acrobatweb.md">
       <img alt="Acrobat 웹으로 장소에 상관없이 작업" src="../assets/acrobat-web.png" />
     </a>
+    <div>
+    <a href="acrobatweb.md"><strong>Acrobat 웹으로 장소에 상관없이 작업</strong></a>
+    </div>
+    어디에서나 비즈니스 문서 요청을 처리하는 방법을 알아봅니다.
+    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="productivity.md">
       <img alt="이동 중의 생산성" src="../assets/productivity.png" />
+    </a>
+    <div>
+    <a href="productivity.md"><strong>이동 중 생산성</strong></a>
+    </div>
+    태블릿 또는 휴대폰에서 더 많은 작업을 올바르게 수행하는 방법 알아보기
+    <br>
   </td>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
         <img alt="Microsoft 365를 사용한 작업" src="../assets/microsoft-365.png" />
+      </a>
+      <div>
+      <a href="../integrate/integrate-overview.md#microsoft"><strong>Microsoft 365로 작업</strong></a>
+      </div>
+      Microsoft 365에서 PDF 파일을 사용하여 원활하게 작업하는 방법을 알아봅니다.
+      <br> 
     </td>
     <td>
       <a href="where-do-pdfs-come-from.md">
         <img alt="PDF은 어디에서 오나요?" src="../assets/where-pdfs.png" />
       </a>
+      <div>
+      <a href="where-do-pdfs-come-from.md"><strong>PDF은 어디에서 오나요?</strong></a>
+      </div>
+      PDF의 출처와 디지털 워크플로에서 이를 사용하는 방법에 대해 알아봅니다.
+      <br>
     </td>
     <td>
     <img alt="스페이서" src="../assets/Grayspacer.png" />
@@ -82,20 +119,41 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
       <a href="create-pdf.md">
         <img alt="PDF 파일 만들기" src="../assets/create.png" />
       </a>
+      <div>
+      <a href="create-pdf.md"><strong>PDF 파일 만들기</strong></a>
+      </div>
+      모든 유형의 문서에서 PDF을 만드는 방법을 알아봅니다.
+      <br>
     </td>
     <td>
       <a href="combine-to-pdf.md">
-        <img alt="Combine Files에서 PDF" src="../assets/combine.png" />
+        <img alt="단일 PDF에 파일 결합" src="../assets/combine.png" />
+      </a>
+      <div>
+      <a href="combine-to-pdf.md"><strong>단일 PDF으로 파일 결합</strong></a>
+      </div>
+      서로 다른 여러 유형의 파일을 하나의 PDF으로 원활하게 결합하는 방법 알아보기
+      <br>
     </td>
     <td>
       <a href="organize.md">
         <img alt="페이지 구성" src="../assets/organize-pages.png" />
       </a>
+      <div>
+      <a href="organize.md"><strong>페이지 구성</strong></a>
+      </div>
+      페이지를 원하는 방식으로 다시 정렬하는 방법 알아보기
+      <br>
     </td>
     <td>
       <a href="add-custom-page.md">
         <img alt="사용자 정의 페이지 추가" src="../assets/custom.png" />
       </a>
+      <div>
+      <a href="add-custom-page.md"><strong>사용자 지정 페이지 추가</strong></a>
+      </div>
+      PDF에 사용자 정의 페이지를 추가하는 방법 알아보기
+      <br>
     </td>
   </tr>
   </table>
@@ -108,27 +166,52 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
       <a href="edit-pdf.md">
         <img alt="PDF에서 텍스트 편집" src="../assets/edit-text.png" />
       </a>
+      <div>
+      <a href="edit-pdf.md"><strong>PDF에서 텍스트 편집</strong></a>
+      </div>
+      PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아봅니다.
+      <br>
     </td>
     <td>
       <a href="edit-graphics.md">
         <img alt="PDF에서 그래픽 편집" src="../assets/edit-graphics.png" />
       </a>
+      <div>
+      <a href="edit-graphics.md"><strong>PDF에서 그래픽 편집</strong></a>
+      </div>
+      PDF에서 그래픽을 만들고 편집하고 향상시키는 방법을 살펴봅니다
+      <br>
     </td>
     <td>
       <a href="stylize-this-PDF.md">
         <img alt="이 PDF 스타일화" src="../assets/stylize-pdf.png" />
       </a>
+      <div>
+      <a href="stylize-this-PDF.md"><strong>이 PDF 스타일화</strong></a>
+      </div>
+      전문가 수준의 PDF을 만드는 방법 알아보기
+      <br>
     </td>
    <td>
       <a href="auto-adjust-layout.md">
         <img alt="자동 조정 레이아웃" src="../assets/auto-adjust.png" />
       </a>
+      <div>
+      <a href="auto-adjust-layout.md"><strong>자동 조정 레이아웃</strong></a>
+      </div>
+      콘텐츠를 리플로우하는 새로운 편집 모드에 대해 알아봅니다.
+      <br>
     </td>
   </tr>
     <td>
       <a href="export-pdf.md">
         <img alt="PDF을 다른 파일 형식으로 변환" src="../assets/convert.png" />
       </a>
+      <div>
+      <a href="export-pdf.md"><strong>PDF을 다른 파일 형식으로 변환</strong></a>
+      </div>
+      PDF 파일을 다른 파일 형식으로 변환하는 방법에 대해 알아보십시오
+      <br>
     </td>
     <td>
    <img alt="스페이서" src="../assets/Grayspacer.png" />
@@ -156,11 +239,20 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
       <a href="collaborate.md">
         <img alt="실시간으로 공동 작업 수행" src="../assets/collaborate.png" />
       </a>
+      <div>
+      <a href="collaborate.md"><strong>실시간 공동 작업</strong></a>
+      </div>
+      실시간 공동 작업을 통해 프로젝트 진행
     </td>
     <td>
       <a href="comment-on-pdf-files.md">
         <img alt="PDF 댓글 달기" src="../assets/comment.png" />
       </a>
+      <div>
+      <a href="comment-on-pdf-files.md"><strong>PDF에 댓글</strong></a>
+      </div>
+      PDF 파일에 주석을 추가한 다음 해당 파일을 다른 사람과 공유하는 방법을 살펴봅니다
+      <br>
     </td>
     <td>
     <img alt="스페이서" src="../assets/Whitespacer.png" />
@@ -183,21 +275,41 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
     <a href="create-fillable-forms.md">
       <img alt="채울 수 있는 양식 만들기" src="../assets/fillable-forms.png" />
     </a>
+    <div>
+      <a href="create-fillable-forms.md"><strong>채울 수 있는 양식 만들기</strong></a>
+      </div>
+      스캔한 용지를 채울 수 있는 양식으로 변환
+      <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="PDF 양식 작성 및 서명" src="../assets/fill-sign.png" />
+      <img alt="PDF 양식 Fill &amp; Sign" src="../assets/fill-sign.png" />
     </a>
+    <div>
+    <a href="fill-and-sign.md"><strong>PDF 양식 Fill &amp; Sign</strong></a>
+    </div>
+    PDF 양식을 빠르고 쉽게 작성하고 서명하는 방법에 대해 알아봅니다.
+    <br>
   </td>
   <td>
     <a href="scan-and-ocr.md">
       <img alt="스캔 및 OCR" src="../assets/scan.png" />
     </a>
+    <div>
+    <a href="scan-and-ocr.md"><strong>스캔 및 OCR</strong></a>
+    </div>
+    스캔한 문서 또는 이미지를 검색 및 수정 가능한 PDF 파일로 변환
+    <br>
   </td>
   <td>
     <a href="password-protect.md">
       <img alt="암호로 PDF 파일 Protect" src="../assets/protect.png" />
     </a>
+    <div>
+    <a href="password-protect.md"><strong>암호가 있는 PDF 파일 Protect</strong></a>
+    </div>
+    PDF에 암호를 추가하는 방법 알아보기
+    <br>
   </td>
 </tr>
 <tr>
@@ -205,11 +317,21 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
     <a href="signatures.md">
       <img alt="서명 받기" src="../assets/signatures.png" />
     </a>
+    <div>
+    <a href="signatures.md"><strong>서명 받기</strong></a>
+    </div>
+    법적 구속력이 있는 전자 서명을 수집하여 비즈니스 유지
+    <br>
   </td>
   <td>
     <a href="track.md">
       <img alt="문서 추적" src="../assets/track.png" />
     </a>
+    <div>
+    <a href="track.md"><strong>문서 추적</strong></a>
+    </div>
+    전자 서명 문서를 추적하고 관리하는 방법에 대해 알아봅니다.
+    <br>
   </td>
   <td>
    <img alt="스페이서" src="../assets/Grayspacer.png" />
