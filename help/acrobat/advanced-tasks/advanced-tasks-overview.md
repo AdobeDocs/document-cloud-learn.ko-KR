@@ -7,10 +7,10 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 4c1a831cdeda378dceb8dc319c783cd4df8a115c
+source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 3%
+source-wordcount: '283'
+ht-degree: 1%
 
 ---
 
@@ -31,65 +31,113 @@ Acrobat의 고급 도구를 사용하여 기본 사항 이상을 살펴보세요
     <a href="bookmarks.md">
       <img alt="책갈피 및 하이퍼링크 추가" src="../assets/bookmarks.png" />
     </a>
+    <div>
+      <a href="bookmarks.md"><strong>책갈피 및 하이퍼링크 추가</strong></a>
+      </div>
+      더 나은 탐색을 위해 책갈피 및 하이퍼링크 추가
   </td>
   <td>
     <a href="optimizescan.md">
       <img alt="스캔한 문서 최적화" src="../assets/optimize.png" />
     </a>
+    <div>
+      <a href="optimizescan.md"><strong>스캔한 문서 최적화</strong></a>
+      </div>
+      스캔한 문서를 향상시키는 방법 알아보기
   </td>
   <td>
     <a href="custom.md">
       <img alt="사용자 정의 명령 및 도구" src="../assets/custom-commands.png" />
     </a>
+    <div>
+      <a href="custom.md"><strong>사용자 지정 명령 및 도구</strong></a>
+      </div>
+      문서 워크플로우의 효율을 높이는 방법 알아보기
   </td>
   <td>
     <a href="advancedforms.md">
       <img alt="고급 양식 필드" src="../assets/advanced-forms.png" />
     </a>
+    <div>
+      <a href="advancedforms.md"><strong>고급 양식 필드</strong></a>
+      </div>
+      고급 양식 필드를 빌드하는 방법에 대해 알아보십시오.
   </td>
 </tr>
 <tr>
  <td>
     <a href="optimizeseo.md">
-      <img alt="SEO(검색 엔진 최적화) Optimize PDF" src="../assets/seo.png" />
+      <img alt="SEO용 Optimize PDF" src="../assets/seo.png" />
     </a>
+    <div>
+      <a href="optimizeseo.md"><strong>SEO용 Optimize PDF</strong></a>
+      </div>
+      SEO에 대한 PDF 최적화(검색 엔진 최적화)
   </td>
   <td>
     <a href="workforms.md">
       <img alt="양식 필드로 작업" src="../assets/work-forms.png" />
     </a>
+    <div>
+      <a href="workforms.md"><strong>양식 필드로 작업</strong></a>
+      </div>
+      다양한 유형의 양식 필드 및 속성을 추가하는 방법에 대해 알아봅니다.
   </td>
   <td>
     <a href="enhance.md">
       <img alt="PDF 향상" src="../assets/enhance.png" />
     </a>
+    <div>
+      <a href="enhance.md"><strong>PDF 향상</strong></a>
+      </div>
+      PDF 변형 방법 알아보기
   </td>
  <td>
     <a href="compare.md">
-      <img alt="두 PDF 간 차이 감지" src="../assets/compare.png" />
+      <img alt="두 PDF 간 차이점 검색" src="../assets/compare.png" />
     </a>
+    <div>
+      <a href="compare.md"><strong>두 PDF 간의 차이점 검색</strong></a>
+      </div>
+      두 PDF 파일 간의 차이점을 빠르게 감지
   </td>
 </tr>
 <tr>
   <td>
     <a href="action.md">
-      <img alt="Action Wizard" src="../assets/action-wizard.png" />
+      <img alt="Action Wizard" src="../assets/action.png" />
     </a>
+    <div>
+      <a href="action.md"><strong>Action Wizard</strong></a>
+      </div>
+      작업을 사용하여 효율성을 개선하는 방법 알아보기
   </td>
   <td>
     <a href="redact.md">
       <img alt="교정 및 기밀 정보 가리기" src="../assets/redact.png" />
     </a>
+    <div>
+      <a href="redact.md"><strong>교정 및 기밀 정보 가리기</strong></a>
+      </div>
+      민감한 정보를 영구적으로 제거하는 방법 알아보기
   </td>
  <td>
     <a href="reduce.md">
       <img alt="파일 크기 축소 및 최적화" src="../assets/reduce.png" />
     </a>
+    <div>
+      <a href="reduce.md"><strong>파일 크기 축소 및 최적화</strong></a>
+      </div>
+      품질 저하 없이 대용량 파일 줄이기
   </td>
   <td>
     <a href="formdata.md">
-      <img alt="Action Wizard" src="../assets/form-data.png" />
+      <img alt="양식 데이터를 사용한 작업" src="../assets/form-data.png" />
     </a>
+    <div>
+      <a href="formdata.md"><strong>양식 데이터를 사용하여 작업</strong></a>
+      </div>
+      양식 데이터를 컴파일하는 방법 알아보기
   </td>
 </tr>
 <tr>
@@ -97,11 +145,19 @@ Acrobat의 고급 도구를 사용하여 기본 사항 이상을 살펴보세요
     <a href="accessibility.md">
       <img alt="PDF 접근성 확인" src="../assets/accessibility.png" />
     </a>
+    <div>
+      <a href="accessibility.md"><strong>PDF 접근성 확인</strong></a>
+      </div>
+      PDF에 일반적으로 액세스할 수 있는지 확인하는 방법 알아보기
   </td>
  <td>
     <a href="accessibility-series.md">
-      <img alt="액세스 가능한 PDF 파일 준비" src="../assets/accessibility-series.png" />
+      <img alt="Acrobat 액세서빌러티 시리즈" src="../assets/accessibility-series.png" />
     </a>
+    <div>
+      <a href="accessibility-series.md"><strong>Acrobat 접근성 시리즈</strong></a>
+      </div>
+      6세션 온디맨드 PDF 접근성 시리즈
   </td>
   <td>
    <img alt="스페이서" src="../assets/Grayspacer.png" />

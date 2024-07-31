@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f71746be00bd71ea2e7fb242705fd4ec3f273803
+source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '541'
 ht-degree: 1%
 
 ---
@@ -48,7 +48,7 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>작업 영역 기본 사항</strong></a>
     </div>
-    데스크탑, 웹 및 모바일에서 파일과 도구에 액세스하는 방법 알아보기
+    Acrobat 작업 영역의 기본 사항 학습
     <br>
   </td>
   <td>
@@ -58,7 +58,7 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
     <div>
     <a href="ai-assistant.md"><strong>AI 도우미를 사용하여 PDF 인사이트 탐색</strong></a>
     </div>
-    AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방법을 알아봅니다
+    AI 어시스턴트를 사용하여 PDF 파일에서 통찰력을 얻으십시오
     <br>
   </td>
   <td>
@@ -68,7 +68,7 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
     <div>
     <a href="acrobatweb.md"><strong>Acrobat 웹으로 장소에 상관없이 작업</strong></a>
     </div>
-    어디에서나 비즈니스 문서 요청을 처리하는 방법을 알아봅니다.
+    어디서나 작업하는 방법 알아보기
     <br>
   </td>
 </tr>
@@ -80,7 +80,7 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
     <div>
     <a href="productivity.md"><strong>이동 중 생산성</strong></a>
     </div>
-    태블릿 또는 휴대폰에서 더 많은 작업을 올바르게 수행하는 방법 알아보기
+    태블릿 또는 휴대폰에서 더 많은 작업을 수행하는 방법 알아보기
     <br>
   </td>
     <td>
@@ -90,7 +90,7 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
       <div>
       <a href="../integrate/integrate-overview.md#microsoft"><strong>Microsoft 365로 작업</strong></a>
       </div>
-      Microsoft 365에서 PDF 파일을 사용하여 원활하게 작업하는 방법을 알아봅니다.
+      Microsoft 365 내에서 PDF 파일로 원활하게 작업
       <br> 
     </td>
     <td>
@@ -100,7 +100,7 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
       <div>
       <a href="where-do-pdfs-come-from.md"><strong>PDF은 어디에서 오나요?</strong></a>
       </div>
-      PDF의 출처와 디지털 워크플로에서 이를 사용하는 방법에 대해 알아봅니다.
+      PDF의 출처와 사용 방법 알아보기
       <br>
     </td>
     <td>
@@ -122,7 +122,7 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
       <div>
       <a href="create-pdf.md"><strong>PDF 파일 만들기</strong></a>
       </div>
-      모든 유형의 문서에서 PDF을 만드는 방법을 알아봅니다.
+      모든 유형의 문서에서 PDF 만들기
       <br>
     </td>
     <td>
@@ -132,7 +132,7 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
       <div>
       <a href="combine-to-pdf.md"><strong>단일 PDF으로 파일 결합</strong></a>
       </div>
-      서로 다른 여러 유형의 파일을 하나의 PDF으로 원활하게 결합하는 방법 알아보기
+      다양한 유형의 파일을 단일 PDF으로 원활하게 결합
       <br>
     </td>
     <td>
@@ -169,7 +169,7 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
       <div>
       <a href="edit-pdf.md"><strong>PDF에서 텍스트 편집</strong></a>
       </div>
-      PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아봅니다.
+      PDF에서 단어, 구 또는 전체 페이지 편집
       <br>
     </td>
     <td>
@@ -210,7 +210,7 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
       <div>
       <a href="export-pdf.md"><strong>PDF을 다른 파일 형식으로 변환</strong></a>
       </div>
-      PDF 파일을 다른 파일 형식으로 변환하는 방법에 대해 알아보십시오
+      PDF 파일을 다른 파일 형식으로 변환
       <br>
     </td>
     <td>
@@ -251,7 +251,7 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
       <div>
       <a href="comment-on-pdf-files.md"><strong>PDF에 댓글</strong></a>
       </div>
-      PDF 파일에 주석을 추가한 다음 해당 파일을 다른 사람과 공유하는 방법을 살펴봅니다
+      댓글을 추가한 다음 다른 사람과 PDF 공유
       <br>
     </td>
     <td>
@@ -298,7 +298,7 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
     <div>
     <a href="scan-and-ocr.md"><strong>스캔 및 OCR</strong></a>
     </div>
-    스캔한 문서 또는 이미지를 검색 및 수정 가능한 PDF 파일로 변환
+    스캔 파일 또는 이미지 파일을 검색 및 수정 가능한 PDF 파일로 변환
     <br>
   </td>
   <td>
@@ -320,7 +320,7 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
     <div>
     <a href="signatures.md"><strong>서명 받기</strong></a>
     </div>
-    법적 구속력이 있는 전자 서명을 수집하여 비즈니스 유지
+    법적 구속력이 있는 전자 서명을 수집하는 방법 알아보기
     <br>
   </td>
   <td>
@@ -330,7 +330,7 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
     <div>
     <a href="track.md"><strong>문서 추적</strong></a>
     </div>
-    전자 서명 문서를 추적하고 관리하는 방법에 대해 알아봅니다.
+    전자 서명 문서 추적 및 관리
     <br>
   </td>
   <td>

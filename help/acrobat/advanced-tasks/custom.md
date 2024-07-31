@@ -1,13 +1,13 @@
 ---
 title: 사용자 정의 명령 및 도구
-description: 사용자 정의 명령 및 도구를 사용하여 문서 작업 과정 생산성을 향상시키는 방법을 알아봅니다.
+description: 사용자 정의 명령 및 도구를 사용하여 문서 작업 과정의 효율성을 높이는 방법을 알아봅니다
 feature: Workflow, Workspace
 role: User
 level: Intermediate
 jira: KT-9672
 thumbnail: KT-9672.jpg
 exl-id: 0cbe419b-d1fd-4737-9f79-0f99b4f38df3
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: ed082395eba870c3d5546edf3601990e6dc4049a
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 사용자 정의 명령 및 도구
 
-사용자 정의 명령 및 도구를 사용하여 문서 작업 과정의 생산성을 향상시키는 방법을 알아봅니다. 그런 다음 새로운 명령과 도구를 동료와 공유하여 조직의 효율성을 개선할 수 있도록 도와주십시오.
+사용자 정의 명령 및 도구를 사용하여 문서 작업 과정의 효율성을 높이는 방법을 알아봅니다. 그런 다음 새로운 명령과 도구를 동료와 공유하여 조직의 효율성을 개선할 수 있도록 도와주십시오.
 
 >[!NOTE]
 >
