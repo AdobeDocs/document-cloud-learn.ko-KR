@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
+source-git-commit: e36b369cea4c8c27a7ccf058f0793bca9851178f
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '510'
 ht-degree: 7%
 
 ---
@@ -79,6 +79,7 @@ ht-degree: 7%
       + [기존 웹 양식 수정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [대량 전송](sign-advanced-users/megasign.md)
       + [사용자 정의 작업 과정 빌드](admin/building-a-custom-workflow.md)
+      + [감사 보고서](admin/audit-reports.md)
    + 고급 작업 {#advanced-tasks-admins}
       + [전역 설정](admin/learn-about-global-settings.md)
       + [계정 액세스 공유](admin/share-account-access.md)
@@ -108,7 +109,7 @@ ht-degree: 7%
       + [ [!DNL SharePoint] 포함 [!DNL Power Automate]에서 파일 자동 보관](integrations/auto-archive-sharepoint-power-automate.md)
       + [ [!DNL Microsoft Power Platform]용 Acrobat Sign을 사용한 문서 자동화](integrations/documentautomation.md)
       + [ [!DNL Microsoft Teams]에서 서명을 위해 보내기](integrations/adobe-sign-teams-mortgage.md)
-      + [[!DNL Microsoft Teams]에 대한 Adobe Acrobat Sign의 라이브 서명](integrations/live-sign-microsoft-teams.md)
+      +  [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)에 대한 [Adobe Acrobat Sign의 라이브 서명
       + [ [!DNL Microsoft Teams]에 대한 문서 탭 통합](integrations/acrobat-sign-teams-documents-tab.md)
       + [ [!DNL Power Automate]에서 간단한 워크플로 만들기](integrations/simple-workflow-power-automate.md)
       + [ [!DNL Power Automate]에서 고급 워크플로 만들기](integrations/advanced-workflow-power-automate.md)

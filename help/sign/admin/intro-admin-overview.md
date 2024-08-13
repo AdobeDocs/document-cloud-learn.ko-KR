@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
+source-git-commit: c37964c029dd0b068cb30d35c7e666a3122e16cc
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '522'
 ht-degree: 2%
 
 ---
@@ -21,12 +21,12 @@ ht-degree: 2%
 
 ## 새로운 기능
 
+* [감사 보고서](audit-reports.md)
+조직의 요구 사항에 맞게 감사 보고서에 액세스, 활용 및 구성하는 방법에 대해 알아보십시오
 * [대량 전송](../sign-advanced-users/megasign.md)
 간단한 몇 단계만으로 모든 문서에 대해 한 번에 수천 개의 서명을 수집하는 방법을 알아봅니다
 * [보고서 옵션](report-options.md)
 사용자를 위한 보고서 옵션을 설정하는 방법에 대해 알아봅니다.
-* [사용자 추가](add-users-to-your-account.md)
-Acrobat Sign 사용자를 추가하고 관리하는 방법에 대해 알아보기
 
 ## 시작하기
 
@@ -169,8 +169,13 @@ Acrobat Sign 사용자를 추가하고 관리하는 방법에 대해 알아보�
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <a href="audit-reports.md">
+      <img alt="감사 보고서" src="../assets/audit-reports-configure.png" />
+    </a>
     <div>
+    <a href="audit-reports.md"><strong>감사 보고서</strong></a>
+    </div>
+    <em>감사 보고서에 액세스, 활용 및 구성하는 방법에 대해 알아보세요</em>
     <br>
   </td>
   <td>
