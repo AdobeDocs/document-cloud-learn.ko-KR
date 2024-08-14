@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: e36b369cea4c8c27a7ccf058f0793bca9851178f
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '525'
 ht-degree: 7%
 
 ---
@@ -84,8 +84,10 @@ ht-degree: 7%
       + [전역 설정](admin/learn-about-global-settings.md)
       + [계정 액세스 공유](admin/share-account-access.md)
       + [고급 계정 공유](admin/advanced-account-sharing.md)
-      + [Bio-Pharma 설정 사용](admin/use-bio-pharma-settings.md)
+      + [일괄 다운로드 도구](admin/bulk-download-tool.md)
       + [Acrobat Sign 텍스트 태그 지정](sign-advanced-users/adobe-sign-text-tagging.md)
+      + [Bio-Pharma 설정 사용](admin/use-bio-pharma-settings.md)
+      + [개인 정보 보호 관리자 설정 방법](admin/privacy.md)
 + 디지털 ID {#digital-id}
    + [개요](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
@@ -109,7 +111,7 @@ ht-degree: 7%
       + [ [!DNL SharePoint] 포함 [!DNL Power Automate]에서 파일 자동 보관](integrations/auto-archive-sharepoint-power-automate.md)
       + [ [!DNL Microsoft Power Platform]용 Acrobat Sign을 사용한 문서 자동화](integrations/documentautomation.md)
       + [ [!DNL Microsoft Teams]에서 서명을 위해 보내기](integrations/adobe-sign-teams-mortgage.md)
-      + [ [!DNL Microsoft Teams]에 대한 Adobe Acrobat Sign의 라이브 서명](integrations/live-sign-microsoft-teams.md)
+      +  [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)에 대한 [Adobe Acrobat Sign의 라이브 서명
       + [ [!DNL Microsoft Teams]에 대한 문서 탭 통합](integrations/acrobat-sign-teams-documents-tab.md)
       + [ [!DNL Power Automate]에서 간단한 워크플로 만들기](integrations/simple-workflow-power-automate.md)
       + [ [!DNL Power Automate]에서 고급 워크플로 만들기](integrations/advanced-workflow-power-automate.md)
@@ -158,9 +160,10 @@ ht-degree: 7%
       + [쇼케이스](sign-usecase/use-case-showcase.md)
 + {#develop} 현상
    + [개요](develop/develop-overview.md)
-   + 사용자 지정 API {#custom}
+   + API 및 Webhook {#custom}
       + [GigaSign을 사용하여 대용량 문서 수집](develop/gigasign.md)
       + [포함된 전자 서명 및 문서 환경 만들기](develop/embeddedesignature.md)
+      + [Webhook 설정 방법](develop/webhooks.md)
 + {#deploy} 배포
    + [개요](deploy-overview.md)
 + 모바일 {#mobile}

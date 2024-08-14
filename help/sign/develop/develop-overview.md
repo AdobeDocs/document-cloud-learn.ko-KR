@@ -8,16 +8,21 @@ jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 2%
+source-wordcount: '197'
+ht-degree: 3%
 
 ---
 
 # 현상 개요
 
 Acrobat Sign 계약의 40%가 API를 사용하여 생성됩니다. API를 사용하여 팀, 파트너 및 고객을 위한 맞춤형 애플리케이션을 만듭니다.
+
+## 새로운 기능
+
+* [Webhook을 설정하는 방법](webhooks.md)
+Webhook을 만들어 일반적으로 수동 개입이 필요한 프로세스를 자동화하는 방법에 대해 알아봅니다.
 
 <table style="table-layout:fixed">
 <tr>
@@ -59,6 +64,33 @@ Acrobat Sign 계약의 40%가 API를 사용하여 생성됩니다. API를 사용
     <a href="embeddedesignature.md"><strong>포함된 전자 서명 및 문서 환경 만들기</strong></a>
     </div>
     <em>Acrobat Sign API를 사용하여 전자 서명 및 문서 환경을 웹 플랫폼, 콘텐츠 및 문서 관리 시스템에 포함하는 방법을 알아보십시오</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="webhooks.md">
+      <img alt="Webhook 설정 방법" src="../assets/how-webhooks.png" />
+    </a>
+    <div>
+    <a href="webhooks.md"><strong>Webhook을 설정하는 방법</strong></a>
+    </div>
+    <em>Webhook을 만들어 일반적으로 수동 개입이 필요한 프로세스를 자동화하는 방법에 대해 알아봅니다.</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>

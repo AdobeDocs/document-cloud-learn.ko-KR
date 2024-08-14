@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: c37964c029dd0b068cb30d35c7e666a3122e16cc
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '563'
 ht-degree: 2%
 
 ---
@@ -21,12 +21,13 @@ ht-degree: 2%
 
 ## 새로운 기능
 
+* [개인 정보 보호 관리자를 설정하는 방법](privacy.md)
+개인 정보 보호 관리자 설정 및 사용 방법 알아보기
+* [일괄 다운로드 도구](bulk-download-tool.md)
+일괄 다운로드 도구를 사용하여 서명된 모든 계약을 빠르게 다운로드하는 방법에 대해 알아보십시오
 * [감사 보고서](audit-reports.md)
 조직의 요구 사항에 맞게 감사 보고서에 액세스, 활용 및 구성하는 방법에 대해 알아보십시오
-* [대량 전송](../sign-advanced-users/megasign.md)
-간단한 몇 단계만으로 모든 문서에 대해 한 번에 수천 개의 서명을 수집하는 방법을 알아봅니다
-* [보고서 옵션](report-options.md)
-사용자를 위한 보고서 옵션을 설정하는 방법에 대해 알아봅니다.
+
 
 ## 시작하기
 
@@ -225,13 +226,13 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <a href="use-bio-pharma-settings.md">
-      <img alt="Bio-Pharma 설정 사용" src="../assets/Bio_1280.png" />
+    <a href="bulk-download-tool.md">
+      <img alt="일괄 다운로드 도구" src="../assets/bulk-download-tool.png" />
     </a>
     <div>
-    <a href="use-bio-pharma-settings.md"><strong>Bio-Pharma 설정 사용</strong></a>
+    <a href="bulk-download-tool.md"><strong>일괄 다운로드 도구</strong></a>
     </div>
-    <em>FDA 21 CFR Part 11 요구 사항을 충족할 수 있도록 Bio-pharma 설정</em>
+    <em>대량 다운로드 도구를 사용하여 서명된 모든 계약을 빠르게 다운로드하는 방법에 대해 알아보십시오</em>
     <br>
   </td> 
 </tr>
@@ -247,13 +248,23 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <a href="use-bio-pharma-settings.md">
+      <img alt="Bio-Pharma 설정 사용" src="../assets/Bio_1280.png" />
+    </a>
     <div>
+    <a href="use-bio-pharma-settings.md"><strong>Bio-Pharma 설정 사용</strong></a>
+    </div>
+    <em>FDA 21 CFR Part 11 요구 사항을 충족할 수 있도록 Bio-pharma 설정</em>
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <a href="privacy.md">
+      <img alt="개인 정보 보호 관리자 설정 방법" src="../assets/privacy.png" />
+    </a>
     <div>
+    <a href="privacy.md"><strong>개인 정보 보호 관리자를 설정하는 방법</strong></a>
+    </div>
+    <em>개인 정보 보호 관리자 설정 및 사용 방법</em>
     <br>
   </td>
   <td>
