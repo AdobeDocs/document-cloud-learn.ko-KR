@@ -111,7 +111,7 @@ ht-degree: 7%
       + [ [!DNL SharePoint] 포함 [!DNL Power Automate]에서 파일 자동 보관](integrations/auto-archive-sharepoint-power-automate.md)
       + [ [!DNL Microsoft Power Platform]용 Acrobat Sign을 사용한 문서 자동화](integrations/documentautomation.md)
       + [ [!DNL Microsoft Teams]에서 서명을 위해 보내기](integrations/adobe-sign-teams-mortgage.md)
-      +  [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)에 대한 [Adobe Acrobat Sign의 라이브 서명
+      + [ [!DNL Microsoft Teams]에 대한 Adobe Acrobat Sign의 라이브 서명](integrations/live-sign-microsoft-teams.md)
       + [ [!DNL Microsoft Teams]에 대한 문서 탭 통합](integrations/acrobat-sign-teams-documents-tab.md)
       + [ [!DNL Power Automate]에서 간단한 워크플로 만들기](integrations/simple-workflow-power-automate.md)
       + [ [!DNL Power Automate]에서 고급 워크플로 만들기](integrations/advanced-workflow-power-automate.md)
