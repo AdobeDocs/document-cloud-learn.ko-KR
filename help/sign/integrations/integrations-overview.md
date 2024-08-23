@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
+source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '869'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ Acrobat Sign, Salesforce, Workday 및 Marketo과 같이 조직에서 이미 사�
 
 ## 새로운 기능
 
+* [큰 파일 및 푸시 매핑 설정](salesforce-large-files.md)
+Salesforce에서 대용량 문서를 설정하고 계약 서비스를 푸시하는 방법에 대해 알아보십시오
+* [자동 업데이트 설정](salesforce-automatic-updates.md)
+계정을 Salesforce에 손쉽게 연결하여 자동 업데이트를 받는 방법에 대해 알아보십시오
 *  [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)에 대한 [문서 탭 통합
 [!DNL Microsoft Teams]의 [문서] 탭에서 직접 서명을 위해 문서를 보내는 방법에 대해 알아봅니다.
-*  [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)에 대한 [Adobe Acrobat Sign의 라이브 서명
-[!DNL Microsoft Teams] 회의 중 직접 서명과 유사한 온라인 서명 경험을 만드는 방법에 대해 알아봅니다.
-* [고급 워크플로 만들기 [!DNL Power Automate]](advanced-workflow-power-automate.md)
-[!DNL Power Automate] 커넥터를 사용하여 고급 워크플로우를 만드는 방법에 대해 알아봅니다.
 
 ## Microsoft 통합 튜토리얼
 
@@ -275,6 +275,38 @@ Acrobat Sign, Salesforce, Workday 및 Marketo과 같이 조직에서 이미 사�
     </div>
     <em>전송 프로세스를 시작하고 Salesforce 내에서 계약을 자동으로 채우는 사용자 지정 단추를 만듭니다.</em>
     <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="salesforce-automatic-updates.md">
+      <img alt="자동 업데이트 설정" src="../assets/status-updates.png" />
+    </a>
+    <div>
+    <a href="salesforce-automatic-updates.md"><strong>자동 업데이트 설정</strong></a>
+    </div>
+    <em>계정을 Salesforce에 손쉽게 연결하여 자동 업데이트를 받는 방법에 대해 알아보세요</em>
+    <br>
+  </td>
+ <td>
+    <a href="salesforce-large-files.md">
+      <img alt="대용량 파일 및 푸시 매핑 설정" src="../assets/large-files.png" />
+    </a>
+    <div>
+    <a href="salesforce-large-files.md"><strong>큰 파일 및 푸시 매핑 설정</strong></a>
+    </div>
+    <em>Salesforce에서 대용량 문서를 설정하고 계약 서비스를 푸시하는 방법에 대해 알아보십시오</em>
+    <br>
+  </td>
+  <td>
+      <img alt="스페이서" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
+  </td>
+  <td>
+      <img alt="스페이서" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
   </td>
 </tr>
 </table>

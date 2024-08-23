@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
+source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '558'
 ht-degree: 2%
 
 ---
@@ -106,13 +106,13 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <a href="create-a-report.md">
-      <img alt="보고서 차트 만들기" src="../assets/Reportchart.png" />
+    <a href="../sign-advanced-users/creating-a-report.md">
+      <img alt="보고 및 트랜잭션 사용" src="../assets/reporting.png" />
     </a>
     <div>
-    <a href="create-a-report.md"><strong>보고서 차트 만들기</strong></a>
+    <a href="../sign-advanced-users/creating-a-report.md"><strong>보고 및 트랜잭션 사용</strong></a>
     </div>
-    <em>사용자 지정 보고서 및 데이터 내보내기를 빌드하고, 저장하고, 관리하는 방법에 대해 알아보세요</em>
+    <em>보고서를 생성하고 트랜잭션 사용량을 추적하는 방법을 알아보세요</em>
     <br>
   </td>
 </tr>

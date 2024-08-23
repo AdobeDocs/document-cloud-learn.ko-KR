@@ -1,22 +1,22 @@
 ---
-title: 보고서 만들기
-description: 자체 보고서를 작성하여 문서 서명 프로세스를 확인하는 방법을 알아보십시오
+title: 보고 및 트랜잭션 사용
+description: 보고서를 생성하고 트랜잭션 사용량을 추적하는 방법 알아보기
 feature: Report
 role: User, Admin
 level: Intermediate
 jira: KT-11027
 thumbnail: KT-11027.jpg
 exl-id: f30d174d-7990-499b-a6a6-3e68ab2a8e50
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 29f3dfa773325594787ca5a37838625e314212f6
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# 보고서 만들기
+# 보고 및 트랜잭션 사용
 
-자체 보고서를 작성하여 문서 서명 프로세스를 가시화하거나 개별 그룹 또는 사용자가 수행하는 방식을 확인하는 방법을 알아보십시오.
+보고서를 생성하고 트랜잭션 사용량을 추적하는 방법을 알아보십시오. 이러한 보고서에는 서명한 계약의 백분율, 평균 서명 시간 등의 정보가 포함될 수 있습니다. 보고서를 생성하고 사용을 추적하면 문서 서명 프로세스를 볼 수 있습니다.
 
 >[!NOTE]
 >

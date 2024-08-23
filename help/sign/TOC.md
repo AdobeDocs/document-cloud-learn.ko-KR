@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
+source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '538'
 ht-degree: 7%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 7%
       + [Acrobat Sign 텍스트 태그 지정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [ [!DNL Microsoft Word]에서 텍스트 태그 지정 사용](sign-advanced-users/text-tagging-word.md)
    + {#advanced-tasks-managing} 관리
-      + [보고서 만들기](sign-advanced-users/creating-a-report.md)
+      + [보고 및 트랜잭션 사용](sign-advanced-users/creating-a-report.md)
       + [문서 템플릿 관리](sign-advanced-users/edit-a-template.md)
       + [기존 웹 양식 수정](sign-advanced-users/modify-webform.md)
       + [웹 양식 데이터 관리](sign-advanced-users/manage-webform-data.md)
@@ -73,7 +73,7 @@ ht-degree: 7%
       + [그룹 생성 및 관리](admin/create-and-manage-groups.md)
       + [외부 보관 설정](admin/set-up-your-external-archive.md)
       + [템플릿 만들기](sign-advanced-users/create-a-template.md)
-      + [보고서 차트 만들기](admin/create-a-report.md)
+      + [보고 및 트랜잭션 사용](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [사용자를 위한 보고서 옵션](admin/report-options.md)
       + [웹 양식 만들기](sign-advanced-users/webform.md)
       + [기존 웹 양식 수정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
@@ -111,7 +111,7 @@ ht-degree: 7%
       + [ [!DNL SharePoint] 포함 [!DNL Power Automate]에서 파일 자동 보관](integrations/auto-archive-sharepoint-power-automate.md)
       + [ [!DNL Microsoft Power Platform]용 Acrobat Sign을 사용한 문서 자동화](integrations/documentautomation.md)
       + [ [!DNL Microsoft Teams]에서 서명을 위해 보내기](integrations/adobe-sign-teams-mortgage.md)
-      + [ [!DNL Microsoft Teams]에 대한 Adobe Acrobat Sign의 라이브 서명](integrations/live-sign-microsoft-teams.md)
+      +  [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)에 대한 [Adobe Acrobat Sign의 라이브 서명
       + [ [!DNL Microsoft Teams]에 대한 문서 탭 통합](integrations/acrobat-sign-teams-documents-tab.md)
       + [ [!DNL Power Automate]에서 간단한 워크플로 만들기](integrations/simple-workflow-power-automate.md)
       + [ [!DNL Power Automate]에서 고급 워크플로 만들기](integrations/advanced-workflow-power-automate.md)
@@ -125,6 +125,8 @@ ht-degree: 7%
       + [데이터 매핑 설정](integrations/set-up-data-mapping.md)
       + [병합 매핑 설정](integrations/set-up-merging-map.md)
       + [사용자 정의 단추 만들기](integrations/create-a-custom-button.md)
+      + [자동 업데이트 설정](integrations/salesforce-automatic-updates.md)
+      + [대용량 파일 및 푸시 매핑 설정](integrations/salesforce-large-files.md)
    + Workday {#workday}
       + [ [!DNL Workday](으)로 Acrobat Sign 구성](integrations/workday.md)
       + [Acrobat Sign + Workday 신규 채용 온보딩](integrations/acrobat-sign-workday-onboarding.md)
