@@ -7,9 +7,9 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
+source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '294'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 Acrobat의 고급 도구를 사용하여 기본 사항 이상을 살펴보세요. 동작을 만들어 일상적인 작업을 반복하고, 민감한 정보를 제거하고, 대용량 파일을 감소 및 최적화하고, 양식 데이터를 빠르게 수집하고, 보편적으로 액세스 가능한 PDF 파일을 만드는 방법을 알아보십시오.
 
 ## 새로운 기능
+
+* [안내가 제공되는 동작](action.md)
+안내가 제공되는 동작을 사용하여 효율성을 개선하는 방법에 대해 알아봅니다.
 
 * [SEO에 대한 Optimize PDF(검색 엔진 최적화)](optimizeseo.md)
 웹에서 검색 기능 및 PDF 엔진 순위를 개선하기 위해 검색을 최적화하는 방법을 알아봅니다.
@@ -105,12 +108,12 @@ Acrobat의 고급 도구를 사용하여 기본 사항 이상을 살펴보세요
 <tr>
   <td>
     <a href="action.md">
-      <img alt="Action Wizard" src="../assets/action.png" />
+      <img alt="안내가 제공되는 동작" src="../assets/action.png" />
     </a>
     <div>
-      <a href="action.md"><strong>Action Wizard</strong></a>
+      <a href="action.md"><strong>안내가 제공되는 동작</strong></a>
       </div>
-      작업을 사용하여 효율성을 개선하는 방법 알아보기
+      안내가 제공되는 동작을 사용하여 효율성을 개선하는 방법에 대해 알아봅니다.
   </td>
   <td>
     <a href="redact.md">

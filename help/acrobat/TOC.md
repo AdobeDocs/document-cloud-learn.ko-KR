@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 91017fe122eae4de793037372f249aba9308350b
+source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 3%
@@ -53,7 +53,7 @@ ht-degree: 3%
    + [양식 필드로 작업](advanced-tasks/workforms.md)
    + [PDF 향상](advanced-tasks/enhance.md)
    + [두 PDF 간 차이점 검색](advanced-tasks/compare.md)
-   + [Action Wizard](advanced-tasks/action.md)
+   + [안내가 제공되는 동작](advanced-tasks/action.md)
    + [교정 및 기밀 정보 가리기](advanced-tasks/redact.md)
    + [파일 크기 축소 및 최적화](advanced-tasks/reduce.md)
    + [양식 데이터를 사용한 작업](advanced-tasks/formdata.md)
