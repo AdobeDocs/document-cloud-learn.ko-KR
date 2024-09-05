@@ -7,10 +7,10 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3aabfd79a135f925fcc500d8ac42356b3437dfaa
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 6%
+source-wordcount: '188'
+ht-degree: 4%
 
 ---
 
@@ -31,52 +31,97 @@ Adobe Document Cloud 솔루션인 Acrobat Sign은 통합, API, 고급 인증, �
 <tr>
   <td>
     <a href="sign-beginner-tutorials/beginner-users-overview.md">
-      <img alt="시작하기" src="assets/AS_Title_Getting-Started.png" />
+      <img alt="시작하기" src="assets/getting-started.png" />
     </a>
+    <div>
+      <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>시작하기</strong></a>
+      </div>
+      <em>문서를 보내고, 서명하고, 추적하는 방법을 최신식으로 살펴보세요</em>
+      <br>
   </td>
   <td>
     <a href="sign-advanced-users/advanced-users-overview.md">
-      <img alt="고급 작업" src="assets/AS_Title_Advanced.png" />
+      <img alt="고급 작업" src="assets/advanced-tasks.png" />
     </a>
+    <div>
+      <a href="sign-advanced-users/advanced-users-overview.md"><strong>고급 작업</strong></a>
+      </div>
+      <em>특정 작업 및 자동화를 통해 기본 기능을 뛰어넘으세요.</em>
+      <br>
   </td>  
   <td>
     <a href="admin/intro-admin-overview.md">
-      <img alt="관리" src="assets/AS_Title_Administer.png" />
+      <img alt="관리" src="assets/administer.png" />
     </a>
+    <div>
+      <a href="admin/intro-admin-overview.md"><strong>관리</strong></a>
+      </div>
+      <em>조직에 대한 기본 설정 팁에서 고급 설정 팁</em>
+      <br>
   </td>
   <td>
     <a href="digitalid/digitalid-overview.md">
-      <img alt="디지털 ID" src="assets/AS_Title_DigitalID.png" />
+      <img alt="디지털 ID" src="assets/identity.png" />
     </a>
+     <div>
+      <a href="digitalid/digitalid-overview.md"><strong>디지털 ID</strong></a>
+      </div>
+      <em>Acrobat Sign에서 단어 주위에 디지털 ID를 사용하는 방법</em> 알아보기
+      <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="integrations/integrations-overview.md">
-      <img alt="통합" src="assets/AS_Title_Integrate.png" />
+      <img alt="통합" src="assets/integrations.png" />
     </a>
+    <div>
+      <a href="integrations/integrations-overview.md"><strong>통합</strong></a>
+      </div>
+      <em>조직에서 이미 사용하고 있는 다른 응용 프로그램 내부에 직접 Acrobat Sign을 추가합니다</em>
+      <br>
   </td>
   <td>
     <a href="sign-usecase/expand-inspire-overview.md">
-      <img alt="업종 및 부서" src="assets/AS_Title_Industry.png" />
+      <img alt="업종 및 부서" src="assets/industries.png" />
     </a>
+    <div>
+      <a href="sign-usecase/expand-inspire-overview.md"><strong>산업 및 부서</strong></a>
+      </div>
+      <em>실제 산업 및 부서 사용 사례 탐색</em>
+      <br>
   </td>
   <td>
     <a href="develop/develop-overview.md">
-      <img alt="현상" src="assets/AS_Title_Develop.png" />
+      <img alt="현상" src="assets/develop.png" />
     </a>
+    <div>
+      <a href="develop/develop-overview.md"><strong>개발</strong></a>
+      </div>
+      <em>Acrobat Sign I/O에 대한 개발 리소스 가져오기</em>
+      <br>
   </td>
    <td>
     <a href="deploy-overview.md">
-      <img alt="배포" src="assets/AS_Title_Deploy.png" />
+      <img alt="배포" src="assets/deploy.png" />
     </a>
+    <div>
+      <a href="deploy-overview.md"><strong>배포</strong></a>
+      </div>
+      <em>조직 내에 Acrobat Sign을 배포하는 데 필요한 통찰력 및 모범 사례</em>
+      <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="mobile/mobile-overview.md">
-      <img alt="모바일" src="assets/AS_Title_Mobile.png" />
+      <img alt="모바일" src="assets/mobile.png" />
     </a>
+    <div>
+      <a href="mobile/mobile-overview.md"><strong>모바일</strong></a>
+      </div>
+      <em>모바일 장치에서 전송, 서명 및 실시간 업데이트 받기</em>
+      <br>
   </td>  
 </tr>
 </table>
