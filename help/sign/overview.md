@@ -7,7 +7,7 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 3aabfd79a135f925fcc500d8ac42356b3437dfaa
+source-git-commit: 9e46f85c7c7d7ae9dbe190f30ef66a9944c5d8b1
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 4%
@@ -36,7 +36,7 @@ Adobe Document Cloud 솔루션인 Acrobat Sign은 통합, API, 고급 인증, �
     <div>
       <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>시작하기</strong></a>
       </div>
-      <em>문서를 보내고, 서명하고, 추적하는 방법을 최신식으로 살펴보세요</em>
+      문서를 전송, 서명 및 추적하는 방법에 대해 최신 정보를 얻으세요.
       <br>
   </td>
   <td>
@@ -46,7 +46,7 @@ Adobe Document Cloud 솔루션인 Acrobat Sign은 통합, API, 고급 인증, �
     <div>
       <a href="sign-advanced-users/advanced-users-overview.md"><strong>고급 작업</strong></a>
       </div>
-      <em>특정 작업 및 자동화를 통해 기본 기능을 뛰어넘으세요.</em>
+      특정 작업 및 자동화를 통해 기본 사항 극대화
       <br>
   </td>  
   <td>
@@ -56,7 +56,7 @@ Adobe Document Cloud 솔루션인 Acrobat Sign은 통합, API, 고급 인증, �
     <div>
       <a href="admin/intro-admin-overview.md"><strong>관리</strong></a>
       </div>
-      <em>조직에 대한 기본 설정 팁에서 고급 설정 팁</em>
+      조직을 위한 기본 및 고급 설정 팁
       <br>
   </td>
   <td>
@@ -66,7 +66,7 @@ Adobe Document Cloud 솔루션인 Acrobat Sign은 통합, API, 고급 인증, �
      <div>
       <a href="digitalid/digitalid-overview.md"><strong>디지털 ID</strong></a>
       </div>
-      <em>Acrobat Sign에서 단어 주위에 디지털 ID를 사용하는 방법</em> 알아보기
+      Acrobat Sign에서 단어 주위에 있는 디지털 ID를 사용하는 방법을 알아봅니다
       <br>
   </td>
 </tr>
@@ -78,7 +78,7 @@ Adobe Document Cloud 솔루션인 Acrobat Sign은 통합, API, 고급 인증, �
     <div>
       <a href="integrations/integrations-overview.md"><strong>통합</strong></a>
       </div>
-      <em>조직에서 이미 사용하고 있는 다른 응용 프로그램 내부에 직접 Acrobat Sign을 추가합니다</em>
+      조직에서 이미 사용 중인 다른 애플리케이션 내에 직접 Acrobat Sign 추가
       <br>
   </td>
   <td>
@@ -88,7 +88,7 @@ Adobe Document Cloud 솔루션인 Acrobat Sign은 통합, API, 고급 인증, �
     <div>
       <a href="sign-usecase/expand-inspire-overview.md"><strong>산업 및 부서</strong></a>
       </div>
-      <em>실제 산업 및 부서 사용 사례 탐색</em>
+      실제 산업 및 부서 사용 사례 탐색
       <br>
   </td>
   <td>
@@ -98,7 +98,7 @@ Adobe Document Cloud 솔루션인 Acrobat Sign은 통합, API, 고급 인증, �
     <div>
       <a href="develop/develop-overview.md"><strong>개발</strong></a>
       </div>
-      <em>Acrobat Sign I/O에 대한 개발 리소스 가져오기</em>
+      Acrobat Sign I/O에서 개발 리소스 다운로드
       <br>
   </td>
    <td>
@@ -108,7 +108,7 @@ Adobe Document Cloud 솔루션인 Acrobat Sign은 통합, API, 고급 인증, �
     <div>
       <a href="deploy-overview.md"><strong>배포</strong></a>
       </div>
-      <em>조직 내에 Acrobat Sign을 배포하는 데 필요한 통찰력 및 모범 사례</em>
+      조직 내 Acrobat Sign 배포에 대한 통찰력 및 모범 사례
       <br>
   </td>
 </tr>
@@ -120,7 +120,7 @@ Adobe Document Cloud 솔루션인 Acrobat Sign은 통합, API, 고급 인증, �
     <div>
       <a href="mobile/mobile-overview.md"><strong>모바일</strong></a>
       </div>
-      <em>모바일 장치에서 전송, 서명 및 실시간 업데이트 받기</em>
+      모바일 디바이스에서 전송, 서명 및 실시간 업데이트 받기
       <br>
   </td>  
 </tr>
