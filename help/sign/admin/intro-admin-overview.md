@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
+source-git-commit: 59143ff41832f74df4012ce576b96482a4c6dcfa
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '584'
 ht-degree: 2%
 
 ---
@@ -21,13 +21,12 @@ ht-degree: 2%
 
 ## 새로운 기능
 
+* [여러 프로필을 사용하는 방법](multiple-profiles.md)
+프로필 선택기를 사용하여 여러 Acrobat Sign 계정으로 작업하는 방법에 대해 알아봅니다
 * [개인 정보 보호 관리자를 설정하는 방법](privacy.md)
 개인 정보 보호 관리자 설정 및 사용 방법 알아보기
 * [일괄 다운로드 도구](bulk-download-tool.md)
 일괄 다운로드 도구를 사용하여 서명된 모든 계약을 빠르게 다운로드하는 방법에 대해 알아보십시오
-* [감사 보고서](audit-reports.md)
-조직의 요구 사항에 맞게 감사 보고서에 액세스, 활용 및 구성하는 방법에 대해 알아보십시오
-
 
 ## 시작하기
 
@@ -180,8 +179,13 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <a href="multiple-profiles.md">
+      <img alt="여러 프로필을 사용하는 방법" src="../assets/multiple-profiles.png" />
+    </a>
     <div>
+    <a href="multiple-profiles.md"><strong>여러 프로필을 사용하는 방법</strong></a>
+    </div>
+    <em>프로필 선택기를 사용하여 여러 Acrobat Sign 계정으로 작업하는 방법에 대해 알아보세요</em>
     <br>
   </td>
   <td>
