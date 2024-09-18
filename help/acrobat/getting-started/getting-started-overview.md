@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: dc2026b6bcee8369f244c9bd410622c55e3c96c8
+source-git-commit: 274bb95c46fd4acff736af882efdc7e75192dda7
 workflow-type: tm+mt
 source-wordcount: '562'
 ht-degree: 1%
@@ -36,7 +36,7 @@ PDF에서 [그래픽을 만들고, 편집하고, 향상시키는 방법](edit-gr
 
 >[!TAB AI 도우미를 사용하여 PDF 인사이트 탐색]
 
-AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방법을 알아봅니다.
+[AI 도우미](ai-assistant.md)를 사용하여 PDF 파일에서 인사이트를 얻는 방법을 알아보세요.
 
 >[!ENDTABS]
 
