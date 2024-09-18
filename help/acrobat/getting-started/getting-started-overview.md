@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
+source-git-commit: 34fb3cbe888dc5eb81b9ce48b05a9c71aa35ba03
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '561'
 ht-degree: 1%
 
 ---
@@ -20,6 +20,8 @@ ht-degree: 1%
 
 ## 새로운 기능
 
+* [새 페이지 디자인](add-custom-page.md)
+Adobe Express을 사용하여 PDF에서 전문적인 느낌의 새로운 페이지를 만드는 방법을 알아봅니다.
 * [PDF에서 그래픽 편집](edit-graphics.md)
 PDF에서 그래픽을 만들고 편집하고 향상시키는 방법을 살펴봅니다
 * [새 작업 영역 환경](new-workspace.md)
