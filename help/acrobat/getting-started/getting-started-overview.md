@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
+source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '544'
 ht-degree: 1%
 
 ---
@@ -147,12 +147,12 @@ AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방�
     </td>
     <td>
       <a href="add-custom-page.md">
-        <img alt="사용자 정의 페이지 추가" src="../assets/custom.png" />
+        <img alt="새 페이지 디자인" src="../assets/design.png" />
       </a>
       <div>
-      <a href="add-custom-page.md"><strong>사용자 지정 페이지 추가</strong></a>
+      <a href="add-custom-page.md"><strong>새 페이지 디자인</strong></a>
       </div>
-      PDF에 사용자 정의 페이지를 추가하는 방법 알아보기
+     PDF에서 전문적인 느낌을 주는 페이지를 새로 만드는 방법을 살펴보세요
       <br>
     </td>
   </tr>
