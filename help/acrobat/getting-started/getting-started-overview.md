@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 34fb3cbe888dc5eb81b9ce48b05a9c71aa35ba03
+source-git-commit: dc2026b6bcee8369f244c9bd410622c55e3c96c8
 workflow-type: tm+mt
-source-wordcount: '561'
+source-wordcount: '562'
 ht-degree: 1%
 
 ---
@@ -20,14 +20,25 @@ ht-degree: 1%
 
 ## 새로운 기능
 
-* [새 페이지 디자인](add-custom-page.md)
-Adobe Express을 사용하여 PDF에서 전문적인 느낌의 새로운 페이지를 만드는 방법을 알아봅니다.
-* [PDF에서 그래픽 편집](edit-graphics.md)
-PDF에서 그래픽을 만들고 편집하고 향상시키는 방법을 살펴봅니다
-* [새 작업 영역 환경](new-workspace.md)
-도구를 빠르게 찾고 PDF 작업을 효율적으로 완료하는 데 도움이 되는 Acrobat의 새로운 작업 영역에 대해 알아보십시오
-* [AI 도우미를 사용하여 PDF 인사이트 탐색](ai-assistant.md)
-AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방법을 알아봅니다
+>[!BEGINTABS]
+
+>[!TAB 새 페이지 디자인]
+
+Adobe Express을 사용하여 PDF에서 [전문적인 느낌의 새로운 페이지를 디자인](add-custom-page.md)하는 방법을 알아보세요.
+
+>[!TAB PDF에서 그래픽 편집]
+
+PDF에서 [그래픽을 만들고, 편집하고, 향상시키는 방법](edit-graphics.md)을 살펴보세요.
+
+>[!TAB 새 작업 영역 환경]
+
+도구를 빠르게 찾고 PDF 작업을 효율적으로 완료하는 데 도움이 되는 Acrobat의 [새 작업 영역](new-workspace.md)에 대해 알아보세요.
+
+>[!TAB AI 도우미를 사용하여 PDF 인사이트 탐색]
+
+AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방법을 알아봅니다.
+
+>[!ENDTABS]
 
 ## 시작하기 자습서
 
