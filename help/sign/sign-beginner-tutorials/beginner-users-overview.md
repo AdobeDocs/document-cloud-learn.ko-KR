@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -20,10 +20,17 @@ ht-degree: 3%
 
 ## 새로운 기능
 
-* [Acrobat Sign 시작](new-sender.md)
-Acrobat Sign을 처음 사용하십니까? 이 튜토리얼은 시작하기에 좋은 출발점입니다.
-* [기한 및 미리 알림 설정](set-deadlines-reminders.md)
-문서에 빠르게 서명할 수 있도록 일반 전자 메일 알림 메시지 및 기한을 보내는 방법을 알아봅니다
+>[!BEGINTABS]
+
+>[!TAB Acrobat Sign 시작]
+
+Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md))은(는) 시작하기에 좋은 장소입니다.
+
+>[!TAB 기한 및 미리 알림 설정]
+
+문서에 빠르게 서명할 수 있도록 일반 전자 메일 [미리 알림 및 기한](set-deadlines-reminders.md)을 보내는 방법을 알아봅니다.
+
+>[!ENDTABS]
 
 ## 전송
 

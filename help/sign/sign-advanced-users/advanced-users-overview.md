@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 2%
@@ -20,10 +20,17 @@ ht-degree: 2%
 
 ## 새로운 기능
 
-* [대량 전송](megasign.md)
-간단한 몇 단계만으로 모든 문서에 대해 한 번에 수천 개의 서명을 수집하는 방법을 알아봅니다
-* [Acrobat Sign의 인증 방법](authentication-methods.md)
-Acrobat Sign에서 문서에 서명하는 사람의 신원을 인증하는 다양한 방법에 대해 알아봅니다
+>[!BEGINTABS]
+
+>[!TAB 대량 전송]
+
+몇 단계만으로 모든 문서에 대해 한 번에 수천 개의 서명을 [수집](megasign.md)하는 방법을 알아보세요.
+
+>[!TAB Acrobat Sign의 인증 방법]
+
+Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authentication-methods.md)하기 위해 사용할 수 있는 메서드의 범위에 대해 알아봅니다.
+
+>[!ENDTABS]
 
 ## 전송
 

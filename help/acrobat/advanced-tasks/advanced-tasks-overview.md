@@ -7,7 +7,7 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 1%
@@ -20,11 +20,17 @@ Acrobat의 고급 도구를 사용하여 기본 사항 이상을 살펴보세요
 
 ## 새로운 기능
 
-* [안내가 제공되는 동작](action.md)
-안내가 제공되는 동작을 사용하여 효율성을 개선하는 방법에 대해 알아봅니다.
+>[!BEGINTABS]
 
-* [SEO에 대한 Optimize PDF(검색 엔진 최적화)](optimizeseo.md)
-웹에서 검색 기능 및 PDF 엔진 순위를 개선하기 위해 검색을 최적화하는 방법을 알아봅니다.
+>[!TAB 안내가 제공되는 동작]
+
+[안내가 제공되는 동작](action.md)을 사용하여 효율성을 개선하는 방법을 알아봅니다.
+
+>[!TAB SEO에 대한 Optimize PDF(검색 엔진 최적화)]
+
+웹에서 검색 기능과 PDF 엔진 순위를 개선하기 위해 [검색을 최적화](optimizeseo.md)하는 방법을 알아보세요.
+
+>[!ENDTABS]
 
 ## 고급 작업 튜토리얼
 

@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8fa83a1a43067e65eb496becd5ac543845f2f1c3
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 1%
@@ -21,14 +21,25 @@ ht-degree: 1%
 
 ## 새로운 기능
 
-* [사용자를 관리자 역할로 승격하는 방법](promote-admin.md)
-Admin Console을 사용하여 사용자를 Acrobat Sign 관리자 역할로 승격시키는 방법에 대해 알아봅니다.
-* [여러 프로필을 사용하는 방법](multiple-profiles.md)
-프로필 선택기를 사용하여 여러 Acrobat Sign 계정으로 작업하는 방법에 대해 알아봅니다
-* [개인 정보 보호 관리자를 설정하는 방법](privacy.md)
-개인 정보 보호 관리자 설정 및 사용 방법 알아보기
-* [일괄 다운로드 도구](bulk-download-tool.md)
-일괄 다운로드 도구를 사용하여 서명된 모든 계약을 빠르게 다운로드하는 방법에 대해 알아보십시오
+>[!BEGINTABS]
+
+>[!TAB 사용자를 관리자 역할로 승격하는 방법]
+
+Admin Console을 사용하여 [사용자를 Acrobat Sign 관리자 역할로 승격](promote-admin.md)하는 방법에 대해 알아봅니다.
+
+>[!TAB 여러 프로필을 사용하는 방법]
+
+[프로필 선택기](multiple-profiles.md)를 사용하여 여러 Acrobat Sign 계정으로 작업하는 방법을 알아봅니다.
+
+>[!TAB 개인 정보 보호 관리자를 설정하는 방법]
+
+[개인 정보 보호 관리자](privacy.md)를 설정하고 사용하는 방법에 대해 알아봅니다.
+
+>[!TAB 일괄 다운로드 도구]
+
+[일괄 다운로드 도구](bulk-download-tool.md)를 사용하여 서명된 모든 계약을 빠르게 다운로드하는 방법을 알아봅니다.
+
+>[!ENDTABS]
 
 ## 시작하기
 

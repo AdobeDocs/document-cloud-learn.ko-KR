@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
+source-git-commit: 99711e49e9d08b6a620da92139f9afe17579d987
 workflow-type: tm+mt
-source-wordcount: '869'
+source-wordcount: '871'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,21 @@ Acrobat Sign, Salesforce, Workday 및 Marketo과 같이 조직에서 이미 사�
 
 ## 새로운 기능
 
-* [큰 파일 및 푸시 매핑 설정](salesforce-large-files.md)
-Salesforce에서 대용량 문서를 설정하고 계약 서비스를 푸시하는 방법에 대해 알아보십시오
-* [자동 업데이트 설정](salesforce-automatic-updates.md)
-계정을 Salesforce에 손쉽게 연결하여 자동 업데이트를 받는 방법에 대해 알아보십시오
-*  [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)에 대한 [문서 탭 통합
-[!DNL Microsoft Teams]의 [문서] 탭에서 직접 서명을 위해 문서를 보내는 방법에 대해 알아봅니다.
+>[!BEGINTABS]
+
+>[!TAB 큰 파일 및 푸시 매핑 설정]
+
+Salesforce에서 [대용량 문서 및 푸시 계약 서비스](salesforce-large-files.md)를 설정하는 방법에 대해 알아보십시오.
+
+>[!TAB 자동 업데이트 설정]
+
+Salesforce에 계정을 손쉽게 연결하여 [자동 업데이트](salesforce-automatic-updates.md)를 받는 방법을 알아보세요.
+
+>[!TAB Microsoft Teams에 대한 문서 탭 통합]
+
+[!DNL Microsoft Teams]의 [문서 탭](acrobat-sign-teams-documents-tab.md)에서 직접 서명을 위해 문서를 보내는 방법을 알아봅니다.
+
+>[!ENDTABS]
 
 ## Microsoft 통합 튜토리얼
 

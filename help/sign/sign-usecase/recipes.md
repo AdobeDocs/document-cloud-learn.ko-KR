@@ -8,7 +8,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -21,14 +21,25 @@ ht-degree: 0%
 
 ## 새로운 기능
 
-* [교육기관 IEP 프로세스에 대한 사용자 지정 워크플로](usecase-edu-iep.md)
-사용자 정의 작업 과정 Designer을 사용하여 IEP(Individualized Education Program) 프로세스를 디지털화하는 방법을 알아보십시오
-* [교육 웹 양식 인턴십 응용 프로그램](usecase-edu-intern.md)
-웹 양식을 사용하여 필요한 양식에 대한 학생들의 액세스 권한을 향상시키는 방법에 대해 알아봅니다.
-* [교육 웹 양식 인턴십 응용 프로그램 만들기](usecase-edu-intern-create.md)
-인턴십 웹 양식을 만드는 방법 알아보기
-* [여러 서명자가 있는 정부 대출 신청](webform-multiple-signers.md)
-웹 양식이 여러 명의 알 수 없는 참가자를 포함하는 복잡한 정부 대출 신청 워크플로우에 사용되는 방법을 알아봅니다.
+>[!BEGINTABS]
+
+>[!TAB 교육기관 IEP 프로세스에 대한 사용자 지정 워크플로]
+
+[사용자 지정 워크플로 Designer](usecase-edu-iep.md)을 사용하여 IEP(Individualized Education Program) 프로세스를 디지털화하는 방법을 알아봅니다.
+
+>[!TAB 교육 웹 양식 인턴십 응용 프로그램]
+
+[웹 양식](usecase-edu-intern.md)을 사용하여 필요한 양식에 대한 학생들의 액세스 권한을 향상시키는 방법에 대해 알아봅니다.
+
+>[!TAB 교육 웹 양식 인턴십 응용 프로그램 만들기]
+
+[웹 양식](usecase-edu-intern-create.md) 인턴십을 만드는 방법에 대해 알아봅니다.
+
+>[!TAB 여러 서명자가 있는 정부 대출 신청]
+
+[웹 양식](webform-multiple-signers.md)이(가) 여러 명의 알 수 없는 참가자를 포함하는 복잡한 정부 대출 응용 프로그램 워크플로에 사용되는 방법을 알아봅니다.
+
+>[!ENDTABS]
 
 ## 정부 사용 사례
 

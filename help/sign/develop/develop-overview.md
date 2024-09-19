@@ -8,7 +8,7 @@ jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 3%
@@ -21,8 +21,13 @@ Acrobat Sign 계약의 40%가 API를 사용하여 생성됩니다. API를 사용
 
 ## 새로운 기능
 
-* [Webhook을 설정하는 방법](webhooks.md)
-Webhook을 만들어 일반적으로 수동 개입이 필요한 프로세스를 자동화하는 방법에 대해 알아봅니다.
+>[!BEGINTABS]
+
+>[!TAB Webhook을 설정하는 방법]
+
+일반적으로 수동 작업이 필요한 프로세스를 자동화하기 위해 [Webhook](webhooks.md)을(를) 만드는 방법에 대해 알아봅니다.
+
+>[!ENDTABS]
 
 <table style="table-layout:fixed">
 <tr>
