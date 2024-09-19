@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 9efd6313d1a94ea4448034f5b1f624fe2d64b622
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -24,7 +24,7 @@ ht-degree: 3%
 
 >[!TAB Acrobat Sign 시작]
 
-Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md))은(는) 시작하기에 좋은 장소입니다.
+Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(는) 시작하기에 좋은 장소입니다.
 
 >[!TAB 기한 및 미리 알림 설정]
 
