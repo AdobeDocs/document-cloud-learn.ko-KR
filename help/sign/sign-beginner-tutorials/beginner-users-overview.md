@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 9efd6313d1a94ea4448034f5b1f624fe2d64b622
+source-git-commit: 02e877aaf618c29208da2eb971524baf80e76678
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -38,7 +38,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="작업 공간 기본 사항" src="../assets/workspace_1280.png" />
+      <img alt="작업 공간 기본 사항" src="../assets/workspace.png" />
     </a>
     <div>
     <a href="quick-tour.md"><strong>작업 영역 기본 사항</strong></a>
@@ -196,7 +196,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="디지털 서명이란 무엇입니까?" src="../assets/Whatisdigsig_1280.jpg" />
+      <img alt="디지털 서명이란 무엇입니까?" src="../assets/whatisdigsig.png" />
     </a>
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>디지털 서명이란 무엇입니까</strong></a>
@@ -233,7 +233,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="계약 관리 및 추적" src="../assets/Manage_1280.png" />
+      <img alt="계약 관리 및 추적" src="../assets/Manage.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong>계약 관리 및 추적</strong></a>
