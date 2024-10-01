@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '646'
 ht-degree: 0%
 
 ---
@@ -150,7 +150,3 @@ Marketo 설정 - Twilio SMS Webhook에는 계정에서 3개의 Twilio 매개 변
    ![Webhook](assets/callWebhook.png) 호출
 
 1. 계약에 추가된 잠재 고객에 대한 SMS 알림 캠페인이 이제 설정되었습니다.
-
->[!TIP]
->
->이 튜토리얼은 Experience League에서 무료로 사용할 수 있는 [Salesforce용 Acrobat Sign 및 Marketo으로 판매 주기를 가속화](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 과정의 일부입니다.

@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5315
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -22,4 +22,4 @@ Acrobat Sign에서 서명을 위해 보낸 문서를 관리하고 추적하는 �
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 사용할 수 있는 [Acrobat Sign 시작하기](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) 과정의 일부입니다.
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [Acrobat Sign 시작하기](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users)의 일부입니다.

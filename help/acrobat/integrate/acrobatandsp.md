@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-7190
 thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -30,4 +30,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 사용할 수 있는 [Acrobat DC 및 Microsoft 365로 더 스마트하게 작업하기](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 과정의 일부입니다.
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [Acrobat과 Microsoft 365 통합](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365)의 일부입니다.

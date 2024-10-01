@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: 580ab332226b408d735639342bd3f6b96323a9b3
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 3%
@@ -29,4 +29,4 @@ ht-degree: 3%
 
 >[!TIP]
 >
-이 비디오는 Experience League에서 무료로 사용할 수 있는 [사용자를 위한 고급 작업](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 및 [관리자용 Acrobat Sign 시작하기](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) 과정의 일부입니다.
+이 비디오는 Experience League에서 무료로 사용할 수 있는 [사용자를 위한 고급 작업](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) 및 [관리자용 Acrobat Sign 시작하기](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) 재생 목록의 일부입니다.

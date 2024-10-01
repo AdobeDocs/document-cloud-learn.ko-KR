@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-4965
 thumbnail: KT-4965.jpg
 exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -22,4 +22,4 @@ Acrobat Sign에서 가장 일반적인 작업 과정(서명을 위해 문서 전
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 사용할 수 있는 [Acrobat Sign 시작하기](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) 과정의 일부입니다.
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [Acrobat Sign 시작하기](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users)의 일부입니다.

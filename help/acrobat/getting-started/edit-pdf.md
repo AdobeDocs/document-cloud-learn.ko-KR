@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-5528
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -28,4 +28,4 @@ PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아�
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 사용할 수 있는 [Acrobat DC 및 Microsoft 365로 더 스마트하게 작업하기](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 과정의 일부입니다.
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [Adobe Acrobat 시작하기](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users)의 일부입니다.

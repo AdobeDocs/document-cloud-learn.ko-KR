@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-8496
 thumbnail: KT-8496.jpg
 exl-id: 433ed8a5-aab6-420e-a86e-903e81841df7
-source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
-이 비디오는 Experience League에서 무료로 사용할 수 있는 [Acrobat DC 및 Microsoft 365로 더 스마트하게 작업하기](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 과정의 일부입니다.
+이 비디오는 Experience League 시 무료로 사용할 수 있는 재생 목록 [Adobe Acrobat에서 고급 작업 수행](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks)의 일부입니다.
 
 >[!NOTE]
 >

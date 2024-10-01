@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-4966
 thumbnail: KT-4966.jpg
 exl-id: da64949c-b8e0-4923-b3a4-43d2d6dbd4d5
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 10%
@@ -22,4 +22,4 @@ ht-degree: 10%
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 사용할 수 있는 [Acrobat Sign 시작하기](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) 과정의 일부입니다.
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [Acrobat Sign 시작하기](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users)의 일부입니다.

@@ -10,9 +10,9 @@ jira: KT-7248
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '947'
+source-wordcount: '921'
 ht-degree: 0%
 
 ---
@@ -201,6 +201,3 @@ Marketo Salesforce 동기화 및 Salesforce용 Acrobat Sign 구성이 완료되�
 
    ![일정 설정](assets/scheduleSettings.png)
 
->[!TIP]
->
->이 튜토리얼은 Experience League에서 무료로 사용할 수 있는 [Salesforce용 Acrobat Sign 및 Marketo으로 판매 주기를 가속화](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 과정의 일부입니다.

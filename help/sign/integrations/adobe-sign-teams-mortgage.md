@@ -9,7 +9,7 @@ jira: KT-6208
 topic-revisit: Integrations
 thumbnail: 40125.jpg
 exl-id: dc6b8cc8-6d9d-46a0-add2-dc5ada06fbaf
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 사용할 수 있는 [Microsoft 앱에서 Acrobat Sign을 사용하는](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) 과정의 일부입니다.
+>이 비디오는 재생 목록 [Microsoft 앱에서 Acrobat Sign 사용](https://experienceleague.adobe.com/en/playlists/acrobat-sign-integrate-microsoft-apps)의 일부이며 Experience League에서 무료로 사용할 수 있습니다.

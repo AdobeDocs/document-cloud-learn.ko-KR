@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 및 Marketo용 Acrobat Sign을 사용하여 미리 알림 보내기
+title: Microsoft Dynamics 365용 Acrobat Sign 및 Marketo을 사용하여 미리 알림 보내기
 description: 일정 기간 후 계약이 서명되지 않은 상태로 유지되는 경우 전자 메일 알림 메시지를 보내는 방법을 알아봅니다.
 feature: Integrations
 role: Admin
@@ -10,14 +10,14 @@ topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '864'
 ht-degree: 0%
 
 ---
 
-# Microsoft Dynamics 365 및 Marketo용 Acrobat Sign을 사용하여 미리 알림 보내기
+# Microsoft Dynamics 365용 Acrobat Sign 및 Marketo을 사용하여 미리 알림 보내기
 
 계약이 일정 기간 후 서명되지 않은 상태로 유지되는 경우 전자 메일 알림 메시지를 보내는 방법을 알아봅니다. 이 통합은 Acrobat Sign, Microsoft Dynamics용 Acrobat Sign, Marketo 및 Marketo Microsoft Dynamics Sync를 사용합니다.
 
@@ -204,7 +204,3 @@ Marketo Microsoft Dynamics Sync 및 Dynamics용 Acrobat Sign 구성이 완료되
 1. **일정**&#x200B;을 _매일_(으)로 설정합니다. 필요한 경우 캠페인의 시작 날짜와 시간 및 종료 날짜를 선택합니다.
 
    ![일정 설정](assets/scheduleSettings.png)
-
->[!TIP]
->
->이 자습서는 Experience League에서 무료로 사용할 수 있는 [Microsoft Dynamics 및 Marketo용 Acrobat Sign으로 판매 주기 가속화](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 과정의 일부입니다.

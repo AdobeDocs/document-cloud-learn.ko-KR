@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 및 Marketo용 Acrobat Sign을 사용하여 알림 보내기
+title: Microsoft Dynamics 365용 Acrobat Sign 및 Marketo을 사용하여 알림 보내기
 description: 서명자에게 계약이 진행 중임을 알리기 위해 문자 메시지, 이메일 또는 푸시 알림을 보내는 방법에 대해 알아봅니다.
 feature: Integrations
 role: Admin
@@ -10,16 +10,16 @@ topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '652'
 ht-degree: 0%
 
 ---
 
-# Microsoft Dynamics 365 및 Marketo용 Acrobat Sign을 사용하여 알림 보내기
+# Microsoft Dynamics 365용 Acrobat Sign 및 Marketo을 사용하여 알림 보내기
 
-서명자에게 계약이 진행 중임을 알리기 위해 문자 메시지, 전자 메일 또는 푸시 알림을 보내는 방법 및 Acrobat Sign, Microsoft용 Acrobat Sign Dynamic, Marketo 및 Marketo Microsoft Dynamics Sync를 사용하여 계약을 전송하는 방법에 대해 알아봅니다. Marketo에서 알림을 보내려면 먼저 Marketo SMS 관리 기능을 구매하거나 구성해야 합니다. 이 연습에서는 [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)를 사용하지만 다른 Marketo SMS 솔루션을 사용할 수 있습니다.
+Acrobat Sign 서명자에게 계약이 진행 중임을 알리기 위해 문자 메시지, 전자 메일 또는 푸시 알림을 보내는 방법 및 Microsoft용 Acrobat Sign Dynamic, Marketo 및 Marketo Microsoft Dynamics Sync를 사용하여 계약을 전송하는 방법에 대해 알아봅니다. Marketo에서 알림을 보내려면 먼저 Marketo SMS 관리 기능을 구매하거나 구성해야 합니다. 이 연습에서는 [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)를 사용하지만 다른 Marketo SMS 솔루션을 사용할 수 있습니다.
 
 ## 사전 요구 사항
 
@@ -67,7 +67,7 @@ Marketo Microsoft Dynamics Sync 및 Dynamics용 Acrobat Sign 구성이 완료되
 
 1. 사용자 정의 개체에서 동기화를 활성화한 후 동기화를 다시 활성화합니다.
 
-   [!UICONTROL 관리자 터미널](으)로 돌아가서 **[!UICONTROL Microsoft Dynamics]**&#x200B;를 클릭한 다음 **[!UICONTROL 동기화 사용]**&#x200B;을 클릭하십시오.
+   [!UICONTROL 관리자 터미널](으)로 돌아가서 **[!UICONTROL Microsoft Dynamics]**&#x200B;을 클릭한 다음 **[!UICONTROL 동기화 사용]**&#x200B;을 클릭하십시오.
 
    ![Microsoft Dynamics](assets/microsoftDynamics.png)
 
@@ -152,6 +152,3 @@ Marketo - [!DNL Twilio] SMS Webhook을 설정하려면 계정에서 세 개의 [
    ![Webhook](assets/callWebhook.png) 호출
 
 1. 계약에 추가된 잠재 고객에 대한 SMS 알림 캠페인이 이제 설정되었습니다.
->[!TIP]
->
->이 자습서는 Experience League에서 무료로 사용할 수 있는 [Microsoft Dynamics 및 Marketo용 Acrobat Sign으로 판매 주기 가속화](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 과정의 일부입니다.

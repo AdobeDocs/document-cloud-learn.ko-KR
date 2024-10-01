@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-5509
 thumbnail: 21748.jpg
 exl-id: 1253f81a-6132-4733-a113-1bbce86b4549
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -22,4 +22,4 @@ FDA 21 CFR Part 11 요구 사항을 충족하도록 Acrobat Sign을 구성할 �
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 사용할 수 있는 [관리자를 위한 고급 작업](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) 과정의 일부입니다.
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [관리자용 고급 작업](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators)의 일부입니다.
