@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
+source-git-commit: 2944661b9d10624b95c25979b7f653348b4c0f52
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '322'
 ht-degree: 1%
 
 ---
@@ -43,7 +43,7 @@ Acrobat을 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive] 및 
     <div>
     <a href="createofficeweb.md"><strong>웹용 [!DNL Office]에서 PDF 만들기</strong></a>
     </div>
-    Microsoft Word에서 직접 풍부하고 강력한 PDF 파일을 만드는 방법에 대해 알아보십시오.
+    웹 앱용 [!DNL Microsoft Office]을(를) 유지하면서 PDF 파일을 만드는 방법을 알아봅니다.
     <br>
   </td> 
   <td>
@@ -63,7 +63,7 @@ Acrobat을 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive] 및 
     <div>
     [!DNL Microsoft Teams]</strong></a>에서 <a href="acrobatandteams.md"><strong>PDF 공동 작업
     </div>
-    [!DNL Microsoft Teams]을(를) 떠나지 않고도 PDF을 보고, 주석을 달고, 검토하여 동료와 공동 작업하고 작업할 수 있습니다.
+    [!DNL Microsoft Teams]을(를) 유지하면서 PDF 공동 작업 및 검토
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ Acrobat을 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive] 및 
     <div>
     [!DNL Microsoft Purview Information] 민감도 레이블을 사용하는 <a href="microsoftsensitivitylabels.md"><strong>Protect PDF</strong></a>
     </div>
-    Acrobat에서 바로 Microsoft Purview Information 민감도 레이블을 추가, 편집, 사용자 정의 및 삭제하여 PDF을 보호하는 방법을 알아봅니다
+    Acrobat에서 바로 Microsoft Purview Information 민감도 레이블을 사용하여 PDF을 보호하는 방법을 알아봅니다.
     <br>
   </td>
   <td>
