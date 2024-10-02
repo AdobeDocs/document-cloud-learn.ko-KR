@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: c6058f76f43e271341f1418051921edef1403d6e
+source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '574'
 ht-degree: 1%
 
 ---
 
 # 시작 개요
 
-이 간단한 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아보십시오. 이 콘텐츠는 문서를 만드는 것부터 [PDF 파일을 편집하거나](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}하는 것까지 PDF 작업 과정에 쉽게 참여할 수 있도록 설계되었습니다.
+이 간단한 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아보십시오. 이 콘텐츠는 문서를 만드는 것부터 [PDF 파일을 편집하거나](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}하는 것까지 PDF 작업 과정에 쉽게 참여할 수 있도록 설계되었습니다. Acrobat을 시작하려면 전문적으로 선별된 이 [재생 목록](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users)을 확인하십시오.
 
 ## 새로운 기능
 

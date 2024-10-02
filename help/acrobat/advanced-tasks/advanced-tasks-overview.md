@@ -7,16 +7,16 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '307'
 ht-degree: 1%
 
 ---
 
 # 고급 작업 개요
 
-Acrobat의 고급 도구를 사용하여 기본 사항 이상을 살펴보세요. 동작을 만들어 일상적인 작업을 반복하고, 민감한 정보를 제거하고, 대용량 파일을 감소 및 최적화하고, 양식 데이터를 빠르게 수집하고, 보편적으로 액세스 가능한 PDF 파일을 만드는 방법을 알아보십시오.
+Acrobat의 고급 도구를 사용하여 기본 사항 이상을 살펴보세요. 동작을 만들어 일상적인 작업을 반복하고, 민감한 정보를 제거하고, 대용량 파일을 감소 및 최적화하고, 양식 데이터를 빠르게 수집하고, 보편적으로 액세스 가능한 PDF 파일을 만드는 방법을 알아보십시오. Acrobat에서 고급 작업을 수행하기 위해 전문적으로 선별된 이 [재생 목록](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks)을 확인하십시오.
 
 ## 새로운 기능
 
