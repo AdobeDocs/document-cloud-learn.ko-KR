@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 59400129df861a6a92e69609b965b2fd82371640
 workflow-type: tm+mt
-source-wordcount: '642'
-ht-degree: 1%
+source-wordcount: '600'
+ht-degree: 2%
 
 ---
 
@@ -26,10 +26,6 @@ ht-degree: 1%
 >[!TAB 사용자를 관리자 역할로 승격하는 방법]
 
 Admin Console을 사용하여 [사용자를 Acrobat Sign 관리자 역할로 승격](promote-admin.md)하는 방법에 대해 알아봅니다.
-
->[!TAB 여러 프로필을 사용하는 방법]
-
-[프로필 선택기](multiple-profiles.md)를 사용하여 여러 Acrobat Sign 계정으로 작업하는 방법을 알아봅니다.
 
 >[!TAB 개인 정보 보호 관리자를 설정하는 방법]
 
@@ -192,16 +188,6 @@ Admin Console을 사용하여 [사용자를 Acrobat Sign 관리자 역할로 승
     <br>
   </td>
   <td>
-    <a href="multiple-profiles.md">
-      <img alt="여러 프로필을 사용하는 방법" src="../assets/multiple-profiles.png" />
-    </a>
-    <div>
-    <a href="multiple-profiles.md"><strong>여러 프로필을 사용하는 방법</strong></a>
-    </div>
-    <em>프로필 선택기를 사용하여 여러 Acrobat Sign 계정으로 작업하는 방법에 대해 알아보세요</em>
-    <br>
-  </td>
-  <td>
     <a href="promote-admin.md">
       <img alt="사용자를 관리자 역할로 승격시키는 방법" src="../assets/promote-admin.png" />
     </a>
@@ -209,6 +195,11 @@ Admin Console을 사용하여 [사용자를 Acrobat Sign 관리자 역할로 승
     <a href="promote-admin.md"><strong>사용자를 관리자 역할로 승격하는 방법</strong></a>
     </div>
     <em>Admin Console을 사용하여 사용자를 Acrobat Sign 관리자 역할로 승격하는 방법에 대해 알아보십시오</em>
+    <br>
+  </td>
+   <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </table>
