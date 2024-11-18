@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
+source-git-commit: f26ffeb845594ada1b0cde035f91781b5b1d3026
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,10 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
+>[!TAB 실시간 공동 작업]
+
+효율성을 높이고 콘텐츠 품질도 향상하는 [검토 프로세스](collaborate.md) 문서를 만드는 방법에 대해 알아봅니다.
+
 >[!TAB 새 페이지 디자인]
 
 Adobe Express을 사용하여 PDF에서 [전문적인 느낌의 새로운 페이지를 디자인](add-custom-page.md)하는 방법을 알아보세요.
@@ -33,10 +37,6 @@ PDF에서 [그래픽을 만들고, 편집하고, 향상시키는 방법](edit-gr
 >[!TAB 새 작업 영역 환경]
 
 도구를 빠르게 찾고 PDF 작업을 효율적으로 완료하는 데 도움이 되는 Acrobat의 [새 작업 영역](new-workspace.md)에 대해 알아보세요.
-
->[!TAB AI 도우미를 사용하여 PDF 인사이트 탐색]
-
-[AI 도우미](ai-assistant.md)를 사용하여 PDF 파일에서 인사이트를 얻는 방법을 알아보세요.
 
 >[!ENDTABS]
 
