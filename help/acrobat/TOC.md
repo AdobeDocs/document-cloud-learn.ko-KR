@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c6058f76f43e271341f1418051921edef1403d6e
+source-git-commit: 229342b0b960e8f170481b24101a4f2c8e859a71
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 3%
@@ -25,7 +25,6 @@ ht-degree: 3%
    + [Acrobat 웹으로 장소에 상관없이 작업](getting-started/acrobatweb.md)
    + [이동 중의 생산성](getting-started/productivity.md)
    + [작업 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
-   + [PDF은 어디에서 오나요?](getting-started/where-do-pdfs-come-from.md)
    + [PDF 만들기](getting-started/create-pdf.md)
    + [파일을 단일 PDF으로 결합](getting-started/combine-to-pdf.md)
    + [페이지 구성](getting-started/organize.md)
@@ -43,6 +42,7 @@ ht-degree: 3%
    + [암호로 PDF 파일 Protect](getting-started/password-protect.md)
    + [서명 받기](getting-started/signatures.md)
    + [문서 추적](getting-started/track.md)
+   + [PDF은 어디에서 오나요?](getting-started/where-do-pdfs-come-from.md)
 + 고급 작업 {#advanced-tasks}
    + [개요](advanced-tasks/advanced-tasks-overview.md)
    + [책갈피 및 하이퍼링크 추가](advanced-tasks/bookmarks.md)

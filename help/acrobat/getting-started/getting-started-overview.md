@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 527eb69a9444db7dea38d41d7240cecc5cc62677
+source-git-commit: 229342b0b960e8f170481b24101a4f2c8e859a71
 workflow-type: tm+mt
-source-wordcount: '613'
-ht-degree: 1%
+source-wordcount: '566'
+ht-degree: 0%
 
 ---
 
@@ -42,14 +42,35 @@ PDF에서 [그래픽을 만들고, 편집하고, 향상시키는 방법](edit-gr
 
 ## 시작하기 자습서
 
+
+
+<!-- CARDS
+
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb
+  {title = Work anywhere with Acrobat web}
+  {description = Learn how to work from anywhere}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1bfcf9b6746a553be3bae3718499df7f83847b637.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity
+  {title = Productivity on the go}
+  {description = Learn how to do more from your tablet or mobile phone}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1baac857c8ccc7eb8f0af7c27bd123772b2d5cac4.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/user-interface
+  {title = Work with Microsoft 365}
+  {description = Work seamlessly with PDF files, right inside Microsoft 365}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e715d1ec959dc755a27cab94e21039372673afac.png?width=400&format=webply&optimize=medium}
+  {cta = View tutorials}
+
+-->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New workspace experience">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Work anywhere with Acrobat web">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" title="새 작업 영역 환경" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="새 작업 영역 환경"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb" title="Acrobat 웹으로 장소에 상관없이 작업" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1bfcf9b6746a553be3bae3718499df7f83847b637.png?width=400&format=webply&optimize=medium" alt="Acrobat 웹으로 장소에 상관없이 작업"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -57,22 +78,22 @@ PDF에서 [그래픽을 만들고, 편집하고, 향상시키는 방법](edit-gr
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_blank" rel="referrer" title="새 작업 영역 환경">새 작업 영역 환경</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb" target="_blank" rel="referrer" title="Acrobat 웹으로 장소에 상관없이 작업">Acrobat 웹으로 장소에 상관없이 작업</a>
                     </p>
-                    <p class="is-size-6">Acrobat의 새로운 작업 영역에 대해 알아보기</p>
+                    <p class="is-size-6">어디서나 작업하는 방법 알아보기</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Workspace basics">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Productivity on the go">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface" title="작업 영역 기본 사항" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1829b23b3d26ba9ab2687a87be27ecf1b2adde71e.png?width=400&format=webply&optimize=medium" alt="작업 영역 기본 사항"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" title="이동 중의 생산성" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1baac857c8ccc7eb8f0af7c27bd123772b2d5cac4.png?width=400&format=webply&optimize=medium" alt="이동 중의 생산성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -80,22 +101,22 @@ PDF에서 [그래픽을 만들고, 편집하고, 향상시키는 방법](edit-gr
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface" target="_blank" rel="referrer" title="작업 공간 기본 사항">작업 영역 기본 사항</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" target="_blank" rel="referrer" title="이동 중의 생산성">이동 중 생산성</a>
                     </p>
-                    <p class="is-size-6">Acrobat 작업 영역의 기본 사항 학습</p>
+                    <p class="is-size-6">태블릿 또는 휴대폰에서 더 많은 작업을 수행하는 방법 알아보기</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Discover PDF insights with the AI Assistant">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Work with Microsoft 365">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" title="AI Assistant를 사용하여 PDF 인사이트 탐색" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_12db4e53771239c4c355e54868bb8c2d72912cf58.png?width=400&format=webply&optimize=medium" alt="AI Assistant를 사용하여 PDF 인사이트 탐색"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/user-interface" title="Microsoft 365를 사용한 작업" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e715d1ec959dc755a27cab94e21039372673afac.png?width=400&format=webply&optimize=medium" alt="Microsoft 365를 사용한 작업"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -103,68 +124,18 @@ PDF에서 [그래픽을 만들고, 편집하고, 향상시키는 방법](edit-gr
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" target="_blank" rel="referrer" title="AI Assistant를 사용하여 PDF 인사이트 탐색">AI 도우미를 사용하여 PDF 인사이트 탐색</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/user-interface" target="_blank" rel="referrer" title="Microsoft 365를 사용한 작업">Microsoft 365로 작업</a>
                     </p>
-                    <p class="is-size-6">AI 어시스턴트를 사용하여 PDF 파일에서 통찰력을 얻으십시오</p>
+                    <p class="is-size-6">Microsoft 365 내에서 PDF 파일로 원활하게 작업</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/user-interface" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">튜토리얼 보기</span>
                 </a>
             </div>
         </div>
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="acrobatweb.md">
-      <img alt="Acrobat 웹으로 장소에 상관없이 작업" src="../assets/acrobat-web.png" />
-    </a>
-    <div>
-    <a href="acrobatweb.md"><strong>Acrobat 웹으로 장소에 상관없이 작업</strong></a>
-    </div>
-    어디서나 작업하는 방법 알아보기
-    <br>
-  </td>
-  <td>
-    <a href="productivity.md">
-      <img alt="이동 중의 생산성" src="../assets/productivity.png" />
-    </a>
-    <div>
-    <a href="productivity.md"><strong>이동 중 생산성</strong></a>
-    </div>
-    태블릿 또는 휴대폰에서 더 많은 작업을 수행하는 방법 알아보기
-    <br>
-  </td>
-  <td>
-      <a href="../integrate/integrate-overview.md#microsoft">
-        <img alt="Microsoft 365를 사용한 작업" src="../assets/microsoft-365.png" />
-      </a>
-      <div>
-      <a href="../integrate/integrate-overview.md#microsoft"><strong>Microsoft 365로 작업</strong></a>
-      </div>
-      Microsoft 365 내에서 PDF 파일로 원활하게 작업
-      <br> 
-  </td>
-  <td>
-      <a href="where-do-pdfs-come-from.md">
-        <img alt="PDF은 어디에서 오나요?" src="../assets/where-pdfs.png" />
-      </a>
-      <div>
-      <a href="where-do-pdfs-come-from.md"><strong>PDF은 어디에서 오나요?</strong></a>
-      </div>
-      PDF의 출처와 사용 방법 알아보기
-      <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-</tr>
-</table>
 
 ## 튜토리얼 만들기, 결합 및 구성
 
@@ -389,9 +360,14 @@ PDF에서 [그래픽을 만들고, 편집하고, 향상시키는 방법](edit-gr
     <br>
   </td>
   <td>
-   <img alt="스페이서" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
+      <a href="where-do-pdfs-come-from.md">
+        <img alt="PDF은 어디에서 오나요?" src="../assets/where-pdfs.png" />
+      </a>
+      <div>
+      <a href="where-do-pdfs-come-from.md"><strong>PDF은 어디에서 오나요?</strong></a>
+      </div>
+      PDF의 출처와 사용 방법 알아보기
+      <br>
   </td>
   <td>
    <img alt="스페이서" src="../assets/Grayspacer.png" />
