@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6832
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 548f7a5979a4b9e829d09090dbd7cec9493f351a
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 10%
 
 >[!TIP]
 >
->페이지를 구성하는 동안 브랜드 [새 사용자 지정 페이지](add-custom-page.md)를 추가하는 방법에 대해 알아봅니다.
+>페이지를 구성하는 동안 [새 사용자 지정 페이지](add-custom-page.md)를 추가하는 방법에 대해 알아보세요.
 
 <br> 
 
