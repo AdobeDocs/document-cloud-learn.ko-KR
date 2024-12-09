@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 441bf1c0b8c9b6e218b947b9ccbd1f253b9cc301
+source-git-commit: a60bfd196091a6eeb8d9299226881bf5fbb682cd
 workflow-type: tm+mt
-source-wordcount: '521'
-ht-degree: 1%
+source-wordcount: '339'
+ht-degree: 0%
 
 ---
 
@@ -47,14 +47,22 @@ PDF에서 [그래픽을 만들고, 편집하고, 향상시키는 방법](edit-gr
 
 ## 튜토리얼 만들기, 결합 및 구성
 
+
+
+## 튜토리얼 편집 및 내보내기
+
+
+
+## 공동 작업 튜토리얼
+
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create PDF files">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Collaborate in real time">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/create-pdf" title="PDF 파일 만들기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/35491?enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1733769004765" alt="PDF 파일 만들기"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate" title="실시간으로 공동 작업 수행" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1f5dd20f4df4fb7d2f5c80653268baf61e708a449.png?width=400&format=webply&optimize=medium" alt="실시간으로 공동 작업 수행"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -62,22 +70,22 @@ PDF에서 [그래픽을 만들고, 편집하고, 향상시키는 방법](edit-gr
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/create-pdf" target="_blank" rel="referrer" title="PDF 파일 만들기">PDF 파일 만들기</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate" target="_blank" rel="referrer" title="실시간으로 공동 작업 수행">실시간 공동 작업</a>
                     </p>
-                    <p class="is-size-6">모든 유형의 문서에서 PDF 만들기</p>
+                    <p class="is-size-6">실시간 공동 작업을 통해 프로젝트 진행</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/create-pdf" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Combine files to a single PDF">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Comment on a PDF">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/combine-to-pdf" title="단일 PDF에 파일 결합" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/35452?quality=12&hidetitle=true&format=jpeg&nocache=1733769004657" alt="단일 PDF에 파일 결합"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" title="PDF 댓글 달기" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_116d7c4b645e8d4c4e4645df9cb83a36501431471.png?width=400&format=webply&optimize=medium" alt="PDF 댓글 달기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -85,57 +93,11 @@ PDF에서 [그래픽을 만들고, 편집하고, 향상시키는 방법](edit-gr
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/combine-to-pdf" target="_blank" rel="referrer" title="단일 PDF에 파일 결합">단일 PDF에 파일 결합</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" target="_blank" rel="referrer" title="PDF 댓글 달기">PDF에 댓글</a>
                     </p>
-                    <p class="is-size-6">다양한 유형의 파일을 단일 PDF으로 원활하게 결합</p>
+                    <p class="is-size-6">댓글을 추가한 다음 다른 사람과 PDF 공유</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/combine-to-pdf" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Organize pages">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/organize" title="페이지 구성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3409022?quality=12&hidetitle=true&format=jpeg&nocache=1733769004955" alt="페이지 구성"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/organize" target="_blank" rel="referrer" title="페이지 구성">페이지 구성</a>
-                    </p>
-                    <p class="is-size-6">페이지를 원하는 방식으로 다시 정렬하는 방법 알아보기</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/organize" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Design a new page">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page" title="새 페이지 디자인" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/347331?enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1733769004625" alt="새 페이지 디자인"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page" target="_blank" rel="referrer" title="새 페이지 디자인">새 페이지 디자인</a>
-                    </p>
-                    <p class="is-size-6">PDF에서 전문적인 느낌을 주는 페이지를 새로 만드는 방법을 살펴보세요</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -143,115 +105,6 @@ PDF에서 [그래픽을 만들고, 편집하고, 향상시키는 방법](edit-gr
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-## 튜토리얼 편집 및 내보내기
-
-<table style="table-layout:fixed">
-  <tr>
-    <td>
-      <a href="edit-pdf.md">
-        <img alt="PDF에서 텍스트 편집" src="../assets/edit-text.png" />
-      </a>
-      <div>
-      <a href="edit-pdf.md"><strong>PDF에서 텍스트 편집</strong></a>
-      </div>
-      PDF에서 단어, 구 또는 전체 페이지 편집
-      <br>
-    </td>
-    <td>
-      <a href="edit-graphics.md">
-        <img alt="PDF에서 그래픽 편집" src="../assets/edit-graphics.png" />
-      </a>
-      <div>
-      <a href="edit-graphics.md"><strong>PDF에서 그래픽 편집</strong></a>
-      </div>
-      PDF에서 그래픽을 만들고 편집하고 향상시키는 방법을 살펴봅니다
-      <br>
-    </td>
-    <td>
-      <a href="stylize-this-pdf.md">
-        <img alt="이 PDF 스타일화" src="../assets/stylize-pdf.png" />
-      </a>
-      <div>
-      <a href="stylize-this-pdf.md"><strong>이 PDF 스타일화</strong></a>
-      </div>
-      전문가 수준의 PDF을 만드는 방법 알아보기
-      <br>
-    </td>
-   <td>
-      <a href="auto-adjust-layout.md">
-        <img alt="자동 조정 레이아웃" src="../assets/auto-adjust.png" />
-      </a>
-      <div>
-      <a href="auto-adjust-layout.md"><strong>자동 조정 레이아웃</strong></a>
-      </div>
-      콘텐츠를 리플로우하는 새로운 편집 모드에 대해 알아봅니다.
-      <br>
-    </td>
-  </tr>
-    <td>
-      <a href="export-pdf.md">
-        <img alt="PDF을 다른 파일 형식으로 변환" src="../assets/convert.png" />
-      </a>
-      <div>
-      <a href="export-pdf.md"><strong>PDF을 다른 파일 형식으로 변환</strong></a>
-      </div>
-      PDF 파일을 다른 파일 형식으로 변환
-      <br>
-    </td>
-    <td>
-   <img alt="스페이서" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="스페이서" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-   <td>
-   <img alt="스페이서" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-## 공동 작업 튜토리얼
-
-<table style="table-layout:fixed">
-  <tr>
-    <td>
-      <a href="collaborate.md">
-        <img alt="실시간으로 공동 작업 수행" src="../assets/collaborate.png" />
-      </a>
-      <div>
-      <a href="collaborate.md"><strong>실시간 공동 작업</strong></a>
-      </div>
-      실시간 공동 작업을 통해 프로젝트 진행
-    </td>
-    <td>
-      <a href="comment-on-pdf-files.md">
-        <img alt="PDF 댓글 달기" src="../assets/comment.png" />
-      </a>
-      <div>
-      <a href="comment-on-pdf-files.md"><strong>PDF에 댓글</strong></a>
-      </div>
-      댓글을 추가한 다음 다른 사람과 PDF 공유
-      <br>
-    </td>
-    <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-    </td>
-    <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-    </td>
-</tr>
-</table>
 
 ## 추가 자습서
 
