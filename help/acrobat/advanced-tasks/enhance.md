@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-9343
 thumbnail: KT-9343.jpg
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: cc1902cf295d3608fb8ac4ed564a39dbcc885e4a
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
@@ -74,3 +74,4 @@ ht-degree: 0%
 1. **설정 저장**을 선택합니다.
 상자에 *수정 버전 3.0*&#x200B;을 입력하고 **확인**&#x200B;을 선택합니다.
 1. **확인**&#x200B;을 선택하여 새 바닥글을 PDF에 적용합니다.
+
