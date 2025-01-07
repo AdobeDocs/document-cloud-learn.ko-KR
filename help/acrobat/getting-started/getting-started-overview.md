@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: c13cf278b79ca9c65757b33ddc7804a98a78bd81
+source-git-commit: b085811264ab573bb89397fb4217aebbfd32784f
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '281'
 ht-degree: 1%
 
 ---
@@ -42,307 +42,160 @@ PDF에서 [그래픽을 만들고, 편집하고, 향상시키는 방법](edit-gr
 
 ## 시작하기 자습서
 
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New workspace experience">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" title="새 작업 영역 환경" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="새 작업 영역 환경"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_blank" rel="referrer" title="새 작업 영역 환경">새 작업 영역 환경</a>
-                    </p>
-                    <p class="is-size-6">Acrobat의 새로운 작업 영역에 대해 알아보기</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Workspace basics">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface" title="작업 영역 기본 사항" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1829b23b3d26ba9ab2687a87be27ecf1b2adde71e.png?width=400&format=webply&optimize=medium" alt="작업 영역 기본 사항"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface" target="_blank" rel="referrer" title="작업 공간 기본 사항">작업 영역 기본 사항</a>
-                    </p>
-                    <p class="is-size-6">Acrobat 작업 영역의 기본 사항 학습</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Discover PDF insights with the AI Assistant">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" title="AI Assistant를 사용하여 PDF 인사이트 탐색" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_12db4e53771239c4c355e54868bb8c2d72912cf58.png?width=400&format=webply&optimize=medium" alt="AI Assistant를 사용하여 PDF 인사이트 탐색"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" target="_blank" rel="referrer" title="AI Assistant를 사용하여 PDF 인사이트 탐색">AI 도우미를 사용하여 PDF 인사이트 탐색</a>
-                    </p>
-                    <p class="is-size-6">AI 어시스턴트를 사용하여 PDF 파일에서 통찰력을 얻으십시오</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Work anywhere with Acrobat web">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb" title="Acrobat 웹으로 장소에 상관없이 작업" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1bfcf9b6746a553be3bae3718499df7f83847b637.png?width=400&format=webply&optimize=medium" alt="Acrobat 웹으로 장소에 상관없이 작업"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb" target="_blank" rel="referrer" title="Acrobat 웹으로 장소에 상관없이 작업">Acrobat 웹으로 장소에 상관없이 작업</a>
-                    </p>
-                    <p class="is-size-6">어디서나 작업하는 방법 알아보기</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Productivity on the go">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" title="이동 중의 생산성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1baac857c8ccc7eb8f0af7c27bd123772b2d5cac4.png?width=400&format=webply&optimize=medium" alt="이동 중의 생산성"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" target="_blank" rel="referrer" title="이동 중의 생산성">이동 중 생산성</a>
-                    </p>
-                    <p class="is-size-6">태블릿 또는 휴대폰에서 더 많은 작업을 수행하는 방법 알아보기</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Work with Microsoft 365">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/user-interface" title="Microsoft 365를 사용한 작업" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e715d1ec959dc755a27cab94e21039372673afac.png?width=400&format=webply&optimize=medium" alt="Microsoft 365를 사용한 작업"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/user-interface" target="_blank" rel="referrer" title="Microsoft 365를 사용한 작업">Microsoft 365로 작업</a>
-                    </p>
-                    <p class="is-size-6">Microsoft 365 내에서 PDF 파일로 원활하게 작업</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/user-interface" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">튜토리얼 보기</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+<!-- CARDS
+
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace
+  {title = New workspace experience}
+  {description = Learn about the new workspace in Acrobat}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface
+  {title = Workspace basics}
+  {description = Learn the basics of the Acrobat workspace}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1829b23b3d26ba9ab2687a87be27ecf1b2adde71e.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant
+  {title = Discover PDF insights with the AI Assistant}
+  {description = Gain insights from your PDF files using the AI Assistant}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_12db4e53771239c4c355e54868bb8c2d72912cf58.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb
+  {title = Work anywhere with Acrobat web}
+  {description = Learn how to work from anywhere}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1bfcf9b6746a553be3bae3718499df7f83847b637.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity
+  {title = Productivity on the go}
+  {description = Learn how to do more from your tablet or mobile phone}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1baac857c8ccc7eb8f0af7c27bd123772b2d5cac4.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft
+  {title = Work with Microsoft 365}
+  {description = Work seamlessly with PDF files, right inside Microsoft 365}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e715d1ec959dc755a27cab94e21039372673afac.png?width=400&format=webply&optimize=medium}
+  {cta = View tutorials}
+  
+-->
 
 
 ## 튜토리얼 만들기, 결합 및 구성
 
-<table style="table-layout:fixed">
-  <tr>
-    <td>
-      <a href="create-pdf.md">
-        <img alt="PDF 파일 만들기" src="../assets/create.png" />
-      </a>
-      <div>
-      <a href="create-pdf.md"><strong>PDF 파일 만들기</strong></a>
-      </div>
-      모든 유형의 문서에서 PDF 만들기
-      <br>
-    </td>
-    <td>
-      <a href="combine-to-pdf.md">
-        <img alt="단일 PDF에 파일 결합" src="../assets/combine.png" />
-      </a>
-      <div>
-      <a href="combine-to-pdf.md"><strong>단일 PDF으로 파일 결합</strong></a>
-      </div>
-      다양한 유형의 파일을 단일 PDF으로 원활하게 결합
-      <br>
-    </td>
-    <td>
-      <a href="organize.md">
-        <img alt="페이지 구성" src="../assets/organize-pages.png" />
-      </a>
-      <div>
-      <a href="organize.md"><strong>페이지 구성</strong></a>
-      </div>
-      페이지를 원하는 방식으로 다시 정렬하는 방법 알아보기
-      <br>
-    </td>
-    <td>
-      <a href="add-custom-page.md">
-        <img alt="새 페이지 디자인" src="../assets/design.png" />
-      </a>
-      <div>
-      <a href="add-custom-page.md"><strong>새 페이지 디자인</strong></a>
-      </div>
-     PDF에서 전문적인 느낌을 주는 페이지를 새로 만드는 방법을 살펴보세요
-      <br>
-    </td>
-  </tr>
-  </table>
+<!-- CARDS
+
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/create-pdf
+  {title = Create a PDF}
+  {description = Create PDFs from all different types of documents}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_16f0a3abd52647334bb64fdf140cf94afd63188d2.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/combine-to-pdf
+  {title = Combine files into a single PDF}
+  {description = Seamlessly combine many different types of files into a single PDF}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_11be639aeee441f5b0e2b4900730339cd1798a4b9.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/organize
+  {title = Organize pages}
+  {description = Learn how to rearrange pages just the way you like}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_17e55bdc9d65c0ae578fd3d6d32d1eb3bf3719714.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page
+  {title = Design a new page}
+  {description = Learn how to create new professional-looking page in your PDF}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1f048322a16c3f2b9762347f0ea4e90b24dcd279e.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+  
+-->
 
 ## 튜토리얼 편집 및 내보내기
 
-<table style="table-layout:fixed">
-  <tr>
-    <td>
-      <a href="edit-pdf.md">
-        <img alt="PDF에서 텍스트 편집" src="../assets/edit-text.png" />
-      </a>
-      <div>
-      <a href="edit-pdf.md"><strong>PDF에서 텍스트 편집</strong></a>
-      </div>
-      PDF에서 단어, 구 또는 전체 페이지 편집
-      <br>
-    </td>
-    <td>
-      <a href="edit-graphics.md">
-        <img alt="PDF에서 그래픽 편집" src="../assets/edit-graphics.png" />
-      </a>
-      <div>
-      <a href="edit-graphics.md"><strong>PDF에서 그래픽 편집</strong></a>
-      </div>
-      PDF에서 그래픽을 만들고 편집하고 향상시키는 방법을 살펴봅니다
-      <br>
-    </td>
-    <td>
-      <a href="stylize-this-pdf.md">
-        <img alt="이 PDF 스타일화" src="../assets/stylize-pdf.png" />
-      </a>
-      <div>
-      <a href="stylize-this-pdf.md"><strong>이 PDF 스타일화</strong></a>
-      </div>
-      전문가 수준의 PDF을 만드는 방법 알아보기
-      <br>
-    </td>
-   <td>
-      <a href="auto-adjust-layout.md">
-        <img alt="자동 조정 레이아웃" src="../assets/auto-adjust.png" />
-      </a>
-      <div>
-      <a href="auto-adjust-layout.md"><strong>자동 조정 레이아웃</strong></a>
-      </div>
-      콘텐츠를 리플로우하는 새로운 편집 모드에 대해 알아봅니다.
-      <br>
-    </td>
-  </tr>
-    <td>
-      <a href="export-pdf.md">
-        <img alt="PDF을 다른 파일 형식으로 변환" src="../assets/convert.png" />
-      </a>
-      <div>
-      <a href="export-pdf.md"><strong>PDF을 다른 파일 형식으로 변환</strong></a>
-      </div>
-      PDF 파일을 다른 파일 형식으로 변환
-      <br>
-    </td>
-    <td>
-   <img alt="스페이서" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="스페이서" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-   <td>
-   <img alt="스페이서" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
+<!-- CARDS
+
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/edit-pdf
+  {title = Edit text in a PDF}
+  {description = Edit words, phrases, or even entire pages in your PDF}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_13401767164ccbafc5bcc35d34d2334fc961255e1.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics
+  {title = Edit graphics in a PDF}
+  {description = Learn how to create, edit, and enhance graphics in your PDF}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_10cbcb294cdbd62dc9d8f6b2f5f5f160782370141.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf
+  {title = Stylize this PDF}
+  {description = Learn how to create professional-looking PDFs}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_199eeb70612b1e3f04c00cbe3ebf7f4cc2016bcef.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/auto-adjust-layout
+  {title = Auto-adjust layout}
+  {description = Learn about the new editing mode that reflows content}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1072b7b70b16efa68b4bd6bbc2152a4dd90bd6dfb.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/export-pdf
+  {title = Convert PDF to different file formats}
+  {description = Convert your PDF files to different file formats}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_16383696f2610f1419050df7dca0b9dc77b94f836.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+  
+-->
+
 
 ## 공동 작업 튜토리얼
 
-<table style="table-layout:fixed">
-  <tr>
-    <td>
-      <a href="collaborate.md">
-        <img alt="실시간으로 공동 작업 수행" src="../assets/collaborate.png" />
-      </a>
-      <div>
-      <a href="collaborate.md"><strong>실시간 공동 작업</strong></a>
-      </div>
-      실시간 공동 작업을 통해 프로젝트 진행
-    </td>
-    <td>
-      <a href="comment-on-pdf-files.md">
-        <img alt="PDF 댓글 달기" src="../assets/comment.png" />
-      </a>
-      <div>
-      <a href="comment-on-pdf-files.md"><strong>PDF에 댓글</strong></a>
-      </div>
-      댓글을 추가한 다음 다른 사람과 PDF 공유
-      <br>
-    </td>
-    <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-    </td>
-    <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-    </td>
-</tr>
-</table>
+<!-- CARDS
+
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate
+  {title = Collaborate in real time}
+  {description = Move your projects forward by collaborating in real time}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1f5dd20f4df4fb7d2f5c80653268baf61e708a449.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files
+  {title = Comment on a PDF}
+  {description = Add comments and then share your PDF with others}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_116d7c4b645e8d4c4e4645df9cb83a36501431471.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+  
+-->
 
 ## 추가 자습서
+
+<!-- CARDS
+
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/create-fillable-forms
+  {title = Create fillable forms}
+  {description = Turn a scanned paper into a fillable form}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_109411f58bacd579c020661fd7f6577ed63726aef.png?width=400&format=webply&optimize=medium}
+  {cta = Read}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/fill-and-sign
+  {title = Fill & Sign a PDF form}
+  {description = Learn how to quickly and easily fill and sign a PDF form}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e8d0607bd61f9cf6a5781801e8e075019fa10ce8.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr
+  {title = Scan & OCR}
+  {description = Convert scans or images into searchable, editable PDF files}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_14440f542ece3322f727553cf6d6cf2408761379b.png?width=400&format=webply&optimize=medium}
+  {cta = Read}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/password-protect
+  {title = Protect a PDF file with a password}
+  {description = Learn how to add a password to your PDF}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1803b816278477ef62c8c4a25be6fcc6094763124.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/signatures
+  {title = Get signatures}
+  {description = Learn how to collect legally binding e-signatures}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1d23992362b8a44ebfa1801c33d482df88e1865e1.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/track
+  {title = Track your documents}
+  {description = Track and manage your e-signature documents}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1b0f65154db21a029cc4155f26ca8c24f5eeb71ef.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/where-do-pdfs-come-from
+  {title = Where do PDFs come from?}
+  {description = Learn where PDFs come from and how you can use them}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_133ee13f07ef84d06eef5d6b1c81d024747f19f36.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+
+-->
 
 <table style="table-layout:fixed">
 <tr>
