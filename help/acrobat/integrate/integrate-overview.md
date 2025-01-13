@@ -9,7 +9,7 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 54d5fb022944d0e8f8d5b4d0ed2249ee432f9f6b
+source-git-commit: 88bbe7e4866b46984017455c61f13c518b1465fc
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 1%
@@ -24,7 +24,7 @@ Acrobat을 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive] 및 
 
 [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html)에서 팀의 모든 사용자가 PDF 파일로 원활하게 작업하는 방법을 알아봅니다. Acrobat 및 Microsoft 365 통합에서 전문적으로 선별된 이 [재생 목록](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365)을 확인하십시오.
 
--->
+
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create PDF files from Microsoft Word">
