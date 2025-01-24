@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-6853
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 251d7aa679e53d55a9cc1d827ff41898b89aefd9
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 7%
+source-wordcount: '99'
+ht-degree: 9%
 
 ---
 
 # 배포 개요
 
-조직 내 Acrobat Sign 배포에 대한 유용한 정보를 제공하는 모범 사례 문서
+조직 내 Acrobat Sign 배포에 대한 유용한 정보와 모범 사례를 담은 문서.
 
 <table style="table-layout:fixed">
 <tr>
