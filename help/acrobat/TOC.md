@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 934c602b0339ff016379a06a734b3dbbaf01ecb4
+source-git-commit: 5ae26a41271759a3a352fbfff68bab685d723067
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '488'
 ht-degree: 3%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 3%
    + [개요](getting-started/getting-started-overview.md)
    + [새 작업 영역 환경](getting-started/new-workspace.md)
    + [작업 공간 기본 사항](getting-started/get-to-know-the-acrobat-dc-interface.md)
-   + [AI Assistant를 사용하여 PDF 인사이트 탐색](getting-started/ai-assistant.md)
+   + [AI 어시스턴트로 PDF 인사이트 탐색](getting-started/ai-assistant.md)
    + [Acrobat 웹으로 장소에 상관없이 작업](getting-started/acrobatweb.md)
    + [이동 중의 생산성](getting-started/productivity.md)
    + [작업 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)

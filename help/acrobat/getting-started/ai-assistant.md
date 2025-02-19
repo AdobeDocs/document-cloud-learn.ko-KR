@@ -1,19 +1,19 @@
 ---
-title: AI Assistant를 사용하여 PDF 인사이트 탐색
-description: AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방법을 알아봅니다
+title: AI 어시스턴트로 PDF 인사이트 탐색
+description: AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방법에 대해 알아봅니다
 feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: ee046e998b5396dc5d170c3dbd2c4c77ea725fe7
+source-git-commit: 5ae26a41271759a3a352fbfff68bab685d723067
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-# AI Assistant를 사용하여 PDF 인사이트 탐색
+# AI 어시스턴트로 PDF 인사이트 탐색
 
 AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻어 영향력 있는 콘텐츠를 빠르게 만드는 방법을 알아봅니다. AI Assistant는 문서 워크플로우를 개선하고 복잡한 문서 데이터를 분석하는 안전한 대화 엔진입니다. 이 비디오 튜토리얼에서는 [새로운 작업 영역 환경](new-workspace.md)을 사용합니다.
 
