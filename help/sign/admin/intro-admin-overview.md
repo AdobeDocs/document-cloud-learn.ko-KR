@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 59400129df861a6a92e69609b965b2fd82371640
+source-git-commit: 96a2d14e4bc47061e3b545585ba2a28822764409
 workflow-type: tm+mt
-source-wordcount: '600'
-ht-degree: 2%
+source-wordcount: '593'
+ht-degree: 1%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 2%
 
 >[!BEGINTABS]
 
->[!TAB 사용자를 관리자 역할로 승격하는 방법]
+>[!TAB 새 사용자 추가]
 
-Admin Console을 사용하여 [사용자를 Acrobat Sign 관리자 역할로 승격](promote-admin.md)하는 방법에 대해 알아봅니다.
+[Acrobat Sign 사용자를 추가 및 관리](add-users-to-your-account.md)하는 방법에 대해 알아봅니다.
 
 >[!TAB 개인 정보 보호 관리자를 설정하는 방법]
 
@@ -73,10 +73,10 @@ Admin Console을 사용하여 [사용자를 Acrobat Sign 관리자 역할로 승
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="사용자 추가" src="../assets/Adding-Users.png" />
+      <img alt="새 사용자 추가" src="../assets/Add-a-new-user.jpg" />
     </a>
     <div>
-    <a href="add-users-to-your-account.md"><strong>사용자 추가</strong></a>
+    <a href="add-users-to-your-account.md"><strong>새 사용자 추가</strong></a>
     </div>
     <em>Acrobat Sign 사용자 추가 및 관리</em>
     <br>
