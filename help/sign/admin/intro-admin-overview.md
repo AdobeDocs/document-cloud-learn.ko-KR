@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
+source-git-commit: 72a03c600396f317278f5dfcd251796631b0c25f
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '616'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 1%
 
 >[!TAB 새 사용자 추가]
 
-[Acrobat Sign 사용자를 추가 및 관리](add-users-to-your-account.md)하는 방법에 대해 알아봅니다.
+[Acrobat Sign에 새 사용자를 추가](add-users-to-your-account.md)하는 방법에 대해 알아봅니다.
 
 >[!TAB 개인 정보 보호 관리자를 설정하는 방법]
 
@@ -72,6 +72,18 @@ ht-degree: 1%
     <br>
   </td>
   <td>
+    <a href="add-users-to-your-account.md">
+      <img alt="새 사용자 추가" src="../assets/Add-a-new-user.jpg" />
+    </a>
+    <div>
+    <a href="add-users-to-your-account.md"><strong>새 사용자 추가</strong></a>
+    </div>
+    <em>Acrobat Sign에 새 사용자를 추가하는 방법</em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
     <a href="add-admin.md">
       <img alt="새 계정 관리자 추가" src="../assets/Add-a-new-admin.jpg" />
     </a>
@@ -79,18 +91,6 @@ ht-degree: 1%
     <a href="add-admin.md"><strong>새 계정 관리자 추가</strong></a>
     </div>
     <em>새 사용자를 만들거나 기존 사용자를 Acrobat Sign 관리자 역할로 승격하는 방법에 대해 알아보십시오</em>
-    <br>
-  </td>
-</tr>
-<tr>
- <td>
-    <a href="create-and-manage-groups.md">
-      <img alt="그룹 생성 및 관리" src="../assets/Creating-Groups.png" />
-    </a>
-    <div>
-    <a href="create-and-manage-groups.md"><strong>그룹 만들기 및 관리</strong></a>
-    </div>
-    <em>그룹을 만들고, 사용자를 그룹에 추가하고, 그룹 설정을 편집합니다</em>
     <br>
   </td>
   <td>
