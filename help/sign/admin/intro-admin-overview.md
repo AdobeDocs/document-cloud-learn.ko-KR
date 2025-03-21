@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 72a03c600396f317278f5dfcd251796631b0c25f
+source-git-commit: 1d7e3bf8a00967726b0b4200a047e3519ddfe484
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '615'
 ht-degree: 1%
 
 ---
@@ -204,7 +204,7 @@ ht-degree: 1%
     <div>
     <a href="promote-admin.md"><strong>제품 및 지원 관리자 역할 할당</strong></a>
     </div>
-    <em>Admin Console을 사용하여 사용자를 Acrobat Sign 제품 또는 지원 관리자 역할로 승격시키는 방법에 대해 알아보십시오</em>
+    <em>Admin Console에서 Acrobat Sign 사용자 제품 관리자 및 지원 관리자 역할을 할당하는 방법에 대해 알아보세요</em>
     <br>
   </td>
 </tr> 
