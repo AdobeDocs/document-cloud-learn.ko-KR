@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 59400129df861a6a92e69609b965b2fd82371640
+source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '545'
 ht-degree: 6%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 6%
       + [새 관리자를 위해 시작하기](admin/get-started-admin.md)
       + [관리자용 설치 및 실행](admin/up-and-running-admin.md)
       + [이벤트 및 경고에 대한 알림 구성](admin/set-up-shared-events-and-alert.md)
-      + [사용자 추가](admin/add-users-to-your-account.md)
+      + [새 사용자 추가](admin/add-users-to-your-account.md)
       + [그룹 생성 및 관리](admin/create-and-manage-groups.md)
       + [외부 보관 설정](admin/set-up-your-external-archive.md)
       + [템플릿 만들기](sign-advanced-users/create-a-template.md)
@@ -80,7 +80,7 @@ ht-degree: 6%
       + [대량 전송](sign-advanced-users/megasign.md)
       + [사용자 정의 작업 과정 빌드](admin/building-a-custom-workflow.md)
       + [감사 보고서](admin/audit-reports.md)
-      + [사용자를 관리자 역할로 승격시키는 방법](admin/promote-admin.md)
+      + [제품 및 지원 관리자 역할 할당](admin/promote-admin.md)
    + 고급 작업 {#advanced-tasks-admins}
       + [전역 설정](admin/learn-about-global-settings.md)
       + [계정 액세스 공유](admin/share-account-access.md)
