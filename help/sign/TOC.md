@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
+source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '550'
 ht-degree: 6%
 
 ---
@@ -70,6 +70,7 @@ ht-degree: 6%
       + [관리자용 설치 및 실행](admin/up-and-running-admin.md)
       + [이벤트 및 경고에 대한 알림 구성](admin/set-up-shared-events-and-alert.md)
       + [새 사용자 추가](admin/add-users-to-your-account.md)
+      + [새 계정 관리자 추가](admin/add-admin.md)
       + [그룹 생성 및 관리](admin/create-and-manage-groups.md)
       + [외부 보관 설정](admin/set-up-your-external-archive.md)
       + [템플릿 만들기](sign-advanced-users/create-a-template.md)

@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
+source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '618'
 ht-degree: 1%
 
 ---
@@ -72,18 +72,28 @@ ht-degree: 1%
     <br>
   </td>
   <td>
-    <a href="add-users-to-your-account.md">
-      <img alt="새 사용자 추가" src="../assets/Add-a-new-user.jpg" />
+    <a href="add-admin.md">
+      <img alt="새 계정 관리자 추가" src="../assets/Add-a-new-admin.jpg" />
     </a>
     <div>
-    <a href="add-users-to-your-account.md"><strong>새 사용자 추가</strong></a>
+    <a href="add-admin.md"><strong>새 계정 관리자 추가</strong></a>
     </div>
-    <em>Acrobat Sign에 새 사용자 추가</em>
+    <em>새 사용자를 만들거나 기존 사용자를 Acrobat Sign 관리자 역할로 승격하는 방법에 대해 알아보십시오</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
+    <a href="create-and-manage-groups.md">
+      <img alt="그룹 생성 및 관리" src="../assets/Creating-Groups.png" />
+    </a>
+    <div>
+    <a href="create-and-manage-groups.md"><strong>그룹 만들기 및 관리</strong></a>
+    </div>
+    <em>그룹을 만들고, 사용자를 그룹에 추가하고, 그룹 설정을 편집합니다</em>
+    <br>
+  </td>
+  <td>
     <a href="create-and-manage-groups.md">
       <img alt="그룹 생성 및 관리" src="../assets/Creating-Groups.png" />
     </a>
@@ -113,6 +123,8 @@ ht-degree: 1%
     <em>속도와 일관성을 위해 재사용 가능한 문서 템플릿 만들기</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
       <img alt="보고 및 트랜잭션 사용" src="../assets/reporting.png" />
@@ -123,8 +135,6 @@ ht-degree: 1%
     <em>보고서를 생성하고 트랜잭션 사용량을 추적하는 방법을 알아보세요</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="report-options.md">
       <img alt="사용자를 위한 보고서 옵션" src="../assets/report-options.png" />
@@ -155,6 +165,8 @@ ht-degree: 1%
     <em>기존 웹 양식을 비활성화, 편집 및 다시 활성화하는 방법</em> 알아보기
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="대량 전송" src="../assets/send-in-bulk.png" />
@@ -165,8 +177,6 @@ ht-degree: 1%
     <em>모든 문서에 대해 한 번에 수천 개의 서명을 수집합니다</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="워크플로우 설정" src="../assets/BuildingWorkflow.png" />
@@ -197,11 +207,7 @@ ht-degree: 1%
     <em>Admin Console을 사용하여 사용자를 Acrobat Sign 제품 또는 지원 관리자 역할로 승격시키는 방법에 대해 알아보십시오</em>
     <br>
   </td>
-   <td>
-    <img alt="스페이서" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
+</tr> 
 </table>
 
 ## 고급 작업
