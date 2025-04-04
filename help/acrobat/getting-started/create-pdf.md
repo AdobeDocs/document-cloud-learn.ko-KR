@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5526
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 4426993598edcbf560780dd6369462ff1f2cecfd
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # PDF 만들기
 
-[모든 다른 유형의 문서에서 PDF을 만드는 방법](https://www.adobe.com/kr/acrobat/online/convert-pdf.html)을 살펴보세요. Microsoft Office 또는 Creative Cloud 앱에서 만든 파일로 시작하거나 이미지, 스캔 또는 웹 사이트를 이용할 수 있습니다. 콘텐츠를 PDF으로 전환하면 원래 서식을 유지하면서 문서를 편리하고 안정적으로 공유, 보존 및 보호할 수 있습니다. 이 비디오 튜토리얼에서는 [새로운 작업 영역 환경](new-workspace.md)을 사용합니다.
+[모든 다른 유형의 문서에서 PDF을 만드는 방법](https://www.adobe.com/kr/acrobat/online/convert-pdf.html)을 살펴보세요. Microsoft Office 또는 Creative Cloud 앱에서 만든 파일로 시작하거나 이미지, 스캔 또는 웹 사이트를 이용할 수 있습니다. 콘텐츠를 PDF으로 전환하면 원래 서식을 유지하면서 문서를 편리하고 안정적으로 공유, 보존 및 보호할 수 있습니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-workspace.md)을 사용합니다.
 
 >[!TIP]
 >

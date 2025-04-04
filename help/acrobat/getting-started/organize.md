@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-6832
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 548f7a5979a4b9e829d09090dbd7cec9493f351a
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 10%
 
 ---
 
 # 페이지 구성
 
-최상의 고객 경험을 제공하려면 콘텐츠가 그 어느 때보다 빠르게 생성되어야 합니다. 단 몇 초 안에 원하는 방식으로 페이지를 재정렬하는 방법을 살펴보세요. [삽입](https://www.adobe.com/kr/acrobat/online/add-pages-to-pdf.html){target="_blank"}, 바꾸기, [분할](https://www.adobe.com/kr/acrobat/online/split-pdf.html){target="_blank"}, [재정렬](https://www.adobe.com/kr/acrobat/online/rearrange-pdf.html){target="_blank"}, [회전](https://www.adobe.com/kr/acrobat/online/rotate-pdf.html){target="_blank"}, 심지어 [불연속 PDF 추출](https://www.adobe.com/kr/acrobat/online/extract-pdf-pages.html){target="_blank"}하여 전문가 수준의 페이지를 만듭니다. 이 비디오 튜토리얼에서는 [새로운 작업 영역 환경](new-workspace.md)을 사용합니다.
+최상의 고객 경험을 제공하려면 콘텐츠가 그 어느 때보다 빠르게 생성되어야 합니다. 단 몇 초 안에 원하는 방식으로 페이지를 재정렬하는 방법을 살펴보세요. [삽입](https://www.adobe.com/kr/acrobat/online/add-pages-to-pdf.html){target="_blank"}, 바꾸기, [분할](https://www.adobe.com/kr/acrobat/online/split-pdf.html){target="_blank"}, [재정렬](https://www.adobe.com/kr/acrobat/online/rearrange-pdf.html){target="_blank"}, [회전](https://www.adobe.com/kr/acrobat/online/rotate-pdf.html){target="_blank"}, 심지어 [불연속 PDF 추출](https://www.adobe.com/kr/acrobat/online/extract-pdf-pages.html){target="_blank"}하여 전문가 수준의 페이지를 만듭니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-workspace.md)을 사용합니다.
 
 >[!TIP]
 >

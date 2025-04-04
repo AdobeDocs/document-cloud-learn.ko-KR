@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-10835
 thumbnail: KT-10835.jpg
 exl-id: f6d9daa7-5022-4581-9a24-42637cf5fd47
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 자동 조정 레이아웃
 
-PDF의 페이지 전체에서 콘텐츠를 리플로우하고 레이아웃을 자동 조정하는 새로운 편집 모드에 대해 알아봅니다. 이 비디오 튜토리얼에서는 [새로운 작업 영역 환경](new-workspace.md)을 사용합니다.
+PDF의 페이지 전체에서 콘텐츠를 리플로우하고 레이아웃을 자동 조정하는 새로운 편집 모드에 대해 알아봅니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-workspace.md)을 사용합니다.
 
 >[!NOTE]
 >

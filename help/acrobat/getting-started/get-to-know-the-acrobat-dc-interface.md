@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5531
 thumbnail: KT-5531.jpg
 exl-id: 4638061c-6ed7-4dc0-b865-5e0b8da9cbd4
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 6%
@@ -20,7 +20,7 @@ Acrobat 인터페이스를 통해 일관된 작업 영역 경험을 통해 데�
 
 >[!TIP]
 >
->Acrobat에서 활성화할 수 있는 새로운 작업 영역 환경에 대해 알아보는 데 관심이 있으십니까? [새 작업 영역 환경](new-workspace.md)을 확인하십시오.
+>Acrobat에서 활성화할 수 있는 새로운 Acrobat 환경에 대해 알아보고 싶으신가요? [새 Acrobat 환경](new-workspace.md)을 확인하십시오.
 
 <br> 
 

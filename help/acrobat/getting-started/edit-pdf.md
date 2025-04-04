@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5528
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: d27fb8609e412632424cb88dd1b8239e665964f9
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # PDF에서 텍스트 편집
 
-PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아봅니다. Acrobat에서 바로 텍스트를 편집하면 앱들 사이를 오가는 과정 없이 콘텐츠를 정확하고 전문적으로 업데이트할 수 있습니다. 이 비디오 튜토리얼에서는 [새로운 작업 영역 환경](new-workspace.md)을 사용합니다.
+PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아봅니다. Acrobat에서 바로 텍스트를 편집하면 앱들 사이를 오가는 과정 없이 콘텐츠를 정확하고 전문적으로 업데이트할 수 있습니다. 이 비디오 튜토리얼에서는 [Mew Acrobat 환경](new-workspace.md)을 사용합니다.
 
 >[!TIP]
 >

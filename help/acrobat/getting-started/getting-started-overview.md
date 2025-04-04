@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 5ae26a41271759a3a352fbfff68bab685d723067
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '852'
 ht-degree: 1%
 
 ---
@@ -34,9 +34,9 @@ Adobe Express을 사용하여 PDF에서 [전문적인 느낌의 새로운 페이
 
 PDF에서 [그래픽을 만들고, 편집하고, 향상시키는 방법](edit-graphics.md)을 살펴보세요.
 
->[!TAB 새 작업 영역 환경]
+>[!TAB 새 Acrobat 환경]
 
-도구를 빠르게 찾고 PDF 작업을 효율적으로 완료하는 데 도움이 되는 Acrobat의 [새 작업 영역](new-workspace.md)에 대해 알아보세요.
+도구를 빠르게 찾고 PDF 작업을 효율적으로 완료하는 데 도움이 되는 [새로운 Acrobat 환경](new-workspace.md)에 대해 알아보세요.
 
 >[!ENDTABS]
 
@@ -44,12 +44,12 @@ PDF에서 [그래픽을 만들고, 편집하고, 향상시키는 방법](edit-gr
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New workspace experience">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New Acrobat experience">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" title="새 작업 영역 환경" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="새 작업 영역 환경"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" title="새 Acrobat 환경" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="새 Acrobat 환경"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -57,9 +57,9 @@ PDF에서 [그래픽을 만들고, 편집하고, 향상시키는 방법](edit-gr
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_self" rel="referrer" title="새 작업 영역 환경">새 작업 영역 환경</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_self" rel="referrer" title="새 Acrobat 환경">새 Acrobat 환경</a>
                     </p>
-                    <p class="is-size-6">Acrobat의 새로운 작업 영역에 대해 알아보기</p>
+                    <p class="is-size-6">새로운 Acrobat 환경에 대해 알아보기</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
