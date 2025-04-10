@@ -9,7 +9,7 @@ jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 0a299592f0616988b6208fc98d3140f4ac22057e
 workflow-type: tm+mt
 source-wordcount: '832'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Acrobat Sign API를 사용하여 전자 서명 및 문서 경험을 웹 플랫�
 
 +++API 자격 증명을 가져오는 방법에 대한 세부 정보 보기
 
-* [Acrobat Sign 개발자 계정](https://acrobat.adobe.com/kr/ko/sign/developer-form.html)
+* [Acrobat Sign 개발자 계정](https://www.adobe.com/acrobat/business/developer-form.html)
 * [시작 코드](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [VS 코드(또는 선택한 편집기)](https://code.visualstudio.com)
 * 파이썬
