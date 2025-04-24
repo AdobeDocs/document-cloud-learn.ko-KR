@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 2a19279b4dbc1c1a24ef4ec7f79301c2da1465d8
+source-git-commit: 4832311602e9626774a952f2a9b2aeb6ad576305
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '853'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,10 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
+>[!TAB PDF에 댓글]
+
+웹 브라우저만 사용하여 [공유 PDF에 댓글 달기](comment-on-pdf-files.md)하는 방법을 알아봅니다.
+
 >[!TAB 실시간 공동 작업]
 
 효율성을 높이고 콘텐츠 품질도 향상하는 [검토 프로세스](collaborate.md) 문서를 만드는 방법에 대해 알아봅니다.
@@ -33,10 +37,6 @@ Adobe Express을 사용하여 PDF에서 [전문적인 느낌의 새로운 페이
 >[!TAB PDF에서 그래픽 편집]
 
 PDF에서 [그래픽을 만들고, 편집하고, 향상시키는 방법](edit-graphics.md)을 살펴보세요.
-
->[!TAB 새 Acrobat 환경]
-
-도구를 빠르게 찾고 PDF 작업을 효율적으로 완료하는 데 도움이 되는 [새로운 Acrobat 환경](new-workspace.md)에 대해 알아보세요.
 
 >[!ENDTABS]
 
