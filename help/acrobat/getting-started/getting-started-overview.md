@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: 2a19279b4dbc1c1a24ef4ec7f79301c2da1465d8
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '857'
 ht-degree: 1%
 
 ---
 
 # 시작 개요
 
-이 간단한 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아보십시오. 이 콘텐츠는 문서를 만드는 것부터 [PDF 파일을 편집하거나](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}하는 것까지 PDF 작업 과정에 쉽게 참여할 수 있도록 설계되었습니다. Acrobat을 시작하려면 전문적으로 선별된 이 [재생 목록](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users)을 확인하십시오.
+이 간단한 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아보십시오. 문서 작성에서 [PDF 파일 편집](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}에 이르기까지 이 콘텐츠는 PDF 작업 과정에 쉽게 참여할 수 있도록 설계되었습니다. Acrobat을 시작하려면 전문적으로 선별된 이 [재생 목록](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users)을 확인하십시오.
 
 ## 새로운 기능
 
@@ -448,7 +448,7 @@ PDF에서 [그래픽을 만들고, 편집하고, 향상시키는 방법](edit-gr
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" target="_self" rel="referrer" title="PDF 댓글 달기">PDF에 댓글</a>
                     </p>
-                    <p class="is-size-6">댓글을 추가한 다음 다른 사람과 PDF 공유</p>
+                    <p class="is-size-6">웹 브라우저만으로 공유 PDF에 주석을 추가하는 방법을 알아봅니다</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
