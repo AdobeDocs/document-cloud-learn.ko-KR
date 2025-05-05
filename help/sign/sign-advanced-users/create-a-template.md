@@ -18,7 +18,7 @@ ht-degree: 0%
 
 재사용 가능한 문서 템플릿을 만들고 나중에 사용할 수 있도록 Acrobat Sign 라이브러리에 추가하는 방법을 알아봅니다. 문서 템플릿은 Sign 트랜잭션에서 속도와 일관성을 제공하고 문서 수정 및 변경 사항을 관리하는 기능을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/38037?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347142?quality=12&learn=on&hidetitle=true&captions=kor)
 
 >[!TIP]
 >

@@ -22,5 +22,5 @@ ht-degree: 6%
 >
 >엔터프라이즈 및 비즈니스 플랜은 전송 프로세스 중에 미리 알림 옵션을 선별적으로 표시하거나 계정/그룹 범위 자동화를 사용하도록 설정할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411445?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425316?quality=12&learn=on&hidetitle=true&captions=kor)
 

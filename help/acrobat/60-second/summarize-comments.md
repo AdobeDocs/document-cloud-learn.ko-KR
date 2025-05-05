@@ -17,4 +17,4 @@ ht-degree: 0%
 
 이 60초 분량의 비디오 튜토리얼에서는 PDF 파일에 있는 모든 댓글과 마크업의 요약을 만드는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409907?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436974?quality=12&learn=on&hidetitle=true&captions=kor)

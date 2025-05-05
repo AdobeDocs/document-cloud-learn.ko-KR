@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Designer 사용자 정의 워크플로우를 사용하여 K-12 학교의 개별 교육 프로그램(IEP) 프로세스를 디지털화하는 방법을 알아봅니다. IEP는 학생의 요구 사항을 충족하도록 설계된 서면 교육 계획이며 여러 IEP 팀원의 서명이 필요합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422174?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423333?quality=12&learn=on&hidetitle=true&captions=kor)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 문서 서명을 다른 사람에게 위임하는 방법을 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/343856?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411245?quality=12&learn=on&hidetitle=true&captions=kor)

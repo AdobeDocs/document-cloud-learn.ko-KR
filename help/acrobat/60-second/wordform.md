@@ -18,4 +18,4 @@ ht-degree: 2%
 
 이 60초 분량의 비디오 튜토리얼에서는 [Word 파일과 양식을 PDF으로 변환](https://www.adobe.com/kr/acrobat/online/word-to-pdf.html){target="_blank"}하고 양식 필드를 자동으로 작성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340082?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347093?quality=12&learn=on&hidetitle=true&captions=kor)

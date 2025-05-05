@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >전송 후 문서 수정은 엔터프라이즈 수준 플랜에서만 사용할 수 있습니다. 이 기능을 사용하려면 Acrobat Sign 관리자가 **계정 설정**&#x200B;의 **전송 설정** 섹션에서 **계약 수정**&#x200B;을 활성화해야 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342299?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410737?quality=12&learn=on&hidetitle=true&captions=kor)
 
 >[!TIP]
 >

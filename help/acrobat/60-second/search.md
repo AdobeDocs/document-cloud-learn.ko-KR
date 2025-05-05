@@ -18,4 +18,4 @@ ht-degree: 0%
 
 이 60초 분량의 비디오 튜토리얼에서는 PDF 파일에서 검색을 시작한 다음 고급 검색을 열고 PDF 파일의 전체 폴더를 검색하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336363?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409473?quality=12&learn=on&hidetitle=true&captions=kor)

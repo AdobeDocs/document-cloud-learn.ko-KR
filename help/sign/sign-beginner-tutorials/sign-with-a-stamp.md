@@ -18,4 +18,4 @@ ht-degree: 0%
 
 스탬프를 사용하여 승인됨 또는 완료된 문서를 표시하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345170?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411257?quality=12&learn=on&hidetitle=true&captions=kor)

@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >사용자 정의 명령은 Acrobat Pro에서만 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340545?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347075?quality=12&learn=on&hidetitle=true&captions=kor)

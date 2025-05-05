@@ -21,4 +21,4 @@ Acrobat Sign 관리자는 사용자를 위한 보고서 옵션을 설정하는 �
 >
 >비즈니스 및 엔터프라이즈 수준 플랜에서만 보고를 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419303?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437151?quality=12&learn=on&hidetitle=true&captions=kor)

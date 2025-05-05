@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >Acrobat Enterprise 구독 외에 Acrobat Sign Enterprise 권한이 있어야 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/338492?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347158?quality=12&learn=on&hidetitle=true&captions=kor)

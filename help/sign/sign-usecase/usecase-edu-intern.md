@@ -19,4 +19,4 @@ ht-degree: 0%
 
 이 웹 양식을 만드는 방법을 알아보려면 [교육 웹 양식 인턴십 응용 프로그램 만들기](usecase-edu-intern-create.md)를 확인하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421773?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430547?quality=12&learn=on&hidetitle=true&captions=kor)

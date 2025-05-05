@@ -17,4 +17,4 @@ ht-degree: 2%
 
 [Admin Console](https://adminconsole.adobe.com/)에서 Acrobat Sign 사용자 제품 관리자 및 지원 관리자 역할을 할당하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453157?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453165?quality=12&learn=on&hidetitle=true&captions=kor)

@@ -24,7 +24,7 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337972?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347149?quality=12&learn=on&hidetitle=true&captions=kor)
 
 ![QR 코드](../assets/Acrobatqrcode.jpg)
 

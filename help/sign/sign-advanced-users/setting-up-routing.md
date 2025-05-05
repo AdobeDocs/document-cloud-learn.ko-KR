@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >하이브리드 라우팅은 엔터프라이즈 수준 플랜에서만 사용할 수 있습니다. Acrobat Sign 관리자는 계정 설정의 전송 설정 섹션에서 이 기능을 활성화해야 할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342249?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410718?quality=12&learn=on&hidetitle=true&captions=kor)

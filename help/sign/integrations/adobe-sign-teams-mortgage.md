@@ -20,7 +20,7 @@ ht-degree: 0%
 
 [!DNL Microsoft Teams] 내에서 서명을 위해 계약을 보내고 계약 상태를 확인하고 미리 알림을 보내는 방법을 알아봅니다. 이 예에서는 Teams 내에서 직접 서명을 위해 대출 신청을 보내는 모기지 브로커를 살펴봅니다. 이러한 긴밀한 통합은 멀리 떨어진 업무 환경에서 모기지 신청자와 함께 작업할 때도 모기지 대출 프로세스를 가속화합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346545?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446200?quality=12&learn=on&hidetitle=true&captions=kor)
 
 >[!TIP]
 >

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 이 60초 분량의 비디오 튜토리얼에서는 PDF 파일을 완전히 편집 가능한 Microsoft PowerPoint 문서로 변환하는 방법을 살펴보세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/342629?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437339?quality=12&learn=on&hidetitle=true&captions=kor)

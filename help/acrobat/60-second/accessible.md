@@ -22,4 +22,4 @@ ht-degree: 0%
 
 이 60초 분량의 비디오 튜토리얼에서는 PDF에 액세스할 수 있는지 확인하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340076?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347087?quality=12&learn=on&hidetitle=true&captions=kor)

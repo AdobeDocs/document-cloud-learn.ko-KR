@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Acrobat Sign에서 문서에 서명하는 사람의 ID를 인증하기 위해 사용할 수 있는 다양한 방법에 대해 알아봅니다. 신원 인증은 사기를 줄이고 서명된 문서에 추가 보안 계층을 추가하는 데 도움이 됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419287?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447589?quality=12&learn=on&hidetitle=true&captions=kor)

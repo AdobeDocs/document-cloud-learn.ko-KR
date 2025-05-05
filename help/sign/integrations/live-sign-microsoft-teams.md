@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Microsoft Teams 회의 중 직접 서명과 유사한 온라인 서명 경험을 만드는 방법을 알아봅니다. Live Sign을 사용하면 모든 장치에서 빠르고 안전한 개인 서명 경험을 호스팅할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425187?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445947?quality=12&learn=on&hidetitle=true&captions=kor)

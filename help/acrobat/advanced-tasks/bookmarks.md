@@ -18,5 +18,5 @@ ht-degree: 0%
 
 PDF 파일을 더 잘 탐색하고 상호 작용하기 위해 책갈피와 하이퍼링크를 추가하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340837?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347060?quality=12&learn=on&hidetitle=true&captions=kor)
 

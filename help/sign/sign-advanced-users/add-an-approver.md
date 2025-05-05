@@ -19,7 +19,7 @@ ht-degree: 23%
 
 승인 프로세스를 통해 문서를 보내는 방법에 대해 알아봅니다. 이 예에서는 HR, 잠재적 사원 및 고용 관리자를 통해 고용 계약을 발송하는 방법을 참조하십시오. 승인자 역할은 서명자에게 문서를 보내기 전에 누군가 문서에 대해 &quot;좋다&quot;고 해야 하는 상황에 적합합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/343854?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411221?quality=12&learn=on&hidetitle=true&captions=kor)
 
 >[!TIP]
 >

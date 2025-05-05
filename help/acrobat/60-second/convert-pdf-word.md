@@ -17,4 +17,4 @@ ht-degree: 2%
 
 이 60초 분량의 비디오 튜토리얼에서는 [PDF 파일을 완전히 편집 가능한 Microsoft Word 문서로 변환](https://www.adobe.com/kr/acrobat/online/pdf-to-word.html){target="_blank"}하는 방법을 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411376?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3428850?quality=12&learn=on&hidetitle=true&captions=kor)

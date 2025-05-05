@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Salesforce용 Document Builder를 사용하여 재사용 가능한 문서 템플릿을 만드는 방법을 알아보십시오. 재사용 가능한 문서 템플릿은 Sign 트랜잭션에서 속도와 일관성을 제공하고 문서 수정 및 변경 내용을 관리하는 기능을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409414?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412831?quality=12&learn=on&hidetitle=true&captions=kor)

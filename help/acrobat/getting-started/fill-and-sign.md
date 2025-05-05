@@ -18,4 +18,4 @@ ht-degree: 2%
 
 [PDF 양식을 빠르고 쉽게 작성 및 서명하는 방법](https://www.adobe.com/kr/acrobat/online/sign-pdf.html){target="_blank"}을 살펴보세요. 지저분한 인쇄나 스캔이 필요하지 않습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/35495?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409631?quality=12&learn=on&hidetitle=true&captions=kor)

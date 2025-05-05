@@ -18,7 +18,7 @@ ht-degree: 0%
 
 라이브러리에서 템플릿을 편집하거나 삭제하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342567?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411203?quality=12&learn=on&hidetitle=true&captions=kor)
 
 >[!TIP]
 >

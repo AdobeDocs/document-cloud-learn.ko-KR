@@ -32,7 +32,7 @@ Adobe Acrobat for Teams를 사용하면 사용자가 [!DNL Microsoft Teams]을(�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/331277?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409685?quality=12&learn=on&hidetitle=true&captions=kor)
 
 >[!TIP]
 >

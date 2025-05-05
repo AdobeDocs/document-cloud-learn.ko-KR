@@ -17,4 +17,4 @@ ht-degree: 0%
 
 이 60초 분량의 비디오 튜토리얼에서는 Acrobat 데스크탑 앱 내에서 바로 Microsoft 365 파일에서 PDF을 만드는 방법을 살펴보세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/342628?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437213?quality=12&learn=on&hidetitle=true&captions=kor)

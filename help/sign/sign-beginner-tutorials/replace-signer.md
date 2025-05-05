@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >수신자 바꾸기 의 기본 설정은 현재 수신자를 새 수신자로 완전히 바꾸는 것입니다. 비즈니스 및 엔터프라이즈 수준 플랜에는 추가 옵션이 제공됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342340?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425305?quality=12&learn=on&hidetitle=true&captions=kor)

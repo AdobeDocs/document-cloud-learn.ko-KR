@@ -21,4 +21,4 @@ ht-degree: 0%
 
 이 60초짜리 비디오 튜토리얼에서는 Acrobat의 파일 비교 도구를 사용하여 두 PDF 파일의 차이점을 찾는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409905?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437481?quality=12&learn=on&hidetitle=true&captions=kor)

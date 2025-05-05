@@ -18,7 +18,7 @@ ht-degree: 0%
 
 서면 처리를 호환되는 디지털 워크플로우로 빠르게 대체하고 감사 보고서를 완성합니다. 전체 프로세스를 간소화하는 데 도움이 되는 [Acrobat Sign 워크플로 Designer](../admin/building-a-custom-workflow.md) 도구에 대해 알아보세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409215?quality=12&learn=on&hidetitle=true&captions=kor)
 
 계약 및 구매요청 양식에 대한 단계별 PDF 레시피를 다운로드하거나 열려면 선택합니다.
 

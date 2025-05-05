@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Acrobat Sign에서 서명을 위해 보낸 문서를 관리하고 추적하는 방법을 살펴봅니다. 서명하거나 서명을 위해 보내는 모든 문서에 대해 실시간 상태 업데이트 및 알림을 받습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/338695?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347135?quality=12&learn=on&hidetitle=true&captions=kor)
 
 >[!TIP]
 >

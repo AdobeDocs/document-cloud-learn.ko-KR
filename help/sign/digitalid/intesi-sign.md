@@ -18,4 +18,4 @@ ht-degree: 0%
 
 [!DNL Intesi Group] 디지털 ID를 사용하여 ID를 인증하고 문서에서 원격 디지털 서명(클라우드 서명)을 승인하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336989?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443668?quality=12&learn=on&hidetitle=true&captions=kor)

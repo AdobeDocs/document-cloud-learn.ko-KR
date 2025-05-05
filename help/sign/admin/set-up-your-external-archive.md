@@ -18,4 +18,4 @@ ht-degree: 0%
 
 서명된 계약의 백업 복사본에 대한 외부 아카이브를 만드는 방법을 알아보십시오. 모든 전자 메일 주소 또는 [!DNL Box] 및 Evernote에 복사본을 보관할 수 있습니다. 서명되고 완료된 이메일의 복사본은 이메일 주소 또는 지정한 클라우드 서비스로 전송됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409072?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412811?quality=12&learn=on&hidetitle=true&captions=kor)

@@ -18,7 +18,7 @@ ht-degree: 10%
 
 문서와 상호 작용해야 하는 사용자가 두 명 이상 있습니까? 전자 서명을 받기 위해 문서를 두 명 이상의 사용자에게 정확히 원하는 순서대로 보내는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/341296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425283?quality=12&learn=on&hidetitle=true&captions=kor)
 
 >[!TIP]
 >

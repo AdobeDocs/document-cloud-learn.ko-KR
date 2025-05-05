@@ -28,88 +28,88 @@ Acrobat Sign을 처음 사용하십니까? 이 포괄적인 튜토리얼은 Acro
 <table style="table-layout:auto">
 <tr>
   <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true">
+    <a href="https://video.tv.adobe.com/v/3454390?quality=12&learn=on&hidetitle=true&captions=kor">
       <img alt="이미지 빨리 감기" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true"><strong>로그인</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454390?quality=12&learn=on&hidetitle=true&captions=kor"><strong>로그인</strong></a>
          <br>
         <em>0:00에 시작</em>
     </td>
      <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56">
+    <a href="https://video.tv.adobe.com/v/3454390?quality=12&learn=on&hidetitle=true&t=56&captions=kor">
       <img alt="이미지 빨리 감기" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56"><strong>홈 페이지</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454390?quality=12&learn=on&hidetitle=true&t=56&captions=kor"><strong>홈 페이지</strong></a>
          <br>
         <em>0:56에 시작</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=153">
+    <a href="https://video.tv.adobe.com/v/3454390?quality=12&learn=on&hidetitle=true&t=153&captions=kor">
       <img alt="이미지 빨리 감기" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true&t=153"><strong>프로필 설정</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454390/?quality=12&learn=on&hidetitle=true&t=153&captions=kor"><strong>프로필 설정</strong></a>
         <br>
         <em>2:33에 시작</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=272">
+    <a href="https://video.tv.adobe.com/v/3454390?quality=12&learn=on&hidetitle=true&t=272&captions=kor">
       <img alt="이미지 빨리 감기" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=272"><strong>전송 설정</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454390?quality=12&learn=on&hidetitle=true&t=272&captions=kor"><strong>전송 설정</strong></a>
         <br>
         <em>4:32에 시작</em>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=551">
+    <a href="https://video.tv.adobe.com/v/3454390?quality=12&learn=on&hidetitle=true&t=551&captions=kor">
       <img alt="이미지 빨리 감기" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=551"><strong>채울 수 있는 필드 추가</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454390?quality=12&learn=on&hidetitle=true&t=551&captions=kor"><strong>채울 수 있는 필드 추가</strong></a>
          <br>
         <em>9:11에 시작</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=719">
+    <a href="https://video.tv.adobe.com/v/3454390?quality=12&learn=on&hidetitle=true&t=719&captions=kor">
       <img alt="이미지 빨리 감기" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=719"><strong>서명 환경</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454390?quality=12&learn=on&hidetitle=true&t=719&captions=kor"><strong>서명 환경</strong></a>
         <br>
         <em>11:59에 시작</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774">
+    <a href="https://video.tv.adobe.com/v/3454390?quality=12&learn=on&hidetitle=true&t=774&captions=kor">
       <img alt="이미지 빨리 감기" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774"><strong>문서 관리 및 추적</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454390?quality=12&learn=on&hidetitle=true&t=774&captions=kor"><strong>문서 관리 및 추적</strong></a>
         <br>
         <em>12:54에 시작</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=898">
+    <a href="https://video.tv.adobe.com/v/3454390?quality=12&learn=on&hidetitle=true&t=898&captions=kor">
       <img alt="이미지 빨리 감기" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true&t=898"><strong>지원 및 리소스</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454390/?quality=12&learn=on&hidetitle=true&t=898&captions=kor"><strong>지원 및 리소스</strong></a>
         <br>
         <em>14:58에 시작</em>
     </td>
   </tr>
   </table>
 
->[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454390?quality=12&learn=on&hidetitle=true&captions=kor)

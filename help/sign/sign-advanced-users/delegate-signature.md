@@ -22,7 +22,7 @@ ht-degree: 3%
 >
 >위임자 역할은 엔터프라이즈 수준 플랜에만 사용할 수 있습니다. Acrobat Sign 관리자가 이 기능을 사용하려면 **계정 설정**&#x200B;의 **전송 설정** 섹션에서 **전송자가 일부 수신자를 위임자로 표시하도록 허용** 설정을 활성화해야 할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/343621?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412751?quality=12&learn=on&hidetitle=true&captions=kor)
 
 >[!TIP]
 >

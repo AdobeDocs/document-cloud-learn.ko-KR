@@ -29,7 +29,7 @@ ht-degree: 0%
 * [사업 보조금 및 대출](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=ko)
 * [재취업 지원](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=ko)
 
->[!VIDEO](https://video.tv.adobe.com/v/37841?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411227?quality=12&learn=on&hidetitle=true&captions=kor)
 
 >[!TIP]
 >

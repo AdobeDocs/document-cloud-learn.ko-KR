@@ -17,4 +17,4 @@ ht-degree: 0%
 
 인턴십 웹 양식을 만들어 모든 디바이스 및 모든 위치에서 제출할 수 있는 필수 양식에 대한 학생 액세스를 개선하는 방법에 대해 알아봅니다. 이 예에서 각 학생의 작업 과정은 학습 과정에 따라 다릅니다. 각 학생은 승인을 위해 교직원 감독자 및 부서장을 추가해야 하기 때문입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421853?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423378?quality=12&learn=on&hidetitle=true&captions=kor)

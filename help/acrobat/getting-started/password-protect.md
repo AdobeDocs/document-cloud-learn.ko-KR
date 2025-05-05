@@ -25,7 +25,7 @@ ht-degree: 2%
 [!BADGE 조직 영향]
 정보 보호, 위험 관리
 
->[!VIDEO](https://video.tv.adobe.com/v/35497?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409649?quality=12&learn=on&hidetitle=true&captions=kor)
 
 >[!TIP]
 >

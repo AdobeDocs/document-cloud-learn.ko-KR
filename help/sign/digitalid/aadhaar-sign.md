@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Acrobat Sign에서 [!DNL Aadhaar] 디지털 ID를 사용하여 ID를 인증하고 문서에 원격 디지털 서명(클라우드 서명)을 부여하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/338362?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444519?quality=12&learn=on&hidetitle=true&captions=kor)

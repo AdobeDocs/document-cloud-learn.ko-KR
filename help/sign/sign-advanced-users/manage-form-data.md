@@ -17,4 +17,4 @@ ht-degree: 0%
 
 보고서 또는 Excel 스프레드시트에서 보고 관리할 수 있도록 문서의 양식 데이터를 통합하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419330?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443525?quality=12&learn=on&hidetitle=true&captions=kor)

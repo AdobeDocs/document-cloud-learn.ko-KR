@@ -18,4 +18,4 @@ ht-degree: 0%
 
 이 60초 분량의 비디오 튜토리얼에서는 Photoshop을 사용하여 PDF에서 사진을 고급 편집하는 방법을 살펴보세요. PDF 편집 도구에서 Photoshop으로 이동한 다음 다시 돌아오면 프로세스가 매끄럽게 진행되어 작업을 빠르고 쉽게 완료할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/338276?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409128?quality=12&learn=on&hidetitle=true&captions=kor)

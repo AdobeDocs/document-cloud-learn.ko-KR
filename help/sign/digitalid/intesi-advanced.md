@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!DNL Intesi Group]에서 고급 디지털 서명 인증서를 받는 방법을 알아봅니다. 등록이 완료되고 ID가 확인되면 [!DNL Intesi Group]에서 Acrobat Sign 클라우드 서명을 적용하는 데 사용되는 디지털 ID를 발급합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/337065?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449908?quality=12&learn=on&hidetitle=true&captions=kor)
 
 <br> 
 

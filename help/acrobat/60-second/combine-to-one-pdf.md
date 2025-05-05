@@ -18,4 +18,4 @@ ht-degree: 2%
 
 이 60초 분량의 비디오 튜토리얼에서는 [여러 유형의 파일을 단일 PDF으로 결합](https://www.adobe.com/kr/acrobat/online/merge-pdf.html){target="_blank"}하여 문서를 빠르게 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336361?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409461?quality=12&learn=on&hidetitle=true&captions=kor)

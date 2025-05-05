@@ -18,4 +18,4 @@ ht-degree: 0%
 
 이 60초 분량의 비디오 튜토리얼에서는 Adobe Scan을 사용하여 인쇄된 양식에 서명하는 방법을 알아봅니다. 간단히 스캔하고 서명하여 PDF으로 보내면 됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/338331?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347127?quality=12&learn=on&hidetitle=true&captions=kor)

@@ -18,4 +18,4 @@ ht-degree: 3%
 
 이 60초 분량의 비디오 튜토리얼에서는 [PDF 구성](https://www.adobe.com/kr/acrobat/online/rearrange-pdf.html) 도구를 사용하여 페이지를 한눈에 볼 수 있도록 하는 방법을 알아보세요. PDF 순서 및 레이아웃을 변경하고 [페이지를 더 작은 파일로 분할](https://www.adobe.com/kr/acrobat/online/split-pdf.html){target="_blank"}합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/338278?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409112?quality=12&learn=on&hidetitle=true&captions=kor)

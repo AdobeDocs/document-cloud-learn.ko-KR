@@ -21,4 +21,4 @@ ht-degree: 0%
 
 이 60초 분량의 비디오 튜토리얼에서는 PDF에서 민감한 정보를 제거하는 올바른 방법을 살펴보세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411377?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436919?quality=12&learn=on&hidetitle=true&captions=kor)

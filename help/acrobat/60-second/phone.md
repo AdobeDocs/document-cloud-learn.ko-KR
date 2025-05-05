@@ -18,7 +18,7 @@ ht-degree: 1%
 
 이 60초 분량의 비디오 튜토리얼에서는 휴대폰에서 전자 메일 [PowerPoint 첨부 파일을 PDF](https://www.adobe.com/kr/acrobat/online/ppt-to-pdf.html){target="_blank"}(으)로 변환하는 방법을 알아봅니다. 파일이 반환되면 파일을 보고 공유를 탭하여 팀으로 전송하세요. 이 모든 작업은 휴대폰에 PowerPoint를 설치하지 않아도 됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336366?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409208?quality=12&learn=on&hidetitle=true&captions=kor)
 
 >[!TIP]
 >

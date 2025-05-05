@@ -23,4 +23,4 @@ ht-degree: 0%
 >
 >Acrobat Sign Web Forms과 [!DNL SharePoint] 목록 간의 필드 매핑은 온라인 설치에만 사용할 수 있으며 온-프레미스 설치에는 사용할 수 없습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421616?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423564?quality=12&learn=on&hidetitle=true&captions=kor)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Acrobat 내에서 [!DNL Dropbox] 파일을 열고, 만들고, 편집하고, 서명하고, 변경 내용을 저장하는 방법을 알아봅니다. Dropbox 계정을 Acrobat에 연결하면 모든 파일을 손쉽게 이용할 수 있어 시간을 절약할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409411?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412816?quality=12&learn=on&hidetitle=true&captions=kor)

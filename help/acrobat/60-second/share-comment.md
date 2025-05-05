@@ -17,4 +17,4 @@ ht-degree: 0%
 
 이 60초 분량의 비디오 튜토리얼에서는 PDF을 공유하여 하나의 파일에서 여러 사람의 피드백을 빠르게 수집하는 방법을 살펴보세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/340769?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437195?quality=12&learn=on&hidetitle=true&captions=kor)

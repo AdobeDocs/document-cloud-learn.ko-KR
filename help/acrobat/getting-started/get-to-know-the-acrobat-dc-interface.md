@@ -24,4 +24,4 @@ Acrobat 인터페이스를 통해 일관된 작업 영역 경험을 통해 데�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337971?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409173?quality=12&learn=on&hidetitle=true&captions=kor)

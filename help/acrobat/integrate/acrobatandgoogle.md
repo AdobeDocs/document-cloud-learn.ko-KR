@@ -20,4 +20,4 @@ ht-degree: 0%
 
 [!DNL Google Drive] 앱 내에서 직접 시간을 절약해 주는 PDF 도구와 전자 서명 워크플로우에 액세스하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/333600?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409673?quality=12&learn=on&hidetitle=true&captions=kor)

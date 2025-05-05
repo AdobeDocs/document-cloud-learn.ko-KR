@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Liquid Mode가 모바일 서명 경험을 어떻게 개선하는지 알아봅니다. 문서를 읽고 서명하려고 할 때 더 이상 집거나 확대/축소하지 않습니다. 이 자습서에서는 서명을 위해 _HTML 양식_&#x200B;을 전송하고 모바일 사용자를 위한 향상된 서명 환경을 자동으로 만드는 방법에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/333803?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409667?quality=12&learn=on&hidetitle=true&captions=kor)

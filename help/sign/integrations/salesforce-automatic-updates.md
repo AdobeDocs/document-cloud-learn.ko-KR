@@ -19,4 +19,4 @@ ht-degree: 0%
 
 [!DNL Salesforce]에 계정을 손쉽게 연결하여 자동 업데이트를 받는 방법을 살펴보고 작업을 간소화하고 정확도를 높이는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432775?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439599?quality=12&learn=on&hidetitle=true&captions=kor)

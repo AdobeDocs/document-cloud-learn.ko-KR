@@ -18,4 +18,4 @@ ht-degree: 0%
 
 이 60초 분량의 비디오 튜토리얼에서는 Acrobat 공유 검토 후 PDF 주석을 다시 InDesign에 로드하는 방법을 알아봅니다. 이 디지털 워크플로우는 기록 시간 내에 개정을 완료하는 데 도움이 됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336907?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409455?quality=12&learn=on&hidetitle=true&captions=kor)

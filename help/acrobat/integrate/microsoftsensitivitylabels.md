@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Acrobat에서 직접 [Microsoft Purview Information](https://learn.microsoft.com/en-us/microsoft-365/compliance/information-protection?view=o365-worldwide) 민감도 레이블을 추가, 편집, 사용자 정의 및 삭제하여 PDF을 보호하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410552?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444305?quality=12&learn=on&hidetitle=true&captions=kor)

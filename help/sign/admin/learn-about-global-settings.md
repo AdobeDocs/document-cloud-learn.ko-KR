@@ -19,7 +19,7 @@ ht-degree: 2%
 
 계정 탭의 전역 설정 섹션은 풍부한 기능 섹션 중 하나이며 모든 설정은 사용 사례에 따라 다릅니다. 조직 전체 또는 특정 그룹에 대한 설정을 전역적으로 편집하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3452109?quality=12&learn=on&hidetitle=true&captions=kor)
 
 >[!TIP]
 >

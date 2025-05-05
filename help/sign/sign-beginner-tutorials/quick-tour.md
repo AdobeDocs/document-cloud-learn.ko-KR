@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Acrobat Sign 작업 영역을 간단히 비디오로 둘러보고 작업을 시작하고 실행합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/41205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425257?quality=12&learn=on&hidetitle=true&captions=kor)
 
 >[!TIP]
 >

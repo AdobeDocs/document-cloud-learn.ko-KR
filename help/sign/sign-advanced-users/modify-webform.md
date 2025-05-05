@@ -18,4 +18,4 @@ ht-degree: 0%
 
 기존 웹 양식을 비활성화, 편집 및 다시 활성화하는 방법에 대해 알아봅니다. 웹 양식을 비활성화하면 URL을 리디렉션하거나 최종 사용자를 위한 사용자 정의 메시지를 만들 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346677?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412771?quality=12&learn=on&hidetitle=true&captions=kor)

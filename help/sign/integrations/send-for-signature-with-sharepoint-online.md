@@ -20,7 +20,7 @@ ht-degree: 0%
 
 [!DNL Microsoft Sharepoint Online] 내에서 직접 서명할 문서를 전송하여 문서 작업 과정을 간소화하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/41263?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409581?quality=12&learn=on&hidetitle=true&captions=kor)
 
 >[!TIP]
 >

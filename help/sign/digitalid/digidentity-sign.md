@@ -20,4 +20,4 @@ Digidentity는 EU 공인 트러스트 서비스 공급자(QTSP)입니다. Digide
 
 이 비디오 튜토리얼에서는 등록 초대 이메일 수신부터 디지털 ID를 사용하여 Acrobat Sign에서 클라우드 서명을 인증하고 적용하는 사용자 여정에 대해 자세히 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336991?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449789?quality=12&learn=on&hidetitle=true&captions=kor)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 문서에 필드를 자동으로 배치하거나 Acrobat Sign 내에서 끌어다 놓기 저작 환경을 사용하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346620?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425294?quality=12&learn=on&hidetitle=true&captions=kor)

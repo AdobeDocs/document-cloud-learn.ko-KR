@@ -31,7 +31,7 @@ ht-degree: 0%
 
 [PDF 편집 도구](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}를 사용하여 PDF에 배경 그래픽을 추가합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443824?hidetitle=true&captions=kor)
 
 <br> 
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 편집 도구를 사용하여 PDF에 새 바닥글을 추가합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437740?hidetitle=true&captions=kor)
 
 <br> 
 

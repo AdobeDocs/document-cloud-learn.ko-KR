@@ -19,4 +19,4 @@ ht-degree: 0%
 
 [!DNL Microsoft Teams]의 [문서] 탭에서 직접 서명을 위해 문서를 보내는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425477?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439655?quality=12&learn=on&hidetitle=true&captions=kor)

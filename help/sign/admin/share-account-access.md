@@ -18,7 +18,7 @@ ht-degree: 0%
 
 다른 사용자의 계정에서 트랜잭션에 대한 보기 전용 액세스 권한을 설정하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40187?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411197?quality=12&learn=on&hidetitle=true&captions=kor)
 
 >[!TIP]
 >

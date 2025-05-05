@@ -17,4 +17,4 @@ ht-degree: 1%
 
 [Admin Console](https://adminconsole.adobe.com/)에서 새 사용자를 만들거나 기존 사용자를 Acrobat Sign 관리 역할로 승격하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453156?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453176?quality=12&learn=on&hidetitle=true&captions=kor)

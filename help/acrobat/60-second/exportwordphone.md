@@ -18,4 +18,4 @@ ht-degree: 1%
 
 이 60초 분량의 비디오 튜토리얼에서는 Acrobat 모바일 앱을 사용하여 [PDF 파일을 완전히 편집 가능한 Microsoft Word 문서로 변환](https://www.adobe.com/kr/acrobat/online/pdf-to-word.html){target="_blank"}하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340214?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347120?quality=12&learn=on&hidetitle=true&captions=kor)

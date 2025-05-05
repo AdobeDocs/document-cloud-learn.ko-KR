@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Adobe Express을 사용하여 PDF에서 전문적인 느낌의 페이지를 새로 만드는 방법을 알아봅니다. 새 페이지를 디자인하면 단 몇 분 안에 전문가 수준의 브랜드 맞춤형 콘텐츠를 제작할 수 있습니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-workspace.md)을 사용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347331?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417495?enablevpops&quality=12&learn=on&hidetitle=true&captions=kor)

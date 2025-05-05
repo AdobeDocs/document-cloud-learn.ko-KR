@@ -18,4 +18,4 @@ ht-degree: 0%
 
 양식을 채우고 **및** 전자 서명을 문서에 추가하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33660?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410711?quality=12&learn=on&hidetitle=true&captions=kor)

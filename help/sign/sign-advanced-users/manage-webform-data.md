@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >비즈니스 및 엔터프라이즈 수준 플랜에만 웹 양식 액세스 및 서명자 옵션을 구성하는 옵션이 있습니다. 계정 > 계정 설정 > 전역 설정 > 웹 폼의 계정 또는 그룹 수준에서 웹 폼 액세스 및 서명자 옵션을 활성화하거나 비활성화합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409607?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417076?quality=12&learn=on&hidetitle=true&captions=kor)

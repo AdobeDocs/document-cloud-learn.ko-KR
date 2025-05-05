@@ -19,4 +19,4 @@ PDF에서 그래픽을 만들고 편집하고 향상시키는 방법을 살펴�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446936?enablevpops&quality=12&learn=on&hidetitle=true&captions=kor)

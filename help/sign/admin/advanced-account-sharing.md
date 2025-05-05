@@ -23,7 +23,7 @@ ht-degree: 3%
 >
 >고급 계정 공유는 엔터프라이즈 수준 플랜에만 사용할 수 있습니다. 기술 지원에서는 고급 공유를 활성화할 수 있지만 일단 활성화되면 되돌릴 수 없는 방식으로 공유 객체의 관계를 변경합니다. 따라서 Adobe 계정 팀에 연락하여 기능을 테스트하고 기능을 통해 원하는 모든 것을 수행할 수 있는지 확인할 수 있는 체험판 계정을 설정하는 것이 좋습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40186?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411215?quality=12&learn=on&hidetitle=true&captions=kor)
 
 >[!TIP]
 >

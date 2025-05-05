@@ -20,4 +20,4 @@ ht-degree: 0%
 
 PDF 공유 방법을 알아보려면 [실시간 공동 작업](collaborate.md) 자습서를 확인하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/35492?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409187?quality=12&learn=on&hidetitle=true&captions=kor)
