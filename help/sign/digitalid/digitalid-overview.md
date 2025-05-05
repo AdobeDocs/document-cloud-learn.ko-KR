@@ -141,17 +141,17 @@ Acrobat Sign에서 [[!DNL Digidentity]](digidentity-sign.md) 디지털 ID를 등
       <img alt="Intesi Group에서 디지털 ID 받기(고급)" src="assets/IntesiAdvanced_1280.png" />
     </a>
     <div>
-    <a href="intesi-advanced.md"><strong>[!DNL Intesi Group](고급)에서 디지털 ID 가져오기</strong></a>
+    <a href="intesi-advanced.md"><strong>[!DNL Intesi Group] (고급)에서 디지털 ID 가져오기</strong></a>
     </div>
     <em>[!DNL Intesi Group]</em>에서 고급 디지털 서명 인증서를 받는 방법을 알아보세요.
     <br>
   </td>
   <td>
     <a href="intesi-qualified.md">
-      <img alt="[!DNL Intesi Group](한정됨)에서 디지털 ID 가져오기" src="assets/IntesiQualified_1280.png" />
+      <img alt="[!DNL Intesi Group] (한정됨)에서 디지털 ID 가져오기" src="assets/IntesiQualified_1280.png" />
     </a>
     <div>
-    <a href="intesi-qualified.md"><strong>[!DNL Intesi Group](한정됨)에서 디지털 ID 가져오기</strong></a>
+    <a href="intesi-qualified.md"><strong>[!DNL Intesi Group] (한정됨)에서 디지털 ID 가져오기</strong></a>
     </div>
     <em>[!DNL Intesi Group]</em>에서 자격을 갖춘 디지털 서명 인증서를 받는 방법에 대해 알아보세요.
     <br>

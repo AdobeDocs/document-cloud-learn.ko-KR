@@ -22,4 +22,4 @@ PDF을 액세스 가능하게 만들기 시리즈의 첫 번째 비디오 튜토
 
 >[!VIDEO](https://video.tv.adobe.com/v/34540?quality=12&learn=on&hidetitle=true)
 
-[2부 - 작성  [!DNL Microsoft Word](으)로 이동](authoring-in-word.md)
+[2부 - 작성  [!DNL Microsoft Word] (으)로 이동](authoring-in-word.md)

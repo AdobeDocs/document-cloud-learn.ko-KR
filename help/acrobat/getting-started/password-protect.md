@@ -16,7 +16,7 @@ ht-degree: 2%
 
 # 암호로 PDF 파일 Protect
 
-[PDF에 암호를 추가](https://www.adobe.com/kr/acrobat/online/password-protect-pdf.html){target="_blank"}하여 다른 사람이 PDF 파일을 열거나 편집하지 못하도록 보호하는 방법[](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}에 대해 알아보세요.
+[PDF에 암호를 추가](https://www.adobe.com/kr/acrobat/online/password-protect-pdf.html){target="_blank"}하여 다른 사람이 PDF 파일을 열거나 편집하지 못하도록 보호하는 방법[&#128279;](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}에 대해 알아보세요.
 
 >[!TIP]
 >
@@ -29,4 +29,4 @@ ht-degree: 2%
 
 >[!TIP]
 >
-이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [Adobe Acrobat 시작하기](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users)의 일부입니다.
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [Adobe Acrobat 시작하기](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users)의 일부입니다.

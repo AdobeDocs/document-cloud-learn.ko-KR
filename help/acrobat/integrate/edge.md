@@ -1,5 +1,5 @@
 ---
-title: ' [!DNL Microsoft Edge](으)로 검색하는 동안 PDF 콘텐츠 만들기'
+title: ' [!DNL Microsoft Edge] (으)로 검색하는 동안 PDF 콘텐츠 만들기'
 description: ' [!DNL Microsoft Edge]에 대한 Adobe Acrobat 확장 프로그램을 사용하여 웹 페이지를 즉시 PDF 상태로 전환하는 방법을 알아봅니다.'
 feature: Integrations, Create PDF
 role: User
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Microsoft Edge](으)로 탐색하는 동안 PDF 콘텐츠 만들기
+# [!DNL Microsoft Edge] (으)로 탐색하는 동안 PDF 콘텐츠 만들기
 
 [!DNL Microsoft Edge]에 대한 Adobe Acrobat 확장 프로그램을 사용하여 웹 페이지를 즉시 PDF 상태로 전환하는 방법을 알아봅니다. 이 Windows 전용 도구는 연구 프로젝트 및 웹 기반 정보의 오프라인 보기에 매우 유용합니다.
 

@@ -84,7 +84,7 @@ Microsoft Power Apps용 Acrobat Sign 및 Adobe PDF Tools 커넥터를 활성화�
 
 1. **Acrobat Sign 완료 계약을 SharePoint 라이브러리에 저장**&#x200B;을 선택합니다.
 
-   Acrobat Sign에서 완료한 계약을 SharePoint 라이브러리에 저장](assets/documentautomation/automation_2.png)의 스크린샷![
+   Acrobat Sign에서 완료한 계약을 SharePoint 라이브러리에 저장![&#128279;](assets/documentautomation/automation_2.png)의 스크린샷
 
 1. 화면을 검토하고 필요한 연결을 구성합니다. Acrobat Sign 연결을 활성화합니다.
 1. 파란색 `+` 기호를 클릭합니다.
@@ -158,7 +158,7 @@ Microsoft Power Apps용 Acrobat Sign 및 Adobe PDF Tools 커넥터를 활성화�
 
    ![흐름을 구성하는 스크린샷](assets/documentautomation/automation_11.png)
 
-1. 다음과 같이 **파일 속성 가져오기:**을(를) 구성합니다.
+1. 다음과 같이 **파일 속성 가져오기:**&#x200B;을(를) 구성합니다.
    **사이트 주소:** SharePoint 사이트
    **라이브러리 이름:** 문서 리포지토리
 
@@ -202,10 +202,10 @@ Microsoft Power Apps용 Acrobat Sign 및 Adobe PDF Tools 커넥터를 활성화�
    ![만들기 검색 스크린샷](assets/documentautomation/automation_19.png)
 
 1. 필요한 정보를 구성합니다.
-**계약 이름**&#x200B;의 동적 변수 도우미에서 **이름**을(를) 선택합니다.
-**문서 ID**&#x200B;의 동적 변수 도우미에서 **문서 ID**을(를) 선택합니다.
-**참가자 전자 메일**&#x200B;의 동적 변수 도우미에서 **서명자 전자 메일**을(를) 선택합니다.
-**참가자 순서**에 &quot;1&quot;을 입력하십시오.
+**계약 이름**&#x200B;의 동적 변수 도우미에서 **이름**&#x200B;을(를) 선택합니다.
+**문서 ID**&#x200B;의 동적 변수 도우미에서 **문서 ID**&#x200B;을(를) 선택합니다.
+**참가자 전자 메일**&#x200B;의 동적 변수 도우미에서 **서명자 전자 메일**&#x200B;을(를) 선택합니다.
+**참가자 순서**&#x200B;에 &quot;1&quot;을 입력하십시오.
 **참가자 역할**&#x200B;의 드롭다운에서 **서명자**&#x200B;를 선택합니다.
 
    ![필요한 정보의 스크린샷](assets/documentautomation/automation_20.png)
@@ -261,7 +261,7 @@ SharePoint 사이트의 문서 리포지토리로 이동하여 테스트합니�
 1. **새로 추가된 파일을 SharePoint에서 검색 가능한 텍스트 PDF으로 변환**&#x200B;을 선택합니다.
 1. Adobe PDF Tools 옆의 **+** 기호를 클릭합니다.
 
-   + 기호를 선택하는 ![스크린샷](assets/documentautomation/automation_27.png)
+   &#x200B;+ 기호를 선택하는 ![스크린샷](assets/documentautomation/automation_27.png)
 
 1. 새 탭에서 https://www.adobe.com/go/powerautomate_getstarted 로 이동합니다.
 1. **시작하기**&#x200B;를 클릭합니다.
@@ -300,7 +300,7 @@ SharePoint 사이트의 문서 리포지토리로 이동하여 테스트합니�
 
 1. 흐름의 맨 아래에서 **파일 만들기** 작업을 편집합니다.
 
-   **사이트 주소**을(를) 사이트 주소로 변경하십시오.
+   **사이트 주소**&#x200B;을(를) 사이트 주소로 변경하십시오.
 폴더 경로에서 처리된 계약 폴더의 위치를 지정합니다.
 
 1. 오른쪽 상단에서 **저장**&#x200B;을 클릭합니다.
@@ -406,7 +406,7 @@ Templates 폴더에는 다양한 도시에 대한 표지 디자인이 포함된 
 
 1. **선택한 파일** 범위 작업을 확장합니다.
 
-   **파일 속성 가져오기**에서 사이트 주소와 라이브러리 이름을 각각 SharePoint 사이트 및 라이브러리로 변경하십시오.
+   **파일 속성 가져오기**&#x200B;에서 사이트 주소와 라이브러리 이름을 각각 SharePoint 사이트 및 라이브러리로 변경하십시오.
 **파일 내용 가져오기**&#x200B;에서 사이트 주소를 SharePoint 사이트로 변경합니다.
 
    ![확장된 선택한 파일 작업의 스크린샷](assets/documentautomation/automation_47.png)
@@ -418,7 +418,7 @@ Templates 폴더에는 다양한 도시에 대한 표지 디자인이 포함된 
 
    ![확장된 백서 추가 조건의 스크린샷](assets/documentautomation/automation_48.png)
 
-1. **백서 1 확장: 경로**을(를) 사용하여 파일 내용을 가져옵니다.
+1. **백서 1 확장: 경로**&#x200B;을(를) 사용하여 파일 내용을 가져옵니다.
 사이트 주소를 지정한 SharePoint 사이트로 편집합니다.
 
 **조건: 백서 추가**&#x200B;에 대해 동일한 단계를 반복합니다.

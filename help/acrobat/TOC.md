@@ -17,7 +17,7 @@ ht-degree: 3%
 # Acrobat Tutorials {#acrobat-learning}
 
 + [개요](overview.md)
-+ {#getting-started} 시작
++ 시작{#getting-started}
    + [개요](getting-started/getting-started-overview.md)
    + [새 Acrobat 환경](getting-started/new-workspace.md)
    + [작업 공간 기본 사항](getting-started/get-to-know-the-acrobat-dc-interface.md)
@@ -104,7 +104,7 @@ ht-degree: 3%
    + [ [!DNL Microsoft Teams]에서 공동 작업 PDF](integrate/acrobatandteams.md)
    + [내 [!DNL SharePoint] 파일을 사용하여 작업](integrate/acrobatandsp.md)
    + [전자 메일 메시지 및 첨부 파일을  [!DNL Outlook]의 PDF으로 변환](integrate/outlook.md)
-   + [ [!DNL Microsoft Edge](으)로 검색하는 동안 PDF 콘텐츠 만들기](integrate/edge.md)
+   + [[!DNL Microsoft Edge] (으)로 검색하는 동안 PDF 콘텐츠 만들기](integrate/edge.md)
    + [민감도 레이블 [!DNL Microsoft Purview Information] 을 사용하는 Protect PDF](integrate/microsoftsensitivitylabels.md)
    + [ [!DNL Google Drive]용 Adobe Acrobat](integrate/acrobatandgoogle.md)
    + [ [!DNL Dropbox]의 파일을 사용하여 작업](integrate/acrobat-dropbox.md)
@@ -112,8 +112,8 @@ ht-degree: 3%
    + [개요](industry/industry-overview.md)
    + 정부 {#gov}
       + [개요](industry/gov/gov-overview.md)
-      + Acrobat {#tips}을(를) 사용하여 어디에서나 작업할 수 있는 5가지 팁
-         + Acrobat을 사용하여 어디에서나 작업할 수 있는 [5가지 팁](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+      + Acrobat을(를) 사용하여 어디에서나 작업할 수 있는 5가지 팁 {#tips}
+         + [Acrobat을 사용하여 어디에서나 작업할 수 있는 5가지 팁](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [팁 #1 - 도구 다운로드](industry/gov/get-your-tools.md)
          + [팁 #2 - 문서에서 공동 작업](industry/gov/collaborate-on-documents.md)
          + [팁 #3 - Protect 디지털 문서](industry/gov/protect-digital-documents.md)
@@ -125,9 +125,9 @@ ht-degree: 3%
          + [#2 - Word에서 작성](industry/gov/authoring-in-word.md)
          + [#3 - Acrobat에서 마무리](industry/gov/finishing-in-acrobat.md)
          + [보다 접근성 높은 PDF 투표 만들기](industry/gov/making-pdf-ballots-accessible.md)
-+ {#develop} 현상
++ 현상{#develop}
    + [개요](develop/develop-overview.md)
-+ {#deploy} 배포
++ 배포{#deploy}
    + [개요](deploy/deploy-overview.md)
    + [ETLA 고객을 위한 중요한 Acrobat DC 제품 업데이트](deploy/signentitlementchanges.md)
 + 모바일 {#mobile}

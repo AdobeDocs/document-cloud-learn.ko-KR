@@ -67,7 +67,7 @@ Marketo Microsoft Dynamics Sync 및 Dynamics용 Acrobat Sign 구성이 완료되
 
 1. 사용자 정의 개체에서 동기화를 활성화한 후 동기화를 다시 활성화합니다.
 
-   [!UICONTROL 관리자 터미널](으)로 돌아가서 **[!UICONTROL Microsoft Dynamics]**&#x200B;을 클릭한 다음 **[!UICONTROL 동기화 사용]**&#x200B;을 클릭하십시오.
+   [!UICONTROL 관리자 터미널] (으)로 돌아가서 **[!UICONTROL Microsoft Dynamics]**&#x200B;을 클릭한 다음 **[!UICONTROL 동기화 사용]**&#x200B;을 클릭하십시오.
 
    ![Microsoft Dynamics](assets/microsoftDynamics.png)
 

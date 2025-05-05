@@ -27,10 +27,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-그룹 관리자는 자신이 관리하는 모든 그룹(기본 그룹뿐만 아니라)에 워크플로우를 할당할 수 있습니다. 그룹 관리자는 자신이 관리하는 모든 그룹에 할당된 워크플로우를 편집할 수도 있습니다.
+>그룹 관리자는 자신이 관리하는 모든 그룹(기본 그룹뿐만 아니라)에 워크플로우를 할당할 수 있습니다. 그룹 관리자는 자신이 관리하는 모든 그룹에 할당된 워크플로우를 편집할 수도 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
-이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [관리자용 Acrobat Sign 시작하기](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)의 일부입니다.
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [관리자용 Acrobat Sign 시작하기](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)의 일부입니다.

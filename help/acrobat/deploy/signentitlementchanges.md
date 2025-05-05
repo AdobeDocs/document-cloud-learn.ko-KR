@@ -16,7 +16,7 @@ ht-degree: 2%
 
 # ETLA 고객을 위한 중요한 Acrobat DC 제품 업데이트
 
-[!DNL Adobe Sign Individual](Adobe Sign Pro라고도 함)은 2020년 8월부터 ETLA(Enterprise Term License Agreement) 오퍼에 포함된 모든 Acrobat DC 권한에서 프로비저닝이 해제되며 2020년 11월 20일까지 계속됩니다. [!DNL Adobe Sign Individual]은(는) 엔터프라이즈급 기능을 제공하지 않으므로 Adobe Sign Enterprise for enterprise 고객으로 대체해야 합니다. 독립 실행형 앱으로 라이선스가 부여된 Acrobat DC 및 기업용 Creative Cloud - 모든 앱의 일부로 라이선스가 부여된 Acrobat DC이 여기에 포함됩니다.
+[!DNL Adobe Sign Individual] (Adobe Sign Pro라고도 함)은 2020년 8월부터 ETLA(Enterprise Term License Agreement) 오퍼에 포함된 모든 Acrobat DC 권한에서 프로비저닝이 해제되며 2020년 11월 20일까지 계속됩니다. [!DNL Adobe Sign Individual]은(는) 엔터프라이즈급 기능을 제공하지 않으므로 Adobe Sign Enterprise for enterprise 고객으로 대체해야 합니다. 독립 실행형 앱으로 라이선스가 부여된 Acrobat DC 및 기업용 Creative Cloud - 모든 앱의 일부로 라이선스가 부여된 Acrobat DC이 여기에 포함됩니다.
 
 [!DNL Adobe Sign Individual]에 대한 액세스는 **Adobe Sign** 도구 또는 **Fill &amp; Sign** 도구([서명 요청](https://www.adobe.com/kr/acrobat/online/request-signature.html){target="_blank"})를 통해 Acrobat에서 사용할 수 있습니다.
 
@@ -57,7 +57,7 @@ Acrobat DC 및 Adobe Sign Enterprise를 포함하는 광범위한 디지털 문�
 
 ## [!DNL Sign Individual] 권한이 없는 Acrobat DC 환경
 
-Adobe Sign Enterprise 권한을 보유한 사용자는 Adobe Sign 또는 [!UICONTROL Fill &amp; Sign](서명 요청) 도구를 사용하여 Acrobat 내에서 계약을 보낼 수 있습니다.
+Adobe Sign Enterprise 권한을 보유한 사용자는 Adobe Sign 또는 [!UICONTROL Fill &amp; Sign] (서명 요청) 도구를 사용하여 Acrobat 내에서 계약을 보낼 수 있습니다.
 Adobe Sign Enterprise 권한이 없는 사용자는 새 계약을 전송할 수 없으며 오류 메시지가 표시됩니다. 아래 그림은 가능한 결과를 요약한 것입니다.
 
 ![Acrobat DC 경험에 대한 오류 메시지](../assets/Deploy_SignEntitle2.png)
@@ -73,7 +73,7 @@ Adobe Sign Enterprise 권한이 없는 사용자는 새 계약을 전송할 수 
 * [Adobe Document Cloud 로그인](https://helpx.adobe.com/document-cloud/help/sign-in.html)
 * [파일 관리(내 파일은 어디에 있습니까?)](https://helpx.adobe.com/document-cloud/help/manage-files.html)
 * [구성에 [!UICONTROL Acrobat Customization Wizard] 사용](https://www.adobe.com/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
-* [Admin Console]](https://helpx.adobe.com/kr/enterprise/using/admin-console.html)의 개요[!UICONTROL 
+* [Admin Console](https://helpx.adobe.com/kr/enterprise/using/admin-console.html)의 개요
 * [[!UICONTROL Admin Console]](https://helpx.adobe.com/kr/enterprise/using/adobe-sign-for-enterprise.html)에서 Adobe Sign 관리
 
 **개정** 2020년 5월 20일; 원본 게시물 - 2019년 8월

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Intesi Group](한정됨)에서 디지털 ID 가져오기
+# [!DNL Intesi Group] (한정됨)에서 디지털 ID 가져오기
 
 [!DNL Intesi Group]에서 자격을 갖춘 디지털 서명 인증서를 받는 방법에 대해 알아봅니다. 등록이 완료되고 ID가 확인되면 [!DNL Intesi Group]에서 Acrobat Sign 클라우드 서명을 적용하는 데 사용되는 디지털 ID를 발급합니다.
 

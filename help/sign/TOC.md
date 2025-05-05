@@ -23,9 +23,9 @@ ht-degree: 6%
 # Acrobat Sign Tutorials {#sign-learning-hub}
 
 + [개요](overview.md)
-+ {#getting-started} 시작
++ 시작{#getting-started}
    + [개요](sign-beginner-tutorials/beginner-users-overview.md)
-   + {#getting-started-sending} 보내기
+   + 보내기{#getting-started-sending}
       + [작업 공간 기본 사항](sign-beginner-tutorials/quick-tour.md)
       + [Acrobat Sign 시작하기](sign-beginner-tutorials/new-sender.md)
       + [단일 수신자에게 보내기](sign-beginner-tutorials/send-to-single-recipient.md)
@@ -35,19 +35,19 @@ ht-degree: 6%
       + [전송 후 문서 수정](sign-beginner-tutorials/modify-in-flight.md)
       + [서명자 바꾸기](sign-beginner-tutorials/replace-signer.md)
       + [기한 및 미리 알림 설정](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + {#getting-started-signing} 서명
+   + 서명{#getting-started-signing}
       + [문서 전자 서명](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [문서 작성 및 서명](sign-beginner-tutorials/fill-and-sign.md)
       + [직접 서명 받기](sign-beginner-tutorials/sign-in-person.md)
       + [다른 사람에게 서명 위임](sign-beginner-tutorials/delegate-signing.md)
       + [디지털 서명이란 무엇입니까?](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [스탬프로 서명](sign-beginner-tutorials/sign-with-a-stamp.md)
-   + {#getting-started-managing} 관리
+   + 관리{#getting-started-managing}
       + [계약 관리 및 추적](sign-beginner-tutorials/manage-and-track.md)
       + [문서 템플릿 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + 고급 작업 {#advanced-tasks}
    + [개요](sign-advanced-users/advanced-users-overview.md)
-   + {#advanced-tasks-sending} 보내기
+   + 보내기{#advanced-tasks-sending}
       + [서명 순서 설정](sign-advanced-users/setting-up-routing.md)
       + [위임자 역할 사용](sign-advanced-users/delegate-signature.md)
       + [승인자 역할 사용](sign-advanced-users/add-an-approver.md)
@@ -58,14 +58,14 @@ ht-degree: 6%
       + [웹 양식 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Acrobat Sign 텍스트 태그 지정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [ [!DNL Microsoft Word]에서 텍스트 태그 지정 사용](sign-advanced-users/text-tagging-word.md)
-   + {#advanced-tasks-managing} 관리
+   + 관리{#advanced-tasks-managing}
       + [보고 및 트랜잭션 사용](sign-advanced-users/creating-a-report.md)
       + [문서 템플릿 관리](sign-advanced-users/edit-a-template.md)
       + [기존 웹 양식 수정](sign-advanced-users/modify-webform.md)
       + [웹 양식 데이터 관리](sign-advanced-users/manage-webform-data.md)
-+ {#admin-set-up} 관리
++ 관리{#admin-set-up}
    + [개요](admin/intro-admin-overview.md)
-   + {#getting-started-admin} 시작
+   + 시작{#getting-started-admin}
       + [새 관리자를 위해 시작하기](admin/get-started-admin.md)
       + [관리자용 설치 및 실행](admin/up-and-running-admin.md)
       + [이벤트 및 경고에 대한 알림 구성](admin/set-up-shared-events-and-alert.md)
@@ -113,14 +113,14 @@ ht-degree: 6%
       + [ [!DNL SharePoint] 포함 [!DNL Power Automate]에서 파일 자동 보관](integrations/auto-archive-sharepoint-power-automate.md)
       + [ [!DNL Microsoft Power Platform]용 Acrobat Sign을 사용한 문서 자동화](integrations/documentautomation.md)
       + [ [!DNL Microsoft Teams]에서 서명을 위해 보내기](integrations/adobe-sign-teams-mortgage.md)
-      +  [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)에 대한 [Adobe Acrobat Sign의 라이브 서명
+      + [[!DNL Microsoft Teams]에 대한 Adobe Acrobat Sign의 라이브 서명](integrations/live-sign-microsoft-teams.md)
       + [ [!DNL Microsoft Teams]에 대한 문서 탭 통합](integrations/acrobat-sign-teams-documents-tab.md)
       + [ [!DNL Power Automate]에서 간단한 워크플로 만들기](integrations/simple-workflow-power-automate.md)
       + [ [!DNL Power Automate]에서 고급 워크플로 만들기](integrations/advanced-workflow-power-automate.md)
       + [고객 서비스용 [!DNL Microsoft Dynamics 365]](integrations/dynamics-customer-service.md)
       + [Field Service의 [!DNL Microsoft Dynamics 365]](integrations/dynamics-field-service.md)
       + [판매용 [!DNL Microsoft Dynamics 365]](integrations/dynamics-sales.md)
-   + {#notarize} 공증
+   + 공증{#notarize}
       + [공증을 위해 문서 전송](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
       + [ [!DNL Salesforce]용 Document Builder](integrations/create-an-agreement-template.md)
@@ -130,7 +130,7 @@ ht-degree: 6%
       + [자동 업데이트 설정](integrations/salesforce-automatic-updates.md)
       + [대용량 파일 및 푸시 매핑 설정](integrations/salesforce-large-files.md)
    + Workday {#workday}
-      + [ [!DNL Workday](으)로 Acrobat Sign 구성](integrations/workday.md)
+      + [[!DNL Workday] (으)로 Acrobat Sign 구성](integrations/workday.md)
       + [Acrobat Sign + Workday 신규 채용 온보딩](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
       + [ [!DNL Salesforce] 및 Marketo용 Acrobat Sign을 사용하여 알림 보내기](integrations/marketo-salesforce-sms.md)
@@ -160,15 +160,15 @@ ht-degree: 6%
          + [교육 웹 양식 인턴십 응용 프로그램](sign-usecase/usecase-edu-intern.md)
          + [교육 웹 양식 인턴십 응용 프로그램 만들기](sign-usecase/usecase-edu-intern-create.md)
          + [교육기관 IEP 프로세스를 위한 사용자 정의 워크플로우](sign-usecase/usecase-edu-iep.md)
-   + 사례 쇼케이스 {#use-case} 사용
+   + 사례 쇼케이스 사용 {#use-case}
       + [쇼케이스](sign-usecase/use-case-showcase.md)
-+ {#develop} 현상
++ 현상{#develop}
    + [개요](develop/develop-overview.md)
    + API 및 Webhook {#custom}
       + [GigaSign을 사용하여 대용량 문서 수집](develop/gigasign.md)
       + [포함된 전자 서명 및 문서 환경 만들기](develop/embeddedesignature.md)
       + [Webhook 설정 방법](develop/webhooks.md)
-+ {#deploy} 배포
++ 배포{#deploy}
    + [개요](deploy-overview.md)
 + 모바일 {#mobile}
    + [개요](mobile/mobile-overview.md)

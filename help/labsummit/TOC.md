@@ -20,7 +20,7 @@ ht-degree: 0%
 # Adobe Document Cloud으로 디지털 경험 활용하기 {#lab719}
 
 + [실습실 개요 및 소개](overview.md)
-+ Adobe Document Cloud {#gsd}을(를) 사용하여 Digital Experiences 실행
++ Adobe Document Cloud을(를) 사용하여 Digital Experiences 실행 {#gsd}
    + [Adobe Document Cloud으로 디지털 경험 활용하기](gsd.md)
    + [Ex.1: 모든 양식 스캔](scan.md)
    + [Ex.2: 모든 양식 작성 및 서명](fillsign.md)

@@ -29,4 +29,4 @@ ht-degree: 3%
 
 >[!TIP]
 >
-이 비디오는 Experience League에서 무료로 사용할 수 있는 [사용자를 위한 고급 작업](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) 및 [관리자용 Acrobat Sign 시작하기](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) 재생 목록의 일부입니다.
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 [사용자를 위한 고급 작업](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) 및 [관리자용 Acrobat Sign 시작하기](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) 재생 목록의 일부입니다.

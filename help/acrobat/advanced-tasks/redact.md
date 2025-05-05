@@ -67,8 +67,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
-교정 프로세스 속도를 높이려면 [Action Wizard](../advanced-tasks/action.md)를 확인하세요.
+>교정 프로세스 속도를 높이려면 [Action Wizard](../advanced-tasks/action.md)를 확인하세요.
 
 >[!TIP]
 >
-이 비디오는 Experience League 시 무료로 사용할 수 있는 재생 목록 [Adobe Acrobat에서 고급 작업 수행](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks)의 일부입니다.
+>이 비디오는 Experience League 시 무료로 사용할 수 있는 재생 목록 [Adobe Acrobat에서 고급 작업 수행](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks)의 일부입니다.
