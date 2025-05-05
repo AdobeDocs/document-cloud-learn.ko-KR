@@ -26,4 +26,4 @@ Acrobat Sign에서 빠르게 시작하고 실행하기 위해 관리자가 중�
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [관리자용 Acrobat Sign 시작하기](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)의 일부입니다.
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [관리자용 Acrobat Sign 시작하기](https://experienceleague.adobe.com/ko/playlists/acrobat-sign-get-started-administrators)의 일부입니다.

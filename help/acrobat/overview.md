@@ -33,8 +33,8 @@ Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF을 변환, 편집, 공유
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/getting-started-overview" title="시작하기" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/media_19b331849a47f54403361e7661d1882d95fe97fcf.png?width=400&format=webply&optimize=medium" alt="시작하기"
+                    <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/getting-started/getting-started-overview" title="시작하기" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/media_19b331849a47f54403361e7661d1882d95fe97fcf.png?width=400&format=webply&optimize=medium" alt="시작하기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -42,11 +42,11 @@ Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF을 변환, 편집, 공유
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/getting-started-overview" target="_self" rel="referrer" title="시작하기">시작하기</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/getting-started/getting-started-overview" target="_self" rel="referrer" title="시작하기">시작하기</a>
                     </p>
                     <p class="is-size-6">PDF 파일을 사용하여 생성, 편집, 변환, 보호 등을 수행하는 방법에 대해 최신 정보를 얻으십시오.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/getting-started-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/getting-started/getting-started-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">살펴보기</span>
                 </a>
             </div>
@@ -56,8 +56,8 @@ Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF을 변환, 편집, 공유
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" title="고급 작업" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/media_17d55969ad72e5933df620c2d5c84ba8e273ab39c.png?width=400&format=webply&optimize=medium" alt="고급 작업"
+                    <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" title="고급 작업" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/media_17d55969ad72e5933df620c2d5c84ba8e273ab39c.png?width=400&format=webply&optimize=medium" alt="고급 작업"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -65,11 +65,11 @@ Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF을 변환, 편집, 공유
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" target="_self" rel="referrer" title="고급 작업">고급 작업</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" target="_self" rel="referrer" title="고급 작업">고급 작업</a>
                     </p>
                     <p class="is-size-6">특정 작업 및 자동화를 통해 기본 사항 극대화</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">살펴보기</span>
                 </a>
             </div>
@@ -79,8 +79,8 @@ Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF을 변환, 편집, 공유
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" title="초 Acrobat" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/media_1e95e07bbceaf7e8f9bfccff9dccc7827fe813d96.png?width=400&format=webply&optimize=medium" alt="초 Acrobat"
+                    <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" title="초 Acrobat" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/media_1e95e07bbceaf7e8f9bfccff9dccc7827fe813d96.png?width=400&format=webply&optimize=medium" alt="초 Acrobat"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -88,11 +88,11 @@ Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF을 변환, 편집, 공유
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" target="_self" rel="referrer" title="초 Acrobat">60초 Acrobat</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" target="_self" rel="referrer" title="초 Acrobat">60초 Acrobat</a>
                     </p>
                     <p class="is-size-6">1분 이내에 Acrobat의 새로운 기법을 학습할 수 있는 바이트 크기의 튜토리얼</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">살펴보기</span>
                 </a>
             </div>
@@ -102,8 +102,8 @@ Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF을 변환, 편집, 공유
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" title="통합" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/media_171337d52d3205c2011e230e71736cc71f74ba0ee.png?width=400&format=webply&optimize=medium" alt="통합"
+                    <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" title="통합" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/media_171337d52d3205c2011e230e71736cc71f74ba0ee.png?width=400&format=webply&optimize=medium" alt="통합"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -111,11 +111,11 @@ Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF을 변환, 편집, 공유
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" target="_self" rel="referrer" title="통합">통합</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" target="_self" rel="referrer" title="통합">통합</a>
                     </p>
                     <p class="is-size-6">Microsoft, Google Drive, Dropbox, Box와 같은 기존 애플리케이션에 Acrobat 추가</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">살펴보기</span>
                 </a>
             </div>

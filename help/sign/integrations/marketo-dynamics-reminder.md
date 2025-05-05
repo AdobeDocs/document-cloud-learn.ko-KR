@@ -25,7 +25,7 @@ ht-degree: 0%
 
 1. Marketo Microsoft Dynamics Sync를 설치합니다.
 
-   Microsoft Dynamics Sync에 대한 정보 및 최신 플러그인은 [여기서 사용할 수 있습니다.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
+   Microsoft Dynamics Sync에 대한 정보 및 최신 플러그인은 [여기서 사용할 수 있습니다.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=ko)
 
 1. [Microsoft Dynamics용 Acrobat Sign](https://appsource.microsoft.com/ko-KR/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86)을(를) 설치합니다.
 

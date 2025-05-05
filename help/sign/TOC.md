@@ -2,11 +2,11 @@
 user-guide-title: Acrobat Sign Tutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
-solution-hub-url: https://helpx.adobe.com/support/sign.html
+solution-hub-url: https://helpx.adobe.com/kr/support/sign.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
+getting-started-url: https://helpx.adobe.com/kr/sign/using/get-started-guide.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/sign/tutorials.html
+tutorials-url: https://helpx.adobe.com/kr/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
@@ -44,7 +44,7 @@ ht-degree: 6%
       + [스탬프로 서명](sign-beginner-tutorials/sign-with-a-stamp.md)
    + 관리{#getting-started-managing}
       + [계약 관리 및 추적](sign-beginner-tutorials/manage-and-track.md)
-      + [문서 템플릿 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
+      + [문서 템플릿 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=ko)
 + 고급 작업 {#advanced-tasks}
    + [개요](sign-advanced-users/advanced-users-overview.md)
    + 보내기{#advanced-tasks-sending}
@@ -54,9 +54,9 @@ ht-degree: 6%
       + [Acrobat Sign의 인증 방법](sign-advanced-users/authentication-methods.md)
       + [양식 데이터 관리](sign-advanced-users/manage-form-data.md)
       + [온라인 결제 설정](sign-advanced-users/set-up-online-payments.md)
-      + [대량 전송](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
-      + [웹 양식 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Acrobat Sign 텍스트 태그 지정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [대량 전송](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=ko)
+      + [웹 양식 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=ko)
+      + [Acrobat Sign 텍스트 태그 지정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=ko)
       + [ [!DNL Microsoft Word]에서 텍스트 태그 지정 사용](sign-advanced-users/text-tagging-word.md)
    + 관리{#advanced-tasks-managing}
       + [보고 및 트랜잭션 사용](sign-advanced-users/creating-a-report.md)
@@ -74,10 +74,10 @@ ht-degree: 6%
       + [그룹 생성 및 관리](admin/create-and-manage-groups.md)
       + [외부 보관 설정](admin/set-up-your-external-archive.md)
       + [템플릿 만들기](sign-advanced-users/create-a-template.md)
-      + [보고 및 트랜잭션 사용](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [보고 및 트랜잭션 사용](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [사용자를 위한 보고서 옵션](admin/report-options.md)
       + [웹 양식 만들기](sign-advanced-users/webform.md)
-      + [기존 웹 양식 수정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
+      + [기존 웹 양식 수정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=ko)
       + [대량 전송](sign-advanced-users/megasign.md)
       + [사용자 정의 작업 과정 빌드](admin/building-a-custom-workflow.md)
       + [감사 보고서](admin/audit-reports.md)

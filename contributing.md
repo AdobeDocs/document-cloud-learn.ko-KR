@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 참가자 가이드 문서
 
-[참가자 가이드](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)를 참조하십시오.
+[참가자 가이드](https://docs.adobe.com/content/help/ko-KR/contributor/contributor-guide/introduction.html)를 참조하십시오.
 
 ## 질문 있으세요?
 
@@ -57,4 +57,4 @@ submitting a pull request!
 
 ## 보안 문제
 
-보안 문제는 이 문제 추적기에 보고되어서는 안 됩니다. 대신 [이(가) 보안 전문가에게 문제를 제기합니다.](https://helpx.adobe.com/security/alertus.html)
+보안 문제는 이 문제 추적기에 보고되어서는 안 됩니다. 대신 [이(가) 보안 전문가에게 문제를 제기합니다.](https://helpx.adobe.com/kr/security/alertus.html)

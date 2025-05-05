@@ -71,4 +71,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->이 비디오는 Experience League 시 무료로 사용할 수 있는 재생 목록 [Adobe Acrobat에서 고급 작업 수행](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks)의 일부입니다.
+>이 비디오는 Experience League 시 무료로 사용할 수 있는 재생 목록 [Adobe Acrobat에서 고급 작업 수행](https://experienceleague.adobe.com/ko/playlists/acrobat-peform-advanced-tasks)의 일부입니다.

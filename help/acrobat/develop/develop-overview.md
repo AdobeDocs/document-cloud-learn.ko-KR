@@ -28,4 +28,4 @@ JavaScript, 플러그인 또는 IAC를 사용하여 Acrobat 및 Adobe Reader과 
 [Adobe PDF 추출 API](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
 [Adobe 문서 생성 API](https://developer.adobe.com/document-services/apis/doc-generation/){target="_blank"}
 [Adobe PDF Embed API](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
-[Adobe Acrobat 서비스 튜토리얼](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html){target="_blank"}
+[Adobe Acrobat 서비스 튜토리얼](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html?lang=ko){target="_blank"}

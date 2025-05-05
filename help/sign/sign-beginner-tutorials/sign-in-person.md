@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # 직접 서명 받기
 
-[Acrobat Sign 모바일 앱](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html)을 사용하여 다른 사람의 서명을 직접 받는 방법을 알아보세요.
+[Acrobat Sign 모바일 앱](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=ko)을 사용하여 다른 사람의 서명을 직접 받는 방법을 알아보세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345169?quality=12&learn=on&hidetitle=true)

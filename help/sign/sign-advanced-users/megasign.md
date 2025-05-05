@@ -20,13 +20,13 @@ ht-degree: 3%
 
 [!BADGE 사용 사례]
 
-* [텔레워크 계약](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en)
-* [정책 계약](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=en)
+* [텔레워크 계약](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=ko)
+* [정책 계약](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=ko)
 
 >[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
 
-[ZIP 형식의 샘플 CSV 파일을 다운로드합니다](../assets/sendInBulkSample.zip). CSV 파일에서 설정할 수 있는 모든 값에 대해 알아보세요. [여기](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html).
+[ZIP 형식의 샘플 CSV 파일을 다운로드합니다](../assets/sendInBulkSample.zip). CSV 파일에서 설정할 수 있는 모든 값에 대해 알아보세요. [여기](https://helpx.adobe.com/kr/sign/adv-user/send-in-bulk/send-with-csv.html).
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 사용할 수 있는 [사용자를 위한 고급 작업](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) 및 [관리자용 Acrobat Sign 시작하기](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) 재생 목록의 일부입니다.
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 [사용자를 위한 고급 작업](https://experienceleague.adobe.com/ko/playlists/acrobat-sign-perform-advanced-tasks-business-users) 및 [관리자용 Acrobat Sign 시작하기](https://experienceleague.adobe.com/ko/playlists/acrobat-sign-get-started-administrators) 재생 목록의 일부입니다.

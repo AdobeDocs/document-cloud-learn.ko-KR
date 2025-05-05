@@ -19,11 +19,11 @@ ht-degree: 0%
 
 [!BADGE 사용 사례]
 
-* [교육 웹 양식 인턴십 응용 프로그램](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
+* [교육 웹 양식 인턴십 응용 프로그램](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=ko)
 웹 양식을 사용하여 필요한 양식에 대한 학생들의 액세스 권한을 향상시키는 방법에 대해 알아봅니다.
-* [교육 웹 양식 인턴십 응용 프로그램 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
+* [교육 웹 양식 인턴십 응용 프로그램 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=ko)
 인턴십 웹 양식을 만드는 방법 알아보기
-* [사업 보조금 및 대출](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
-* [재취업 지원](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
+* [사업 보조금 및 대출](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=ko)
+* [재취업 지원](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=ko)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421619?quality=12&learn=on&hidetitle=true)

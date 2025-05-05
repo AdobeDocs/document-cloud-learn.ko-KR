@@ -21,7 +21,7 @@ Gigasign을 사용하면 동시에 수천 명의 사람들에게 서명을 받�
 
 >[!IMPORTANT]
 >
->GigaSign은 더 이상 최신 버전의 Java 또는 Acrobat Sign으로 업데이트되지 않으며 제한된 지원만 제공합니다. GigaSign의 기능은 [대량 전송](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?) 기능 아래에 제품에 추가됩니다. GigaSign의 사용이 명시적으로 필요하지 않은 모든 사용 사례에 대해 대량 전송 을 사용하십시오.
+>GigaSign은 더 이상 최신 버전의 Java 또는 Acrobat Sign으로 업데이트되지 않으며 제한된 지원만 제공합니다. GigaSign의 기능은 [대량 전송](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=ko&) 기능 아래에 제품에 추가됩니다. GigaSign의 사용이 명시적으로 필요하지 않은 모든 사용 사례에 대해 대량 전송 을 사용하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 

@@ -22,5 +22,5 @@ Acrobat Sign 작업 영역을 간단히 비디오로 둘러보고 작업을 시�
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [Acrobat Sign 시작하기](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users)의 일부입니다.
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [Acrobat Sign 시작하기](https://experienceleague.adobe.com/ko/playlists/acrobat-sign-get-started-business-users)의 일부입니다.
 

@@ -22,4 +22,4 @@ ht-degree: 1%
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [Acrobat과 Microsoft 365 통합](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365)의 일부입니다.
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [Acrobat과 Microsoft 365 통합](https://experienceleague.adobe.com/?lang=ko&recommended=Acrobat-U-1-2021.microsoft365)의 일부입니다.

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Acrobat Sign Skill Builder는 30분 분량의 세션으로 전자 서명을 일상적인 업무에 사용할 수 있습니다. 매달 새로운 주제가 강조 표시됩니다.
 
-모든 온디맨드 웨비나 [여기](https://experienceleague.adobe.com/en/docs/events/acrobat-sign-webinars/overview)를 확인하세요.
+모든 온디맨드 웨비나 [여기](https://experienceleague.adobe.com/ko/docs/events/acrobat-sign-webinars/overview)를 확인하세요.

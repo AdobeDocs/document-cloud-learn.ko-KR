@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->이 비디오는 재생 목록 [Microsoft 앱에서 Acrobat Sign 사용](https://experienceleague.adobe.com/en/playlists/acrobat-sign-integrate-microsoft-apps)의 일부이며 Experience League에서 무료로 사용할 수 있습니다.
+>이 비디오는 재생 목록 [Microsoft 앱에서 Acrobat Sign 사용](https://experienceleague.adobe.com/ko/playlists/acrobat-sign-integrate-microsoft-apps)의 일부이며 Experience League에서 무료로 사용할 수 있습니다.

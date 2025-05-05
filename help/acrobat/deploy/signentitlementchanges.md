@@ -70,8 +70,8 @@ Adobe Sign Enterprise 권한이 없는 사용자는 새 계약을 전송할 수 
 
 ## 자세한 내용은 아래 페이지를 참조하십시오.
 
-* [Adobe Document Cloud 로그인](https://helpx.adobe.com/document-cloud/help/sign-in.html)
-* [파일 관리(내 파일은 어디에 있습니까?)](https://helpx.adobe.com/document-cloud/help/manage-files.html)
+* [Adobe Document Cloud 로그인](https://helpx.adobe.com/kr/document-cloud/help/sign-in.html)
+* [파일 관리(내 파일은 어디에 있습니까?)](https://helpx.adobe.com/kr/document-cloud/help/manage-files.html)
 * [구성에 [!UICONTROL Acrobat Customization Wizard] 사용](https://www.adobe.com/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
 * [Admin Console](https://helpx.adobe.com/kr/enterprise/using/admin-console.html)의 개요
 * [[!UICONTROL Admin Console]](https://helpx.adobe.com/kr/enterprise/using/adobe-sign-for-enterprise.html)에서 Adobe Sign 관리

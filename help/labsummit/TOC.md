@@ -2,11 +2,11 @@
 user-guide-title: Adobe Document Cloud으로 디지털 경험 활용하기
 solution: Acrobat
 solution-title: Adobe Document Cloud Learn & Support
-solution-hub-url: https://helpx.adobe.com/support/acrobat.html
+solution-hub-url: https://helpx.adobe.com/kr/support/acrobat.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
+getting-started-url: https://helpx.adobe.com/kr/acrobat/get-started.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
+tutorials-url: https://helpx.adobe.com/kr/acrobat/tutorials.html
 feature-set: Document Cloud
 role: User
 source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669

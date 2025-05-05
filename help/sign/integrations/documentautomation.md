@@ -263,7 +263,7 @@ SharePoint 사이트의 문서 리포지토리로 이동하여 테스트합니�
 
    &#x200B;+ 기호를 선택하는 ![스크린샷](assets/documentautomation/automation_27.png)
 
-1. 새 탭에서 https://www.adobe.com/go/powerautomate_getstarted 로 이동합니다.
+1. 새 탭에서 https://www.adobe.com/go/powerautomate_getstarted_kr 로 이동합니다.
 1. **시작하기**&#x200B;를 클릭합니다.
 
    ![시작하기 단추의 스크린샷](assets/documentautomation/automation_28.png)

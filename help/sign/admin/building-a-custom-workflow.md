@@ -20,10 +20,10 @@ ht-degree: 0%
 
 [!BADGE 사용 사례]
 
-* [교육기관 IEP 프로세스에 대한 사용자 지정 워크플로](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
+* [교육기관 IEP 프로세스에 대한 사용자 지정 워크플로](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=ko)
 사용자 정의 작업 과정 Designer을 사용하여 IEP(Individualized Education Program) 프로세스를 디지털화하는 방법을 알아보십시오
-* [정부 계약 및 요청서 Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
-* [상업 계약 및 구매요청 Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
+* [정부 계약 및 요청서 Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=ko)
+* [상업 계약 및 구매요청 Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=ko)
 
 >[!NOTE]
 >
@@ -33,4 +33,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [관리자용 Acrobat Sign 시작하기](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)의 일부입니다.
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [관리자용 Acrobat Sign 시작하기](https://experienceleague.adobe.com/ko/playlists/acrobat-sign-get-started-administrators)의 일부입니다.

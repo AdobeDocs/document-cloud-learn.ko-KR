@@ -15,13 +15,13 @@ Dell은 문서 팀 외부의 Adobe 직원들뿐만 아니라 우리 커뮤니티
 
 ## Adobe 콘텐츠에 대한 기여도 정보
 
-[Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)를 참조하십시오.
+[Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/ko-KR/contributor/contributor-guide/introduction.html)를 참조하십시오.
 
 기여하는 방법은 현재 사용자와 기여하려는 변경 유형에 따라 다릅니다.
 
 ### 사소한 변경
 
-사소한 업데이트를 제공하는 경우 기사를 방문하여 기사의 GitHub 소스로 연결되는 기사에서 **편집** 링크를 클릭하십시오. 그런 다음 GitHub UI를 사용하여 업데이트하세요. 자세한 내용은 [Adobe Docs 참가자 안내서](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) 를 참조하십시오.
+사소한 업데이트를 제공하는 경우 기사를 방문하여 기사의 GitHub 소스로 연결되는 기사에서 **편집** 링크를 클릭하십시오. 그런 다음 GitHub UI를 사용하여 업데이트하세요. 자세한 내용은 [Adobe Docs 참가자 안내서](https://docs.adobe.com/content/help/ko-KR/contributor/contributor-guide/introduction.html) 를 참조하십시오.
 
 이 리포에서 설명서와 코드 예제를 위해 제출하는 경미한 수정 또는 설명은 Adobe 사용 약관에 적용됩니다.
 
@@ -43,7 +43,7 @@ Adobe Experience Cloud 솔루션의 제품 팀에서 기술 작성자, 프로그
 
 커뮤니티 참가자는 기본 편집에 GitHub UI를 사용하거나 repo를 포크하여 주요 기여를 할 수 있습니다.
 
-자세한 내용은 [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)를 참조하십시오.
+자세한 내용은 [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/ko-KR/contributor/contributor-guide/introduction.html)를 참조하십시오.
 
 ## 마크다운을 사용하여 주제 서식을 지정하는 방법
 
