@@ -39,4 +39,4 @@ AI Assistant를 사용하여 PDF 파일에서 인사이트를 얻는 방법에 �
 
 >[!ENDTABS]
 
->[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445829?enablevpops&quality=12&learn=on&hidetitle=true&captions=kor)
