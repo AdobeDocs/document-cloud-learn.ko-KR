@@ -3,14 +3,14 @@ title: Microsoft Dynamics 365용 Acrobat Sign 및 Marketo을 사용하여 알림
 description: 서명자에게 계약이 진행 중임을 알리기 위해 문자 메시지, 이메일 또는 푸시 알림을 보내는 방법에 대해 알아봅니다.
 feature: Integrations
 role: Admin
-solution: Acrobat Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo Engage, Document Cloud
 level: Intermediate
 topic: Integrations
 topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
 workflow-type: tm+mt
 source-wordcount: '652'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Acrobat Sign 서명자에게 계약이 진행 중임을 알리기 위해 문자 
 
 1. Marketo Microsoft Dynamics Sync를 설치합니다.
 
-   Microsoft Dynamics Sync에 대한 정보 및 최신 플러그인은 [여기서 사용할 수 있습니다.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=ko)
+   Microsoft Dynamics Sync에 대한 정보 및 최신 플러그인은 [여기서 사용할 수 있습니다.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
 1. Microsoft Dynamics용 Acrobat Sign을 설치합니다.
 
@@ -67,7 +67,7 @@ Marketo Microsoft Dynamics Sync 및 Dynamics용 Acrobat Sign 구성이 완료되
 
 1. 사용자 정의 개체에서 동기화를 활성화한 후 동기화를 다시 활성화합니다.
 
-   [!UICONTROL 관리자 터미널] (으)로 돌아가서 **[!UICONTROL Microsoft Dynamics]**&#x200B;을 클릭한 다음 **[!UICONTROL 동기화 사용]**&#x200B;을 클릭하십시오.
+   [!UICONTROL 관리자 터미널]&#x200B;(으)로 돌아가서 **[!UICONTROL Microsoft Dynamics]**&#x200B;을 클릭한 다음 **[!UICONTROL 동기화 사용]**&#x200B;을 클릭하십시오.
 
    ![Microsoft Dynamics](assets/microsoftDynamics.png)
 

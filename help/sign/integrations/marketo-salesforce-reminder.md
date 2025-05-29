@@ -3,14 +3,14 @@ title: Salesforce용 Acrobat Sign 및 Marketo 구성 안내서를 사용하여 �
 description: 일정 기간 후 계약이 서명되지 않은 상태로 유지되는 경우 Marketo에서 이메일 알림 메시지를 보내는 방법을 알아봅니다.
 feature: Integrations
 role: Admin
-solution: Acrobat Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo Engage, Document Cloud
 level: Intermediate
 topic: Integrations
 jira: KT-7248
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
 workflow-type: tm+mt
 source-wordcount: '921'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 1. Marketo Salesforce Sync를 설치합니다.
 
-   Salesforce Sync에 대한 정보 및 최신 플러그인은 [여기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=ko)에서 사용할 수 있습니다.
+   Salesforce Sync에 대한 정보 및 최신 플러그인은 [여기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)에서 사용할 수 있습니다.
 
 1. Salesforce용 Acrobat Sign을 설치합니다.
 
