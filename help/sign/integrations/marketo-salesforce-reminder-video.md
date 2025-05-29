@@ -32,5 +32,5 @@ ht-degree: 1%
 
    이 플러그인에 대한 정보는 [여기](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)에서 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/332506?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410393?quality=12&learn=on&hidetitle=true&captions=kor)
 
