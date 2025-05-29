@@ -25,7 +25,7 @@ ht-degree: 0%
 
 1. Marketo Salesforce Sync를 설치합니다.
 
-   Salesforce Sync에 대한 정보 및 최신 플러그인은 [여기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)에서 사용할 수 있습니다.
+   Salesforce Sync에 대한 정보 및 최신 플러그인은 [여기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=ko)에서 사용할 수 있습니다.
 
 1. Salesforce용 Acrobat Sign을 설치합니다.
 

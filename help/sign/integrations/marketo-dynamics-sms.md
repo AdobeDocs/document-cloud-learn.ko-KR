@@ -25,7 +25,7 @@ Acrobat Sign 서명자에게 계약이 진행 중임을 알리기 위해 문자 
 
 1. Marketo Microsoft Dynamics Sync를 설치합니다.
 
-   Microsoft Dynamics Sync에 대한 정보 및 최신 플러그인은 [여기서 사용할 수 있습니다.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
+   Microsoft Dynamics Sync에 대한 정보 및 최신 플러그인은 [여기서 사용할 수 있습니다.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=ko)
 
 1. Microsoft Dynamics용 Acrobat Sign을 설치합니다.
 
