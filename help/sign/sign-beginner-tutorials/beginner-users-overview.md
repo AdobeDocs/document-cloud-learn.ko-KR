@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 06d3049acc900a52e1eab23a8aac9906ad40d3ea
+source-git-commit: 46a89000c2fe67e870655459da1917289483b8b4
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -58,7 +58,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="단일 수신자에게 보내기" src="../assets/Send-to-single-recipient.png" />
+      <img alt="단일 수신자에게 보내기" src="../assets/send-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong>단일 수신자에게 보내는 중</strong></a>
@@ -68,7 +68,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="여러 수신자에게 보내기" src="../assets/Sending-to-multiple-recipients.png" />
+      <img alt="여러 수신자에게 보내기" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
     <a href="send-to-multiple-recipients.md"><strong>여러 수신자에게 보내기</strong></a>
@@ -80,7 +80,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
 <tr>
   <td>
     <a href="sending-options.md">
-      <img alt="보내기 옵션 구성" src="../assets/Sendingoptions.png" />
+      <img alt="보내기 옵션 구성" src="../assets/configure.png" />
     </a>
     <div>
     <a href="sending-options.md"><strong>전송 옵션 구성</strong></a>
@@ -90,7 +90,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
   </td>
   <td>
     <a href="adding-fields.md">
-      <img alt="문서에 필드 추가" src="../assets/AddingFields.png" />
+      <img alt="문서에 필드 추가" src="../assets/adding-fields.png" />
     </a>
     <div>
     <a href="adding-fields.md"><strong>문서에 필드 추가</strong></a>
@@ -100,7 +100,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="전송 후 문서 수정" src="../assets/Modifying-sending.png" />
+      <img alt="전송 후 문서 수정" src="../assets/modify.png" />
     </a>
     <div>
     <a href="modify-in-flight.md"><strong>전송 후 문서 수정</strong></a>
@@ -110,7 +110,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
   </td>
   <td>
     <a href="replace-signer.md">
-      <img alt="서명자 바꾸기" src="../assets/replace-signer.png" />
+      <img alt="서명자 바꾸기" src="../assets/replace.png" />
     </a>
     <div>
     <a href="replace-signer.md"><strong>서명자 바꾸기</strong></a>
@@ -122,7 +122,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
 <tr>
   <td>
       <a href="set-deadlines-reminders.md">
-        <img alt="기한 및 미리 알림 설정" src="../assets/Reminders.png" />
+        <img alt="기한 및 미리 알림 설정" src="../assets/deadlines-reminders.png" />
       </a>
       <div>
       <a href="set-deadlines-reminders.md"><strong>기한 및 미리 알림 설정</strong></a>
@@ -154,7 +154,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="문서 전자 서명" src="../assets/Electronically-sign.png" />
+      <img alt="문서 전자 서명" src="../assets/sign-electronically.png" />
     </a>
     <div>
     <a href="electronically-sign-a-document.md"><strong>문서에 전자 서명</strong></a>
@@ -164,7 +164,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="문서 작성 및 서명" src="../assets/FillandSign.png" />
+      <img alt="문서 작성 및 서명" src="../assets/fill-and-sign.png" />
     </a>
     <div>
     <a href="fill-and-sign.md"><strong>문서 작성 및 서명</strong></a>
@@ -174,7 +174,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
   </td>
   <td>
     <a href="sign-in-person.md">
-      <img alt="직접 서명 받기" src="../assets/In-person.png" />
+      <img alt="직접 서명 받기" src="../assets/inperson.png" />
     </a>
     <div>
     <a href="sign-in-person.md"><strong>직접 서명 받기</strong></a>
@@ -184,7 +184,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
   </td>
   <td>
     <a href="delegate-signing.md">
-      <img alt="다른 사람에게 서명 위임" src="../assets/Delegatesigning.png" />
+      <img alt="다른 사람에게 서명 위임" src="../assets/delegate-signing.png" />
     </a>
     <div>
     <a href="delegate-signing.md"><strong>다른 사람에게 서명을 위임</strong></a>
@@ -196,7 +196,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="디지털 서명이란 무엇입니까?" src="../assets/whatisdigsig.png" />
+      <img alt="디지털 서명이란 무엇입니까?" src="../assets/digital-signature.png" />
     </a>
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>디지털 서명이란 무엇입니까</strong></a>
@@ -206,7 +206,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
-      <img alt="스탬프를 사용하여 서명" src="../assets/Stamp.png" />
+      <img alt="스탬프를 사용하여 서명" src="../assets/sign-stamp.png" />
     </a>
     <div>
     <a href="sign-with-a-stamp.md"><strong>스탬프를 사용하여 서명</strong></a>
@@ -233,7 +233,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="계약 관리 및 추적" src="../assets/Manage.png" />
+      <img alt="계약 관리 및 추적" src="../assets/manage-track.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong>계약 관리 및 추적</strong></a>
@@ -243,7 +243,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="문서 템플릿 만들기" src="../assets/Template.png" />
+      <img alt="문서 템플릿 만들기" src="../assets/create-template.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>문서 템플릿 만들기</strong></a>
