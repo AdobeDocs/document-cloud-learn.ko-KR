@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 2%
@@ -38,7 +38,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="서명 순서 설정" src="../assets/Routing.png">
+      <img alt="서명 순서 설정" src="../assets/signing-order.png">
     </a>
     <div>
     <a href="setting-up-routing.md"><strong>서명 순서 설정</strong></a>
@@ -48,7 +48,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
   </td>
   <td>
     <a href="delegate-signature.md">
-      <img alt="다른 사람에게 위임" src="../assets/Delegating.png" />
+      <img alt="다른 사람에게 위임" src="../assets/delegator-role.png" />
     </a>  
     <div>
     <a href="delegate-signature.md"><strong>위임자 역할 사용</strong></a>
@@ -58,7 +58,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="승인자 역할 사용" src="../assets/Approver.png" />
+      <img alt="승인자 역할 사용" src="../assets/approver-role.png" />
     </a>
     <div>
     <a href="add-an-approver.md"><strong>승인자 역할 사용</strong></a>
@@ -90,7 +90,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
     </td>
   <td>
     <a href="set-up-online-payments.md">
-      <img alt="온라인 결제 설정" src="../assets/Payments.png" />
+      <img alt="온라인 결제 설정" src="../assets/payment.png" />
     </a>
     <div>
     <a href="set-up-online-payments.md"><strong>온라인 결제 설정</strong></a>
@@ -110,7 +110,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
   </td>
  <td>
       <a href="webform.md">
-        <img alt="웹 양식 만들기" src="../assets/Webform.png" />
+        <img alt="웹 양식 만들기" src="../assets/web-form.png" />
     </a>
       <div>
       <a href="webform.md"><strong>웹 양식 만들기</strong></a>
@@ -122,7 +122,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
 <tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
-        <img alt="Acrobat Sign 텍스트 태그 지정" src="../assets/Text-Tagging.png" />
+        <img alt="Acrobat Sign 텍스트 태그 지정" src="../assets/tagging.png" />
     </a>
       <div>
       <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign 텍스트 태그 지정</strong></a>
@@ -132,7 +132,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
     </td>
   <td>
     <a href="text-tagging-word.md">
-      <img alt="텍스트 태그 지정 사용 [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
+      <img alt="텍스트 태그 지정 사용 [!DNL Microsoft Word]" src="../assets/word-tagging.png" />
   </a>
     <div>
     <a href="text-tagging-word.md"><strong>[!DNL Microsoft Word]</strong></a>에서 텍스트 태그 지정 사용
@@ -169,7 +169,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
   </td>
   <td>
     <a href="edit-a-template.md">
-      <img alt="문서 템플릿 관리" src="../assets/ManageTemplate.png" />
+      <img alt="문서 템플릿 관리" src="../assets/edit-template.png" />
     </a>
     <div>
     <a href="edit-a-template.md"><strong>문서 템플릿 관리</strong></a>
@@ -179,7 +179,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
   </td>
   <td>
     <a href="modify-webform.md">
-      <img alt="기존 웹 양식 수정" src="../assets/Modifywebform.png" />
+      <img alt="기존 웹 양식 수정" src="../assets/modify-web-form.png" />
     </a>
     <div>
     <a href="modify-webform.md"><strong>기존 웹 양식 수정</strong></a>
@@ -189,7 +189,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
   </td>  
   <td>
     <a href="manage-webform-data.md">
-      <img alt="웹 양식 데이터 관리" src="../assets/Managewebform.png" />
+      <img alt="웹 양식 데이터 관리" src="../assets/manage-web-form.png" />
     </a>
     <div>
     <a href="manage-webform-data.md"><strong>웹 양식 데이터 관리</strong></a>
