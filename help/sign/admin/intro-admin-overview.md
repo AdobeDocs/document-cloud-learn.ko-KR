@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
+source-git-commit: c776790139b32c80655b7ce6a8bdef8b63acb357
 workflow-type: tm+mt
 source-wordcount: '615'
 ht-degree: 1%
@@ -43,7 +43,7 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="get-started-admin.md">
-      <img alt="새 관리자를 위해 시작하기" src="../assets/Gettingstartedadmin_1280.png" />
+      <img alt="새 관리자를 위해 시작하기" src="../assets/get-started-admin.png" />
     </a>
     <div>
     <a href="get-started-admin.md"><strong>새 관리자를 위해 시작</strong></a>
@@ -53,7 +53,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="관리자를 위한 실행" src="../assets/Up-Running.png" />
+      <img alt="관리자를 위한 실행" src="../assets/up-and-running.png" />
     </a>
     <div>
     <a href="up-and-running-admin.md"><strong>관리자용 설치 및 실행</strong></a>
@@ -63,7 +63,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="공유 이벤트 및 경고 설정" src="../assets/Notifications_1280.png" />
+      <img alt="공유 이벤트 및 경고 설정" src="../assets/notifications.png" />
     </a>
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>이벤트 및 경고에 대한 알림 구성</strong></a>
@@ -73,7 +73,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="새 사용자 추가" src="../assets/Add-a-new-user.jpg" />
+      <img alt="새 사용자 추가" src="../assets/add-user.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong>새 사용자 추가</strong></a>
@@ -85,7 +85,7 @@ ht-degree: 1%
 <tr>
  <td>
     <a href="add-admin.md">
-      <img alt="새 계정 관리자 추가" src="../assets/Add-a-new-admin.jpg" />
+      <img alt="새 계정 관리자 추가" src="../assets/add-admin.png" />
     </a>
     <div>
     <a href="add-admin.md"><strong>새 계정 관리자 추가</strong></a>
@@ -95,7 +95,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="create-and-manage-groups.md">
-      <img alt="그룹 생성 및 관리" src="../assets/Creating-Groups.png" />
+      <img alt="그룹 생성 및 관리" src="../assets/groups.png" />
     </a>
     <div>
     <a href="create-and-manage-groups.md"><strong>그룹 만들기 및 관리</strong></a>
@@ -105,7 +105,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="set-up-your-external-archive.md">
-      <img alt="외부 보관 설정" src="../assets/ExternalArchive.png" />
+      <img alt="외부 보관 설정" src="../assets/external-archive.png" />
     </a>
     <div>
     <a href="set-up-your-external-archive.md"><strong>외부 보관 설정</strong></a>
@@ -179,7 +179,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="워크플로우 설정" src="../assets/BuildingWorkflow.png" />
+      <img alt="워크플로우 설정" src="../assets/workflow.png" />
     </a>
     <div>
     <a href="building-a-custom-workflow.md"><strong>워크플로우 설정</strong></a>
@@ -189,7 +189,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="audit-reports.md">
-      <img alt="감사 보고서" src="../assets/audit-reports-configure.png" />
+      <img alt="감사 보고서" src="../assets/audit-report.png" />
     </a>
     <div>
     <a href="audit-reports.md"><strong>감사 보고서</strong></a>
@@ -199,7 +199,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="promote-admin.md">
-      <img alt="제품 및 지원 관리자 역할 할당" src="../assets/admin-roles.jpg" />
+      <img alt="제품 및 지원 관리자 역할 할당" src="../assets/assign-product.png" />
     </a>
     <div>
     <a href="promote-admin.md"><strong>제품 및 지원 관리자 역할 할당</strong></a>
@@ -216,7 +216,7 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="learn-about-global-settings.md">
-      <img alt="전역 설정" src="../assets/GlobalSettings_1280.png">
+      <img alt="전역 설정" src="../assets/global-settings.png">
     </a>
     <div>
     <a href="learn-about-global-settings.md"><strong>전역 설정</strong></a>
@@ -226,7 +226,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="share-account-access.md">
-      <img alt="계정 액세스 공유" src="../assets/SharingAccess.png" />
+      <img alt="계정 액세스 공유" src="../assets/sharing.png" />
     </a>  
     <div>
     <a href="share-account-access.md"><strong>계정 액세스 공유</strong></a>
@@ -236,7 +236,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="advanced-account-sharing.md">
-      <img alt="고급 계정 공유" src="../assets/AdvancedSharing_1280.png" />
+      <img alt="고급 계정 공유" src="../assets/advanced-sharing.png" />
     </a>
     <div>
     <a href="advanced-account-sharing.md"><strong>고급 계정 공유</strong></a>
@@ -246,7 +246,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="bulk-download-tool.md">
-      <img alt="일괄 다운로드 도구" src="../assets/bulk-download-tool.png" />
+      <img alt="일괄 다운로드 도구" src="../assets/bulk-download.png" />
     </a>
     <div>
     <a href="bulk-download-tool.md"><strong>일괄 다운로드 도구</strong></a>
@@ -268,7 +268,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="use-bio-pharma-settings.md">
-      <img alt="Bio-Pharma 설정 사용" src="../assets/Bio_1280.png" />
+      <img alt="Bio-Pharma 설정 사용" src="../assets/bio-settings.png" />
     </a>
     <div>
     <a href="use-bio-pharma-settings.md"><strong>Bio-Pharma 설정 사용</strong></a>
@@ -278,7 +278,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="privacy.md">
-      <img alt="개인 정보 보호 관리자 설정 방법" src="../assets/privacy.png" />
+      <img alt="개인 정보 보호 관리자 설정 방법" src="../assets/privacy-admin.png" />
     </a>
     <div>
     <a href="privacy.md"><strong>개인 정보 보호 관리자를 설정하는 방법</strong></a>
