@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: c776790139b32c80655b7ce6a8bdef8b63acb357
+source-git-commit: 1cdbd8bd8753bf570d09219a6ca17f93ac317547
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '632'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,10 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
+>[!TAB Document Sign 템플릿 마이그레이션]
+
+세 가지 간단한 단계를 통해 [Document Sign 템플릿](docusign-templates.md)과 워크플로를 원활하게 마이그레이션하는 방법을 알아보세요.
+
 >[!TAB 새 사용자 추가]
 
 [Acrobat Sign에 새 사용자를 추가](add-users-to-your-account.md)하는 방법에 대해 알아봅니다.
@@ -30,10 +34,6 @@ ht-degree: 1%
 >[!TAB 개인 정보 보호 관리자를 설정하는 방법]
 
 [개인 정보 보호 관리자](privacy.md)를 설정하고 사용하는 방법에 대해 알아봅니다.
-
->[!TAB 일괄 다운로드 도구]
-
-[일괄 다운로드 도구](bulk-download-tool.md)를 사용하여 서명된 모든 계약을 빠르게 다운로드하는 방법을 알아봅니다.
 
 >[!ENDTABS]
 
@@ -62,13 +62,13 @@ ht-degree: 1%
     <br>
   </td>
   <td>
-    <a href="set-up-shared-events-and-alert.md">
-      <img alt="공유 이벤트 및 경고 설정" src="../assets/notifications.png" />
+    <a href="docusign-templates.md">
+      <img alt="Document Sign 템플릿 마이그레이션" src="../assets/migrate-templates.png" />
     </a>
     <div>
-    <a href="set-up-shared-events-and-alert.md"><strong>이벤트 및 경고에 대한 알림 구성</strong></a>
+    <a href="docusign-templates.md"><strong>Document Sign 템플릿 마이그레이션</strong></a>
     </div>
-    <em>계정의 이벤트 및 경고에 대한 알림 구성</em>
+    <em>Document Sign 템플릿 및 워크플로를 원활하게 마이그레이션하는 방법 알아보기</em>
     <br>
   </td>
   <td>
@@ -83,7 +83,7 @@ ht-degree: 1%
   </td>
 </tr>
 <tr>
- <td>
+  <td>
     <a href="add-admin.md">
       <img alt="새 계정 관리자 추가" src="../assets/add-admin.png" />
     </a>
@@ -94,25 +94,37 @@ ht-degree: 1%
     <br>
   </td>
   <td>
-    <a href="create-and-manage-groups.md">
-      <img alt="그룹 생성 및 관리" src="../assets/groups.png" />
-    </a>
-    <div>
-    <a href="create-and-manage-groups.md"><strong>그룹 만들기 및 관리</strong></a>
-    </div>
-    <em>그룹을 만들고, 사용자를 그룹에 추가하고, 그룹 설정을 편집합니다</em>
-    <br>
-  </td>
-  <td>
-    <a href="set-up-your-external-archive.md">
-      <img alt="외부 보관 설정" src="../assets/external-archive.png" />
-    </a>
-    <div>
-    <a href="set-up-your-external-archive.md"><strong>외부 보관 설정</strong></a>
-    </div>
-    <em>서명한 계약의 백업 복사본에 대한 외부 보관 만들기</em>
-    <br>
-  </td>
+      <a href="set-up-shared-events-and-alert.md">
+        <img alt="공유 이벤트 및 경고 설정" src="../assets/notifications.png" />
+      </a>
+      <div>
+      <a href="set-up-shared-events-and-alert.md"><strong>이벤트 및 경고에 대한 알림 구성</strong></a>
+      </div>
+      <em>계정의 이벤트 및 경고에 대한 알림 구성</em>
+      <br>
+    </td>
+    <td>
+      <a href="create-and-manage-groups.md">
+        <img alt="그룹 생성 및 관리" src="../assets/groups.png" />
+      </a>
+      <div>
+      <a href="create-and-manage-groups.md"><strong>그룹 만들기 및 관리</strong></a>
+      </div>
+      <em>그룹을 만들고, 사용자를 그룹에 추가하고, 그룹 설정을 편집합니다</em>
+      <br>
+    </td>
+    <td>
+      <a href="set-up-your-external-archive.md">
+        <img alt="외부 보관 설정" src="../assets/external-archive.png" />
+      </a>
+      <div>
+      <a href="set-up-your-external-archive.md"><strong>외부 보관 설정</strong></a>
+      </div>
+      <em>서명한 계약의 백업 복사본에 대한 외부 보관 만들기</em>
+      <br>
+    </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
       <img alt="문서 템플릿 만들기" src="../assets/create-template.png" />
@@ -123,8 +135,6 @@ ht-degree: 1%
     <em>속도와 일관성을 위해 재사용 가능한 문서 템플릿 만들기</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
       <img alt="보고 및 트랜잭션 사용" src="../assets/reporting.png" />
@@ -155,7 +165,9 @@ ht-degree: 1%
     <em>웹 사이트에서 직접 전자 서명할 수 있는 문서 만들기</em>
     <br>
   </td>
-  <td>
+</tr>  
+<tr>
+   <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="기존 웹 양식 수정" src="../assets/modify-web-form.png" />
     </a>
@@ -165,8 +177,6 @@ ht-degree: 1%
     <em>기존 웹 양식을 비활성화, 편집 및 다시 활성화하는 방법</em> 알아보기
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="대량 전송" src="../assets/send-in-bulk.png" />
@@ -197,17 +207,34 @@ ht-degree: 1%
     <em>감사 보고서에 액세스, 활용 및 구성하는 방법에 대해 알아보세요</em>
     <br>
   </td>
-  <td>
-    <a href="promote-admin.md">
-      <img alt="제품 및 지원 관리자 역할 할당" src="../assets/assign-product.png" />
-    </a>
-    <div>
-    <a href="promote-admin.md"><strong>제품 및 지원 관리자 역할 할당</strong></a>
-    </div>
-    <em>Admin Console에서 Acrobat Sign 사용자 제품 관리자 및 지원 관리자 역할을 할당하는 방법에 대해 알아보세요</em>
-    <br>
-  </td>
-</tr> 
+</tr>
+<tr>
+    <td>
+      <a href="promote-admin.md">
+        <img alt="제품 및 지원 관리자 역할 할당" src="../assets/assign-product.png" />
+      </a>
+      <div>
+      <a href="promote-admin.md"><strong>제품 및 지원 관리자 역할 할당</strong></a>
+      </div>
+      <em>Admin Console에서 Acrobat Sign 사용자 제품 관리자 및 지원 관리자 역할을 할당하는 방법에 대해 알아보세요</em>
+      <br>
+    </td>
+    <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+</tr>    
 </table>
 
 ## 고급 작업
