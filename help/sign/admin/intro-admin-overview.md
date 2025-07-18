@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 1cdbd8bd8753bf570d09219a6ca17f93ac317547
+source-git-commit: 16666ba6f96f85182fd7b8b4741bd3a009f5159a
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '631'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 1%
 
 >[!TAB Document Sign 템플릿 마이그레이션]
 
-세 가지 간단한 단계를 통해 [Document Sign 템플릿](docusign-templates.md)과 워크플로를 원활하게 마이그레이션하는 방법을 알아보세요.
+세 가지 간단한 단계를 통해 [Document Sign 템플릿과 워크플로를 원활하게 마이그레이션](docusign-templates.md)하는 방법에 대해 알아보세요.
 
 >[!TAB 새 사용자 추가]
 
