@@ -114,7 +114,7 @@ ht-degree: 10%
       + [ [!DNL SharePoint] 포함 [!DNL Power Automate]에서 파일 자동 보관](integrations/auto-archive-sharepoint-power-automate.md)
       + [ [!DNL Microsoft Power Platform]용 Acrobat Sign을 사용한 문서 자동화](integrations/documentautomation.md)
       + [ [!DNL Microsoft Teams]에서 서명을 위해 보내기](integrations/adobe-sign-teams-mortgage.md)
-      + [에 대한  [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)Adobe Acrobat Sign의 라이브 서명
+      + [에 대한  [!DNL Microsoft Teams]Adobe Acrobat Sign의 라이브 서명](integrations/live-sign-microsoft-teams.md)
       + [ [!DNL Microsoft Teams]에 대한 문서 탭 통합](integrations/acrobat-sign-teams-documents-tab.md)
       + [ [!DNL Power Automate]에서 간단한 워크플로 만들기](integrations/simple-workflow-power-automate.md)
       + [ [!DNL Power Automate]에서 고급 워크플로 만들기](integrations/advanced-workflow-power-automate.md)
@@ -131,7 +131,7 @@ ht-degree: 10%
       + [자동 업데이트 설정](integrations/salesforce-automatic-updates.md)
       + [대용량 파일 및 푸시 매핑 설정](integrations/salesforce-large-files.md)
    + 근무 시간 {#workday}
-      + [ [!DNL Workday](으)로 Acrobat Sign 구성](integrations/workday.md)
+      + [[!DNL Workday] (으)로 Acrobat Sign 구성](integrations/workday.md)
       + [Acrobat Sign + Workday 신규 채용 온보딩](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
       + [ [!DNL Salesforce] 및 Marketo용 Acrobat Sign을 사용하여 알림 보내기](integrations/marketo-salesforce-sms.md)
