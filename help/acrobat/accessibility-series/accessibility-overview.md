@@ -5,7 +5,8 @@ feature: Workspace, Accessibility, Action
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
-source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
+exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
+source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 1%
@@ -20,9 +21,9 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
->[!TAB 액세스 가능한 PDF 파일의 방법과 이유]
+>[!TAB 액세스 가능한 PDF 파일의 내용 및 이유]
 
-[PDF 파일을 액세스 가능하게 만드는 방법과 이유](how-why-accessible-pdf.md)를 알아보세요.
+[액세스 가능한 PDF 파일이 무엇이며 중요한 이유](what-why-accessible-pdf.md)를 알아보세요.
 
 >[!TAB 작업 영역 설정]
 
@@ -43,13 +44,13 @@ Acrobat에서 [양식을 액세스 가능하게](create-accessible-forms.md)하�
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="how-why-accessible-pdf.md">
-      <img alt="액세스 가능한 PDF 파일의 방법과 이유" src="../assets/accessibility-series-2025.png" />
+    <a href="what-why-accessible-pdf.md">
+      <img alt="액세스 가능한 PDF 파일의 내용과 이유" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="how-why-accessible-pdf.md"><strong>액세스 가능한 PDF 파일의 방법과 이유</strong></a>
+    <a href="what-why-accessible-pdf.md"><strong>액세스 가능한 PDF 파일의 내용 및 이유</strong></a>
     </div>
-    <em>PDF 파일을 액세스 가능하게 만드는 방법과 이유를 알아보세요.</em>
+    <em>액세스 가능한 PDF 파일이 무엇인지, 중요한 이유를 알아보세요</em>
     <br>
   </td>
   <td>
