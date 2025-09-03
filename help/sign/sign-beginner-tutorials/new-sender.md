@@ -30,4 +30,4 @@ Acrobat Sign을 처음 사용하십니까? 이 튜토리얼은 Acrobat Sign을 �
 * 계약 관리 및 추적
 * 지원 및 리소스 액세스
 
->[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454390?quality=12&learn=on&hidetitle=true&captions=kor)
