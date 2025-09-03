@@ -1,14 +1,14 @@
 ---
 title: Acrobat Sign 시작하기
-description: 이 포괄적인 튜토리얼은 Adobe Sign에서 새로운 보낸 사람을 위해 시작하기에 좋은 곳입니다
+description: 이 튜토리얼은 Acrobat Sign의 새로운 사용자를 위해 좋은 출발점입니다.
 feature: Workspace
 role: User
 level: Beginner
 jira: KT-8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: 7e5cfcdeee47a205f3a013666069136cccab1867
+source-git-commit: 8b71554f14df8c072d14cda6123f01310d2bf803
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -30,4 +30,4 @@ Acrobat Sign을 처음 사용하십니까? 이 튜토리얼은 Acrobat Sign을 �
 * 계약 관리 및 추적
 * 지원 및 리소스 액세스
 
->[!VIDEO](https://video.tv.adobe.com/v/3454390?quality=12&learn=on&hidetitle=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
