@@ -18,7 +18,7 @@ ht-degree: 0%
 
 단일 서명을 위해 문서를 전송하는 것은 Acrobat Sign에서 가장 일반적인 작업입니다. 이 튜토리얼에서는 서명을 받기 위해 문서를 준비하고 보내는 가장 쉬운 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425272?quality=12&learn=on&hidetitle=true&captions=kor)
 
 >[!TIP]
 >
