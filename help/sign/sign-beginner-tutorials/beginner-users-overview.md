@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 8b71554f14df8c072d14cda6123f01310d2bf803
+source-git-commit: 3b4a86c78a1d80ba0c77a98a3d10bc7b1f3f6071
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '470'
 ht-degree: 3%
 
 ---
@@ -22,13 +22,13 @@ ht-degree: 3%
 
 >[!BEGINTABS]
 
+>[!TAB 한 서명자에게 문서 보내기]
+
+[서명을 위해 문서 보내기](send-to-single-recipient.md)가 얼마나 쉬운지 알아보세요.
+
 >[!TAB Acrobat Sign 시작하기]
 
 Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(는) 시작하기에 좋은 장소입니다.
-
->[!TAB 기한 및 미리 알림 설정]
-
-문서에 빠르게 서명할 수 있도록 일반 전자 메일 [미리 알림 및 기한](set-deadlines-reminders.md)을 보내는 방법을 알아봅니다.
 
 >[!ENDTABS]
 
@@ -36,6 +36,16 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="new-sender.md">
+      <img alt="Acrobat Sign 시작하기" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>Acrobat Sign 시작하기</strong></a>
+    </div>
+    이 튜토리얼은 Acrobat Sign의 새로운 사용자를 위해 좋은 출발점입니다.
+    <br>
+  </td>
  <td>
     <a href="quick-tour.md">
       <img alt="작업 공간 기본 사항" src="../assets/workspace.png" />
@@ -47,21 +57,11 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
     <br>
   </td>
   <td>
-    <a href="new-sender.md">
-      <img alt="Acrobat Sign 시작하기" src="../assets/gettingstartednew.png" />
-    </a>
-    <div>
-    <a href="new-sender.md"><strong>Acrobat Sign 시작하기</strong></a>
-    </div>
-    이 튜토리얼은 Acrobat Sign의 새로운 사용자를 위해 좋은 출발점입니다.
-    <br>
-  </td>
-  <td>
     <a href="send-to-single-recipient.md">
-      <img alt="단일 수신자에게 보내기" src="../assets/send-single-recipient.png" />
+      <img alt="한 서명자에게 문서 보내기" src="../assets/send-single-recipient.png" />
     </a>
     <div>
-    <a href="send-to-single-recipient.md"><strong>단일 수신자에게 보내는 중</strong></a>
+    <a href="send-to-single-recipient.md"><strong>한 서명자에게 문서 보내기</strong></a>
     </div>
     들어가서 서명을 위해 문서를 손쉽게 보내는 방법 알아보기
     <br>
