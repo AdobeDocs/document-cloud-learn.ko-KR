@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 3b4a86c78a1d80ba0c77a98a3d10bc7b1f3f6071
+source-git-commit: 1889816bcd1abf3f5fae2d1c43f1ac0339005854
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '472'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 3%
 
 >[!TAB 한 서명자에게 문서 보내기]
 
-[서명을 위해 문서 보내기](send-to-single-recipient.md)가 얼마나 쉬운지 알아보세요.
+[서명을 위해 문서를 손쉽게 전송](send-to-single-recipient.md)하는 방법을 살펴봅니다.
 
 >[!TAB Acrobat Sign 시작하기]
 
@@ -63,7 +63,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
     <div>
     <a href="send-to-single-recipient.md"><strong>한 서명자에게 문서 보내기</strong></a>
     </div>
-    들어가서 서명을 위해 문서를 손쉽게 보내는 방법 알아보기
+    바로 로그인하여 서명을 받기 위해 문서를 보내는 것이 얼마나 쉬운지 알아보세요.
     <br>
   </td>
   <td>
