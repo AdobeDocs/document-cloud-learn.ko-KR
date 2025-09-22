@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 1889816bcd1abf3f5fae2d1c43f1ac0339005854
+source-git-commit: 165df9226be5dd82ba7dc2ab90b79adb39329815
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 3%
+source-wordcount: '495'
+ht-degree: 2%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 3%
 ## 새로운 기능
 
 >[!BEGINTABS]
+
+>[!TAB 여러 서명자에게 보내기]
+
+전자 서명을 위해 문서를 [한 사람 이상](send-to-multiple-recipients.md)에게 정확히 원하는 순서대로 보내는 방법을 알아봅니다.
 
 >[!TAB 한 서명자에게 문서 보내기]
 
@@ -68,10 +72,10 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="여러 수신자에게 보내기" src="../assets/send-to-multiple-recipient.png" />
+      <img alt="여러 서명자에게 보내기" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong>여러 수신자에게 보내기</strong></a>
+    <a href="send-to-multiple-recipients.md"><strong>여러 서명자에게 보내기</strong></a>
     </div>
     전자 서명을 위해 문서를 두 명 이상의 사용자에게 원하는 순서대로 보내기
     <br>
