@@ -25,7 +25,7 @@ ht-degree: 5%
    + [AI 어시스턴트로 PDF 인사이트 탐색](getting-started/ai-assistant.md)
    + [Acrobat 웹으로 장소에 상관없이 작업](getting-started/acrobatweb.md)
    + [Acrobat Studio란?](getting-started/acrobat-studio.md)
-   + [작업 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+   + [작업 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=ko#microsoft)
    + [PDF 만들기](getting-started/create-pdf.md)
    + [파일을 단일 PDF으로 결합](getting-started/combine-to-pdf.md)
    + [페이지 구성](getting-started/organize.md)
@@ -140,5 +140,5 @@ ht-degree: 5%
    + [ETLA 고객을 위한 중요한 Acrobat DC 제품 업데이트](deploy/signentitlementchanges.md)
 + 모바일 {#mobile}
    + [개요](mobile/mobile-overview.md)
-   + [이동 중 생산성](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [이동 중 생산성](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=ko)
    + [스캔하여 PDF](mobile/scan-mobile-app.md)
