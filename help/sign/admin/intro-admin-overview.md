@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 16666ba6f96f85182fd7b8b4741bd3a009f5159a
+source-git-commit: e62043373ad528f7ee22b8a14d28ffe9303a6cd7
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '666'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,10 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
+>[!TAB 자동 사용자 할당 규칙 사용]
+
+Admin Console에서 사용자에게 Acrobat Sign에 대한 액세스 권한을 부여하는 [자동 할당 규칙](automatic-assignment-rules.md)을 설정하는 방법에 대해 알아봅니다.
+
 >[!TAB Document Sign 템플릿 마이그레이션]
 
 세 가지 간단한 단계를 통해 [Document Sign 템플릿과 워크플로를 원활하게 마이그레이션](docusign-templates.md)하는 방법에 대해 알아보세요.
@@ -30,10 +34,6 @@ ht-degree: 1%
 >[!TAB 새 사용자 추가]
 
 [Acrobat Sign에 새 사용자를 추가](add-users-to-your-account.md)하는 방법에 대해 알아봅니다.
-
->[!TAB 개인 정보 보호 관리자를 설정하는 방법]
-
-[개인 정보 보호 관리자](privacy.md)를 설정하고 사용하는 방법에 대해 알아봅니다.
 
 >[!ENDTABS]
 
@@ -84,6 +84,16 @@ ht-degree: 1%
 </tr>
 <tr>
   <td>
+    <a href="automatic-assignment-rules.md">
+      <img alt="자동 사용자 할당 규칙 사용" src="../assets/add-admin.png" />
+    </a>
+    <div>
+    <a href="automatic-assignment-rules.md"><strong>자동 사용자 할당 규칙 사용</strong></a>
+    </div>
+    <em>Admin Console에서 사용자에게 Acrobat Sign에 대한 액세스 권한을 부여하는 자동 할당 규칙을 설정하는 방법에 대해 알아보십시오</em>
+    <br>
+  </td>
+  <td>
     <a href="add-admin.md">
       <img alt="새 계정 관리자 추가" src="../assets/add-admin.png" />
     </a>
@@ -93,14 +103,14 @@ ht-degree: 1%
     <em>새 사용자를 만들거나 기존 사용자를 Acrobat Sign 관리자 역할로 승격하는 방법에 대해 알아보십시오</em>
     <br>
   </td>
-  <td>
-      <a href="set-up-shared-events-and-alert.md">
-        <img alt="공유 이벤트 및 경고 설정" src="../assets/notifications.png" />
+    <td>
+      <a href="promote-admin.md">
+        <img alt="제품 및 지원 관리자 역할 할당" src="../assets/assign-product.png" />
       </a>
       <div>
-      <a href="set-up-shared-events-and-alert.md"><strong>이벤트 및 경고에 대한 알림 구성</strong></a>
+      <a href="promote-admin.md"><strong>제품 및 지원 관리자 역할 할당</strong></a>
       </div>
-      <em>계정의 이벤트 및 경고에 대한 알림 구성</em>
+      <em>Admin Console에서 Acrobat Sign 사용자 제품 관리자 및 지원 관리자 역할을 할당하는 방법에 대해 알아보세요</em>
       <br>
     </td>
     <td>
@@ -113,7 +123,9 @@ ht-degree: 1%
       <em>그룹을 만들고, 사용자를 그룹에 추가하고, 그룹 설정을 편집합니다</em>
       <br>
     </td>
-    <td>
+</tr>
+<tr>
+ <td>
       <a href="set-up-your-external-archive.md">
         <img alt="외부 보관 설정" src="../assets/external-archive.png" />
       </a>
@@ -123,8 +135,6 @@ ht-degree: 1%
       <em>서명한 계약의 백업 복사본에 대한 외부 보관 만들기</em>
       <br>
     </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
       <img alt="문서 템플릿 만들기" src="../assets/create-template.png" />
@@ -155,7 +165,9 @@ ht-degree: 1%
     <em>사용자에 대한 보고서 옵션을 설정하는 방법</em>
     <br>
   </td>
-  <td>
+</tr>  
+<tr>
+   <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="웹 양식 만들기" src="../assets/web-form.png" />
     </a>
@@ -165,9 +177,7 @@ ht-degree: 1%
     <em>웹 사이트에서 직접 전자 서명할 수 있는 문서 만들기</em>
     <br>
   </td>
-</tr>  
-<tr>
-   <td>
+  <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="기존 웹 양식 수정" src="../assets/modify-web-form.png" />
     </a>
@@ -197,7 +207,9 @@ ht-degree: 1%
     <em>전자 서명 및 데이터를 빠르게 가져오기 위한 문서 워크플로 자동화</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+     <td>
     <a href="audit-reports.md">
       <img alt="감사 보고서" src="../assets/audit-report.png" />
     </a>
@@ -206,22 +218,15 @@ ht-degree: 1%
     </div>
     <em>감사 보고서에 액세스, 활용 및 구성하는 방법에 대해 알아보세요</em>
     <br>
-  </td>
-</tr>
-<tr>
-    <td>
-      <a href="promote-admin.md">
-        <img alt="제품 및 지원 관리자 역할 할당" src="../assets/assign-product.png" />
-      </a>
-      <div>
-      <a href="promote-admin.md"><strong>제품 및 지원 관리자 역할 할당</strong></a>
-      </div>
-      <em>Admin Console에서 Acrobat Sign 사용자 제품 관리자 및 지원 관리자 역할을 할당하는 방법에 대해 알아보세요</em>
-      <br>
     </td>
     <td>
-      <img alt="스페이서" src="../assets/Whitespacer.png" />
+      <a href="set-up-shared-events-and-alert.md">
+        <img alt="공유 이벤트 및 경고 설정" src="../assets/notifications.png" />
+      </a>
       <div>
+      <a href="set-up-shared-events-and-alert.md"><strong>이벤트 및 경고에 대한 알림 구성</strong></a>
+      </div>
+      <em>계정의 이벤트 및 경고에 대한 알림 구성</em>
       <br>
     </td>
     <td>

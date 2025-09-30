@@ -2,19 +2,19 @@
 user-guide-title: Acrobat Sign Tutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
-solution-hub-url: https://helpx.adobe.com/kr/support/sign.html
+solution-hub-url: https://helpx.adobe.com/support/sign.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/kr/sign/using/get-started-guide.html
+getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/kr/sign/tutorials.html
+tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 9d1ff1524588cb56779e3f2ea0957241fc54182c
+source-git-commit: e62043373ad528f7ee22b8a14d28ffe9303a6cd7
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '560'
 ht-degree: 10%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 10%
       + [스탬프로 서명](sign-beginner-tutorials/sign-with-a-stamp.md)
    + 관리 {#getting-started-managing}
       + [계약 관리 및 추적](sign-beginner-tutorials/manage-and-track.md)
-      + [문서 템플릿 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=ko)
+      + [문서 템플릿 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + 고급 작업 {#advanced-tasks}
    + [개요](sign-advanced-users/advanced-users-overview.md)
    + 전송 {#advanced-tasks-sending}
@@ -54,9 +54,9 @@ ht-degree: 10%
       + [Acrobat Sign의 인증 방법](sign-advanced-users/authentication-methods.md)
       + [양식 데이터 관리](sign-advanced-users/manage-form-data.md)
       + [온라인 결제 설정](sign-advanced-users/set-up-online-payments.md)
-      + [대량 전송](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=ko)
-      + [웹 양식 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=ko)
-      + [Acrobat Sign 텍스트 태그 지정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=ko)
+      + [대량 전송](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [웹 양식 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+      + [Acrobat Sign 텍스트 태그 지정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [ [!DNL Microsoft Word]에서 텍스트 태그 지정 사용](sign-advanced-users/text-tagging-word.md)
    + 관리 {#advanced-tasks-managing}
       + [보고 및 트랜잭션 사용](sign-advanced-users/creating-a-report.md)
@@ -70,19 +70,20 @@ ht-degree: 10%
       + [관리자용 설치 및 실행](admin/up-and-running-admin.md)
       + [Document Sign 템플릿 마이그레이션](admin/docusign-templates.md)
       + [새 사용자 추가](admin/add-users-to-your-account.md)
+      + [자동 사용자 할당 규칙 사용](admin/automatic-assignment-rules.md)
       + [새 계정 관리자 추가](admin/add-admin.md)
-      + [이벤트 및 경고에 대한 알림 구성](admin/set-up-shared-events-and-alert.md)
+      + [제품 및 지원 관리자 역할 할당](admin/promote-admin.md)
       + [그룹 생성 및 관리](admin/create-and-manage-groups.md)
       + [외부 보관 설정](admin/set-up-your-external-archive.md)
       + [템플릿 만들기](sign-advanced-users/create-a-template.md)
-      + [보고 및 트랜잭션 사용](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [보고 및 트랜잭션 사용](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [사용자를 위한 보고서 옵션](admin/report-options.md)
       + [웹 양식 만들기](sign-advanced-users/webform.md)
-      + [기존 웹 양식 수정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=ko)
+      + [기존 웹 양식 수정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [대량 전송](sign-advanced-users/megasign.md)
       + [사용자 정의 작업 과정 빌드](admin/building-a-custom-workflow.md)
       + [감사 보고서](admin/audit-reports.md)
-      + [제품 및 지원 관리자 역할 할당](admin/promote-admin.md)
+      + [이벤트 및 경고에 대한 알림 구성](admin/set-up-shared-events-and-alert.md)
    + 고급 작업 {#advanced-tasks-admins}
       + [전역 설정](admin/learn-about-global-settings.md)
       + [계정 액세스 공유](admin/share-account-access.md)
@@ -114,7 +115,7 @@ ht-degree: 10%
       + [ [!DNL SharePoint] 포함 [!DNL Power Automate]에서 파일 자동 보관](integrations/auto-archive-sharepoint-power-automate.md)
       + [ [!DNL Microsoft Power Platform]용 Acrobat Sign을 사용한 문서 자동화](integrations/documentautomation.md)
       + [ [!DNL Microsoft Teams]에서 서명을 위해 보내기](integrations/adobe-sign-teams-mortgage.md)
-      + [에 대한  [!DNL Microsoft Teams]Adobe Acrobat Sign의 라이브 서명](integrations/live-sign-microsoft-teams.md)
+      + [에 대한  [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)Adobe Acrobat Sign의 라이브 서명
       + [ [!DNL Microsoft Teams]에 대한 문서 탭 통합](integrations/acrobat-sign-teams-documents-tab.md)
       + [ [!DNL Power Automate]에서 간단한 워크플로 만들기](integrations/simple-workflow-power-automate.md)
       + [ [!DNL Power Automate]에서 고급 워크플로 만들기](integrations/advanced-workflow-power-automate.md)
@@ -131,7 +132,7 @@ ht-degree: 10%
       + [자동 업데이트 설정](integrations/salesforce-automatic-updates.md)
       + [대용량 파일 및 푸시 매핑 설정](integrations/salesforce-large-files.md)
    + 근무 시간 {#workday}
-      + [[!DNL Workday] (으)로 Acrobat Sign 구성](integrations/workday.md)
+      + [ [!DNL Workday](으)로 Acrobat Sign 구성](integrations/workday.md)
       + [Acrobat Sign + Workday 신규 채용 온보딩](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
       + [ [!DNL Salesforce] 및 Marketo용 Acrobat Sign을 사용하여 알림 보내기](integrations/marketo-salesforce-sms.md)
