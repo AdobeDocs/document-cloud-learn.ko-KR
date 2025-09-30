@@ -17,4 +17,4 @@ ht-degree: 1%
 
 [Admin Console](https://adminconsole.adobe.com/)에서 사용자에게 Acrobat Sign에 대한 액세스 권한을 부여하는 자동 할당 규칙을 설정하여 프로비저닝을 간소화하고 수동 관리 작업을 줄이는 방법을 알아봅니다. 사용자는 Admin Console에서 생성된 제품 액세스 URL을 통해 다른 사용자를 Acrobat Sign에 초대할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475273?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475291?quality=12&learn=on&hidetitle=true&captions=kor)
