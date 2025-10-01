@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 165df9226be5dd82ba7dc2ab90b79adb39329815
+source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '511'
 ht-degree: 2%
 
 ---
@@ -21,6 +21,10 @@ ht-degree: 2%
 ## 새로운 기능
 
 >[!BEGINTABS]
+
+>[!TAB 전송 옵션 구성]
+
+서명을 위해 문서를 보낼 때 [다양한 옵션을 구성](sending-options.md)하는 방법에 대해 알아봅니다.
 
 >[!TAB 여러 서명자에게 보내기]
 
@@ -84,7 +88,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
 <tr>
   <td>
     <a href="sending-options.md">
-      <img alt="보내기 옵션 구성" src="../assets/configure.png" />
+      <img alt="전송 옵션 구성" src="../assets/configure.png" />
     </a>
     <div>
     <a href="sending-options.md"><strong>전송 옵션 구성</strong></a>
