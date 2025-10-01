@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >관리자가 전송 옵션을 사용자 정의했을 수 있으므로 표시되는 옵션은 이 자습서에 표시된 옵션과 다를 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412766?quality=12&learn=on&hidetitle=true&captions=kor)
