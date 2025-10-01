@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-10980
 thumbnail: KT-10980.jpg
 exl-id: 86c0825e-1f40-428f-ad0d-b69118c72be1
-source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
+source-git-commit: 80704a995b5767b5aa45f9a71bcbdcdea7e1a67c
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->전송 옵션은 이 튜토리얼에서 언급된 것과 똑같은 옵션이 표시되지 않도록 관리자가 구성할 수 있습니다.
+>관리자가 전송 옵션을 사용자 정의했을 수 있으므로 표시되는 옵션은 이 자습서에 표시된 옵션과 다를 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412766?quality=12&learn=on&hidetitle=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
