@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >전송 옵션은 이 튜토리얼에서 언급된 것과 똑같은 옵션이 표시되지 않도록 관리자가 구성할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412766?quality=12&learn=on&hidetitle=true&captions=kor)
