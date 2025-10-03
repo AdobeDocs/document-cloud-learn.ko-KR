@@ -6,12 +6,11 @@ role: User, Admin
 level: Intermediate
 jira: KT-6851
 thumbnail: KT-6851.jpg
-kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: edf5851a3c7593ee79716b432d84f944a72e9343
+source-git-commit: fc99c38ffd46d916b185ede7a3a442c3a0083e00
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 0%
+source-wordcount: '96'
+ht-degree: 2%
 
 ---
 
@@ -41,14 +40,10 @@ ht-degree: 0%
     <em>이러한 실제 사용 사례로 다양한 조직에서 Acrobat Sign을 사용하는 방법을 살펴보십시오</em>
     <br>
   </td>
+ </td>
   <td>
-    <a href="use-case-showcase.md">
-      <img alt="사용 사례 쇼케이스" src="../assets/UseCaseShowcaseR.png" />
-    </a>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
     <div>
-    <a href="use-case-showcase.md"><strong>사용 사례 전시</strong></a>
-    </div>
-    <em>새로운 Acrobat Sign 사용 사례 및 트렌드에 대해 소개하는 라이브 또는 녹화된 세션 시청</em>
     <br>
   </td>
   <td>

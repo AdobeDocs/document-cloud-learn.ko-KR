@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 1aa7b65e507c6138b2adee6248153a1414afa4f1
+source-git-commit: 2ad4bdf7af7560958ca90ebc14d09348b0352e49
 workflow-type: tm+mt
 source-wordcount: '666'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -137,10 +137,10 @@ Admin Console에서 사용자에게 Acrobat Sign에 대한 액세스 권한을 �
     </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="문서 템플릿 만들기" src="../assets/create-template.png" />
+      <img alt="재사용할 수 있는 템플릿을 생성합니다." src="../assets/create-template.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>문서 템플릿 만들기</strong></a>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>재사용 가능한 템플릿 만들기</strong></a>
     </div>
     <em>속도와 일관성을 위해 재사용 가능한 문서 템플릿 만들기</em>
     <br>
