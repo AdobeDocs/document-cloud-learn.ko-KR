@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6059
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: 06ec359f950cc8e589bc6c97219acc32f460b969
+source-git-commit: 656c87201aca58de947cb835f610f6c82a814d57
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 2%
+source-wordcount: '400'
+ht-degree: 3%
 
 ---
 
@@ -20,20 +20,17 @@ ht-degree: 2%
 
 ## 시작하기
 
-텍스트 태그는 문서 내 어디에든 배치된 고유한 형식의 텍스트 조각으로,
-Acrobat Sign에 업로드하면 자동으로 필드로 인식됩니다.
+텍스트 태그는 Acrobat Sign에 업로드할 때 필드로 자동 인식되는 문서 내의 어디에든 배치된 고유한 서식의 텍스트입니다.
 
-    ![텍스트 태그의 구문](../assets/syntax.png)
+![텍스트 태그의 구문](../assets/syntax.png)
 
-텍스트 태그는 Microsoft Word, Adobe InDesign 등의 작성 도구에 직접 추가하거나
-PDF — Acrobat 텍스트 태그를 사용하면 준비하는 데 드는 노력을 크게 줄일 수 있습니다
-Acrobat Sign에서 사용되는 문서.
+텍스트 태그는 Microsoft Word, Adobe InDesign 등의 저작 도구에 직접 추가하거나 PDF — Acrobat을 사용하는 경우 추가할 수 있습니다. 텍스트 태그를 사용하면 Acrobat Sign에서 사용되는 문서를 준비하는 데 드는 노력을 크게 줄일 수 있습니다.
 
-## Microsoft Word에서 태그 추가
+### Microsoft Word에서 태그 추가
 
 Microsoft Word 문서에 텍스트 태그를 추가하려면 이 [비디오 자습서](text-tagging-word.md)를 확인하세요.
 
-## Acrobat에서 태그 추가
+### Acrobat에서 태그 추가
 
 Adobe Acrobat은 강력한 끌어다 놓기 양식 작성 환경을 갖추고 있습니다. Acrobat에서 텍스트 태그를 적용하면 Acrobat Sign에서 사용할 수 있는 추가 기능을 이용할 수 있습니다.
 
@@ -65,11 +62,11 @@ Adobe Acrobat은 강력한 끌어다 놓기 양식 작성 환경을 갖추고 �
 
    ![필드 패널에서 이름 바꾸기](../assets/tag-rename.png)
 
-1. 파일을 저장하고 닫습니다.
+1.  파일을 저장하고 닫습니다.
 
 1. Acrobat Sign에서 파일을 업로드하고 다음 섹션의 설명대로 재사용 가능한 템플릿을 만듭니다.
 
-## 재사용할 수 있는 템플릿을 생성합니다.
+### 재사용할 수 있는 템플릿을 생성합니다.
 
 태그가 있는 문서를 만든 다음 재사용 가능한 템플릿으로 설정하여 누구나 문서에 필드를 추가할 필요가 없도록 합니다.
 
