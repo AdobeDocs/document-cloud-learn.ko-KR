@@ -15,6 +15,6 @@ ht-degree: 5%
 
 # 이동 중에 문서에 서명
 
-[iOS](https://apps.apple.com/us/app/adobe-sign/id481082197) 또는 [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en)용 Acrobat Sign 모바일 앱을 사용하여 문서에 서명하는 방법을 알아봅니다.
+[iOS](https://apps.apple.com/us/app/adobe-sign/id481082197) 또는 [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en)용 Acrobat Sign 모바일 앱을 사용하여 문서에 서명하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439044?quality=12&learn=on&hidetitle=true&captions=kor)
