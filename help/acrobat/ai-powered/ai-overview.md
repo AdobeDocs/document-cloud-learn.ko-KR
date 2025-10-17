@@ -5,16 +5,16 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-19422
-source-git-commit: 6fe3549230e9c277ba4e936b947d5c9d5d6c481d
+source-git-commit: d23c32d7123e1611d667358b1b070d5d421d2887
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '196'
 ht-degree: 1%
 
 ---
 
 # AI 기반 개요
 
-Acrobat의 AI 기반 도구에 대해 알아봅니다.
+AI를 사용하여 PDF 워크플로우를 어떻게 바꿀 수 있는지 알아봅니다. 문서 작업을 간소화하고 생산성을 향상시키는 도구에 대해 알아봅니다.
 
 ## 새로운 기능
 
@@ -82,7 +82,7 @@ PDF에서 [PDF 인사이트 탐색](../getting-started/ai-assistant.md)하는 �
 <tr>
   <td>
   <a href="../getting-started/stylize-this-pdf.md">
-      <img alt="이 PDF 스타일화" src="../assets/ai-powered.png" />
+      <img alt="이 PDF 스타일화" src="../assets/stylize-pdf.png" />
     </a>
     <div>
     <a href="../getting-started/stylize-this-pdf.md"><strong>이 PDF 스타일화</strong></a>
