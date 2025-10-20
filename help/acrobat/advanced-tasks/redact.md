@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 716e979bcf0a3753edf131a78d7a55829ba026dc
+source-git-commit: f16755624a532246818d05d28fb76c6607790460
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## Acrobat 데스크탑에서 정보를 교정하는 방법
 
-1. 파일을 열고 도구 모음에서 **[!UICONTROL 모든 도구]**&#x200B;를 선택한 다음 **[!UICONTROL PDF 교정]**&#x200B;을 선택합니다.
+1. 파일을 열고 도구 모음에서 **[!UICONTROL 모든 도구]**&#x200B;를 선택한 다음 **[!UICONTROL PDF 교정]**을 선택합니다.
    ![단계 1 교정](../assets/Redact_1.png)
 
 1. **[!UICONTROL 속성 설정]**&#x200B;을 선택하여 교정 상자 또는 텍스트 오버레이의 색상을 포함하여 교정의 모양을 사용자 지정합니다.
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 1. **[!UICONTROL 텍스트 찾기 및 교정]**&#x200B;을 선택하여 특정 단어나 구를 검색하거나 패턴을 검색하여 특정 유형의 정보를 찾습니다. 검색을 설정하고 [텍스트 검색 및 제거]를 선택합니다.
 
-![4](../assets/Redact_4.png)단계 교정
+   ![4](../assets/Redact_4.png)단계 교정
 
 1. 검색 결과 대화 상자에서 항목 옆에 있는 상자를 선택하고 **[!UICONTROL 선택한 결과를 교정으로 표시]**&#x200B;를 선택합니다.
 
