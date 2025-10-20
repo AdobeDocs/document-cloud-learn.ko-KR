@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 42950a5df4b6993796a55b3a1de847c1d395500d
+source-git-commit: 716e979bcf0a3753edf131a78d7a55829ba026dc
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## Acrobat 데스크탑에서 정보를 교정하는 방법
 
-1. 파일을 열고 도구 모음에서 **[!UICONTROL 모든 도구]**&#x200B;를 선택한 다음 **[!UICONTROL PDF 교정]**&#x200B;을 선택합니다.
+1. 파일을 열고 도구 모음에서 **[!UICONTROL 모든 도구]**&#x200B;를 선택한 다음 **[!UICONTROL PDF 교정]**을 선택합니다.
    ![단계 1 교정](../assets/Redact_1.png)
 
 1. **[!UICONTROL 속성 설정]**&#x200B;을 선택하여 교정 상자 또는 텍스트 오버레이의 색상을 포함하여 교정의 모양을 사용자 지정합니다.
@@ -38,17 +38,17 @@ ht-degree: 0%
 
 1. **[!UICONTROL 텍스트 및 이미지 교정]**&#x200B;을 선택하고 커서를 사용하여 교정할 내용을 선택합니다.
 
-   ![4](../assets/Redact_3.png)단계 교정
+   ![3 단계 교정](../assets/Redact_3.png)
 
    선택한 콘텐츠 위로 마우스를 가져가면 교정의 미리보기를 볼 수 있습니다.
 
-   ![5a단계 교정](../assets/Redact_4.png)
-
 1. **[!UICONTROL 텍스트 찾기 및 교정]**&#x200B;을 선택하여 특정 단어나 구를 검색하거나 패턴을 검색하여 특정 유형의 정보를 찾습니다. 검색을 설정하고 [텍스트 검색 및 제거]를 선택합니다.
+
+![4](../assets/Redact_4.png)단계 교정
 
 1. 검색 결과 대화 상자에서 항목 옆에 있는 상자를 선택하고 **[!UICONTROL 선택한 결과를 교정으로 표시]**&#x200B;를 선택합니다.
 
-   ![5b단계 교정](../assets/Redact_5.png)
+   ![5 단계 교정](../assets/Redact_5.png)
 
 1. **[!UICONTROL 페이지 교정]**&#x200B;을 선택하여 전체 페이지를 교정으로 표시합니다.
 
@@ -56,13 +56,15 @@ ht-degree: 0%
 
 1. 페이지를 선택하고 **[!UICONTROL 확인]**&#x200B;을 선택하세요.
 
+   ![7 단계 교정](../assets/Redact_7.png)
+
 1. PDF 교정 패널에서 **[!UICONTROL 적용]**&#x200B;을 선택하여 표시된 교정을 적용합니다.
 
-   ![6](../assets/Redact_7.png)단계 교정
+   ![8 단계 교정](../assets/Redact_8.png)
 
 1. **[!UICONTROL 계속]**&#x200B;을 선택하여 숨겨진 정보의 기밀 정보를 가리고 제거합니다.
 
-   ![6](../assets/Redact_8.png)단계 교정
+   ![9 단계 교정](../assets/Redact_9.png)
 
 확인하고 나면 교정 및 숨겨진 정보가 영구적으로 제거되고 새 파일에 저장됩니다.
 
