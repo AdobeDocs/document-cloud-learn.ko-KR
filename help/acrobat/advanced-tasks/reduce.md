@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: f6875404577165bc22cbfffee1fed66b27254aca
+source-git-commit: 3ee53aef230d66a5cdb4b663827bf9e0d83ccb77
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,15 @@ PDF 파일 크기를 압축하고 최적화하는 방법을 알아봅니다. PDF
 
    ![단계 축소](../assets/Reduce_1.png)
 
-1. **[!UICONTROL PDF 압축]** 패널에서 **[!UICONTROL 단일 파일]** 또는 **[!UICONTROL 여러 파일]**&#x200B;을 선택하고 **[!UICONTROL 저장]**&#x200B;을 선택합니다.
-
-   문서의 품질을 유지하면서 파일이 가능한 가장 작은 크기로 줄어듭니다.
+1. **[!UICONTROL PDF 압축]** 패널에서 **[!UICONTROL 단일 파일]** 또는 **[!UICONTROL 여러 파일]**&#x200B;을 선택합니다.
 
    ![단계 축소](../assets/Reduce_2.png)
 
 1. **[!UICONTROL 저장]**&#x200B;을 선택합니다.
 
    ![단계 축소](../assets/Reduce_3.png)
+
+   문서의 품질을 유지하면서 파일이 가능한 가장 작은 크기로 줄어듭니다.
 
 
 ## 웹용 Acrobat에서 PDF을 압축하는 방법
@@ -43,7 +43,7 @@ PDF 파일 크기를 압축하고 최적화하는 방법을 알아봅니다. PDF
 
    ![4 단계 축소](../assets/Reduce_4.png)
 
-1. **[!UICONTROL 파일 선택]**&#x200B;을 선택하고 파일을 선택한 다음 [!UICONTROL 열기]를 선택합니다.
+1. **[!UICONTROL 파일 선택]**&#x200B;을 선택하고 파일을 선택한 다음 **[!UICONTROL 열기]**&#x200B;를 선택합니다.
 
    ![단계 축소](../assets/Reduce_5.png)
 
