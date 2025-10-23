@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: c977a4da1389b656e6bc3adb5ac52e9dbb6a6067
+source-git-commit: f3f8313450246a00ee3d07d31150e3991f19eb65
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -78,32 +78,3 @@ PDF 파일 크기를 압축하고 최적화하는 방법을 알아봅니다. PDF
 >[!TIP]
 >
 >여러 PDF 파일을 최적화하려면 [Action Wizard](../advanced-tasks/action.md)를 사용해 보세요.
-
-<table style="table-layout:fixed">
-  <td>
-    <a href="reduce.md">
-      <img alt="PDF 압축 및 최적화" src="../assets/reduce.png" />
-    </a>
-    <div>
-    <a href="reduce.md"><strong>PDF 압축 및 최적화</strong></a>
-    </div>
-    <em>공유, 게시 또는 보관 품질을 손상시키지 않고 대용량 파일을 줄이고 PDF을 최적화하십시오</em>
-    <br>
-  </td>
-  <td>
-        <img alt="스페이서" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-      </td>
-    <td>
-        <img alt="스페이서" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-    <td>
-        <img alt="스페이서" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-</tr>
-</table>
