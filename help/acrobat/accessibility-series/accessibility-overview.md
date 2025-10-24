@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
+source-git-commit: a6ab6bc9c667582b9d75f5582a895e175331186f
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '209'
+ht-degree: 0%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
->[!TAB 액세스 가능한 PDF 파일의 내용 및 이유]
+>[!TAB 스캔한 문서]
 
-[액세스 가능한 PDF 파일이 무엇이며 중요한 이유](what-why-accessible-pdf.md)를 알아보세요.
+[스캔한 문서](scanned-documents.md)를 액세스 가능하게 만드는 방법을 알아봅니다.
 
 >[!TAB 작업 영역 설정]
 
@@ -74,14 +74,41 @@ Acrobat에서 [양식을 액세스 가능하게](create-accessible-forms.md)하�
     <br>
   </td>
   <td>
+    <a href="scanned-documents.md">
+      <img alt="스캔한 문서" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="scanned-documents.md"><strong>스캔한 문서</strong></a>
+    </div>
+    <em>Acrobat Pro에서 스캔한 문서에 액세스할 수 있도록 만드는 방법 알아보기</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="create-accessible-forms.md">
       <img alt="액세스 가능한 양식 만들기" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
     <a href="create-accessible-forms.md"><strong>액세스 가능한 양식 만들기</strong></a>
     </div>
-    <em>Acrobat에서 양식을 액세스 가능하게 만드는 방법</em>
+    <em>Acrobat Pro에서 양식을 액세스 가능하게 만드는 방법</em>
     <br>
+  </td>
+  <td>
+        <img alt="스페이서" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="스페이서" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="스페이서" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
