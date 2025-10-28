@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: ae69e1a95a482c3faad886a07adb65af0bb8b56d
+source-git-commit: 5bf010d8fda369b42515eeb0cc26f3853322cc8a
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -76,33 +76,3 @@ ht-degree: 0%
 >[!TIP]
 >
 >여러 PDF 파일을 OCR하려면 데스크탑용 Acrobat Pro에서 [Action Wizard](../advanced-tasks/action.md)를 사용해 보세요.
-
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="scan-and-ocr.md">
-      <img alt="용지를 PDF으로" src="../assets/scan.png" />
-    </a>
-    <div>
-    <a href="scan-and-ocr.md"><strong>PDF에 용지</strong></a>
-    </div>
-    <em>종이 문서를 검색 및 편집이 가능한 스마트 PDF 파일 기능으로 변환하는 방법에 대해 알아보세요</em>
-    <br>
-  </td>
-  <td>
-      <img alt="스페이서" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-  <td>
-      <img alt="스페이서" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-  <td>
-      <img alt="스페이서" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-</tr>
-</table>
