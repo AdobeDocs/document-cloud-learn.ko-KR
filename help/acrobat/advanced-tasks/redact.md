@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: f16755624a532246818d05d28fb76c6607790460
+source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## Acrobat 데스크탑에서 정보를 교정하는 방법
 
-1. 파일을 열고 도구 모음에서 **[!UICONTROL 모든 도구]**&#x200B;를 선택한 다음 **[!UICONTROL PDF 교정]**&#x200B;을 선택합니다.
+1. 파일을 열고 도구 모음에서 **[!UICONTROL 모든 도구]**&#x200B;를 선택한 다음 **[!UICONTROL PDF 교정]**을 선택합니다.
    ![단계 1 교정](../assets/Redact_1.png)
 
 1. **[!UICONTROL 속성 설정]**&#x200B;을 선택하여 교정 상자 또는 텍스트 오버레이의 색상을 포함하여 교정의 모양을 사용자 지정합니다.
@@ -70,4 +70,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->교정 프로세스 속도를 높이려면 [Action Wizard](../advanced-tasks/action.md)를 확인하세요.
+>교정 프로세스 속도를 높이려면 데스크탑용 Acrobat Pro에서 [Action Wizard](../advanced-tasks/action.md)를 확인하세요.

@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: f3f8313450246a00ee3d07d31150e3991f19eb65
+source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ PDF 파일 크기를 압축하고 최적화하는 방법을 알아봅니다. PDF
    문서의 품질을 유지하면서 파일이 가능한 가장 작은 크기로 줄어듭니다.
 
 
-## 웹용 Acrobat에서 PDF을 압축하는 방법
+## Acrobat 웹에서 PDF을 압축하는 방법
 
 1. 브라우저에서 [acrobat.adobe.com](https://acrobat.adobe.com/)에 로그인합니다.
 
@@ -77,4 +77,4 @@ PDF 파일 크기를 압축하고 최적화하는 방법을 알아봅니다. PDF
 
 >[!TIP]
 >
->여러 PDF 파일을 최적화하려면 [Action Wizard](../advanced-tasks/action.md)를 사용해 보세요.
+>여러 PDF 파일을 최적화하려면 데스크탑용 Acrobat Pro에서 [Action Wizard](../advanced-tasks/action.md)를 사용해 보세요.
