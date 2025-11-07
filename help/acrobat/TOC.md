@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: d8e4e5b737bcc745c00cad43670f1edde15ad49e
 workflow-type: tm+mt
 source-wordcount: '558'
 ht-degree: 5%
@@ -24,12 +24,13 @@ ht-degree: 5%
    + [AI 어시스턴트로 PDF 인사이트 탐색](getting-started/ai-assistant.md)
    + [PDF 공간을 통한 팀 효율성 향상](getting-started/pdf-spaces-legal.md)
    + [Acrobat Studio란?](getting-started/acrobat-studio.md)
-   + [작업 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=ko#microsoft)
+   + [작업 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Acrobat 웹으로 장소에 상관없이 작업](getting-started/acrobatweb.md)
    + [PDF 만들기](getting-started/create-pdf.md)
    + [파일을 단일 PDF으로 결합](getting-started/combine-to-pdf.md)
    + [페이지 구성](getting-started/organize.md)
    + [새 페이지 디자인](getting-started/add-custom-page.md)
+   + [용지를 PDF으로](getting-started/scan-and-ocr.md)
    + [PDF에서 텍스트 편집](getting-started/edit-pdf.md)
    + [PDF에서 그래픽 편집](getting-started/edit-graphics.md)
    + [이 PDF 스타일화](getting-started/stylize-this-pdf.md)
@@ -39,7 +40,6 @@ ht-degree: 5%
    + [PDF 댓글 달기](getting-started/comment-on-pdf-files.md)
    + [채울 수 있는 양식 만들기](getting-started/create-fillable-forms.md)
    + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
-   + [용지를 PDF으로](getting-started/scan-and-ocr.md)
    + [암호로 PDF 파일 Protect](getting-started/password-protect.md)
    + [서명 받기](getting-started/signatures.md)
    + [문서 추적](getting-started/track.md)
@@ -77,11 +77,11 @@ ht-degree: 5%
       + [태그가 지정되지 않은 PDF에 양식 필드 추가](advanced-tasks/accessibilitysession6.md)
 + AI 기반 {#ai-powered}
    + [개요](ai-powered/ai-overview.md)
-   + [AI 어시스턴트로 PDF 인사이트 탐색](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
-   + [PDF 공간으로 팀 효율성 향상](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
-   + [Acrobat Studio란?](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
-   + [PDF에서 그래픽 편집](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
-   + [이 PDF 스타일화](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
+   + [AI 어시스턴트로 PDF 인사이트 탐색](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
+   + [PDF 공간으로 팀 효율성 향상](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
+   + [Acrobat Studio란?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
+   + [PDF에서 그래픽 편집](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
+   + [이 PDF 스타일화](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
 + 초 Acrobat {#60-second}
    + [개요](60-second/60-second-overview.md)
    + [Acrobat 웹으로 PDF 편집](60-second/edit.md)
@@ -115,21 +115,21 @@ ht-degree: 5%
    + [웨비나](skill-builder/skill-builder-webinars.md)
 + 통합 {#integrations}
    + [개요](integrate/integrate-overview.md)
-   + [&#x200B; [!DNL Microsoft Word]에서 PDF 만들기](integrate/createfromword.md)
+   + [ [!DNL Microsoft Word]에서 PDF 만들기](integrate/createfromword.md)
    + [웹용  [!DNL Office] PDF 만들기](integrate/createofficeweb.md)
-   + [&#x200B; [!DNL Microsoft Teams]에서 공동 작업 PDF](integrate/acrobatandteams.md)
+   + [ [!DNL Microsoft Teams]에서 공동 작업 PDF](integrate/acrobatandteams.md)
    + [내 [!DNL SharePoint] 파일을 사용하여 작업](integrate/acrobatandsp.md)
    + [전자 메일 메시지 및 첨부 파일을  [!DNL Outlook]의 PDF으로 변환](integrate/outlook.md)
-   + [[!DNL Microsoft Edge] (으)로 검색하는 동안 PDF 콘텐츠 만들기](integrate/edge.md)
+   + [ [!DNL Microsoft Edge](으)로 검색하는 동안 PDF 콘텐츠 만들기](integrate/edge.md)
    + [민감도 레이블 [!DNL Microsoft Purview Information] 을 사용하는 Protect PDF](integrate/microsoftsensitivitylabels.md)
-   + [&#x200B; [!DNL Google Drive]용 Adobe Acrobat](integrate/acrobatandgoogle.md)
-   + [&#x200B; [!DNL Dropbox]의 파일을 사용하여 작업](integrate/acrobat-dropbox.md)
+   + [ [!DNL Google Drive]용 Adobe Acrobat](integrate/acrobatandgoogle.md)
+   + [ [!DNL Dropbox]의 파일을 사용하여 작업](integrate/acrobat-dropbox.md)
 + 업종 및 부서 {#by-industry}
    + [개요](industry/industry-overview.md)
    + 정부기관 {#gov}
       + [개요](industry/gov/gov-overview.md)
       + 어디서나 Acrobat으로 작업할 수 있는 5가지 팁 {#tips}
-         + [Acrobat을 사용하여 어디에서나 작업할 수 있는 5가지 팁](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + Acrobat을 사용하여 어디에서나 작업할 수 있는 [5가지 팁](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [팁 #1 - 도구 다운로드](industry/gov/get-your-tools.md)
          + [팁 #2 - 문서에서 공동 작업](industry/gov/collaborate-on-documents.md)
          + [팁 #3 - Protect 디지털 문서](industry/gov/protect-digital-documents.md)
@@ -148,5 +148,5 @@ ht-degree: 5%
    + [ETLA 고객을 위한 중요한 Acrobat DC 제품 업데이트](deploy/signentitlementchanges.md)
 + 모바일 {#mobile}
    + [개요](mobile/mobile-overview.md)
-   + [이동 중 생산성](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=ko)
+   + [이동 중 생산성](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [스캔하여 PDF](mobile/scan-mobile-app.md)
