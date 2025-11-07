@@ -24,7 +24,7 @@ PDF에서 단어, 구 또는 전체 페이지를 편집하는 방법을 알아�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35493?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409180?captions=kor&enablevpops&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
