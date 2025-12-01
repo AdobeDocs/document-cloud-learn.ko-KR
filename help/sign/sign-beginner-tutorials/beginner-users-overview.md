@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
+source-git-commit: b6198f50dbdbf6fab6c9f9e91e2395cb8b046406
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 2%
+source-wordcount: '502'
+ht-degree: 6%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 2%
 ## 새로운 기능
 
 >[!BEGINTABS]
+
+>[!TAB 문서에 전자 서명]
+
+Acrobat Sign으로 전송된 문서에 [서명](../sign-beginner-tutorials/electronically-sign-a-document.md)하는 방법을 알아봅니다.
 
 >[!TAB 재사용 가능한 템플릿 만들기]
 
@@ -33,14 +37,6 @@ ht-degree: 2%
 >[!TAB 여러 서명자에게 보내기]
 
 전자 서명을 위해 문서를 [한 사람 이상](send-to-multiple-recipients.md)에게 정확히 원하는 순서대로 보내는 방법을 알아봅니다.
-
->[!TAB 한 서명자에게 문서 보내기]
-
-[서명을 위해 문서를 손쉽게 전송](send-to-single-recipient.md)하는 방법을 살펴봅니다.
-
->[!TAB Acrobat Sign 시작하기]
-
-Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(는) 시작하기에 좋은 장소입니다.
 
 >[!ENDTABS]
 
@@ -70,7 +66,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="한 서명자에게 문서 보내기" src="../assets/send-single-recipient.png" />
+      <img alt="문서를 한 서명자에게 보내기" src="../assets/send-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong>한 서명자에게 문서 보내기</strong></a>
@@ -171,7 +167,7 @@ Acrobat Sign을 처음 사용하십니까? 이 [튜토리얼](new-sender.md)은(
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="문서 전자 서명" src="../assets/sign-electronically.png" />
+      <img alt="문서에 전자 서명" src="../assets/sign-electronically.png" />
     </a>
     <div>
     <a href="electronically-sign-a-document.md"><strong>문서에 전자 서명</strong></a>
