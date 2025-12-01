@@ -18,4 +18,4 @@ ht-degree: 30%
 
 Acrobat Sign으로 전송된 문서에 서명하는 방법을 살펴봅니다. [iOS](../mobile/sign-mobile.md) 또는 [Android](https://apps.apple.com/us/app/adobe-sign/id481082197)용 Acrobat Sign 모바일 앱을 사용하여 문서에 서명하는 방법을 알아보려면 이 [튜토리얼](https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en)을 확인하세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/344217?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411233?captions=kor&quality=12&learn=on&hidetitle=true)
