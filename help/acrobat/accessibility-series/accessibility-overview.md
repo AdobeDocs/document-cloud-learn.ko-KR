@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 4e790be5fe4ce6f142c0ac001671c19fd25fb8e4
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 0%
+source-wordcount: '200'
+ht-degree: 1%
 
 ---
 
@@ -80,7 +80,7 @@ Acrobat에서 [양식을 액세스 가능하게](create-accessible-forms.md)하�
     <div>
     <a href="scanned-documents.md"><strong>스캔한 문서</strong></a>
     </div>
-    <em>Acrobat Pro에서 스캔한 문서에 액세스할 수 있도록 만드는 방법 알아보기</em>
+    <em>Acrobat에서 스캔한 문서에 액세스할 수 있도록 만드는 방법 알아보기</em>
     <br>
   </td>
 </tr>
@@ -92,7 +92,7 @@ Acrobat에서 [양식을 액세스 가능하게](create-accessible-forms.md)하�
     <div>
     <a href="create-accessible-forms.md"><strong>액세스 가능한 양식 만들기</strong></a>
     </div>
-    <em>Acrobat Pro에서 양식을 액세스 가능하게 만드는 방법</em>
+    <em>Acrobat에서 양식을 액세스 가능하게 만드는 방법</em>
     <br>
   </td>
   <td>

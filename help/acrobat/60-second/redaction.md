@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-13294
 exl-id: dc81aa16-762c-4e3f-b89b-e4224bdfcc68
-source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '39'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Acrobat Pro에서만 사용할 수 있습니다.
+>Acrobat Pro, Premium 및 Studio에서만 사용할 수 있습니다.
 
 이 60초 분량의 비디오 튜토리얼에서는 PDF에서 민감한 정보를 제거하는 올바른 방법을 살펴보세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3436919?quality=12&learn=on&hidetitle=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3411377?quality=12&learn=on&hidetitle=true)

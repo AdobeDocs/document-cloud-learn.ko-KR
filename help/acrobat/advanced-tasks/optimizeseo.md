@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: cc1902cf295d3608fb8ac4ed564a39dbcc885e4a
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '757'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 웹에서 검색 기능 및 PDF 엔진 순위를 개선하기 위해 검색을 최적화하는 방법을 알아봅니다.
 
-## 1. 독창적인 콘텐츠 제작
+## &#x200B;1. 독창적인 콘텐츠 제작
 
 웹 페이지 정보와 다른 PDF 콘텐츠를 만듭니다.
 
@@ -31,7 +31,7 @@ PDF 콘텐츠는 다음과 같이 고유하고 구성되어야 합니다.
 * 키워드 및 목록이 포함된 짧은 단락 사용
 * 내부 및 외부(웹 사이트 또는 기타 웹 사이트의 콘텐츠) 하이퍼링크 추가
 * 25페이지 이상의 문서에 하이퍼링크된 목차 추가
-* 스캔한 모든 문서에서 [텍스트 인식](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=ko) 실행
+* 스캔한 모든 문서에서 [텍스트 인식](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) 실행
 * 모바일 친화적인 PDF 구축
 PDF의 모바일 보기 환경을 확인하려면 [Acrobat Reader 모바일 앱](https://www.adobe.com/acrobat/mobile/acrobat-reader.html)에서 파일을 열고 Liquid Mode를 켭니다. 탐색을 향상시키기 위해 필요한 경우 추가 부제목을 포함합니다.
 
@@ -41,11 +41,11 @@ PDF의 모바일 보기 환경을 확인하려면 [Acrobat Reader 모바일 앱]
 
 <br> 
 
-## 2. 문서 속성 추가
+## &#x200B;2. 문서 속성 추가
 
 PDF 파일에는 웹 페이지처럼 제목과 메타 설명이 있습니다.
 
-+++문서 속성을 추가하는 방법에 대한 자세한 내용 보기
++++문서 속성을 추가하는 방법에 대한 세부 정보 보기
 
 키 **[!UICONTROL 문서 속성]**&#x200B;을(를) 다음과 같이 추가합니다.
 
@@ -62,9 +62,9 @@ PDF 파일에는 웹 페이지처럼 제목과 메타 설명이 있습니다.
 
 <br> 
 
-## 3. PDF 태그 지정
+## &#x200B;3. PDF 태그 지정
 
-PDF의 내용에 태그를 지정하면 장애가 있는 사용자가 파일에 [액세스 가능](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=ko)할 수 있을 뿐만 아니라 SEO가 향상됩니다.
+PDF의 내용에 태그를 지정하면 장애가 있는 사용자가 파일에 [액세스 가능](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html)할 수 있을 뿐만 아니라 SEO가 향상됩니다.
 
 +++PDF 태그 지정 방법에 대한 세부 정보 보기
 
@@ -82,15 +82,15 @@ PDF의 내용에 태그를 지정하면 장애가 있는 사용자가 파일에 
 
 >[!NOTE]
 >
->Acrobat Pro에서만 사용할 수 있습니다.
+>Acrobat Pro, Premium 또는 Studio에서만 사용할 수 있습니다.
 
 <br> 
 
-## 4. 웹 준비
+## &#x200B;4. 웹 준비
 
-웹 보기 및 [PDF 파일 크기 축소](https://www.adobe.com/kr/acrobat/online/compress-pdf.html){target="_blank"}를 위해 PDF을 준비하여 사용자와 상호 작용하는 경험을 최적화합니다.
+웹 보기를 위해 PDF을 준비하고 [PDF 파일 크기를 줄여서](https://www.adobe.com/kr/acrobat/online/compress-pdf.html){target="_blank"} 콘텐츠와 상호 작용하는 경험을 최적화하세요.
 
-+++웹용 PDF을 준비하는 방법에 대한 세부 정보 보기
++++웹용 PDF을 준비하는 방법에 대한 자세한 내용 보기
 
 다음과 같이 웹용 PDF을 준비합니다.
 
@@ -104,13 +104,13 @@ PDF의 내용에 태그를 지정하면 장애가 있는 사용자가 파일에 
 
 >[!TIP]
 >
->Acrobat Pro이 있는 경우 Action Wizard 도구에서 웹 및 모바일용 최적화 를 실행하십시오. 이 작업을 수행하면 색상이 sRGB로 변환되고 브라우저와 모바일 디바이스에서 PDF이 일관되게 표시되도록 글꼴이 포함됩니다.
+>Acrobat Pro(Premium 또는 Studio)가 있는 경우 Action Wizard 도구에서 웹 및 모바일용 최적화 를 실행합니다. 이 작업을 수행하면 색상이 sRGB로 변환되고 브라우저와 모바일 디바이스에서 PDF이 일관되게 표시되도록 글꼴이 포함됩니다.
 
 +++
 
 <br> 
 
-## 5. 키워드 파일 이름 만들기
+## &#x200B;5. 키워드 파일 이름 만들기
 
 +++키워드 파일 이름을 만드는 방법에 대한 자세한 내용 보기
 
@@ -122,7 +122,7 @@ PDF의 내용에 태그를 지정하면 장애가 있는 사용자가 파일에 
 
 <br> 
 
-## 6. PDF 보안
+## &#x200B;6. PDF 보안
 
 마지막 단계는 인증되지 않은 변경을 방지하기 위해 [PDF을 보호](https://www.adobe.com/kr/acrobat/online/password-protect-pdf.html){target="_blank"}하는 것입니다.
 

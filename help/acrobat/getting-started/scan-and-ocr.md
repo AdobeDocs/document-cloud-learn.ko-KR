@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 6153591accebf9fa815100fa1545348e6f259f17
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -76,4 +76,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->여러 PDF 파일을 OCR하려면 데스크탑용 Acrobat Pro에서 [Action Wizard](../advanced-tasks/action.md)를 사용해 보세요.
+>여러 PDF 파일을 OCR로 변환하려면 데스크탑의 Acrobat Pro, Premium 또는 Studio에서 [Action Wizard](../advanced-tasks/action.md)를 사용해 보세요.

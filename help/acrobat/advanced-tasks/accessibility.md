@@ -8,9 +8,9 @@ topics: Accessibility
 jira: KT-6829
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ PDF이 이동 장애인, 시각 장애인, 저시력 장애인, 청각 장애인
 
 >[!NOTE]
 >
->Acrobat Pro에서만 사용할 수 있습니다.
+>Acrobat Pro, Premium 또는 Studio에서만 사용할 수 있습니다.
 
 ## 접근성 검사
 
@@ -45,7 +45,7 @@ PDF이 이동 장애인, 시각 장애인, 저시력 장애인, 청각 장애인
 
    ![접근성 단계 4](../assets/Accessibility_4.png)
 
-[Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html?lang=ko) 도구에서 [!UICONTROL 액세스 가능하게 만들기] 동작을 사용할 수도 있습니다. 이 동작은 액세스 가능한 PDF을 만들기 위한 기본 단계를 안내합니다.
+[!UICONTROL Action Wizard] 도구에서 [액세스 가능하게 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html) 동작을 사용할 수도 있습니다. 이 동작은 액세스 가능한 PDF을 만들기 위한 기본 단계를 안내합니다.
 
 ## 접근성 문제 해결
 

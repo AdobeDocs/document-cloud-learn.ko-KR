@@ -7,7 +7,7 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 5%
@@ -108,7 +108,7 @@ Adobe Document Cloud 솔루션인 Acrobat Sign은 통합, API, 고급 인증, �
     <div>
     <a href="deploy-overview.md"><strong>배포</strong></a>
     </div>
-    조직 내 Acrobat Sign 배포에 대한 통찰력 및 모범 사례
+    조직 내 Acrobat Sign 배포에 대한 인사이트 및 모범 사례
     <br>
   </td>
 </tr>

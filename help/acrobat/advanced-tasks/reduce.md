@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ PDF 파일 크기를 압축하고 최적화하는 방법을 알아봅니다. PDF
 
 >[!NOTE]
 >
->PDF 최적화는 데스크탑용 Acrobat Pro에서만 사용할 수 있습니다.
+>PDF 최적화는 데스크탑의 Acrobat Pro, Premium 또는 Studio에서만 사용할 수 있습니다.
 
 1. 파일을 열고 도구 모음에서 **[!UICONTROL 모든 도구]**&#x200B;를 선택한 다음 **[!UICONTROL PDF 압축]**&#x200B;을 선택합니다.
 
@@ -77,4 +77,4 @@ PDF 파일 크기를 압축하고 최적화하는 방법을 알아봅니다. PDF
 
 >[!TIP]
 >
->여러 PDF 파일을 최적화하려면 데스크탑용 Acrobat Pro에서 [Action Wizard](../advanced-tasks/action.md)를 사용해 보세요.
+>여러 PDF 파일을 최적화하려면 데스크탑의 Acrobat Pro, Premium 또는 Studio에서 [Action Wizard](../advanced-tasks/action.md)을 사용해 보세요.

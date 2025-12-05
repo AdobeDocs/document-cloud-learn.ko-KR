@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-8364
 thumbnail: KT-8364.jpg
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
     <div>
     <a href="accessibilitysession1.md"><strong>PDF 접근성 소개</strong></a>
     </div>
-    <em>이 온디맨드 세션에서 PDF에 액세스할 수 있게 만드는 의미, 액세스 가능성을 위한 PDF에서 작동하도록 Acrobat Pro을 설정하는 방법 및 소스 문서에서 PDF으로 변환 프로세스에 대해 알아보십시오</em>
+    <em>이 온디맨드 세션에서 PDF에 액세스할 수 있게 만드는 의미, 액세스 가능성을 위한 PDF 작업을 위해 Acrobat Pro(Premium 또는 Studio)를 설정하는 방법 및 소스 문서에서 PDF으로 변환 프로세스에 대해 알아보십시오</em>
     <br>
   </td>
   <td>
@@ -39,7 +39,7 @@ ht-degree: 0%
     <div>
     <a href="accessibilitysession2.md"><strong>액세스할 수 없는 PDF 수정</strong></a>
     </div>
-    <em>이 온디맨드 세션에서는 Word 문서를 변환하는 작업 과정과 소개 웨비나에 표시된 Acrobat Pro 도구를 사용하여 몇 가지 기본 태그 지정 문제를 수정하는 방법을 알아봅니다</em>
+    <em>이 온디맨드 세션에서는 Word 문서를 변환하는 작업 과정과 소개 웨비나에 표시된 Acrobat Pro(Premium 또는 Studio) 도구를 사용하여 몇 가지 기본 태그 문제를 수정하는 방법을 배웁니다.</em>
     <br>
   </td>  
   <td>
