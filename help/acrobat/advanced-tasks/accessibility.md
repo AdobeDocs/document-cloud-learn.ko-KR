@@ -45,7 +45,7 @@ PDF이 이동 장애인, 시각 장애인, 저시력 장애인, 청각 장애인
 
    ![접근성 단계 4](../assets/Accessibility_4.png)
 
-[!UICONTROL Action Wizard] 도구에서 [액세스 가능하게 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html) 동작을 사용할 수도 있습니다. 이 동작은 액세스 가능한 PDF을 만들기 위한 기본 단계를 안내합니다.
+[!UICONTROL Action Wizard] 도구에서 [액세스 가능하게 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html?lang=ko) 동작을 사용할 수도 있습니다. 이 동작은 액세스 가능한 PDF을 만들기 위한 기본 단계를 안내합니다.
 
 ## 접근성 문제 해결
 

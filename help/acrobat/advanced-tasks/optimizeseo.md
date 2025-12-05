@@ -31,7 +31,7 @@ PDF 콘텐츠는 다음과 같이 고유하고 구성되어야 합니다.
 * 키워드 및 목록이 포함된 짧은 단락 사용
 * 내부 및 외부(웹 사이트 또는 기타 웹 사이트의 콘텐츠) 하이퍼링크 추가
 * 25페이지 이상의 문서에 하이퍼링크된 목차 추가
-* 스캔한 모든 문서에서 [텍스트 인식](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) 실행
+* 스캔한 모든 문서에서 [텍스트 인식](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=ko) 실행
 * 모바일 친화적인 PDF 구축
 PDF의 모바일 보기 환경을 확인하려면 [Acrobat Reader 모바일 앱](https://www.adobe.com/acrobat/mobile/acrobat-reader.html)에서 파일을 열고 Liquid Mode를 켭니다. 탐색을 향상시키기 위해 필요한 경우 추가 부제목을 포함합니다.
 
@@ -64,7 +64,7 @@ PDF 파일에는 웹 페이지처럼 제목과 메타 설명이 있습니다.
 
 ## &#x200B;3. PDF 태그 지정
 
-PDF의 내용에 태그를 지정하면 장애가 있는 사용자가 파일에 [액세스 가능](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html)할 수 있을 뿐만 아니라 SEO가 향상됩니다.
+PDF의 내용에 태그를 지정하면 장애가 있는 사용자가 파일에 [액세스 가능](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=ko)할 수 있을 뿐만 아니라 SEO가 향상됩니다.
 
 +++PDF 태그 지정 방법에 대한 세부 정보 보기
 
