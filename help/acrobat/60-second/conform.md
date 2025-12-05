@@ -21,4 +21,4 @@ ht-degree: 0%
 
 이 60초 분량의 비디오 튜토리얼에서는 PDF/X, PDF/A 또는 PDF/E와 같은 PDF 표준 기준에 따라 PDF 콘텐츠의 유효성을 검사하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409906?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437301?captions=kor&quality=12&learn=on&hidetitle=true)

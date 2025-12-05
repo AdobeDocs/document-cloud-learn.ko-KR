@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >Acrobat Pro(Premium 또는 Studio)가 있는 경우 Action Wizard 도구에서 스캔 문서 최적화 를 실행하여 이 프로세스를 자동화하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/340823?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347066?captions=kor&quality=12&learn=on&hidetitle=true)

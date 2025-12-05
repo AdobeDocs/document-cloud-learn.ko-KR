@@ -24,7 +24,7 @@ ht-degree: 0%
 [!BADGE 조직 영향]
 비용 절감, 조직 효율성, 시간 절약, 품질 보증
 
->[!VIDEO](https://video.tv.adobe.com/v/337211?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409327?captions=kor&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
