@@ -23,7 +23,7 @@ ht-degree: 3%
 * [텔레워크 계약](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=ko)
 * [정책 계약](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=ko)
 
->[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477305?captions=kor&quality=12&learn=on&hidetitle=true)
 
 [ZIP 형식의 샘플 CSV 파일을 다운로드합니다](../assets/sendInBulkSample.zip). CSV 파일에서 설정할 수 있는 모든 값에 대해 알아보세요. [여기](https://helpx.adobe.com/kr/sign/adv-user/send-in-bulk/send-with-csv.html).
 
