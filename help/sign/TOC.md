@@ -2,11 +2,11 @@
 user-guide-title: Acrobat Sign Tutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
-solution-hub-url: https://helpx.adobe.com/support/sign.html
+solution-hub-url: https://helpx.adobe.com/kr/support/sign.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
+getting-started-url: https://helpx.adobe.com/kr/sign/using/get-started-guide.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/sign/tutorials.html
+tutorials-url: https://helpx.adobe.com/kr/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
@@ -35,7 +35,7 @@ ht-degree: 15%
       + [전송 후 문서 수정](sign-beginner-tutorials/modify-in-flight.md)
       + [서명자 바꾸기](sign-beginner-tutorials/replace-signer.md)
       + [기한 및 미리 알림 설정](sign-beginner-tutorials/set-deadlines-reminders.md)
-      + [재사용 가능한 템플릿 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
+      + [재사용 가능한 템플릿 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=ko)
    + 서명 {#getting-started-signing}
       + [문서에 전자 서명](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [문서 작성 및 서명](sign-beginner-tutorials/fill-and-sign.md)
@@ -54,9 +54,9 @@ ht-degree: 15%
       + [Acrobat Sign의 인증 방법](sign-advanced-users/authentication-methods.md)
       + [양식 데이터 관리](sign-advanced-users/manage-form-data.md)
       + [온라인 결제 설정](sign-advanced-users/set-up-online-payments.md)
-      + [대량 전송](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
-      + [웹 양식 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Acrobat Sign 텍스트 태그 지정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [대량 전송](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=ko)
+      + [웹 양식 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=ko)
+      + [Acrobat Sign 텍스트 태그 지정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=ko)
       + [&#x200B; [!DNL Microsoft Word]에서 텍스트 태그 지정 사용](sign-advanced-users/text-tagging-word.md)
    + 관리 {#advanced-tasks-managing}
       + [보고 및 트랜잭션 사용량](sign-advanced-users/creating-a-report.md)
@@ -76,10 +76,10 @@ ht-degree: 15%
       + [그룹 생성 및 관리](admin/create-and-manage-groups.md)
       + [외부 보관 설정](admin/set-up-your-external-archive.md)
       + [재사용 가능한 템플릿 만들기](sign-advanced-users/create-a-template.md)
-      + [보고 및 트랜잭션 사용](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [보고 및 트랜잭션 사용](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [사용자를 위한 보고서 옵션](admin/report-options.md)
       + [웹 양식 만들기](sign-advanced-users/webform.md)
-      + [기존 웹 양식 수정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
+      + [기존 웹 양식 수정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=ko)
       + [대량 전송](sign-advanced-users/megasign.md)
       + [사용자 정의 작업 과정 빌드](admin/building-a-custom-workflow.md)
       + [감사 보고서](admin/audit-reports.md)
