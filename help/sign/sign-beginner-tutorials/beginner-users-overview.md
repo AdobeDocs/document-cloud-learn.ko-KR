@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b8470e3cd127f6998e57d125b1acddb2e1d51b4c
+source-git-commit: 169855b701bbc9153e349687366a6f6e49adabe6
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 6%
+source-wordcount: '494'
+ht-degree: 7%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 6%
 ## 새로운 기능
 
 >[!BEGINTABS]
+
+>[!TAB 계약 관리 및 추적]
+
+서명을 위해 보낸 [계약을 관리 및 추적](../sign-beginner-tutorials/manage-and-track.md)하는 방법에 대해 알아봅니다.
 
 >[!TAB 문서에 전자 서명]
 
@@ -33,10 +37,6 @@ Acrobat Sign으로 전송된 문서에 [서명](../sign-beginner-tutorials/elect
 >[!TAB 전송 옵션 구성]
 
 서명을 위해 문서를 보낼 때 [다양한 옵션을 구성](sending-options.md)하는 방법에 대해 알아봅니다.
-
->[!TAB 여러 서명자에게 보내기]
-
-전자 서명을 위해 문서를 [한 사람 이상](send-to-multiple-recipients.md)에게 정확히 원하는 순서대로 보내는 방법을 알아봅니다.
 
 >[!ENDTABS]
 
