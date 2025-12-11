@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: fd6ff74f94bd93fbd40086badf8158d4bc968e5a
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '214'
+ht-degree: 0%
 
 ---
 
@@ -20,6 +20,10 @@ ht-degree: 1%
 ## 새로운 기능
 
 >[!BEGINTABS]
+
+>[!TAB 복잡한 목록]
+
+Acrobat에서 액세스 가능성을 위해 [복잡한 목록](complex-lists.md)에 태그를 지정하는 방법을 알아봅니다.
 
 >[!TAB 스캔한 문서]
 
@@ -32,10 +36,6 @@ ht-degree: 1%
 >[!TAB Word에서 액세스 가능한 PDF 만들기]
 
 [Microsoft Word에서 액세스 가능한 PDF 파일을 만드는 방법](create-accessible-from-word.md)을 살펴보세요.
-
->[!TAB 액세스 가능한 양식 만들기]
-
-Acrobat에서 [양식을 액세스 가능하게](create-accessible-forms.md)하는 방법에 대해 알아보세요.
 
 >[!ENDTABS]
 
@@ -96,9 +96,14 @@ Acrobat에서 [양식을 액세스 가능하게](create-accessible-forms.md)하�
     <br>
   </td>
   <td>
-        <img alt="스페이서" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
+    <a href="complex-lists.md">
+      <img alt="복합 목록" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-lists.md"><strong>복잡한 목록</strong></a>
+    </div>
+    <em>Acrobat에서 접근성에 대한 복잡한 목록에 태그를 지정하는 방법</em>
+    <br>
   </td>
   <td>
         <img alt="스페이서" src="../assets/Grayspacer.png" />
