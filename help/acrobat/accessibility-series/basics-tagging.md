@@ -6,16 +6,16 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18726
-source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
+source-git-commit: 1fb311177830a22d7b269df4800444e65b30179d
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
 # 태그 지정의 기본 사항
 
-PDF 파일에 태그를 지정하여 액세스 가능하도록 하는 방법의 기본 사항을 알아봅니다. 다루는 주제에는 목록 수정, 아티팩트, 이미지의 대체 텍스트 및 간단한 표 등이 있습니다.
+PDF 파일에 태그를 지정하여 액세스 가능하도록 하는 방법의 기본 사항을 알아봅니다. 다루는 주제에는 목록 수정, 아티팩트, 이미지의 대체 텍스트 추가, 간단한 표 등이 있습니다.
 
 >[!NOTE]
 >
