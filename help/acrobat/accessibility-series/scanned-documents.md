@@ -21,4 +21,4 @@ Acrobat에서 스캔한 문서에 액세스할 수 있도록 만드는 방법을
 >
 >이 자습서의 일부 기능은 Acrobat Pro, 프리미엄 및 Studio에서만 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476233?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3476241?captions=kor&quality=12&learn=on&hidetitle=true)
