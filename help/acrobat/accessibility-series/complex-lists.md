@@ -21,4 +21,4 @@ Acrobat에서 액세스 가능성을 위한 복잡한 목록에 태그를 지정
 >
 >이 자습서의 일부 기능은 Acrobat Pro, 프리미엄 및 Studio에서만 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477831?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477838?captions=kor&quality=12&learn=on&hidetitle=true)
