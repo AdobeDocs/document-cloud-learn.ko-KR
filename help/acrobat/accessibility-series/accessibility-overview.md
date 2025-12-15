@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
+source-git-commit: 5e67f280224d00a29d90ac1538e92e2334826e4f
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,14 @@ ht-degree: 0%
 
 >[!BEGINTABS]
 
+>[!TAB 복잡한 테이블]
+
+Acrobat에서 접근성을 위해 [표에 태그를 지정하는](complex-tables.md) 방법을 알아봅니다.
+
+>[!TAB 액세스 가능한 안내형 동작 만들기]
+
+[접근성 도우미 동작 만들기](make-accessible-action.md)를 사용하는 방법에 대해 알아봅니다.
+
 >[!TAB Acrobat에서 액세스 가능한 PDF 만들기]
 
 Acrobat에서 시작하는 [액세스 가능한 PDF](accessible-acrobat.md)을 만드는 방법에 대해 알아보세요.
@@ -28,14 +36,6 @@ Acrobat에서 시작하는 [액세스 가능한 PDF](accessible-acrobat.md)을 �
 >[!TAB 태그 지정 기본 사항]
 
 액세스 가능하도록 [PDF에 태그를 지정하는](basics-tagging.md) 방법에 대한 기본 사항을 알아봅니다.
-
->[!TAB 복잡한 목록]
-
-Acrobat에서 액세스 가능성을 위해 [복잡한 목록](complex-lists.md)에 태그를 지정하는 방법을 알아봅니다.
-
->[!TAB 스캔한 문서]
-
-[스캔한 문서](scanned-documents.md)를 액세스 가능하게 만드는 방법을 알아봅니다.
 
 >[!ENDTABS]
 
@@ -125,5 +125,37 @@ Acrobat에서 액세스 가능성을 위해 [복잡한 목록](complex-lists.md)
     <em>Acrobat에서 접근성에 대한 복잡한 목록에 태그를 지정하는 방법</em>
     <br>
   </td>
+</tr>
+<tr>
+  <td>
+    <a href="complex-tables.md">
+      <img alt="복합 테이블" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-tables.md"><strong>복잡한 테이블</strong></a>
+    </div>
+    <em>Acrobat에서 접근성을 위해 표에 태그를 지정하는 방법</em>
+    <br>
+  </td>
+  <td>
+    <a href="make-accessible-action.md">
+      <img alt="접근성 기능 도우미 작업 지정" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="make-accessible-action.md"><strong>액세스 가능한 안내형 동작 만들기</strong></a>
+    </div>
+    <em>액세스 가능하게 안내선 만들기 동작을 사용하는 방법</em> 알아보기
+    <br>
+  </td>
+   <td>
+        <img alt="스페이서" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+      </td>
+      <td>
+        <img alt="스페이서" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+    </td>
 </tr>
 </table>
