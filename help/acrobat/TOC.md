@@ -24,7 +24,7 @@ ht-degree: 4%
    + [AI 어시스턴트로 PDF 인사이트 탐색](getting-started/ai-assistant.md)
    + [PDF 공간을 통한 팀 효율성 향상](getting-started/pdf-spaces-legal.md)
    + [Acrobat Studio란?](getting-started/acrobat-studio.md)
-   + [작업 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+   + [작업 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=ko#microsoft)
    + [Acrobat 웹으로 장소에 상관없이 작업](getting-started/acrobatweb.md)
    + [PDF 만들기](getting-started/create-pdf.md)
    + [파일을 단일 PDF으로 결합](getting-started/combine-to-pdf.md)
@@ -82,11 +82,11 @@ ht-degree: 4%
       + [태그가 지정되지 않은 PDF에 양식 필드 추가](advanced-tasks/accessibilitysession6.md)
 + AI 기반 {#ai-powered}
    + [개요](ai-powered/ai-overview.md)
-   + [AI 어시스턴트로 PDF 인사이트 탐색](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
-   + [PDF 공간으로 팀 효율성 향상](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
-   + [Acrobat Studio란?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
-   + [PDF에서 그래픽 편집](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
-   + [이 PDF 스타일화](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
+   + [AI 어시스턴트로 PDF 인사이트 탐색](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
+   + [PDF 공간으로 팀 효율성 향상](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
+   + [Acrobat Studio란?](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
+   + [PDF에서 그래픽 편집](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
+   + [이 PDF 스타일화](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
 + 초 Acrobat {#60-second}
    + [개요](60-second/60-second-overview.md)
    + [Acrobat 웹으로 PDF 편집](60-second/edit.md)
@@ -153,5 +153,5 @@ ht-degree: 4%
    + [ETLA 고객을 위한 중요한 Acrobat DC 제품 업데이트](deploy/signentitlementchanges.md)
 + 모바일 {#mobile}
    + [개요](mobile/mobile-overview.md)
-   + [이동 중 생산성](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [이동 중 생산성](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=ko)
    + [스캔하여 PDF](mobile/scan-mobile-app.md)
