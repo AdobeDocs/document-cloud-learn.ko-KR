@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 1fb311177830a22d7b269df4800444e65b30179d
+source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ ht-degree: 0%
 
 >[!BEGINTABS]
 
+>[!TAB Acrobat에서 액세스 가능한 PDF 만들기]
+
+Acrobat에서 시작하는 [액세스 가능한 PDF](accessible-acrobat.md)을 만드는 방법에 대해 알아보세요.
+
 >[!TAB 태그 지정 기본 사항]
 
 액세스 가능하도록 [PDF에 태그를 지정하는](basics-tagging.md) 방법에 대한 기본 사항을 알아봅니다.
@@ -32,10 +36,6 @@ Acrobat에서 액세스 가능성을 위해 [복잡한 목록](complex-lists.md)
 >[!TAB 스캔한 문서]
 
 [스캔한 문서](scanned-documents.md)를 액세스 가능하게 만드는 방법을 알아봅니다.
-
->[!TAB 작업 영역 설정]
-
-[작업 영역을 설정](set-up-workspace.md)하여 액세스 가능한 PDF 파일을 만드는 과정을 간소화하는 방법을 알아봅니다.
 
 >[!ENDTABS]
 
@@ -74,6 +74,18 @@ Acrobat에서 액세스 가능성을 위해 [복잡한 목록](complex-lists.md)
     <br>
   </td>
   <td>
+    <a href="accessible-acrobat.md">
+      <img alt="Acrobat에서 액세스 가능한 PDF 만들기" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="accessible-acrobat.md"><strong>Acrobat에서 액세스 가능한 PDF 만들기</strong></a>
+    </div>
+    <em>Acrobat에서 시작하여 액세스 가능한 PDF을 만드는 방법 알아보기</em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
     <a href="basics-tagging.md">
       <img alt="태그 지정의 기본 사항" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -83,9 +95,7 @@ Acrobat에서 액세스 가능성을 위해 [복잡한 목록](complex-lists.md)
     <em>액세스 가능하도록 PDF 파일에 태그를 지정하는 방법에 대한 기본 사항 학습</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="scanned-documents.md">
       <img alt="스캔한 문서" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -105,7 +115,7 @@ Acrobat에서 액세스 가능성을 위해 [복잡한 목록](complex-lists.md)
     <em>Acrobat에서 양식을 액세스 가능하게 만드는 방법</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="complex-lists.md">
       <img alt="복합 목록" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -114,11 +124,6 @@ Acrobat에서 액세스 가능성을 위해 [복잡한 목록](complex-lists.md)
     </div>
     <em>Acrobat에서 접근성에 대한 복잡한 목록에 태그를 지정하는 방법</em>
     <br>
-  </td>
-  <td>
-        <img alt="스페이서" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
   </td>
 </tr>
 </table>
