@@ -24,15 +24,15 @@ ht-degree: 3%
 
 >[!TAB 사용자 지정 워크플로우 구축]
 
-사용자 정의 작업 과정을[ 만들고 사용하여 ](../admin/building-a-custom-workflow.md)계약 생성 및 전송 프로세스의 속도를 높이는 방법에 대해 알아봅니다.
+사용자 정의 작업 과정을[&#x200B; 만들고 사용하여 &#x200B;](../admin/building-a-custom-workflow.md)계약 생성 및 전송 프로세스의 속도를 높이는 방법에 대해 알아봅니다.
 
 >[!TAB 대량 전송]
 
-간단한 몇 단계만으로 모든 문서에 대해 수천[ 개의 서명을 한 번에 수집하는 방법을 ](megasign.md)살펴봅니다.
+간단한 몇 단계만으로 모든 문서에 대해 수천[&#x200B; 개의 서명을 한 번에 수집하는 방법을 &#x200B;](megasign.md)살펴봅니다.
 
 >[!TAB Acrobat Sign의 인증 방법]
 
-문서에 서명하는 사람의 신분을 인증[하기 위해 ](authentication-methods.md)Acrobat Sign에서 사용할 수 있는 방법의 범위에 대해 알아봅니다.
+문서에 서명하는 사람의 신분을 인증[하기 위해 &#x200B;](authentication-methods.md)Acrobat Sign에서 사용할 수 있는 방법의 범위에 대해 알아봅니다.
 
 >[!ENDTABS]
 
