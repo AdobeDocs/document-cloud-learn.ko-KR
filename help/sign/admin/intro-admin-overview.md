@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
+source-git-commit: b24235986241d53bfd09d602192e50290bfb8817
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 2%
+source-wordcount: '697'
+ht-degree: 3%
 
 ---
 
@@ -22,6 +22,10 @@ ht-degree: 2%
 ## 새로운 기능
 
 >[!BEGINTABS]
+
+>[!TAB 사용자 지정 워크플로 작성]
+
+[사용자 지정 작업 과정](building-a-custom-workflow.md)을 만들고 사용하여 계약을 만들고 보내는 프로세스를 가속화하는 방법을 알아봅니다.
 
 >[!TAB 재사용 가능한 템플릿 만들기]
 
@@ -35,10 +39,6 @@ Admin Console에서 사용자에게 Acrobat Sign에 대한 액세스 권한을 �
 
 세 가지 간단한 단계를 통해 [Document Sign 템플릿과 워크플로를 원활하게 마이그레이션](docusign-templates.md)하는 방법에 대해 알아보세요.
 
->[!TAB 새 사용자 추가]
-
-[Acrobat Sign에 새 사용자를 추가](add-users-to-your-account.md)하는 방법에 대해 알아봅니다.
-
 >[!ENDTABS]
 
 ## 시작하기
@@ -47,7 +47,7 @@ Admin Console에서 사용자에게 Acrobat Sign에 대한 액세스 권한을 �
 <tr>
   <td>
     <a href="get-started-admin.md">
-      <img alt="새 관리자를 위해 시작하기" src="../assets/get-started-admin.png" />
+      <img alt="새 관리자용으로 시작하기" src="../assets/get-started-admin.png" />
     </a>
     <div>
     <a href="get-started-admin.md"><strong>새 관리자를 위해 시작</strong></a>
@@ -151,7 +151,7 @@ Admin Console에서 사용자에게 Acrobat Sign에 대한 액세스 권한을 �
   </td>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
-      <img alt="보고 및 트랜잭션 사용" src="../assets/reporting.png" />
+      <img alt="보고 및 트랜잭션 사용량" src="../assets/reporting.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/creating-a-report.md"><strong>보고 및 트랜잭션 사용</strong></a>
@@ -203,12 +203,12 @@ Admin Console에서 사용자에게 Acrobat Sign에 대한 액세스 권한을 �
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="워크플로우 설정" src="../assets/workflow.png" />
+      <img alt="사용자 정의 작업 과정 빌드" src="../assets/workflow.png" />
     </a>
     <div>
-    <a href="building-a-custom-workflow.md"><strong>워크플로우 설정</strong></a>
+    <a href="building-a-custom-workflow.md"><strong>사용자 지정 워크플로 작성</strong></a>
     </div>
-    <em>전자 서명 및 데이터를 빠르게 가져오기 위한 문서 워크플로 자동화</em>
+    <em>사용자 지정 워크플로우를 만들고 사용하여 계약을 만들고 보내는 프로세스를 빠르게 진행하는 방법을 알아봅니다.</em>
     <br>
   </td>
 </tr>

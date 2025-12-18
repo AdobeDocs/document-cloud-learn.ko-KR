@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
+source-git-commit: 8f33f6e533aca9d2c8945abaf0f4d6d5d958d777
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 2%
+source-wordcount: '458'
+ht-degree: 4%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 2%
 ## 새로운 기능
 
 >[!BEGINTABS]
+
+>[!TAB 사용자 지정 워크플로 작성]
+
+
 
 >[!TAB 대량 전송]
 
@@ -67,38 +71,6 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
     <br>
   </td>
   <td>
-    <a href="authentication-methods.md">
-      <img alt="Acrobat Sign의 인증 방법" src="../assets/authentication.png" />
-    </a>
-    <div>
-    <a href="authentication-methods.md"><strong>Acrobat Sign의 인증 방법</strong></a>
-    </div>
-    <em>Acrobat Sign에서 사용할 수 있는 ID 인증 방법 범위에 대해 알아보기</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-      <a href="manage-form-data.md">
-        <img alt="양식 데이터 관리" src="../assets/manage-form-data.png" />
-      </a>
-      <div>
-      <a href="manage-form-data.md"><strong>양식 데이터 관리</strong></a>
-      </div>
-      <em>문서에서 양식 데이터를 통합하는 방법</em>
-      <br>
-    </td>
-  <td>
-    <a href="set-up-online-payments.md">
-      <img alt="온라인 결제 설정" src="../assets/payment.png" />
-    </a>
-    <div>
-    <a href="set-up-online-payments.md"><strong>온라인 결제 설정</strong></a>
-    </div>
-    <em>문서에서 온라인 결제를 설정하고 수락하는 방법에 대해 알아보세요</em>
-    <br>
-  </td>
-  <td>
       <a href="megasign.md">
         <img alt="대량 전송" src="../assets/send-in-bulk.png" />
       </a>
@@ -108,7 +80,9 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
       <em>간단한 몇 단계만으로 모든 문서에 대해 수백 개의 서명을 한 번에 수집</em>
       <br>
   </td>
- <td>
+</tr>
+<tr>
+  <td>
       <a href="webform.md">
         <img alt="웹 양식 만들기" src="../assets/web-form.png" />
     </a>
@@ -116,6 +90,36 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
       <a href="webform.md"><strong>웹 양식 만들기</strong></a>
       </div>
       <em>웹 사이트에서 직접 전자 서명할 수 있는 문서를 만드는 방법에 대해 알아봅니다.</em>
+      <br>
+  </td>
+  <td>
+      <a href="../admin/building-a-custom-workflow.md">
+        <img alt="사용자 정의 작업 과정 빌드" src="../assets/workflow.png" />
+      </a>
+      <div>
+      <a href="../admin/building-a-custom-workflow.md"><strong>사용자 지정 워크플로 작성</strong></a>
+      </div>
+      <em>사용자 지정 워크플로우를 만들고 사용하여 계약을 만들고 보내는 프로세스를 빠르게 진행하는 방법을 알아봅니다.</em>
+      <br>
+  </td>
+  <td>
+      <a href="set-up-online-payments.md">
+        <img alt="온라인 결제 설정" src="../assets/payment.png" />
+      </a>
+      <div>
+      <a href="set-up-online-payments.md"><strong>온라인 결제 설정</strong></a>
+      </div>
+      <em>문서에서 온라인 결제를 설정하고 수락하는 방법에 대해 알아보세요</em>
+      <br>
+  </td>
+  <td>
+      <a href="authentication-methods.md">
+        <img alt="Acrobat Sign의 인증 방법" src="../assets/authentication.png" />
+      </a>
+      <div>
+      <a href="authentication-methods.md"><strong>Acrobat Sign의 인증 방법</strong></a>
+      </div>
+      <em>Acrobat Sign에서 사용할 수 있는 ID 인증 방법 범위에 대해 알아보기</em>
       <br>
   </td>
 </tr>
@@ -159,7 +163,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
 <tr>
 <td>
     <a href="creating-a-report.md">
-      <img alt="보고 및 트랜잭션 사용" src="../assets/reporting.png" />
+      <img alt="보고 및 트랜잭션 사용량" src="../assets/reporting.png" />
     </a>
     <div>
     <a href="creating-a-report.md"><strong>보고 및 트랜잭션 사용</strong></a>
@@ -197,5 +201,32 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
     <em>웹 양식에서 데이터를 추적, 관리 및 내보내는 방법을 알아보세요</em>
     <br>
   </td>  
+</tr>
+<tr>
+  <td>
+      <a href="manage-form-data.md">
+        <img alt="양식 데이터 관리" src="../assets/manage-form-data.png" />
+      </a>
+      <div>
+      <a href="manage-form-data.md"><strong>양식 데이터 관리</strong></a>
+      </div>
+      <em>문서에서 양식 데이터를 통합하는 방법</em>
+      <br>
+    </td>
+    <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
