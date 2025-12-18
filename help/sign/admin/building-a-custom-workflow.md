@@ -29,7 +29,7 @@ ht-degree: 0%
 >
 >그룹 관리자는 자신이 관리하는 모든 그룹(기본 그룹뿐만 아니라)에 워크플로우를 할당할 수 있습니다. 그룹 관리자는 자신이 관리하는 모든 그룹에 할당된 워크플로우를 편집할 수도 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412786?captions=kor&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
