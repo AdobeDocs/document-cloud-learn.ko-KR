@@ -1,38 +1,38 @@
 ---
 title: 고급 작업 개요
-description: 한 번에 100명의 수신자에게 서명할 문서를 보내고, 웹 사이트에 서명할 준비가 된 문서를 설정하고, 서명 트랜잭션을 관리하고, 문서 템플릿을 만들고 관리하는 방법을 알아봅니다
+description: 한 번에 100명의 수신자에게 서명할 문서를 전송하고, 웹 사이트에 서명이 가능한 문서를 설정하고, 서명 트랜잭션을 관리하고, 문서 템플릿을 만들고 관리하는 방법을 알아봅니다
 feature: Web Forms, Workflow, Sign, Payments, Form, Report
 role: User
 level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 8f33f6e533aca9d2c8945abaf0f4d6d5d958d777
+source-git-commit: 05438cb78ede952466c4c15c3cacc427c6bd83f1
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 4%
+source-wordcount: '477'
+ht-degree: 3%
 
 ---
 
 # 고급 작업 개요
 
-한 번에 100명의 수신자에게 서명할 문서를 보내고, 웹 사이트에 서명할 준비가 된 문서를 설정하고, 서명 트랜잭션을 관리하고, 문서 템플릿을 만들고 관리하는 방법을 알아봅니다. 이 자습서는 서명을 보내고 요청하는 기본 사항에 이미 익숙하고 Acrobat Sign에서 제공하는 다양한 방법에 대해 알아보고자 하는 모든 사용자를 위한 것입니다.
+한 번에 100명의 수신자에게 서명할 문서를 전송하고, 웹 사이트를 위한 서명 준비 문서를 설정하고, 서명 트랜잭션을 관리하고, 문서 템플릿을 만들고 관리하는 방법을 알아봅니다. 이 자습서는 서명 보내기 및 요청의 기본 사항에 이미 익숙하고, Acrobat Sign을 사용하여 작업할 수 있는 더 많은 방법을 알아보고자 하는 사용자를 위한 것입니다.
 
 ## 새로운 기능
 
 >[!BEGINTABS]
 
->[!TAB 사용자 지정 워크플로 작성]
+>[!TAB 사용자 지정 워크플로우 구축]
 
-
+사용자 정의 작업 과정을[ 만들고 사용하여 ](../admin/building-a-custom-workflow.md)계약 생성 및 전송 프로세스의 속도를 높이는 방법에 대해 알아봅니다.
 
 >[!TAB 대량 전송]
 
-몇 단계만으로 모든 문서에 대해 한 번에 수천 개의 서명을 [수집](megasign.md)하는 방법을 알아보세요.
+간단한 몇 단계만으로 모든 문서에 대해 수천[ 개의 서명을 한 번에 수집하는 방법을 ](megasign.md)살펴봅니다.
 
 >[!TAB Acrobat Sign의 인증 방법]
 
-Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authentication-methods.md)하기 위해 사용할 수 있는 메서드의 범위에 대해 알아봅니다.
+문서에 서명하는 사람의 신분을 인증[하기 위해 ](authentication-methods.md)Acrobat Sign에서 사용할 수 있는 방법의 범위에 대해 알아봅니다.
 
 >[!ENDTABS]
 
@@ -57,7 +57,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
     <div>
     <a href="delegate-signature.md"><strong>위임자 역할 사용</strong></a>
     </div>
-    <em>위임자 역할을 사용하여 서명을 받을 문서를 전달할 중개자에게 문서를 보낸 다음 서명을 받을 문서를 전달할 수 있습니다.</em>
+    <em>위임자 역할을 사용하여 문서를 중개자에게 전송하면 중간자는 서명을 위해 문서를 라우팅할 수 있습니다</em>
     <br>
   </td>
   <td>
@@ -77,7 +77,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
       <div>
       <a href="megasign.md"><strong>대량 전송</strong></a>
       </div>
-      <em>간단한 몇 단계만으로 모든 문서에 대해 수백 개의 서명을 한 번에 수집</em>
+      <em>간단한 몇 단계로 모든 문서에 대해 수백 개의 서명을 한 번에 수집할 수 있습니다.</em>
       <br>
   </td>
 </tr>
@@ -89,17 +89,17 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
       <div>
       <a href="webform.md"><strong>웹 양식 만들기</strong></a>
       </div>
-      <em>웹 사이트에서 직접 전자 서명할 수 있는 문서를 만드는 방법에 대해 알아봅니다.</em>
+      <em>웹 사이트에서 직접 전자적으로 서명할 수 있는 문서를 만드는 방법을 살펴봅니다</em>
       <br>
   </td>
   <td>
       <a href="../admin/building-a-custom-workflow.md">
-        <img alt="사용자 정의 작업 과정 빌드" src="../assets/workflow.png" />
+        <img alt="사용자 지정 워크플로우 구축" src="../assets/workflow.png" />
       </a>
       <div>
-      <a href="../admin/building-a-custom-workflow.md"><strong>사용자 지정 워크플로 작성</strong></a>
+      <a href="../admin/building-a-custom-workflow.md"><strong>사용자 지정 워크플로우 구축</strong></a>
       </div>
-      <em>사용자 지정 워크플로우를 만들고 사용하여 계약을 만들고 보내는 프로세스를 빠르게 진행하는 방법을 알아봅니다.</em>
+      <em>사용자 정의 작업 과정을 만들고 사용하여 계약 생성 및 전송 프로세스 속도를 높이는 방법에 대해 알아봅니다</em>
       <br>
   </td>
   <td>
@@ -109,7 +109,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
       <div>
       <a href="set-up-online-payments.md"><strong>온라인 결제 설정</strong></a>
       </div>
-      <em>문서에서 온라인 결제를 설정하고 수락하는 방법에 대해 알아보세요</em>
+      <em>문서에서 온라인 결제를 설정하고 수락하는 방법을 살펴봅니다.</em>
       <br>
   </td>
   <td>
@@ -136,12 +136,12 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
     </td>
   <td>
     <a href="text-tagging-word.md">
-      <img alt="텍스트 태그 지정 사용 [!DNL Microsoft Word]" src="../assets/word-tagging.png" />
+      <img alt="텍스트 태그 사용 [!DNL Microsoft Word]" src="../assets/word-tagging.png" />
   </a>
     <div>
-    <a href="text-tagging-word.md"><strong>[!DNL Microsoft Word]</strong></a>에서 텍스트 태그 지정 사용
+    <a href="text-tagging-word.md"><strong>텍스트 태그 사용 [!DNL Microsoft Word]</strong></a>
     </div>
-    <em>[!DNL Microsoft Word]</em>에서 Acrobat Sign 텍스트 태그를 추가하여 재사용 가능한 문서 템플릿을 만드는 방법을 알아봅니다.
+    <em>Acrobat Sign 텍스트 태그를 추가하여 재사용 가능한 문서 템플릿을 만드는 방법을 알아봅니다. [!DNL Microsoft Word]</em>
     <br>
   </td>
   <td>
@@ -166,9 +166,9 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
       <img alt="보고 및 트랜잭션 사용량" src="../assets/reporting.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>보고 및 트랜잭션 사용</strong></a>
+    <a href="creating-a-report.md"><strong>보고 및 트랜잭션 사용 현황</strong></a>
     </div>
-    <em>보고서를 생성하고 트랜잭션 사용량을 추적하는 방법을 알아보세요</em>
+    <em>보고서를 생성하고 트랜잭션 사용 현황을 추적하는 방법 알아보기</em>
     <br>
   </td>
   <td>
@@ -198,7 +198,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
     <div>
     <a href="manage-webform-data.md"><strong>웹 양식 데이터 관리</strong></a>
     </div>
-    <em>웹 양식에서 데이터를 추적, 관리 및 내보내는 방법을 알아보세요</em>
+    <em>웹 양식에서 데이터를 추적, 관리 및 내보내는 방법을 알아봅니다</em>
     <br>
   </td>  
 </tr>
@@ -210,7 +210,7 @@ Acrobat Sign에서 문서에 서명하는 사람의 ID를 [인증](authenticatio
       <div>
       <a href="manage-form-data.md"><strong>양식 데이터 관리</strong></a>
       </div>
-      <em>문서에서 양식 데이터를 통합하는 방법</em>
+      <em>문서의 양식 데이터를 통합하는 방법을 살펴봅니다</em>
       <br>
     </td>
     <td>
