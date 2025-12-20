@@ -21,4 +21,4 @@ Acrobat에서 시작하여 액세스 가능한 PDF을 만드는 방법에 대해
 >
 >이 자습서의 일부 기능은 Acrobat Pro, 프리미엄 및 Studio에서만 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477932?captions=kor&quality=12&learn=on&hidetitle=true)
