@@ -8,9 +8,9 @@ jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
+source-git-commit: f053f885cce9d41478e581bddeba5fae4196fb91
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '194'
 ht-degree: 1%
 
 ---
@@ -26,6 +26,10 @@ ht-degree: 1%
 >[!TAB 모바일 친화적 보기]
 
 [모바일 친화적 보기](mobile-friendly.md)를 사용하여 모바일 장치에서 양식을 완성하는 방법을 알아봅니다.
+
+>[!TAB 모바일 친화적 보기 만들기]
+
+개발자 지원 없이 [모바일 친화적](create-mobile-friendly.md) 문서를 원활하게 생성하는 방법을 알아봅니다.
 
 >[!ENDTABS]
 
@@ -58,7 +62,7 @@ ht-degree: 1%
     <div>
     <a href="create-mobile-friendly.md"><strong>모바일 친화적 보기 만들기</strong></a>
     </div>
-    <em>모바일 친화적인 문서 보기를 만드는 방법</em>
+    <em>개발자 지원 없이도 모바일 친화적인 문서를 원활하게 생성하는 방법을 알아보세요</em>
     <br>
   </td>
    <td>
@@ -84,11 +88,11 @@ ht-degree: 1%
     <br>
   </td>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank">
       <img alt="Android용 Acrobat Sign 모바일 앱 다운로드" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank"><strong>Android용 Acrobat Sign 모바일 앱 다운로드</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank"><strong>Android용 Acrobat Sign 모바일 앱 다운로드</strong></a>
     </div>
     <em>Google Play에서 Acrobat Sign 모바일 앱 다운로드</em>
     <br>

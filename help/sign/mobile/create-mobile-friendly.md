@@ -1,20 +1,20 @@
 ---
 title: 모바일 친화적인 보기 만들기
-description: '"모바일 포커스" 모드를 사용하여 모바일 친화적인 문서 보기를 만드는 방법을 알아봅니다.'
+description: 개발자 지원 없이 모바일 친화적인 문서를 원활하게 생성하는 방법을 알아봅니다
 feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-18736
-source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
+source-git-commit: f053f885cce9d41478e581bddeba5fae4196fb91
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
 # 모바일 친화적인 보기 만들기
 
-&quot;모바일 포커스&quot; 모드를 사용하여 모바일 친화적인 문서 보기를 만드는 방법을 알아봅니다. 이제 발신자는 개발자 지원 없이도 모바일 친화적인 양식을 원활하게 생성할 수 있습니다.
+개발자 지원 없이 모바일 친화적인 문서를 원활하게 생성하는 방법을 알아봅니다.
 
 모바일 포커스를 통해 발신자는 다음을 활용할 수 있습니다.
 
