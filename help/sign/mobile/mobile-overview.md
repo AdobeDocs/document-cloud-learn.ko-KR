@@ -74,11 +74,11 @@ ht-degree: 1%
 </tr>
 <tr>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1">
       <img alt="Android용 Acrobat Sign 모바일 앱 다운로드" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1"><strong>Android용 Acrobat Sign 모바일 앱 다운로드</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1"><strong>Android용 Acrobat Sign 모바일 앱 다운로드</strong></a>
     </div>
     <em>Google Play에서 Acrobat Sign 모바일 앱 다운로드</em>
     <br>
