@@ -22,4 +22,4 @@ Acrobat Sign은 &#39;모바일 포커스&#39;를 통해 위치에 상관 없이 
 * 정확성 향상: 오류를 줄이고 필요한 모든 정보를 캡처합니다.
 * 연속성: 사용자는 진행 상황을 그대로 유지하면서 언제든지 모바일 친화적인 형태로 시작하고 되돌릴 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478386?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478393?captions=kor&quality=12&learn=on&hidetitle=true)
