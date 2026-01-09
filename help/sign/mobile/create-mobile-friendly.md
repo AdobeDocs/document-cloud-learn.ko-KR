@@ -23,4 +23,4 @@ ht-degree: 0%
 * 기술 전문 지식이 필요 없음: 최소한의 노력으로 역동적이고 모바일 친화적인 양식 생성
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3478398?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478405?captions=kor&quality=12&learn=on&hidetitle=true)
