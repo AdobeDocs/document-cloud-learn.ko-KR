@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Microsoft Word에서 액세스 가능한 PDF 파일을 만드는 방법을 알아봅니다. 잘 구성된 Word 파일로 시작하면 액세스 가능한 PDF을 만들 때 크게 달라질 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471614?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471658?captions=kor&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

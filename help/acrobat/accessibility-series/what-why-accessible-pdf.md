@@ -18,7 +18,7 @@ ht-degree: 0%
 
 액세스 가능한 PDF 파일이 무엇이며 중요한 이유를 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471613?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471636?captions=kor&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

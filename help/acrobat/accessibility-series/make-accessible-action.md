@@ -20,7 +20,7 @@ ht-degree: 0%
 >
 >Acrobat Pro, Premium 및 Studio에서만 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477952?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477970?captions=kor&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

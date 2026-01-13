@@ -18,7 +18,7 @@ ht-degree: 0%
 
 모든 액세스 가능성 도구를 간편하게 사용하여 액세스할 수 있는 PDF 파일을 만드는 방법을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471612?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471623?captions=kor&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
