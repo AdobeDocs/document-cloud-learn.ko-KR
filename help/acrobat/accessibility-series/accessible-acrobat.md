@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18729
-source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,8 @@ Acrobat에서 시작하여 액세스 가능한 PDF을 만드는 방법에 대해
 >
 >이 자습서의 일부 기능은 Acrobat Pro, 프리미엄 및 Studio에서만 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477932?captions=kor&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477925?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [PDF 접근성 시리즈](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility)의 일부입니다.

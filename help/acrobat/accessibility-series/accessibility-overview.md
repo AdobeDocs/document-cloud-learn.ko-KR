@@ -6,16 +6,16 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 5e67f280224d00a29d90ac1538e92e2334826e4f
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
 # 액세서빌러티 시리즈 개요
 
-액세스 가능한 PDF 파일을 만드는 방법에 대해 모두 알아보십시오. Tutorials은 태그 지정의 기본 사항부터 폼 작업까지 다양한 작업을 제공합니다. 새로운 콘텐츠는 정기적으로 추가됩니다.
+액세스 가능한 PDF 파일을 만드는 방법에 대해 모두 알아보십시오. Tutorials은 태그 지정의 기본 사항부터 폼 작업까지 다양한 작업을 제공합니다. 이제 이 시리즈를 Experience League에서 [과정 형식](https://experienceleague.adobe.com/en/courses/acr-pdf-accessibility-essentials)으로 사용할 수 있습니다.
 
 ## 새로운 기능
 
