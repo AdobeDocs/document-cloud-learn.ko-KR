@@ -6,7 +6,7 @@ solution: Acrobat
 role: User
 level: Beginner
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: c34798d5e4c08c57620cfd1507dd2f51d9f711b0
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 # 데스크탑 또는 모바일에서 모든 양식 작성 및 서명
 
-데스크탑, 브라우저 또는 모바일 앱에서 빠르게 양식을 채우고, 서명하고, 보내기. Adobe Sensei은 일반적으로 사용되는 데이터를 인식하고 PDF 양식에서 사용하도록 저장합니다. 그리거나, 스캔을 가져오거나, 이름을 입력하여 서명을 만든 다음 문서에 안전하게 적용합니다.
+데스크탑, 브라우저 또는 모바일 앱에서 빠르게 양식을 채우고, 서명하고, 보내기. Adobe AI는 일반적으로 사용되는 데이터를 인식하고 PDF 양식에서 사용하도록 저장합니다. 그리거나, 스캔을 가져오거나, 이름을 입력하여 서명을 만든 다음 문서에 안전하게 적용합니다.
 
 이 연습에서는 모바일 장치를 사용하여 양식을 가져오고, 채우고, 서명하고, 전송합니다.
 
 다음은 이 연습에 대한 [데모 파일](assets/03_FillSignScan.zip)입니다.
 
-**단계 1:** [!DNL Apple App] 스토어 또는 [!DNL Google Play]에서 [!DNL Adobe Fill & Sign] 앱을 다운로드합니다.
+**단계 1:** [!DNL Adobe Fill & Sign] 스토어 또는 [!DNL Apple App]에서 [!DNL Google Play] 앱을 다운로드합니다.
 
 **단계 2:** 앱을 열고 **[!UICONTROL 작성할 양식 선택]**&#x200B;을 탭하세요.
 
