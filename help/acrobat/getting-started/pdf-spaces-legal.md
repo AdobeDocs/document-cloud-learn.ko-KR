@@ -19,7 +19,7 @@ ht-degree: 1%
 
 PDF 공간은 Acrobat Studio 또는 AI Assistant 추가 기능을 구매하는 사용자가 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475139?captions=kor&quality=12&learn=on&hidetitle=true)
 
 역할별 
 
