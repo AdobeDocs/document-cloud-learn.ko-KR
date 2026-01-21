@@ -19,7 +19,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
-역할별 [!BADGE ]
+역할별 
 
 ## Acrobat Studio가 다양한 팀에 미치는 영향
 

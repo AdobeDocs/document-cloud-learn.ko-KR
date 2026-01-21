@@ -19,7 +19,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
-역할별 [!BADGE ]
+역할별 
 
 ## 이 PDF을 스타일화하는 것이 다양한 팀에 도움이 되는 방법
 

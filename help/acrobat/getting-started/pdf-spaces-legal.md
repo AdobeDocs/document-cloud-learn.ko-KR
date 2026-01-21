@@ -21,7 +21,7 @@ PDF 공간은 Acrobat Studio 또는 AI Assistant 추가 기능을 구매하는 �
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
 
-역할별 [!BADGE ]
+역할별 
 
 ## PDF 공간이 다른 팀에 도움이 되는 방법
 

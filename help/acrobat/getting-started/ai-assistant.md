@@ -21,7 +21,7 @@ AI Assistant는 Acrobat Studio 또는 AI Assistant 추가 기능을 구매하는
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
-역할별 [!BADGE ]
+역할별 
 
 ## AI 어시스턴트가 다양한 팀에 도움을 주는 방식
 
