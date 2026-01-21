@@ -6,17 +6,35 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: e2911087f78e07e269a387b9414f3fbaf8dfc57d
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 0%
+source-wordcount: '203'
+ht-degree: 1%
 
 ---
 
 # PDF에서 그래픽 편집
 
-PDF에서 그래픽을 만들고 편집하고 향상시키는 방법을 살펴봅니다. Acrobat에서 바로 그래픽을 편집하면 앱들 사이를 오가는 과정 없이 콘텐츠를 정확하고 전문적으로 업데이트할 수 있습니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-workspace.md)을 사용합니다.
+Acrobat에서 편집 모드를 사용하여 데스크탑과 웹의 PDF 내에서 직접 이미지를 추가, 교체, 자르기, 크기 조정, 회전 및 정렬하는 방법을 알아봅니다. 이 튜토리얼에서는 Adobe Express 기반의 인앱 이미지 생성기를 사용하여 텍스트 프롬프트에서 이미지를 생성하고 다듬는 방법도 보여 줍니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-workspace.md)을 사용합니다.
 
-<br> 
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
->[!VIDEO](https://video.tv.adobe.com/v/3446936?enablevpops&quality=12&learn=on&hidetitle=true&captions=kor)
+역할별 [!BADGE ]
+
+## 편집 모드가 다른 팀에 도움이 되는 방법
+
+* 법률 및 규정 준수
+
+  법률 팀은 편집 모드를 사용하여 파일을 다시 만들지 않고도 계약, 정책 및 지침에서 그래픽 및 시각적 요소를 업데이트하여 검토 또는 규정 변경 중에 문서를 정확하고 최신 상태로 유지할 수 있도록 지원합니다.
+
+* 인사 관리
+
+  HR 팀은 편집 모드를 사용하여 정책 문서, 온보딩 자료 및 교육 PDF에서 이미지와 레이아웃을 수정하여 소스 디자인 파일로 돌아가지 않고도 빠르게 업데이트할 수 있습니다.
+
+* 영업
+
+  영업팀은 편집 모드를 사용하여 특정 고객이나 기회에 맞게 문서를 조정할 수 있도록 이미지를 교체하고, 레이아웃을 조정하고, 제안서 및 영업 자료의 비주얼을 업데이트합니다.
+
+* 마케팅 및 커뮤니케이션
+
+  마케팅 팀은 편집 모드를 사용하여 PDF의 이미지와 시각적 콘텐츠를 다듬어 재료가 세련된 상태를 유지하고 브랜드 업데이트 또는 캠페인 변경에 맞게 정렬되도록 합니다.
