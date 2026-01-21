@@ -19,7 +19,7 @@ Acrobat에서 편집 모드를 사용하여 데스크탑과 웹의 PDF 내에서
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
-역할별 [!BADGE ]
+역할별 
 
 ## 편집 모드가 다른 팀에 도움이 되는 방법
 
