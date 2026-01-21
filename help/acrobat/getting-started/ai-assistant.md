@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: e2911087f78e07e269a387b9414f3fbaf8dfc57d
+source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,37 +19,37 @@ AI Assistant를 사용하여 PDF 파일에서 인사이트를 얻는 방법에 �
 
 AI Assistant는 Acrobat Studio 또는 AI Assistant 추가 기능을 구매하는 사용자가 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445829?captions=kor&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
-역할별 
+역할별 [!BADGE ]
 
 ## AI 어시스턴트가 다양한 팀에 도움을 주는 방식
 
-* 법률 및 규정 준수
+* **법률 및 규정 준수**
 
   법률팀은 AI 어시스턴트를 활용해 긴 계약, 정책, 규제 문서를 요약하고 관련 조항이나 변경 사항을 신속하게 파악하며 소스 텍스트에 대한 직접 인용을 통해 통찰력을 검증한다. 이를 통해 신뢰성과 추적성을 유지하면서 검토를 가속화할 수 있습니다.
 
-* 인사 관리
+* **인적 자원**
 
   HR 팀은 AI Assistant를 사용하여 정책 문서, 교육 자료 및 직원 핸드북에서 핵심 사항을 추출하여, 긴 내용을 수동으로 읽거나 다시 작성하지 않고도 명확한 요약과 FAQ를 만들 수 있습니다.
 
-* 영업
+* **판매**
 
   영업팀은 AI Assistant를 사용하여 제안, RFP 및 고객 문서를 스캔하고, 관련 답변 또는 토킹 포인트를 빠르게 가져오고, 보다 빠른 응답 및 거래 준비를 지원하는 간결한 요약을 생성합니다.
 
-* 마케팅 및 커뮤니케이션
+* **마케팅 및 커뮤니케이션**
 
   마케팅팀은 AI 어시스턴트를 활용해 보고서와 연구 문서를 분석하고 통찰력을 추출하며 프레젠테이션, 브리프, 콘텐츠 기획에서 재사용이 가능한 잘 짜여진 요약본을 생성한다.
 
-* 재무
+* **재정**
 
   재무팀은 AI 어시스턴트를 활용해 재무 보고서와 지원 문서를 검토하고, 동향이나 차이점을 요약하고, 전체 파일을 일일이 수동으로 읽지 않고도 임원 수준의 보고에 필요한 통찰력을 발휘한다.
 
-* 운영 및 프로그램 관리
+* **운영 및 프로그램 관리**
 
   작업팀은 AI 비서를 사용하여 SOP, 프로젝트 문서 및 업데이트를 분석하고 중요한 사항을 빠르게 이해하며 관련자를 정렬하기 위한 요약을 생성합니다.
 
-* 경영진 및 리더
+* **경영진 및 리더**
 
   임원은 AI 비서를 통해 고급 요약을 얻고, 전체 출처 자료를 검토하지 않고도 통찰력을 확인할 수 있는 인용문과 함께 복잡한 문서에서 직접 답변을 구한다.
 
