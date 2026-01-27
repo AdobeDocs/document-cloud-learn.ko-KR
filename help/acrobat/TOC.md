@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
+source-git-commit: bebd1666353b6bef2bc98fd2b97b38ad9a75fa02
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '546'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + 기본 정보 학습 {#basics}
       + [작업 공간 기본 사항](getting-started/workspace-basics.md)
       + [새 Acrobat 환경](getting-started/new-experience.md)
-      + [작업 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=ko#microsoft)
+      + [작업 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Acrobat 웹으로 장소에 상관없이 작업](getting-started/acrobatweb.md)
       + [이동 중의 생산성](getting-started/productivity.md)
       + [PDF은 어디에서 오나요?](getting-started/where-do-pdfs-come-from.md)
@@ -121,32 +121,26 @@ ht-degree: 5%
    + [웨비나](skill-builder/skill-builder-webinars.md)
 + 통합 {#integrations}
    + [개요](integrate/integrate-overview.md)
-   + [&#x200B; [!DNL Microsoft Word]에서 PDF 만들기](integrate/createfromword.md)
+   + [ [!DNL Microsoft Word]에서 PDF 만들기](integrate/createfromword.md)
    + [웹용  [!DNL Office] PDF 만들기](integrate/createofficeweb.md)
-   + [&#x200B; [!DNL Microsoft Teams]에서 공동 작업 PDF](integrate/acrobatandteams.md)
+   + [ [!DNL Microsoft Teams]에서 공동 작업 PDF](integrate/acrobatandteams.md)
    + [내 [!DNL SharePoint] 파일을 사용하여 작업](integrate/acrobatandsp.md)
    + [전자 메일 메시지 및 첨부 파일을  [!DNL Outlook]의 PDF으로 변환](integrate/outlook.md)
-   + [[!DNL Microsoft Edge] (으)로 검색하는 동안 PDF 콘텐츠 만들기](integrate/edge.md)
+   + [ [!DNL Microsoft Edge](으)로 검색하는 동안 PDF 콘텐츠 만들기](integrate/edge.md)
    + [민감도 레이블 [!DNL Microsoft Purview Information] 을 사용하는 Protect PDF](integrate/microsoftsensitivitylabels.md)
-   + [&#x200B; [!DNL Google Drive]용 Adobe Acrobat](integrate/acrobatandgoogle.md)
-   + [&#x200B; [!DNL Dropbox]의 파일을 사용하여 작업](integrate/acrobat-dropbox.md)
+   + [ [!DNL Google Drive]용 Adobe Acrobat](integrate/acrobatandgoogle.md)
+   + [ [!DNL Dropbox]의 파일을 사용하여 작업](integrate/acrobat-dropbox.md)
 + 업종 및 부서 {#by-industry}
    + [개요](industry/industry-overview.md)
    + 정부기관 {#gov}
       + [개요](industry/gov/gov-overview.md)
       + 어디서나 Acrobat으로 작업할 수 있는 5가지 팁 {#tips}
-         + [Acrobat을 사용하여 어디에서나 작업할 수 있는 5가지 팁](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + Acrobat을 사용하여 어디에서나 작업할 수 있는 [5가지 팁](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [팁 #1 - 도구 다운로드](industry/gov/get-your-tools.md)
          + [팁 #2 - 문서에서 공동 작업](industry/gov/collaborate-on-documents.md)
          + [팁 #3 - Protect 디지털 문서](industry/gov/protect-digital-documents.md)
          + [팁 #4 - 양식 및 서명 작업](industry/gov/work-with-forms-and-signatures.md)
          + [팁 #5 - 모바일에서 스캔 및 편집](industry/gov/scan-and-edit-on-mobile.md)
-      + 접근성 {#pdfs}
-         + [PDF 액세스 가능](industry/gov/making-pdfs-accessible.md)
-         + [#1 - 액세스 가능성 이해](industry/gov/understanding-accessibility.md)
-         + [#2 - Word에서 작성](industry/gov/authoring-in-word.md)
-         + [#3 - Acrobat에서 마무리](industry/gov/finishing-in-acrobat.md)
-         + [보다 접근성 높은 PDF 투표 만들기](industry/gov/making-pdf-ballots-accessible.md)
 + 현상 {#develop}
    + [개요](develop/develop-overview.md)
 + 배포 {#deploy}
