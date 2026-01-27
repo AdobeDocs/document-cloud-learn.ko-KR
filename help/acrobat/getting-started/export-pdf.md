@@ -24,7 +24,7 @@ PDF 파일을 [Microsoft Word](https://www.adobe.com/kr/acrobat/online/pdf-to-wo
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35494?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409655?captions=kor&enablevpops&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
