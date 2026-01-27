@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 7b76b90df77bf73e7f5d17eabe761f106c74d62b
+source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '566'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + 기본 정보 학습 {#basics}
       + [작업 공간 기본 사항](getting-started/workspace-basics.md)
       + [새 Acrobat 환경](getting-started/new-experience.md)
-      + [작업 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=ko#microsoft)
+      + [작업 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Acrobat 웹으로 장소에 상관없이 작업](getting-started/acrobatweb.md)
       + [이동 중의 생산성](getting-started/productivity.md)
       + [PDF은 어디에서 오나요?](getting-started/where-do-pdfs-come-from.md)
@@ -65,26 +65,22 @@ ht-degree: 5%
    + [접근성 기능 도우미 작업 지정](accessibility-series/make-accessible-action.md)
 + 고급 작업 {#advanced-tasks}
    + [개요](advanced-tasks/advanced-tasks-overview.md)
-   + [책갈피 및 하이퍼링크 추가](advanced-tasks/bookmarks.md)
-   + [스캔한 문서 최적화](advanced-tasks/optimizescan.md)
-   + [사용자 정의 명령 및 도구](advanced-tasks/custom.md)
-   + [고급 양식 필드](advanced-tasks/advancedforms.md)
-   + [SEO용 Optimize PDF](advanced-tasks/optimizeseo.md)
-   + [양식 필드로 작업](advanced-tasks/workforms.md)
-   + [PDF 향상](advanced-tasks/enhance.md)
-   + [두 PDF 간 차이점 검색](advanced-tasks/compare.md)
-   + [안내가 제공되는 동작](advanced-tasks/action.md)
-   + [민감한 정보 제거](advanced-tasks/redact.md)
-   + [PDF 압축 및 최적화](advanced-tasks/reduce.md)
-   + [양식 데이터를 사용한 작업](advanced-tasks/formdata.md)
-   + Acrobat 접근성 웨비나 {#accessibility-series}
-      + [개요](advanced-tasks/accessibility-series.md)
-      + [PDF 접근성 소개](advanced-tasks/accessibilitysession1.md)
-      + [액세스할 수 없는 PDF 수정](advanced-tasks/accessibilitysession2.md)
-      + [복합 테이블](advanced-tasks/accessibilitysession3.md)
-      + [스캔한 문서 및 복잡한 목록](advanced-tasks/accessibilitysession4.md)
-      + [태그가 지정된 PDF에 양식 필드 추가](advanced-tasks/accessibilitysession5.md)
-      + [태그가 지정되지 않은 PDF에 양식 필드 추가](advanced-tasks/accessibilitysession6.md)
+   + 준비 및 향상 {#prepare}
+      + [PDF 압축 및 최적화](advanced-tasks/reduce.md)
+      + [스캔한 문서 최적화](advanced-tasks/optimizescan.md)
+      + [SEO용 Optimize PDF](advanced-tasks/optimizeseo.md)
+      + [책갈피 및 하이퍼링크 추가](advanced-tasks/bookmarks.md)
+      + [두 PDF 간 차이점 검색](advanced-tasks/compare.md)
+      + [PDF 향상](advanced-tasks/enhance.md)
+   + 양식 작성 및 관리 {#forms}
+      + [양식 필드로 작업](advanced-tasks/workforms.md)
+      + [고급 양식 필드](advanced-tasks/advancedforms.md)
+      + [양식 데이터를 사용한 작업](advanced-tasks/formdata.md)
+   + 보호 {#protect}
+      + [민감한 정보 제거](advanced-tasks/redact.md)
+   + 작업 과정 자동화 및 확장 {#automate}
+      + [안내가 제공되는 동작](advanced-tasks/action.md)
+      + [사용자 정의 명령 및 도구](advanced-tasks/custom.md)
 + AI 기반 {#ai-powered}
    + [개요](ai-powered/ai-overview.md)
    + [AI 어시스턴트로 PDF 인사이트 탐색](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
@@ -125,21 +121,21 @@ ht-degree: 5%
    + [웨비나](skill-builder/skill-builder-webinars.md)
 + 통합 {#integrations}
    + [개요](integrate/integrate-overview.md)
-   + [&#x200B; [!DNL Microsoft Word]에서 PDF 만들기](integrate/createfromword.md)
+   + [ [!DNL Microsoft Word]에서 PDF 만들기](integrate/createfromword.md)
    + [웹용  [!DNL Office] PDF 만들기](integrate/createofficeweb.md)
-   + [&#x200B; [!DNL Microsoft Teams]에서 공동 작업 PDF](integrate/acrobatandteams.md)
+   + [ [!DNL Microsoft Teams]에서 공동 작업 PDF](integrate/acrobatandteams.md)
    + [내 [!DNL SharePoint] 파일을 사용하여 작업](integrate/acrobatandsp.md)
    + [전자 메일 메시지 및 첨부 파일을  [!DNL Outlook]의 PDF으로 변환](integrate/outlook.md)
-   + [[!DNL Microsoft Edge] (으)로 검색하는 동안 PDF 콘텐츠 만들기](integrate/edge.md)
+   + [ [!DNL Microsoft Edge](으)로 검색하는 동안 PDF 콘텐츠 만들기](integrate/edge.md)
    + [민감도 레이블 [!DNL Microsoft Purview Information] 을 사용하는 Protect PDF](integrate/microsoftsensitivitylabels.md)
-   + [&#x200B; [!DNL Google Drive]용 Adobe Acrobat](integrate/acrobatandgoogle.md)
-   + [&#x200B; [!DNL Dropbox]의 파일을 사용하여 작업](integrate/acrobat-dropbox.md)
+   + [ [!DNL Google Drive]용 Adobe Acrobat](integrate/acrobatandgoogle.md)
+   + [ [!DNL Dropbox]의 파일을 사용하여 작업](integrate/acrobat-dropbox.md)
 + 업종 및 부서 {#by-industry}
    + [개요](industry/industry-overview.md)
    + 정부기관 {#gov}
       + [개요](industry/gov/gov-overview.md)
       + 어디서나 Acrobat으로 작업할 수 있는 5가지 팁 {#tips}
-         + [Acrobat을 사용하여 어디에서나 작업할 수 있는 5가지 팁](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + Acrobat을 사용하여 어디에서나 작업할 수 있는 [5가지 팁](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [팁 #1 - 도구 다운로드](industry/gov/get-your-tools.md)
          + [팁 #2 - 문서에서 공동 작업](industry/gov/collaborate-on-documents.md)
          + [팁 #3 - Protect 디지털 문서](industry/gov/protect-digital-documents.md)
