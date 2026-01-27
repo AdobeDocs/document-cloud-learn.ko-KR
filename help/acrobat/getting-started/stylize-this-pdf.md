@@ -6,7 +6,7 @@ role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 # 이 PDF 스타일화
 
-[Adobe Express](https://express.adobe.com) Adobe Express에서 제공하는 인앱 PDF을 사용하여 PDF 권장 사항, 색상 테마, 이미지 및 디자인 요소를 적용하여 글꼴의 시각적 모양을 개선하는 방법을 알아봅니다. 또한 튜토리얼에서는 레이아웃을 다듬고, Adobe Stock 또는 AI 생성 이미지를 추가하고, 텍스트 스타일을 사용자 정의하여 세련된 전문가 모양의 문서를 만드는 방법을 보여 줍니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-workspace.md)을 사용합니다.
+[Adobe Express](https://express.adobe.com) Adobe Express에서 제공하는 인앱 PDF을 사용하여 PDF 권장 사항, 색상 테마, 이미지 및 디자인 요소를 적용하여 글꼴의 시각적 모양을 개선하는 방법을 알아봅니다. 또한 튜토리얼에서는 레이아웃을 다듬고, Adobe Stock 또는 AI 생성 이미지를 추가하고, 텍스트 스타일을 사용자 정의하여 세련된 전문가 모양의 문서를 만드는 방법을 보여 줍니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-experience.md)을 사용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445548?captions=kor&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
-역할별 
+역할별 [!BADGE ]
 
 ## 이 PDF을 스타일화하는 것이 다양한 팀에 도움이 되는 방법
 

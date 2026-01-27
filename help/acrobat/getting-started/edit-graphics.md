@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 # PDF에서 그래픽 편집
 
-Acrobat에서 편집 모드를 사용하여 데스크탑과 웹의 PDF 내에서 직접 이미지를 추가, 교체, 자르기, 크기 조정, 회전 및 정렬하는 방법을 알아봅니다. 이 튜토리얼에서는 Adobe Express 기반의 인앱 이미지 생성기를 사용하여 텍스트 프롬프트에서 이미지를 생성하고 다듬는 방법도 보여 줍니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-workspace.md)을 사용합니다.
+Acrobat에서 편집 모드를 사용하여 데스크탑과 웹의 PDF 내에서 직접 이미지를 추가, 교체, 자르기, 크기 조정, 회전 및 정렬하는 방법을 알아봅니다. 이 튜토리얼에서는 Adobe Express 기반의 인앱 이미지 생성기를 사용하여 텍스트 프롬프트에서 이미지를 생성하고 다듬는 방법도 보여 줍니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-experience.md)을 사용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446936?captions=kor&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
-역할별 
+역할별 [!BADGE ]
 
 ## 편집 모드가 다른 팀에 도움이 되는 방법
 

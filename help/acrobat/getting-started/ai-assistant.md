@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 # AI 어시스턴트로 PDF 인사이트 탐색
 
-AI Assistant를 사용하여 PDF 파일에서 인사이트를 얻는 방법에 대해 알아봅니다. AI Assistant는 PDF을 분석하여 요약본을 생성하고, 질문에 답하고, 소스 콘텐츠에 대한 명확한 속성으로 통찰력을 추출하므로 긴 문서를 수동으로 읽을 필요가 줄어듭니다. AI가 생성한 응답은 문서의 정확한 위치에 직접 연결하여 확인되므로 보다 빠르고 신뢰할 수 있는 의사 결정을 수행할 수 있습니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-workspace.md)을 사용합니다.
+AI Assistant를 사용하여 PDF 파일에서 인사이트를 얻는 방법에 대해 알아봅니다. AI Assistant는 PDF을 분석하여 요약본을 생성하고, 질문에 답하고, 소스 콘텐츠에 대한 명확한 속성으로 통찰력을 추출하므로 긴 문서를 수동으로 읽을 필요가 줄어듭니다. AI가 생성한 응답은 문서의 정확한 위치에 직접 연결하여 확인되므로 보다 빠르고 신뢰할 수 있는 의사 결정을 수행할 수 있습니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-experience.md)을 사용합니다.
 
 AI Assistant는 Acrobat Studio 또는 AI Assistant 추가 기능을 구매하는 사용자가 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445829?captions=kor&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
-역할별 
+역할별 [!BADGE ]
 
 ## AI 어시스턴트가 다양한 팀에 도움을 주는 방식
 

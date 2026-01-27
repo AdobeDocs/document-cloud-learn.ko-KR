@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 용지를 PDF으로
 
-종이 문서를 스캔(또는 사진 촬영)하여 검색 및 [편집 가능한 PDF 파일](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}로 변환하는 방법을 알아봅니다. 종이를 PDF으로 변환하면 정보를 빠르게 찾고 장애가 있는 사용자가 액세스할 수 있는 능력이 향상됩니다. 이 튜토리얼에서는 [새로운 Acrobat 환경](new-workspace.md)을 보여 줍니다.
+종이 문서를 스캔(또는 사진 촬영)하여 검색 및 [편집 가능한 PDF 파일](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}로 변환하는 방법을 알아봅니다. 종이를 PDF으로 변환하면 정보를 빠르게 찾고 장애가 있는 사용자가 액세스할 수 있는 능력이 향상됩니다. 이 튜토리얼에서는 [새로운 Acrobat 환경](new-experience.md)을 보여 줍니다.
 
 
 ## 데스크탑용 Acrobat에서 용지를 PDF으로 변환하는 방법
