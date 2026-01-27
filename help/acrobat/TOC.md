@@ -22,7 +22,7 @@ ht-degree: 5%
    + 기본 정보 학습 {#basics}
       + [작업 공간 기본 사항](getting-started/workspace-basics.md)
       + [새 Acrobat 환경](getting-started/new-experience.md)
-      + [작업 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+      + [작업 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=ko#microsoft)
       + [Acrobat 웹으로 장소에 상관없이 작업](getting-started/acrobatweb.md)
       + [이동 중의 생산성](getting-started/productivity.md)
       + [PDF은 어디에서 오나요?](getting-started/where-do-pdfs-come-from.md)
