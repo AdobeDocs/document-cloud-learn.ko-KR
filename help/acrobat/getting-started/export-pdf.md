@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5529
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 2%
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 # PDF을 다른 파일 형식으로 변환
 
-PDF 파일을 [Microsoft Word](https://www.adobe.com/kr/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/kr/acrobat/online/pdf-to-ppt.html), [Excel](https://www.adobe.com/kr/acrobat/online/pdf-to-excel.html)과 같은 다른 파일 형식으로 변환하는 방법에 대해 알아봅니다. PDF을 [Adobe Express](https://express.adobe.com)&#x200B;(으)로 변환하여 브랜디드 디자인 요소를 추가하는 방법도 다룹니다. Microsoft Word와 같은 다른 파일 형식으로 PDF을 변환할 경우 문서 작업 과정의 효율성이 향상되고 긴 문서를 광범위하게 변경할 때 많은 시간이 절약됩니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-experience.md)을 사용합니다.
+PDF 파일을 [Microsoft Word](https://www.adobe.com/kr/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/kr/acrobat/online/pdf-to-ppt.html), [Excel](https://www.adobe.com/kr/acrobat/online/pdf-to-excel.html)과 같은 다른 파일 형식으로 변환하는 방법에 대해 알아봅니다. PDF을 [Adobe Express](https://express.adobe.com)&#x200B;(으)로 변환하여 브랜디드 디자인 요소를 추가하는 방법도 다룹니다. PDF을 Microsoft Word와 같은 다른 파일 형식으로 변환하면 문서 워크플로우의 효율성이 향상되고 긴 문서를 광범위하게 변경할 때 시간이 크게 절약됩니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-experience.md)을 사용합니다.
 
 >[!TIP]
 >
@@ -24,7 +24,7 @@ PDF 파일을 [Microsoft Word](https://www.adobe.com/kr/acrobat/online/pdf-to-wo
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3409655?captions=kor&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35494?enablevpops&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
@@ -32,4 +32,4 @@ PDF 파일을 [Microsoft Word](https://www.adobe.com/kr/acrobat/online/pdf-to-wo
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [Adobe Acrobat 시작하기](https://experienceleague.adobe.com/ko/playlists/acrobat-get-started-business-users)의 일부입니다.
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [Adobe Acrobat 시작하기](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users)의 일부입니다.

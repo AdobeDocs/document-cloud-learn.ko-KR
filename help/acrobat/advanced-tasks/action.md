@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6803
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -22,8 +22,8 @@ ht-degree: 0%
 >
 >Acrobat Pro, Premium 또는 Studio에서만 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444882?captions=kor&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433138?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->이 비디오는 Experience League 시 무료로 사용할 수 있는 재생 목록 [Adobe Acrobat에서 고급 작업 수행](https://experienceleague.adobe.com/ko/playlists/acrobat-peform-advanced-tasks)의 일부입니다.
+>이 비디오는 Experience League 시 무료로 사용할 수 있는 재생 목록 [Adobe Acrobat에서 고급 작업 수행](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks)의 일부입니다.

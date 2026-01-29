@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '752'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ## &#x200B;1. 독창적인 콘텐츠 제작
 
-웹 페이지 정보와 다른 PDF 콘텐츠를 만듭니다.
+웹 페이지에 있는 정보와 다른 PDF 내용을 만듭니다.
 
 +++고유한 콘텐츠를 만드는 방법에 대한 세부 정보 보기
 
@@ -29,9 +29,9 @@ PDF 콘텐츠는 다음과 같이 고유하고 구성되어야 합니다.
 * 키워드로 시작하는 하나의 주 제목/제목 사용
 * 계층 구조로 구성된 키워드 부제목 사용
 * 키워드 및 목록이 포함된 짧은 단락 사용
-* 내부 및 외부(웹 사이트 또는 기타 웹 사이트의 콘텐츠) 하이퍼링크 추가
+* 하이퍼링크를 사용하여 내부 및 외부 콘텐츠를 웹 사이트 또는 다른 웹 사이트에 추가
 * 25페이지 이상의 문서에 하이퍼링크된 목차 추가
-* 스캔한 모든 문서에서 [텍스트 인식](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=ko) 실행
+* 스캔한 모든 문서에서 [텍스트 인식](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) 실행
 * 모바일 친화적인 PDF 구축
 PDF의 모바일 보기 환경을 확인하려면 [Acrobat Reader 모바일 앱](https://www.adobe.com/acrobat/mobile/acrobat-reader.html)에서 파일을 열고 Liquid Mode를 켭니다. 탐색을 향상시키기 위해 필요한 경우 추가 부제목을 포함합니다.
 
@@ -64,7 +64,7 @@ PDF 파일에는 웹 페이지처럼 제목과 메타 설명이 있습니다.
 
 ## &#x200B;3. PDF 태그 지정
 
-PDF의 내용에 태그를 지정하면 장애가 있는 사용자가 파일에 [액세스 가능](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=ko)할 수 있을 뿐만 아니라 SEO가 향상됩니다.
+PDF에 내용에 태그를 지정하면 장애가 있는 사용자가 파일에 [액세스 가능](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview)할 수 있을 뿐만 아니라 SEO가 향상됩니다.
 
 +++PDF 태그 지정 방법에 대한 세부 정보 보기
 
@@ -88,7 +88,7 @@ PDF의 내용에 태그를 지정하면 장애가 있는 사용자가 파일에 
 
 ## &#x200B;4. 웹 준비
 
-웹 보기를 위해 PDF을 준비하고 [PDF 파일 크기를 줄여서](https://www.adobe.com/kr/acrobat/online/compress-pdf.html){target="_blank"} 콘텐츠와 상호 작용하는 경험을 최적화하세요.
+웹 보기를 위해 PDF을 준비하고 [PDF 파일 크기를 줄입니다](https://www.adobe.com/kr/acrobat/online/compress-pdf.html){target="_blank"}.
 
 +++웹용 PDF을 준비하는 방법에 대한 자세한 내용 보기
 
@@ -141,4 +141,4 @@ PDF의 내용에 태그를 지정하면 장애가 있는 사용자가 파일에 
 
 +++
 
-이제 PDF 순위 및 최종 사용자의 상호 작용을 최적화하여 키워드를 웹에 게시할 준비가 되었습니다.
+이제 PDF 순위 및 최종 사용자의 인터랙션을 최적으로 활용하여 키워드를 웹에 게시할 준비가 되었습니다.

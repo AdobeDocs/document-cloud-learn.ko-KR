@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 1%
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 >[!TIP]
 >
->여러 PDF 파일을 암호로 보호하려면 [Action Wizard](../advanced-tasks/action.md)를 사용해 보세요.
+>[Action Wizard](../advanced-tasks/action.md)를 사용하여 여러 PDF 파일을 암호로 보호하세요.
 
 [!BADGE 팀별]
 
@@ -34,7 +34,7 @@ ht-degree: 1%
 
 * **판매**
 
-  제안서, 가격 보고서 및 파트너 계약을 보호하면 경쟁업체나 승인되지 않은 이해 관계자가 전략적 정보에 액세스할 수 없게 됩니다.
+  제안서, 가격 보고서 및 파트너 계약을 보호하면 경쟁업체나 승인되지 않은 이해 관계자가 전략적 정보를 액세스할 수 없게 됩니다.
 
 * **시간**
 

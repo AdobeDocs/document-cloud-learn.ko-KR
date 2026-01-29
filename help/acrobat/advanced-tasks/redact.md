@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
 
 # 민감한 정보 제거
 
-교정 도구를 사용하여 PDF에서 개인 정보 또는 민감한 정보를 영구적으로 제거한 다음, 문서를 기밀 정보로 처리하여 주석, 메타데이터 또는 숨겨진 레이어 등 파일에 표시되지 않는 정보를 제거하는 방법을 살펴봅니다. PDF을 게시할 때 정보가 전달되지 않도록 중요한 내용 및 숨겨진 데이터를 영구적으로 제거하는 것은 중요합니다. 이 튜토리얼에서는 [새로운 Acrobat 환경](../getting-started/new-experience.md)을 사용합니다.
+교정 도구를 사용하여 PDF에서 개인 정보 또는 민감한 정보를 영구적으로 제거하는 방법을 살펴봅니다. 또한 이 튜토리얼에서는 문서를 애니메이션으로 저장하여 주석, 메타데이터, 숨겨진 레이어 등 파일에 표시되지 않는 정보를 제거하는 방법을 살펴봅니다. PDF을 게시할 때 정보가 전달되지 않도록 중요한 내용 및 숨겨진 데이터를 영구적으로 제거하는 것은 중요합니다. 이 튜토리얼에서는 [새로운 Acrobat 환경](../getting-started/new-experience.md)을 사용합니다.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## Acrobat 데스크탑에서 정보를 교정하는 방법
 
-1. 파일을 열고 도구 모음에서 **[!UICONTROL 모든 도구]**&#x200B;를 선택한 다음 **[!UICONTROL PDF 교정]**&#x200B;을 선택합니다.
+1. 파일을 열고 도구 모음에서 **[!UICONTROL 모든 도구]**&#x200B;를 선택한 다음 **[!UICONTROL PDF 교정]**을 선택합니다.
    ![단계 1 교정](../assets/Redact_1.png)
 
 1. **[!UICONTROL 속성 설정]**&#x200B;을 선택하여 교정 상자 또는 텍스트 오버레이의 색상을 포함하여 교정의 모양을 사용자 지정합니다.

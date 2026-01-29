@@ -6,20 +6,20 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
 # AI 어시스턴트로 PDF 인사이트 탐색
 
-AI Assistant를 사용하여 PDF 파일에서 인사이트를 얻는 방법에 대해 알아봅니다. AI Assistant는 PDF을 분석하여 요약본을 생성하고, 질문에 답하고, 소스 콘텐츠에 대한 명확한 속성으로 통찰력을 추출하므로 긴 문서를 수동으로 읽을 필요가 줄어듭니다. AI가 생성한 응답은 문서의 정확한 위치에 직접 연결하여 확인되므로 보다 빠르고 신뢰할 수 있는 의사 결정을 수행할 수 있습니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-experience.md)을 사용합니다.
+AI Assistant를 사용하여 PDF 파일에서 인사이트를 얻는 방법에 대해 알아봅니다. AI Assistant는 PDF을 분석하여 요약본을 생성하고, 질문에 답하고, 소스 콘텐츠에 대한 명확한 속성으로 통찰력을 추출하므로 긴 문서를 수동으로 읽을 필요가 없습니다. AI가 생성한 응답은 문서의 정확한 위치에 직접 연결하여 확인되므로 보다 빠르고 신뢰할 수 있는 의사 결정을 수행할 수 있습니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-experience.md)을 사용합니다.
 
 AI Assistant는 Acrobat Studio 또는 AI Assistant 추가 기능을 구매하는 사용자가 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445829?captions=kor&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 팀별]
 
@@ -27,7 +27,7 @@ AI Assistant는 Acrobat Studio 또는 AI Assistant 추가 기능을 구매하는
 
 * **법률**
 
-  법률팀은 AI 어시스턴트를 활용해 긴 계약, 정책, 규제 문서를 요약하고 관련 조항이나 변경 사항을 신속하게 파악하며 소스 텍스트에 대한 직접 인용을 통해 통찰력을 검증한다. 이를 통해 신뢰성과 추적성을 유지하면서 검토를 가속화할 수 있습니다.
+  법률팀은 AI 어시스턴트를 활용해 긴 계약, 정책, 규제 문서를 요약하고 관련 조항이나 변경 사항을 신속하게 파악하며 소스 텍스트에 대한 직접 인용을 통해 통찰력을 검증한다.
 
 * **판매**
 

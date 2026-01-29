@@ -6,18 +6,18 @@ role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 # 이 PDF 스타일화
 
-[Adobe Express](https://express.adobe.com) Adobe Express에서 제공하는 인앱 PDF을 사용하여 PDF 권장 사항, 색상 테마, 이미지 및 디자인 요소를 적용하여 글꼴의 시각적 모양을 개선하는 방법을 알아봅니다. 또한 튜토리얼에서는 레이아웃을 다듬고, Adobe Stock 또는 AI 생성 이미지를 추가하고, 텍스트 스타일을 사용자 정의하여 세련된 전문가 모양의 문서를 만드는 방법을 보여 줍니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-experience.md)을 사용합니다.
+[Adobe Express](https://express.adobe.com)에서 제공하는 인앱 PDF을 사용하여 PDF 권장 사항, 색상 테마, 이미지 및 디자인 요소를 적용하여 글꼴의 시각적 모양을 개선하는 방법을 알아봅니다. 또한 튜토리얼에서는 레이아웃을 다듬고, Adobe Stock 또는 AI 생성 이미지를 추가하고, 텍스트 스타일을 사용자 정의하여 세련된 전문가 모양의 문서를 만드는 방법을 보여 줍니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-experience.md)을 사용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445548?captions=kor&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 팀별]
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 * **법률**
 
-  법무 팀은 이 PDF의 스타일을 지정함으로써 정책 및 안내 문서에 일관된 서식, 타이포그래피 및 비주얼을 적용하여 전문적이고 읽기 쉬운 동시에 규정을 준수하고 의미 있는 변경을 방지합니다.
+  법무팀에서는 이 PDF에 일관적인 서식과 비주얼을 적용하여 정책과 지침 문서가 전문적으로 보이고 명확하며 정확하게 보이도록 스타일화합니다.
 
 * **판매**
 
-  영업 팀은 이 PDF을 스타일화하여 브랜드 글꼴, 색상 및 이미지를 적용하여 제안서와 프레젠테이션을 신속하게 다듬어 디자인 도구로 돌아가지 않고도 고객이 사용할 수 있는 문서를 제공할 수 있습니다.
+  영업 팀은 이 PDF을 스타일화하여 브랜드 글꼴, 색상 및 이미지를 적용하여 제안 및 프레젠테이션을 신속하게 다듬어, 디자인 도구로 돌아가지 않고도 고객이 사용할 수 있는 문서를 제공할 수 있습니다.
 
 * **시간**
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 * **재정**
 
-  재무 팀은 이 PDF을 스타일화하여 세련되고 일관된 시각적 스타일을 보고서와 프레젠테이션에 즉시 적용하여, 재무 문서를 보다 전문적이고 경영진 및 이해 관계자와 더 쉽게 공유할 수 있습니다.
+  재무 팀은 이 PDF을 스타일화하여 보고서와 프레젠테이션에 즉시 시각적 스타일을 다듬고 추가합니다.
 
 * **조달**
 

@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-6828
 thumbnail: KT-6828.jpg
 exl-id: d1284027-7df6-4242-9756-e0d401156498
-source-git-commit: b806cdc83632abc02a401550c77f32513926a3ef
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![양식 데이터 단계 3](../assets/FormData_3.png)
 
-1. 완성된 양식으로 만든 폴더를 선택합니다.
+1. 완료된 양식으로 생성한 폴더를 선택합니다.
 
    Acrobat은 각 양식에서 데이터를 추출하고 모든 데이터의 스프레드시트를 만듭니다.
 

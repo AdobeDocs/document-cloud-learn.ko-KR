@@ -6,18 +6,18 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 # PDF에서 그래픽 편집
 
-Acrobat에서 편집 모드를 사용하여 데스크탑과 웹의 PDF 내에서 직접 이미지를 추가, 교체, 자르기, 크기 조정, 회전 및 정렬하는 방법을 알아봅니다. 이 튜토리얼에서는 Adobe Express 기반의 인앱 이미지 생성기를 사용하여 텍스트 프롬프트에서 이미지를 생성하고 다듬는 방법도 보여 줍니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-experience.md)을 사용합니다.
+Acrobat에서 편집 모드를 사용하여 데스크탑과 웹의 PDF 내에서 직접 이미지를 추가, 교체, 자르기, 크기 조정, 회전 및 정렬하는 방법을 알아봅니다. 또한 이 튜토리얼에서는 Adobe Express 기반의 인앱 이미지 생성기를 사용하여 텍스트 프롬프트에서 이미지를 생성하고 다듬는 방법을 보여 줍니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-experience.md)을 사용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446936?captions=kor&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 팀별]
 
@@ -37,8 +37,8 @@ Acrobat에서 편집 모드를 사용하여 데스크탑과 웹의 PDF 내에서
 
 * **재정**
 
-  재무 팀은 편집 모드를 사용하여 재무 PDF의 차트와 비주얼을 빠르게 업데이트하여 원본 파일로 돌아가지 않고도 보고서를 정확하고 명확하게 유지할 수 있습니다.
+  재무 팀은 편집 모드를 사용하여 재무 PDF에서 차트와 비주얼을 빠르게 업데이트하여 원본 파일로 돌아가지 않고도 보고서를 정확하고 명확하게 유지할 수 있습니다.
 
 * **조달**
 
-  조달 팀은 편집 모드를 사용하여 공급업체 제안 또는 계약에서 공급업체 차트, 제품 이미지 및 시각적 세부 정보를 신속하게 업데이트할 수 있으며, 원본 파일이 없어도 소싱 문서를 정확하고 프레젠테이션 준비가 가능합니다.
+  조달 팀은 편집 모드를 사용하여 공급업체 제안서나 계약서의 공급업체 차트, 제품 이미지 및 시각적 세부 정보를 원본 파일 없이도 신속하게 업데이트할 수 있습니다.
