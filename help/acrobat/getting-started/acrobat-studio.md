@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 팀이 더 빠르게 이동할 수 있도록 Acrobat Studio를 사용하여 브랜드에 안전한 콘텐츠를 만들고, 통찰력을 추출하고, 복잡한 작업을 간소화하는 방법을 알아봅니다. Acrobat Studio는 Acrobat Pro, AI 어시스턴트, PDF 공간 및 Adobe Express 프리미엄이 포함된 올인원 솔루션입니다. 이러한 통합 툴은 파일을 중앙 집중화하고, AI 기반 분석을 가능하게 하며, 통합된 작업 영역 내에서 엔드 투 엔드 콘텐츠 생성을 지원하여 팀 생산성을 가속화합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475063?captions=kor&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
-역할별 
+[!BADGE 팀별]
 
 ## Acrobat Studio가 다양한 팀에 미치는 영향
 
