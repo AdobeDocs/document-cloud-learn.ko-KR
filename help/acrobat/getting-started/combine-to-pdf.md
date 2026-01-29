@@ -28,4 +28,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [Adobe Acrobat 시작하기](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users)의 일부입니다.
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [Adobe Acrobat 시작하기](https://experienceleague.adobe.com/ko/playlists/acrobat-get-started-business-users)의 일부입니다.
