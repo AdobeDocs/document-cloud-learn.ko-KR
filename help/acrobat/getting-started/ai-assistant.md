@@ -19,7 +19,7 @@ AI Assistant를 사용하여 PDF 파일에서 인사이트를 얻는 방법에 �
 
 AI Assistant는 Acrobat Studio 또는 AI Assistant 추가 기능을 구매하는 사용자가 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445829?captions=kor&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 팀별]
 
