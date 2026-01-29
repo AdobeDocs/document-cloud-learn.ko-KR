@@ -24,4 +24,4 @@ PDF의 페이지 전체에서 콘텐츠를 리플로우하고 레이아웃을 �
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/346975?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441227?captions=kor&quality=12&learn=on&hidetitle=true)

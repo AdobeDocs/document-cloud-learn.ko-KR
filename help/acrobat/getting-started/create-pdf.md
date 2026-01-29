@@ -24,7 +24,7 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35491?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409194?captions=kor&enablevpops&quality=12&learn=on&hidetitle=true)
 
 이 튜토리얼의 휴대용 버전을 보시겠습니까? PDF 아이콘을 선택하여 이 튜토리얼의 자필 버전을 열거나 다운로드합니다.
 
