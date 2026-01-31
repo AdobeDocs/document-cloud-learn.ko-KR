@@ -83,11 +83,11 @@ ht-degree: 5%
       + [사용자 정의 명령 및 도구](advanced-tasks/custom.md)
 + AI 기반 {#ai-powered}
    + [개요](ai-powered/ai-overview.md)
-   + [AI 어시스턴트로 PDF 인사이트 탐색](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [PDF 공간으로 팀 효율성 향상](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [Acrobat Studio란?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [PDF에서 그래픽 편집](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [이 PDF 스타일화](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+   + [AI 어시스턴트로 PDF 인사이트 탐색](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [PDF 공간으로 팀 효율성 향상](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [Acrobat Studio란?](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [PDF에서 그래픽 편집](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+   + [이 PDF 스타일화](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + 초 Acrobat {#60-second}
    + [개요](60-second/60-second-overview.md)
    + [Acrobat 웹으로 PDF 편집](60-second/edit.md)
@@ -148,5 +148,5 @@ ht-degree: 5%
    + [ETLA 고객을 위한 중요한 Acrobat DC 제품 업데이트](deploy/signentitlementchanges.md)
 + 모바일 {#mobile}
    + [개요](mobile/mobile-overview.md)
-   + [이동 중 생산성](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [이동 중 생산성](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [스캔하여 PDF](mobile/scan-mobile-app.md)
