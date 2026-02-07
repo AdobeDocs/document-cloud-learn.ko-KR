@@ -25,4 +25,4 @@ PDF 파일에 태그를 지정하여 액세스 가능하도록 하는 방법의 
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [PDF 접근성 시리즈](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility)의 일부입니다.
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [PDF 접근성 시리즈](https://experienceleague.adobe.com/ko/playlists/acrobat-pdf-accessibility)의 일부입니다.

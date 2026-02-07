@@ -25,4 +25,4 @@ Acrobat에서 스캔한 문서에 액세스할 수 있도록 만드는 방법을
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [PDF 접근성 시리즈](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility)의 일부입니다.
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [PDF 접근성 시리즈](https://experienceleague.adobe.com/ko/playlists/acrobat-pdf-accessibility)의 일부입니다.
