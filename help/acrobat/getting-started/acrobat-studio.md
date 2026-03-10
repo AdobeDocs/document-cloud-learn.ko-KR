@@ -6,18 +6,18 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: 4bb236eeda0e9a569b0c9b2639623ad10f28d5f3
+source-git-commit: 3343ab883acf6e350814ccbf3eceb49eb33c6d5e
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 # Acrobat Studio란?
 
-팀이 더 빠르게 이동할 수 있도록 Acrobat Studio를 사용하여 브랜드에 안전한 콘텐츠를 만들고, 통찰력을 추출하고, 복잡한 작업을 간소화하는 방법을 알아봅니다. Acrobat Studio는 Acrobat Pro, AI 어시스턴트, PDF 공간 및 Adobe Express 프리미엄이 포함된 올인원 솔루션입니다. 아래의 *지금 사용해 보기* 대화형 옵션을 살펴보고 Acrobat Studio로 팀의 작업을 간소화하는 방법을 알아보세요.
+팀이 더 빠르게 이동할 수 있도록 Acrobat Studio를 사용하여 브랜드에 안전한 콘텐츠를 만들고, 통찰력을 추출하고, 복잡한 작업을 간소화하는 방법을 알아봅니다. Acrobat Studio는 Acrobat Pro, AI 어시스턴트, PDF 공간 및 Adobe Express 프리미엄이 포함된 올인원 솔루션입니다. 아래의 **지금 사용해 보기** 대화형 옵션을 살펴보고 Acrobat Studio로 팀의 작업을 간소화하는 방법을 알아보세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475063?captions=kor&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
 [!BADGE 팀별]
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 * **재정**
 
-  재무 팀이 정확성, 신뢰, 통제를 손상시키지 않고 재무 보고를 통해 더 빠르게 이동하는 방법을 알아보십시오. [지금 사용해 보세요]https://w.adobedemo.com/s/31LpAI.
+  재무 팀이 정확성, 신뢰, 통제를 손상시키지 않고 재무 보고를 통해 더 빠르게 이동하는 방법을 알아보십시오. [지금 사용해 보기](https://w.adobedemo.com/s/31LpAI.)
