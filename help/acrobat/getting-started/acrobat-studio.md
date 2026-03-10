@@ -17,7 +17,7 @@ ht-degree: 0%
 
 팀이 더 빠르게 이동할 수 있도록 Acrobat Studio를 사용하여 브랜드에 안전한 콘텐츠를 만들고, 통찰력을 추출하고, 복잡한 작업을 간소화하는 방법을 알아봅니다. Acrobat Studio는 Acrobat Pro, AI 어시스턴트, PDF 공간 및 Adobe Express 프리미엄이 포함된 올인원 솔루션입니다. 아래의 **지금 사용해 보기** 대화형 옵션을 살펴보고 Acrobat Studio로 팀의 작업을 간소화하는 방법을 알아보세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475063?captions=kor&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 팀별]
 
