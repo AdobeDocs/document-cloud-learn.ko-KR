@@ -5,9 +5,10 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20533
-source-git-commit: 70988640e34ad1f06da7e8447c055435a2ac7239
+exl-id: 2e37e636-df5b-4c6a-93c7-8df68d60bc65
+source-git-commit: 8245d1a196a240fd640ddea2e90d65e1e20265d9
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '108'
 ht-degree: 1%
 
 ---
@@ -32,12 +33,12 @@ Acrobat이 보고, 예산 편성 및 감사 프로세스 전반에서 문서 생
 <tr>
   <td>
     <a href="finance-insights.md">
-      <img alt="재무 보고서를 실행 가능한 통찰력으로 전환" src="../../../assets/use-case-financial-insights.png" />
+      <img alt="통찰력에서 전달까지 실행 준비가 완료된 재무 문서 준비" src="../../../assets/use-case-financial-insights.png" />
     </a>
     <div>
-    <a href="finance-insights.md"><strong>재무 보고서를 실행 준비가 된 인사이트로 전환</strong></a>
+    <a href="finance-insights.md"><strong>통찰력에서 전달까지 실행 준비가 완료된 재무 문서 준비</strong></a>
     </div>
-    <em>재무 팀이 재무 정보를 통합하여 주요 성능 인사이트를 빠르게 표시하는 방법에 대해 알아보세요</em>
+    <em>재무 팀이 Acrobat Studio를 사용하여 분석에서 배달로 이동하는 방법을 알아봅니다.</em>
     <br>
   </td>
   <td>
