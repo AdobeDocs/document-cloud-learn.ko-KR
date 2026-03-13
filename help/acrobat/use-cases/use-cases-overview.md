@@ -1,22 +1,56 @@
 ---
-title: 사용 사례
-description: 다양한 사용 사례를 탐색하여 고객 및 직원 경험을 혁신하는 방법을 알아보십시오.
+title: 사용 사례 개요
+description: 다양한 사용 사례를 살펴보고 Acrobat으로 작업을 변환하는 방법을 알아보세요
 feature: Accessibility, Security, Create PDF, Mobile, Workspace, Sign, Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 68cdb0c38c9fe64bf9643b4165485fe90f333b07
+source-git-commit: 70988640e34ad1f06da7e8447c055435a2ac7239
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
-# 사용 사례
+# 사용 사례 개요
 
-Acrobat을 사용하여 생산성을 높이고 정보를 팀의 실행 가능한 통찰력으로 전환하는 방법에 대해 알아봅니다.
+Acrobat을 사용하여 생산성을 높이고 팀 및 산업을 위해 정보를 실행 가능한 통찰력으로 전환하는 방법에 대해 알아보십시오.
+
+## 업무 라인
+
+다양한 비즈니스 분야의 팀이 Acrobat을 사용하여 일상적인 문서 문제를 해결하고, 워크플로우를 간소화하고, 비즈니스에 중요한 작업을 지원하는 방법을 알아봅니다.
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="lob/finance/finance-overview.md">
+      <img alt="금융 사용 사례" src="../assets/use-case-finance.png" />
+    </a>
+    <div>
+    <a href="lob/finance/finance-overview.md"><strong>금융 사용 사례</strong></a>
+    </div>
+    <em>재무 팀이 Acrobat을 사용하여 재무 문서를 생성, 관리, 분석 및 보호하는 방법에 대해 알아봅니다</em>
+    <br>
+  </td>
+  <td>
+        <img alt="스페이서" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="스페이서" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="스페이서" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
 
 ## 산업
 
@@ -27,7 +61,7 @@ Acrobat을 사용하여 생산성을 높이고 정보를 팀의 실행 가능한
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="정부용 Acrobat" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="정부용 Acrobat"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="정부용 Acrobat"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
