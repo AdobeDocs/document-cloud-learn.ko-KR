@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-20543
 exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
-source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
+source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '257'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ HR 팀이 Acrobat Studio를 사용하여 처음부터 끝까지 직원 온보딩
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481509?quality=12&learn=on&hidetitle=true)
 
-## 3단계. 실행 준비가 완료된 프레젠테이션 만들기
+## 3단계. 신입 사원을 위한 매력적인 온보딩 콘텐츠 제작
 
 피드백이 완료되었으며 콘텐츠를 전달할 준비가 되었습니다. Acrobat Studio에서 AI 및 브랜디드 템플릿을 사용하여 공유 및 업데이트가 간편한 직원용 프레젠테이션과 자료를 빠르게 제작하는 방법을 살펴보십시오.
 
