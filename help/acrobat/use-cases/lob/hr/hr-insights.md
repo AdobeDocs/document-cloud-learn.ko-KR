@@ -1,22 +1,23 @@
 ---
-title: Insight에서 Impact까지 — HR 워크플로우 간소화
+title: Insight에서 Impact까지 — 온보딩 워크플로우 간소화
 description: HR 팀이 Acrobat Studio를 사용하여 처음부터 끝까지 직원 온보딩을 간소화하는 방법을 알아봅니다
 feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20543
-source-git-commit: 21b016a7471f874f538ad2eac73d2833e49a6dc1
+exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
+source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '253'
 ht-degree: 2%
 
 ---
 
-# 통찰력에서 영향까지: HR 워크플로우 간소화
+# 통찰력에서 영향까지: 온보딩 워크플로우 간소화
 
 HR 팀이 Acrobat Studio를 사용하여 처음부터 끝까지 직원 온보딩을 간소화하는 방법을 알아봅니다. 복잡한 온보딩 문서를 명확한 통찰력으로 전환하고, 공유 PDF 공간에서 이해 관계자들과 공동 작업하고, 신입 직원과 공유할 수 있도록 세련된 온브랜드 콘텐츠를 빠르고 일관성 있게, 자신 있게 제작하는 방법을 알아봅니다. 이 사용 사례는 각 비디오가 이전 단계에서 빌드되면서 순차적으로 완료되도록 설계되었습니다.
 
-**최적:** HR 리더, HR 운영 및 비즈니스 파트너, 온보딩 및 직원 경험 팀, 직원 대상 HR 자료를 검토, 공동 작업 또는 만드는 모든 담당자에 적합
+**HR 리더, HR 운영 및 비즈니스 파트너, 온보딩 및 직원 경험 팀, 직원 또는 리더십을 위해 HR 자료를 준비하는 모든 사람에게 적합**&#x200B;합니다.
 
 ## 1단계. 온보딩 문서를 명확한 통찰력으로 전환
 
@@ -37,4 +38,3 @@ HR 팀이 Acrobat Studio를 사용하여 처음부터 끝까지 직원 온보딩
 >[!VIDEO](https://video.tv.adobe.com/v/3481521?quality=12&learn=on&hidetitle=true)
 
 이제 Acrobat Studio를 사용하여 직원 온보딩용 문서를 분석, 검토 및 제공하기 위한 반복 가능한 프로세스가 만들어졌습니다.
-
