@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-20533
 exl-id: 2e37e636-df5b-4c6a-93c7-8df68d60bc65
-source-git-commit: 8245d1a196a240fd640ddea2e90d65e1e20265d9
+source-git-commit: 77761ef2b213a6cc900b349febb782d452dd6d97
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '113'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Acrobat이 보고, 예산 편성 및 감사 프로세스 전반에서 문서 생
 
 >[!TAB 재무 보고서를 실행 준비가 된 인사이트로 전환]
 
-재무 팀이 재무 정보를 통합하여 주요 성능을 빠르게 표시하는 방법 [인사이트](finance-insights.md)에 대해 알아보세요.
+재무 팀이 재무 정보를 통합하여 주요 성능 [인사이트](finance-insights.md)를 빠르게 표시하고 실행 준비가 완료된 프레젠테이션을 제공하는 방법에 대해 알아봅니다.
 
 >[!ENDTABS]
 
