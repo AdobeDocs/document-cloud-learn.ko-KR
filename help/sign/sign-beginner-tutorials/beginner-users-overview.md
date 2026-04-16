@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 169855b701bbc9153e349687366a6f6e49adabe6
+source-git-commit: 2efeaa6ee37e4cbf6550d6ef868aa416abe1a7c0
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 7%
+source-wordcount: '510'
+ht-degree: 26%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 7%
 ## 새로운 기능
 
 >[!BEGINTABS]
+
+>[!TAB 전송 후 문서 수정]
+
+서명을 위해 이미 전송된 [문서를 수정](../sign-beginner-tutorials/manage-and-track.md)하는 방법에 대해 알아보십시오.
 
 >[!TAB 계약 관리 및 추적]
 
@@ -33,10 +37,6 @@ Acrobat Sign으로 전송된 문서에 [서명](../sign-beginner-tutorials/elect
 >[!TAB 재사용 가능한 템플릿 만들기]
 
 [재사용 가능한 문서 템플릿](../sign-advanced-users/create-a-template.md)을 만드는 방법에 대해 알아봅니다.
-
->[!TAB 전송 옵션 구성]
-
-서명을 위해 문서를 보낼 때 [다양한 옵션을 구성](sending-options.md)하는 방법에 대해 알아봅니다.
 
 >[!ENDTABS]
 
@@ -51,7 +51,7 @@ Acrobat Sign으로 전송된 문서에 [서명](../sign-beginner-tutorials/elect
     <div>
     <a href="new-sender.md"><strong>Acrobat Sign 시작하기</strong></a>
     </div>
-    이 튜토리얼은 Acrobat Sign의 새로운 사용자를 위해 좋은 출발점입니다.
+    이 튜토리얼은 Acrobat Sign 신규 사용자를 위한 좋은 시작점입니다.
     <br>
   </td>
  <td>
@@ -71,7 +71,7 @@ Acrobat Sign으로 전송된 문서에 [서명](../sign-beginner-tutorials/elect
     <div>
     <a href="send-to-single-recipient.md"><strong>한 서명자에게 문서 보내기</strong></a>
     </div>
-    바로 로그인하여 서명을 받기 위해 문서를 보내는 것이 얼마나 쉬운지 알아보세요.
+    바로 시작하여 서명을 받기 위해 문서를 전송하기가 얼마나 쉬운지 알아보세요.
     <br>
   </td>
   <td>
@@ -81,7 +81,7 @@ Acrobat Sign으로 전송된 문서에 [서명](../sign-beginner-tutorials/elect
     <div>
     <a href="send-to-multiple-recipients.md"><strong>여러 서명자에게 보내기</strong></a>
     </div>
-    전자 서명을 위해 문서를 두 명 이상의 사용자에게 원하는 순서대로 보내기
+    원하는 순서대로 여러 사람에게 전자 서명을 위한 문서 보내기
     <br>
   </td>
 </tr>
@@ -93,7 +93,7 @@ Acrobat Sign으로 전송된 문서에 [서명](../sign-beginner-tutorials/elect
     <div>
     <a href="sending-options.md"><strong>전송 옵션 구성</strong></a>
     </div>
-    서명을 위해 문서를 전송할 때 다양한 옵션을 구성하는 방법에 대해 알아보십시오
+    서명을 위해 문서를 보낼 때 다양한 옵션을 구성하는 방법을 알아보세요.
     <br>
   </td>
   <td>
@@ -113,7 +113,7 @@ Acrobat Sign으로 전송된 문서에 [서명](../sign-beginner-tutorials/elect
     <div>
     <a href="modify-in-flight.md"><strong>전송 후 문서 수정</strong></a>
     </div>
-    이미 진행 중인 문서 수정
+    이미 진행 중인 문서를 수정하는 방법 알아보기
     <br>
   </td>
   <td>
@@ -145,7 +145,7 @@ Acrobat Sign으로 전송된 문서에 [서명](../sign-beginner-tutorials/elect
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>재사용 가능한 템플릿 만들기</strong></a>
     </div>
-    재사용 가능한 문서 템플릿을 만들어 조직의 속도와 일관성을 제공합니다
+    재사용 가능한 문서 템플릿을 만들어 조직에 속도와 일관성 제공
     <br>
   </td>
     <td>
@@ -172,7 +172,7 @@ Acrobat Sign으로 전송된 문서에 [서명](../sign-beginner-tutorials/elect
     <div>
     <a href="electronically-sign-a-document.md"><strong>문서에 전자 서명</strong></a>
     </div>
-    Acrobat Sign으로 전송된 문서에 서명하는 방법을 살펴봅니다.
+    Acrobat Sign으로 받은 문서에 서명하기가 얼마나 쉬운지 알아보세요.
     <br>
   </td>
   <td>
@@ -251,7 +251,7 @@ Acrobat Sign으로 전송된 문서에 [서명](../sign-beginner-tutorials/elect
     <div>
     <a href="manage-and-track.md"><strong>계약 관리 및 추적</strong></a>
     </div>
-    서명을 위해 전송된 계약을 관리하고 추적하는 방법을 알아봅니다.
+    서명을 위해 보낸 계약을 관리하고 추적하는 방법을 알아보세요.
     <br>
   </td>
   <td>
