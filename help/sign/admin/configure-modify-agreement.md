@@ -23,4 +23,4 @@ Acrobat Sign에서 **계약 수정**&#x200B;을 구성하고 관리하는 방법
 * 수정 모드가 계약 무결성을 보호하는 방법
 * 감사 보고서에 기록되는 변경 사항
 
->[!VIDEO](https://video.tv.adobe.com/v/3483690?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3483698?captions=kor&quality=12&learn=on&hidetitle=true)
