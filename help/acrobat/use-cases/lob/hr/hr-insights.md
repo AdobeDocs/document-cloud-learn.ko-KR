@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-20543
 exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
-source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '272'
 ht-degree: 2%
 
 ---
@@ -18,6 +18,8 @@ ht-degree: 2%
 HR 팀이 Acrobat Studio를 사용하여 처음부터 끝까지 직원 온보딩을 간소화하는 방법을 알아봅니다. 복잡한 온보딩 문서를 명확한 통찰력으로 전환하고, 공유 PDF 공간에서 이해 관계자들과 공동 작업하고, 신입 직원과 공유할 수 있도록 세련된 온브랜드 콘텐츠를 빠르고 일관성 있게, 자신 있게 제작하는 방법을 알아봅니다. 이 사용 사례는 각 비디오가 이전 단계에서 빌드되면서 순차적으로 완료되도록 설계되었습니다.
 
 **HR 리더, HR 운영 및 비즈니스 파트너, 온보딩 및 직원 경험 팀, 직원 또는 리더십을 위해 HR 자료를 준비하는 모든 사람에게 적합**&#x200B;합니다.
+
+**사용해 보기:** 지금 이 HR 온보딩 워크플로 [실습](https://w.adobedemo.com/s/NvvfVm){target="_blank"}을 살펴보세요.
 
 ## 1단계. 온보딩 문서를 명확한 통찰력으로 전환
 

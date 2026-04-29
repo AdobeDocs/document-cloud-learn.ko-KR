@@ -5,9 +5,10 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20546
-source-git-commit: 70378a366d714f100b7f4e4f4591c4369f6fee8b
+exl-id: 4fdb38c6-e742-41c9-8b14-1491532f1d4b
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '254'
 ht-degree: 2%
 
 ---
@@ -17,6 +18,9 @@ ht-degree: 2%
 영업 팀이 고객 인사이트를 수집하고, 공유 작업 영역에서 공동 작업을 수행하고, 검증된 인텔리전스를 온브랜드 프레젠테이션 및 제안으로 변환하여 보다 빠르고 신뢰감 있게 만드는 방법을 알아보십시오. 이 사용 사례는 각 비디오가 이전 단계에서 빌드되면서 순차적으로 완료되도록 설계되었습니다.
 
 **최적 대상:** 계정 관리자, 영업 관리자, 거래 팀 및 미팅, 프레젠테이션 또는 제안을 위한 고객 대면 영업 자료를 준비하는 모든 사용자
+
+
+**사용해 보기:** 지금 이 영업 워크플로 [실습](https://w.adobedemo.com/s/HEEljN){target="_blank"}을 살펴보세요.
 
 ## 1단계. AI 기반 인사이트로 고객 이해
 

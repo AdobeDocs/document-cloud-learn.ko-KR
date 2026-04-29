@@ -5,10 +5,11 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20552
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+exl-id: 86b7e471-0e26-45d9-b87a-c91886e10c33
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 3%
+source-wordcount: '205'
+ht-degree: 2%
 
 ---
 
@@ -17,6 +18,8 @@ ht-degree: 3%
 법무팀이 Acrobat Studio를 사용하여 복잡한 문서를 분석하고 안전하게 공동 작업하고 통찰력을 명확하고 실행 가능한 지침으로 전환하는 방법을 보다 빠르고 확실하게 알아봅니다. 이 사용 사례는 각 비디오가 이전 단계에서 빌드되면서 순차적으로 완료되도록 설계되었습니다.
 
 **최적의 용도:** 법률 리더, 사내 변호사, 계약 검토자 및 비즈니스 전반에 걸쳐 법적 지침을 제공하는 팀
+
+**사용해 보기:** 지금 이 법적 작업 과정 [실습](https://w.adobedemo.com/s/ujZN1y){target="_blank"}을 살펴보세요.
 
 ## 1단계. 법적 정보 분석 및 통찰력 확보
 
@@ -37,4 +40,3 @@ ht-degree: 3%
 >[!VIDEO](https://video.tv.adobe.com/v/3481665?captions=kor&quality=12&learn=on&hidetitle=true)
 
 이제 법적 문서를 파악하고, 안전하게 공동 작업하고, 비즈니스에서 사용할 수 있는 명확한 지침을 만드는 반복 가능한 프로세스가 만들어졌습니다.
-
