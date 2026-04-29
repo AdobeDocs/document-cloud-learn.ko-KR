@@ -6,10 +6,10 @@ role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 3%
+source-wordcount: '213'
+ht-degree: 2%
 
 ---
 
@@ -18,6 +18,8 @@ ht-degree: 3%
 재무 팀이 Acrobat을 사용하여 통찰력에서 전달에 이르기까지 재무 문서를 관리하는 방법을 알아봅니다. 이 활용 사례는 정보를 분석하고, 이해 관계자와 공동 작업하고, 실행 가능한 재무 자료를 만드는 엔드 투 엔드 작업 과정을 안내합니다. 이 사용 사례는 각 비디오가 이전 단계에서 빌드되면서 순차적으로 완료되도록 설계되었습니다.
 
 **재무 리더, FP&amp;A 팀, 분석가 및 경영진 또는 이사회 검토용 자료를 준비하는 모든 사용자에게 적합**&#x200B;합니다.
+
+**사용해 보기:** 지금 이 재무 보고 워크플로 [실습](https://w.adobedemo.com/s/31LpAI){target="_blank"}을 살펴보세요.
 
 ## 1단계. 재무 성과 파악
 
