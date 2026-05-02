@@ -22,4 +22,4 @@ ht-degree: 0%
 * 명확한 인라인 피드백으로 서명자 안내
 * 양식으로 수집된 정보의 정확성 향상
 
->[!VIDEO](https://video.tv.adobe.com/v/3484144?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3484167?captions=kor&quality=12&learn=on&hidetitle=true)
