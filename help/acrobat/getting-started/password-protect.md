@@ -7,16 +7,18 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+source-git-commit: 51c7b414f2a0b4a67d70274e1d7d81f4c8be3455
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 1%
+source-wordcount: '217'
+ht-degree: 5%
 
 ---
 
 # 암호로 PDF 파일 Protect
 
-[PDF에 암호를 추가](https://www.adobe.com/kr/acrobat/online/password-protect-pdf.html){target="_blank"}하여 다른 사람이 PDF 파일을 열거나 편집하지 못하도록 보호하는 방법[을 알아보세요](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}. PDF 파일을 보호하면 무단 액세스를 방지하고 중요한 정보를 보호하며 문서 무결성을 유지하고 특정 업계 규정을 준수할 수 있습니다.
+[PDF에 암호를 추가](https://www.adobe.com/kr/acrobat/online/password-protect-pdf.html){target="_blank"}하여 다른 사람이 PDF 파일을 열거나 편집하지 못하도록 보호하는 방법[을 알아보세요](https://www.adobe.com/kr/acrobat/online/pdf-editor.html){target="_blank"}. PDF 파일을 보호하면 무단 액세스를 방지하고 중요한 정보를 보호하며 문서 무결성을 유지하고 특정 업계 규정을 준수할 수 있습니다.
+
+**사용해 보기:** 지금 [실습](https://w.adobedemo.com/s/-gNaDL){target="_blank"} PDF 보안을 살펴보세요.
 
 >[!SLIDE](protect-pdfs)
 
