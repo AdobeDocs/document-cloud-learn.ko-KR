@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-18747
 exl-id: dab3498a-3cc7-44b9-bb6f-3d843b521716
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+source-git-commit: 51c7b414f2a0b4a67d70274e1d7d81f4c8be3455
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,8 @@ ht-degree: 0%
 사내 법률 팀이 PDF 스페이스를 사용하여 정책 문서, 법적 메모 및 규정 지침을 단일 작업 영역으로 통합하는 방법을 알아봅니다. AI가 생성한 요약, 강조된 변경 내용, 인용된 인사이트가 팀이 정확성과 규정 준수를 유지하면서 업데이트를 보다 효율적으로 검토하는 데 어떻게 도움이 되는지 보여준다.
 
 PDF 공간은 Acrobat Studio 또는 AI Assistant 추가 기능을 구매하는 사용자가 사용할 수 있습니다.
+
+**사용해 보기:** 지금 바로 PDF 스페이스 [실습](https://w.adobedemo.com/s/Y1h_Xk){target="_blank"}을 살펴보세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475139?captions=kor&quality=12&learn=on&hidetitle=true)
 

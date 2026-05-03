@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+source-git-commit: 51c7b414f2a0b4a67d70274e1d7d81f4c8be3455
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 # 민감한 정보 제거
 
 교정 도구를 사용하여 PDF에서 개인 정보 또는 민감한 정보를 영구적으로 제거하는 방법을 살펴봅니다. 또한 이 튜토리얼에서는 문서를 애니메이션으로 저장하여 주석, 메타데이터, 숨겨진 레이어 등 파일에 표시되지 않는 정보를 제거하는 방법을 살펴봅니다. PDF을 게시할 때 정보가 전달되지 않도록 중요한 내용 및 숨겨진 데이터를 영구적으로 제거하는 것은 중요합니다. 이 튜토리얼에서는 [새로운 Acrobat 환경](../getting-started/new-experience.md)을 사용합니다.
+
+**사용해 보기:** 지금 [실습](https://w.adobedemo.com/s/7MUInu){target="_blank"}을 교정하는 방법을 살펴보세요.
 
 >[!NOTE]
 >
