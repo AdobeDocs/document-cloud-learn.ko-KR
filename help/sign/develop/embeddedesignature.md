@@ -9,10 +9,15 @@ jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 0a299592f0616988b6208fc98d3140f4ac22057e
+TQID: https://experienceleague.adobe.com/hpoT07uqXklt0yT3-oD6AW8mWcbGxqalTao-5lc6BCc
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909id: c1c5fb98-9105-44ed-9df1-9e04d062a784id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+feature_v2: id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '832'
-ht-degree: 0%
+source-wordcount: 917
+ht-degree: 1%
 
 ---
 
@@ -153,8 +158,8 @@ Sign 에코시스템의 거대한 체계 내에서 임시 문서가 어디에 �
 * [JS 이벤트](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhook 이벤트
    * [REST API](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
-   * Acrobat Sign v6의 [Webhook](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
-* [요청 전자 메일(이벤트 포함) 다시 활성화](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
+   * [Acrobat Sign v6의 Webhook](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
+* [요청 이메일 재활성화(이벤트 포함)](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
 * [시간 초과를 다시 시도로 바꾸기](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
 * 사용자 정의 미리 알림
    * 초기 생성 시

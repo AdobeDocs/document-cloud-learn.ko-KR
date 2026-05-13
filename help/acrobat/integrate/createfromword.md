@@ -9,9 +9,14 @@ topic-revisit: Integrations
 jira: KT-7142
 thumbnail: 331736.jpg
 exl-id: 95540954-d0c7-4cae-a919-00e3927d2f83
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+TQID: https://experienceleague.adobe.com/opbfXRZn2UaEZSwY2proWg9xb1AOYiHxIBwqN-Kp9Uc
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: 103
 ht-degree: 0%
 
 ---
@@ -26,8 +31,8 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3409575?quality=12&learn=on&hidetitle=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/331736?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [Acrobat과 Microsoft 365 통합](https://experienceleague.adobe.com/ko/playlists/acrobat-integrate-microsoft-365)의 일부입니다.
+>이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [Acrobat과 Microsoft 365 통합](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365)의 일부입니다.

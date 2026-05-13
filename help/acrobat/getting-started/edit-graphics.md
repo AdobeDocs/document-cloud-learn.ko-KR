@@ -6,9 +6,13 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/B9BTFJhfr85ZXy-30mGZmM1ZyXlzIlHneBXZ-KoQZ-g
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: 231
 ht-degree: 0%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 0%
 
 Acrobat에서 편집 모드를 사용하여 데스크탑과 웹의 PDF 내에서 직접 이미지를 추가, 교체, 자르기, 크기 조정, 회전 및 정렬하는 방법을 알아봅니다. 또한 이 튜토리얼에서는 Adobe Express 기반의 인앱 이미지 생성기를 사용하여 텍스트 프롬프트에서 이미지를 생성하고 다듬는 방법을 보여 줍니다. 이 비디오 튜토리얼에서는 [새로운 Acrobat 환경](new-experience.md)을 사용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446936?captions=kor&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 팀별]
 

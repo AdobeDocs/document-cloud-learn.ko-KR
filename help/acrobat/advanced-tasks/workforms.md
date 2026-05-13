@@ -7,10 +7,15 @@ level: Intermediate
 jira: KT-9345
 thumbnail: KT-9345.jpg
 exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/e6UxLIxTmzvuzAqZ8gId67CWtOzEuMFM8aHnjlmu3cs
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '726'
-ht-degree: 0%
+source-wordcount: 737
+ht-degree: 1%
 
 ---
 
@@ -37,7 +42,7 @@ Prepare Form 도구를 사용하여 자동으로 기존 PDF에 양식 필드를 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3448518?captions=kor&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -58,7 +63,7 @@ Prepare Form 도구를 사용하여 자동으로 기존 PDF에 양식 필드를 
 
 1. *HQ 위치* 텍스트 필드를 선택하고 삭제합니다.
 1. 도구 모음에서 **목록 상자**&#x200B;를 선택하고 삭제된 텍스트 필드 위치에 새 필드를 배치합니다.
-1. *필드 이름:*&#x200B;에 **HQ 위치**&#x200B;를 입력하십시오.
+1. **필드 이름:**&#x200B;에 *HQ 위치*&#x200B;를 입력하십시오.
 1. **모든 속성**&#x200B;을 선택하고 **옵션** 탭을 선택합니다.
 1. **항목:** 필드에 세 개의 다른 위치를 추가합니다.
 1. **항목 목록:** 필드에서 기본 위치를 선택하십시오.
@@ -70,7 +75,7 @@ Prepare Form 도구를 사용하여 자동으로 기존 PDF에 양식 필드를 
 
 1. *프로젝트 타임라인* 및 *종료 날짜* 필드를 선택하고 삭제합니다.
 1. 도구 모음에서 **날짜 필드**&#x200B;를 선택하고 삭제된 *프로젝트 타임라인* 필드 위치에 새 필드를 배치합니다.
-1. *필드 이름:*&#x200B;에 **프로젝트 시작**&#x200B;을(를) 입력하십시오.
+1. **필드 이름:**&#x200B;에 *프로젝트 시작*&#x200B;을(를) 입력하십시오.
 1. **모든 속성**&#x200B;을 선택하고 **형식** 탭을 선택합니다.
 1. 날짜 형식 옵션을 선택하고 **닫기**&#x200B;를 선택합니다.
 1. Ctrl + Shift 키(Mac의 Cmd + Shift)를 눌러 필드를 복제합니다.
@@ -94,7 +99,7 @@ Prepare Form 도구를 사용하여 자동으로 기존 PDF에 양식 필드를 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3439899?captions=kor&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
 
@@ -104,7 +109,7 @@ Prepare Form 도구를 사용하여 자동으로 기존 PDF에 양식 필드를 
 
 1. Shift 키를 누른 채 오른쪽 창에서 모든 텍스트 및 목록 필드를 선택합니다.
 1. 마우스 오른쪽 단추를 클릭하고 **속성...**&#x200B;을 선택합니다.
-1. *글꼴 크기:* 드롭다운에서 **12**&#x200B;을(를) 선택합니다.
+1. **글꼴 크기:** 드롭다운에서 *12*&#x200B;을(를) 선택합니다.
 1. **닫기**&#x200B;를 선택합니다.
 
 탭 순서를 설정하면 양식을 작성하는 동안 양식 작성자가 필드 간에 쉽게 이동할 수 있습니다.

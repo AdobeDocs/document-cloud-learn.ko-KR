@@ -7,10 +7,15 @@ level: Intermediate
 jira: KT-7269
 thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/yAZqS-n9dBEr5B56ibBNPNF8MfEOfCq3J74wNHFnYo0
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e9001ce2-5245-4a8e-8601-dd958009072fid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 2%
+source-wordcount: 803
+ht-degree: 7%
 
 ---
 
@@ -47,7 +52,7 @@ Acrobat DC을 최신 버전으로 업데이트하지 않은 경우 도구 이름
 * 사용자 정의 및 최적화
    * 고급 전자 서명 인증, 고급 ID 기반 서명자 ID 확인, 워크플로우 디자이너, 고급 언어 지원 등.
 
-Adobe Sign은 법적 규정 준수 서명을 캡처하기 위해 세계적으로 인정받는 업계 최고 수준의 솔루션입니다. Adobe Sign은 기본적으로 조직의 모든 전자 서명 요구 사항을 충족하도록 제작되었으며, 사용자와 사용자의 사용자가 전자 서명에 대한 다양한 지역 및 산업 규정을 완전히 준수하는 전자 서명을 사용하고 있는지 확인할 수 있는 IT 관리자 친화적 도구를 제공합니다. [Adobe Admin Console](https://helpx.adobe.com/kr/enterprise/using/adobe-sign-for-enterprise.html)을 통해 Sign 관리에 대한 자세한 내용을 보려면 [여기](https://helpx.adobe.com/kr/enterprise/using/admin-console.html)를 방문하세요.
+Adobe Sign은 법적 규정 준수 서명을 캡처하기 위해 세계적으로 인정받는 업계 최고 수준의 솔루션입니다. Adobe Sign은 기본적으로 조직의 모든 전자 서명 요구 사항을 충족하도록 제작되었으며, 사용자와 사용자의 사용자가 전자 서명에 대한 다양한 지역 및 산업 규정을 완전히 준수하는 전자 서명을 사용하고 있는지 확인할 수 있는 IT 관리자 친화적 도구를 제공합니다. [Adobe Admin Console](https://helpx.adobe.com/kr/enterprise/using/admin-console.html)을 통해 Sign 관리에 대한 자세한 내용을 보려면 [여기](https://helpx.adobe.com/kr/enterprise/using/adobe-sign-for-enterprise.html)를 방문하세요.
 
 Acrobat DC 및 Adobe Sign Enterprise를 포함하는 광범위한 디지털 문서 플랫폼을 통해 조직에 전자 서명 기능을 계속 제공하는 방법을 논의하려면 Adobe 담당자에게 문의하십시오.
 
@@ -70,10 +75,10 @@ Adobe Sign Enterprise 권한이 없는 사용자는 새 계약을 보낼 수 없
 
 ## 자세한 내용은 아래 페이지를 참조하십시오.
 
-* [Adobe Document Cloud 로그인](https://helpx.adobe.com/kr/document-cloud/help/sign-in.html)
-* [파일 관리(내 파일은 어디에 있습니까?)](https://helpx.adobe.com/kr/document-cloud/help/manage-files.html)
+* [Adobe Document Cloud 로그인](https://helpx.adobe.com/document-cloud/help/sign-in.html)
+* [파일 관리(내 파일은 어디에 있습니까?)](https://helpx.adobe.com/document-cloud/help/manage-files.html)
 * [구성에 [!UICONTROL Acrobat Customization Wizard] 사용](https://www.adobe.com/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
-* [Admin Console의 개요](https://helpx.adobe.com/kr/enterprise/using/admin-console.html)
-* [[!UICONTROL Admin Console]](https://helpx.adobe.com/kr/enterprise/using/adobe-sign-for-enterprise.html)에서 Adobe Sign 관리
+* [[!UICONTROL Admin Console] 개요](https://helpx.adobe.com/kr/enterprise/using/admin-console.html)
+* [[!UICONTROL Admin Console]에서 Adobe Sign 관리](https://helpx.adobe.com/kr/enterprise/using/adobe-sign-for-enterprise.html)
 
 **개정** 2020년 5월 20일; 원본 게시물 - 2019년 8월

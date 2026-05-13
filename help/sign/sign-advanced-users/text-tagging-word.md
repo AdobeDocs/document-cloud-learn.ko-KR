@@ -7,9 +7,14 @@ level: Intermediate
 jira: KT-11163
 thumbnail: KT-11163.jpg
 exl-id: 48bc9cd0-019f-479b-9904-19e64354e2e7
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+TQID: https://experienceleague.adobe.com/D45aCOtiT4DmT90nryoI3LfrQDMCrwe8apPUNs6Py94
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909id: c1c5fb98-9105-44ed-9df1-9e04d062a784id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: 81
 ht-degree: 0%
 
 ---
@@ -18,4 +23,4 @@ ht-degree: 0%
 
 [!DNL Microsoft Word]에서 Acrobat Sign 텍스트 태그를 추가하여 재사용 가능한 문서 템플릿을 만드는 방법을 알아봅니다. 텍스트 태그 지정은 서명을 위해 전송된 문서에 자동으로 양식 필드를 작성하므로 수동 필드 배치가 필요하지 않습니다. 이 프로세스를 사용하면 서명을 위해 보내는 [!DNL Microsoft Word] 문서를 수정하고 변경하는 데 걸리는 시간이 크게 줄어듭니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412821?quality=12&learn=on&hidetitle=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3409482?quality=12&learn=on&hidetitle=true)
