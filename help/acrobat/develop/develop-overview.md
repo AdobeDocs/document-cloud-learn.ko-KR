@@ -7,9 +7,16 @@ level: Intermediate
 jira: KT-6861
 thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+TQID: https://experienceleague.adobe.com/77Y29aXRFRe6qiWnmSOzRqW-4ddFgK0iFP8XMW4zh9E
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: 122
 ht-degree: 0%
 
 ---
@@ -18,7 +25,7 @@ ht-degree: 0%
 
 JavaScript, 플러그인 또는 IAC를 사용하여 Acrobat 및 Adobe Reader과 통합되는 소프트웨어를 개발합니다.
 
-## ACROBAT SDK
+## Acrobat SDK
 
 [Acrobat SDK](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/){target="_blank"}는 Acrobat 기술과 상호 작용하는 소프트웨어를 개발하는 데 도움이 되는 도구 세트입니다.
 

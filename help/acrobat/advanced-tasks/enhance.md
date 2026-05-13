@@ -7,10 +7,17 @@ level: Intermediate
 jira: KT-9343
 thumbnail: KT-9343.jpg
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: cc1902cf295d3608fb8ac4ed564a39dbcc885e4a
+TQID: https://experienceleague.adobe.com/PD7GJ1JxUbczgXIgvxf1roU0P0qIpNsK-6P9AS-okqw
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 0%
+source-wordcount: 337
+ht-degree: 1%
 
 ---
 
@@ -29,9 +36,9 @@ ht-degree: 0%
 
 ## 배경 그래픽을 추가하는 방법 알아보기
 
-[PDF 편집 도구](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}를 사용하여 PDF에 배경 그래픽을 추가합니다.
+[PDF 편집 도구](https://www.adobe.com/kr/acrobat/online/pdf-editor.html){target="_blank"}를 사용하여 PDF에 배경 그래픽을 추가합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443824?hidetitle=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3443824?captions=kor&hidetitle=true)
 
 <br> 
 
@@ -51,7 +58,7 @@ ht-degree: 0%
 
 편집 도구를 사용하여 PDF에 새 바닥글을 추가합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3437740?hidetitle=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3437740?captions=kor&hidetitle=true)
 
 <br> 
 

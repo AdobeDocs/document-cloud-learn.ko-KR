@@ -9,10 +9,19 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 88bbe7e4866b46984017455c61f13c518b1465fc
+TQID: https://experienceleague.adobe.com/Ou8oN-1Pqv6iPqJkAVjQtIlkAQNHW4zGpKPAubYXzMc
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 1%
+source-wordcount: 777
+ht-degree: 0%
 
 ---
 
@@ -257,4 +266,4 @@ Acrobat을 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive] 및 
 
 ## 상자
 
-Acrobat과 [Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"}를 통해 조직의 모든 사용자가 비즈니스를 보다 손쉽게 진행하는 방법을 알아봅니다.
+Acrobat과 [Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"}를 통해 조직의 모든 사용자가 비즈니스를 더욱 간편하게 운영하는 방법을 알아봅니다.

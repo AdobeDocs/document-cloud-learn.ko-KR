@@ -7,15 +7,24 @@ level: Beginner
 jira: KT-5314
 thumbnail: 17360.jpg
 exl-id: 3c626d69-b982-45e3-a4cb-7b758175ffea
-source-git-commit: b6198f50dbdbf6fab6c9f9e91e2395cb8b046406
+TQID: https://experienceleague.adobe.com/wKcxGXw5u7P0RuFHAzrCKgEyjytSd2sVu0F7B16CbFo
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 30%
+source-wordcount: 77
+ht-degree: 42%
 
 ---
 
 # 문서에 전자 서명
 
-Acrobat Sign으로 전송된 문서에 서명하는 방법을 살펴봅니다. [iOS](../mobile/sign-mobile.md) 또는 [Android](https://apps.apple.com/us/app/adobe-sign/id481082197)용 Acrobat Sign 모바일 앱을 사용하여 문서에 서명하는 방법을 알아보려면 이 [튜토리얼](https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en)을 확인하세요.
+Acrobat Sign으로 전송된 문서에 서명하는 방법을 살펴봅니다. [iOS](https://apps.apple.com/us/app/adobe-sign/id481082197) 또는 [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en)용 Acrobat Sign 모바일 앱을 사용하여 문서에 서명하는 방법을 알아보려면 이 [튜토리얼](../mobile/sign-mobile.md)을 확인하세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411233?captions=kor&quality=12&learn=on&hidetitle=true)

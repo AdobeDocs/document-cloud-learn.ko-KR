@@ -9,14 +9,21 @@ topic-revisit: Integrations
 jira: KT-8495
 thumbnail: KT-8495.jpg
 exl-id: 636a11a3-612a-4066-ad91-133259fbf0c3
-source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
+TQID: https://experienceleague.adobe.com/rpWbEkDCfVdpCcKzZA3w296i6OimYyqkw--Asv8f33A
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: 96
 ht-degree: 0%
 
 ---
 
-# [!DNL Microsoft Edge] (으)로 탐색하는 동안 PDF 콘텐츠 만들기
+# [!DNL Microsoft Edge]&#x200B;(으)로 탐색하는 동안 PDF 콘텐츠 만들기
 
 [!DNL Microsoft Edge]에 대한 Adobe Acrobat 확장 프로그램을 사용하여 웹 페이지를 즉시 PDF 상태로 전환하는 방법을 알아봅니다. 이 Windows 전용 도구는 연구 프로젝트 및 웹 기반 정보의 오프라인 보기에 매우 유용합니다.
 
@@ -26,7 +33,7 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3409097?quality=12&learn=on&hidetitle=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3409097?captions=kor&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

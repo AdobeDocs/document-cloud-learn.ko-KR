@@ -7,16 +7,26 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/L-gJkWBpZ5juJ1fWR9dC7jrbONtjvE-DTphSMU2Dtmk
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: 1991
 ht-degree: 1%
 
 ---
 
 # 시작하기 개요
 
-이 간단한 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아보십시오. 문서 작성에서 [PDF 파일 편집](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}에 이르기까지 이 콘텐츠는 PDF 작업 과정에 쉽게 참여할 수 있도록 설계되었습니다. Acrobat을 시작하려면 전문적으로 선별된 이 [재생 목록](https://experienceleague.adobe.com/ko/playlists/acrobat-get-started-business-users)을 확인하십시오.
+이 간단한 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아보십시오. 문서 작성에서 [PDF 파일 편집](https://www.adobe.com/kr/acrobat/online/pdf-editor.html){target="_blank"}에 이르기까지 이 콘텐츠는 PDF 작업 과정에 쉽게 참여할 수 있도록 설계되었습니다. Acrobat을 시작하려면 전문적으로 선별된 이 [재생 목록](https://experienceleague.adobe.com/ko/playlists/acrobat-get-started-business-users)을 확인하십시오.
 
 ## 새로운 기능
 

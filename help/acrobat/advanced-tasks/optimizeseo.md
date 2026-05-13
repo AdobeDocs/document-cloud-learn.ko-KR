@@ -7,10 +7,20 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/S6cbcBMSAX9TiM02yNUv19Q0E0T7DU1XdciVjZVwBr0
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '752'
-ht-degree: 0%
+source-wordcount: 805
+ht-degree: 2%
 
 ---
 
@@ -18,7 +28,7 @@ ht-degree: 0%
 
 웹에서 검색 기능 및 PDF 엔진 순위를 개선하기 위해 검색을 최적화하는 방법을 알아봅니다.
 
-## &#x200B;1. 독창적인 콘텐츠 제작
+## &#x200B;1. 고유한 콘텐츠 만들기
 
 웹 페이지에 있는 정보와 다른 PDF 내용을 만듭니다.
 
@@ -122,7 +132,7 @@ PDF에 내용에 태그를 지정하면 장애가 있는 사용자가 파일에 
 
 <br> 
 
-## &#x200B;6. PDF 보안
+## &#x200B;6. PDF 보호
 
 마지막 단계는 인증되지 않은 변경을 방지하기 위해 [PDF을 보호](https://www.adobe.com/kr/acrobat/online/password-protect-pdf.html){target="_blank"}하는 것입니다.
 
