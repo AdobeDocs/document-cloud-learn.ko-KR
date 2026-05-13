@@ -46,7 +46,7 @@ Prepare Form 도구를 사용하여 자동으로 기존 PDF에 양식 필드를 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448518?captions=kor&quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -103,7 +103,7 @@ Prepare Form 도구를 사용하여 자동으로 기존 PDF에 양식 필드를 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439899?captions=kor&hidetitle=true)
 
 <br> 
 

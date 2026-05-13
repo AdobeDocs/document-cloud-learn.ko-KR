@@ -27,4 +27,4 @@ ht-degree: 19%
 
 이 60초 분량의 비디오 자습서에서는 [PDF을 보호](https://www.adobe.com/kr/acrobat/online/password-protect-pdf.html){target="_blank"}하여 암호를 열거나 [PDF을 편집](https://www.adobe.com/kr/acrobat/online/pdf-editor.html){target="_blank"}하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340075?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347113?captions=kor&quality=12&learn=on&hidetitle=true)

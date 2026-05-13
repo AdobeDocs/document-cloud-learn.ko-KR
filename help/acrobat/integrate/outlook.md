@@ -33,7 +33,7 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/336859?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409321?captions=kor&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

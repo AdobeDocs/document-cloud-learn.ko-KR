@@ -25,7 +25,7 @@ ht-degree: 7%
 
 이 60초짜리 비디오 튜토리얼에서는 PDF을 다운로드하지 않고도 텍스트와 이미지에 [간단한 PDF 편집](https://www.adobe.com/kr/acrobat/online/pdf-editor.html){target="_blank"}을 하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336362?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409467?captions=kor&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

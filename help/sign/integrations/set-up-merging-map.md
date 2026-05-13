@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Salesforce의 데이터를 Acrobat Sign 문서로 직접 병합하는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409412?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412826?captions=kor&quality=12&learn=on&hidetitle=true)

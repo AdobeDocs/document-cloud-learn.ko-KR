@@ -31,4 +31,4 @@ ht-degree: 0%
 
 세 가지 간단한 단계를 통해 Document Sign 템플릿 및 워크플로우를 Acrobat Sign으로 원활하게 마이그레이션하는 방법을 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3465274?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3465281?captions=kor&quality=12&learn=on&hidetitle=true)

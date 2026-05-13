@@ -32,4 +32,4 @@ ht-degree: 6%
 
 [Admin Console](https://adminconsole.adobe.com/) 내에서 Acrobat Sign에 새 사용자를 추가하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453158?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453187?captions=kor&quality=12&learn=on&hidetitle=true)

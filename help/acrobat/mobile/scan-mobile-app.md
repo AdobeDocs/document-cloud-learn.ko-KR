@@ -25,7 +25,7 @@ ht-degree: 0%
 
 무료 Adobe Scan 모바일 앱을 사용하여 종이 문서를 PDF으로 변환하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409254?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412791?captions=kor&quality=12&learn=on&hidetitle=true)
 
 ![QR 코드](../assets/Scanqrcode.jpg)
 

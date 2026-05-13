@@ -24,4 +24,4 @@ ht-degree: 18%
 
 이 60초 분량의 비디오 튜토리얼에서는 [Microsoft Word에서 PDF을 만드는 방법](https://www.adobe.com/kr/acrobat/online/word-to-pdf.html){target="_blank"}을 살펴보세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/342627?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437085?captions=kor&quality=12&learn=on&hidetitle=true)
