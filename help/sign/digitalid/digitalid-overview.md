@@ -8,10 +8,17 @@ jira: KT-8990
 thumbnail: KT-8990.jpg
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
 TQID: https://experienceleague.adobe.com/tfcRhctdTvfjNr0IXldxOsz9bXHYpE-TuWMDc74akpE
-product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909id: c1c5fb98-9105-44ed-9df1-9e04d062a784id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+  - id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
 source-wordcount: 300
@@ -146,17 +153,17 @@ Acrobat Sign에서 [[!DNL Digidentity]](digidentity-sign.md) 디지털 ID를 등
       <img alt="Intesi Group에서 디지털 ID 받기(고급)" src="assets/IntesiAdvanced_1280.png" />
     </a>
     <div>
-    <a href="intesi-advanced.md"><strong>[!DNL Intesi Group](고급)에서 디지털 ID 가져오기</strong></a>
+    <a href="intesi-advanced.md"><strong>[!DNL Intesi Group] (고급)에서 디지털 ID 가져오기</strong></a>
     </div>
     <em>[!DNL Intesi Group]</em>에서 고급 디지털 서명 인증서를 받는 방법을 알아보세요.
     <br>
   </td>
   <td>
     <a href="intesi-qualified.md">
-      <img alt="[!DNL Intesi Group](한정됨)에서 디지털 ID 가져오기" src="assets/IntesiQualified_1280.png" />
+      <img alt="[!DNL Intesi Group] (한정됨)에서 디지털 ID 가져오기" src="assets/IntesiQualified_1280.png" />
     </a>
     <div>
-    <a href="intesi-qualified.md"><strong>[!DNL Intesi Group](한정됨)에서 디지털 ID 가져오기</strong></a>
+    <a href="intesi-qualified.md"><strong>[!DNL Intesi Group] (한정됨)에서 디지털 ID 가져오기</strong></a>
     </div>
     <em>[!DNL Intesi Group]</em>에서 자격을 갖춘 디지털 서명 인증서를 받는 방법에 대해 알아보세요.
     <br>

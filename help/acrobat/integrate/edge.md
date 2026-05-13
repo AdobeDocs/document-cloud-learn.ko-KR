@@ -1,5 +1,5 @@
 ---
-title: ' [!DNL Microsoft Edge](으)로 검색하는 동안 PDF 콘텐츠 만들기'
+title: ' [!DNL Microsoft Edge] (으)로 검색하는 동안 PDF 콘텐츠 만들기'
 description: ' [!DNL Microsoft Edge]에 대한 Adobe Acrobat 확장 프로그램을 사용하여 웹 페이지를 즉시 PDF 상태로 전환하는 방법을 알아봅니다.'
 feature: Integrations, Create PDF
 role: User
@@ -10,9 +10,12 @@ jira: KT-8495
 thumbnail: KT-8495.jpg
 exl-id: 636a11a3-612a-4066-ad91-133259fbf0c3
 TQID: https://experienceleague.adobe.com/rpWbEkDCfVdpCcKzZA3w296i6OimYyqkw--Asv8f33A
-product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
 source-wordcount: 96
