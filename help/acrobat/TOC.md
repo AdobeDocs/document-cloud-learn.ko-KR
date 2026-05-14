@@ -8,9 +8,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 2d052a576516811a855318bc0eff2fc9e355a3e0
+source-git-commit: 02a0d02585936fc89b855bf994ad6b6fa803dec0
 workflow-type: tm+mt
-source-wordcount: 674
+source-wordcount: 681
 ht-degree: 5%
 
 ---
@@ -102,6 +102,8 @@ ht-degree: 5%
       + 법률 정보 {#legal}
          + [개요](use-cases/lob/legal/legal-overview.md)
          + [법적 통찰력을 실행 가능한 지침으로 전환](use-cases/lob/legal/legal-insights.md)
+      + 마케팅 {#marketing}
+         + [Acrobat Studio로 제품 출시 가속화](use-cases/lob/marketing/marketing-product-launch.md)
       + 영업 {#sales}
          + [개요](use-cases/lob/sales/sales-overview.md)
          + [Customer Intelligence를 성공적인 판매 자산으로 전환](use-cases/lob/sales/sales-insights.md)
