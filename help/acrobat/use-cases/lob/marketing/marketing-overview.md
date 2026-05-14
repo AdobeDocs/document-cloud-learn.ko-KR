@@ -1,0 +1,60 @@
+---
+title: Acrobat 마케팅 사용 사례 개요
+description: 마케팅 팀이 공동 작업을 간소화하고 승인을 가속화하며 새로운 아이디어를 더 빠르게 출시하는 방법에 대해 알아봅니다.
+feature: Gen AI
+role: User
+level: Beginner, Intermediate
+jira: KT-21216
+source-git-commit: d0dff6f4ad6274a97845c5e4b77c7dd968dd18d2
+workflow-type: tm+mt
+source-wordcount: '118'
+ht-degree: 1%
+
+---
+
+# Acrobat 마케팅 사용 사례 개요
+
+마케팅 팀이 Acrobat Studio를 사용하여 공동 작업을 간소화하고 승인을 가속화하며 새로운 아이디어를 더 빠르게 출시하는 방법을 알아봅니다
+
+## 새로운 기능
+
+>[!BEGINTABS]
+
+>[!TAB Acrobat Studio로 제품 실행 가속화]
+
+마케팅 팀이 Acrobat Studio를 사용하여 단일 PDF 공간에서 [제품 출시](marketing-product-launch.md) 에셋을 중앙 집중화하고, 관련자 검토를 간소화하고, 조직 준비 상태를 확장하는 방법을 알아봅니다.
+
+>[!ENDTABS]
+
+## 마케팅 사용 사례 튜토리얼
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="marketing-product-launch.md">
+      <img alt="Acrobat Studio로 제품 출시 가속화" src="../../../assets/use-case-marketing-launch.png" />
+    </a>
+    <div>
+    <a href="marketing-product-launch.md"><strong>Acrobat Studio로 제품 실행 가속화</strong></a>
+    </div>
+    <em>마케팅 팀이 Acrobat Studio를 사용하여 제품 출시 에셋을 중앙 집중화하고, 관련자 검토를 간소화하고, 조직 준비 상태를 확장하는 방법을 알아봅니다
+기능: Gen AI</em>
+    <br>
+  </td>
+  <td>
+        <img alt="스페이서" src="../../../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="스페이서" src="../../../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="스페이서" src="../../../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
