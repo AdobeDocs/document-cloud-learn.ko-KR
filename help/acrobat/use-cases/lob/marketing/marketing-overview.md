@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-21216
-source-git-commit: d0dff6f4ad6274a97845c5e4b77c7dd968dd18d2
+source-git-commit: cfb98b8b463b7217c9b32fab0618e3dc3c81c066
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # Acrobat 마케팅 사용 사례 개요
 
-마케팅 팀이 Acrobat Studio를 사용하여 공동 작업을 간소화하고 승인을 가속화하며 새로운 아이디어를 더 빠르게 출시하는 방법을 알아봅니다
+마케팅 팀이 Acrobat Studio를 사용하여 공동 작업을 간소화하고 승인을 가속화하며 새로운 아이디어를 더 빠르게 출시하는 방법을 알아봅니다.
 
 ## 새로운 기능
 
