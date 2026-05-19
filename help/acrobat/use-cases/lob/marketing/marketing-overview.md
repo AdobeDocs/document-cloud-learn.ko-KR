@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-21216
-source-git-commit: cfb98b8b463b7217c9b32fab0618e3dc3c81c066
+source-git-commit: 5201568bc89f87becd045c4f60e6baa34cdb1dc2
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '115'
 ht-degree: 1%
 
 ---
@@ -37,8 +37,7 @@ ht-degree: 1%
     <div>
     <a href="marketing-product-launch.md"><strong>Acrobat Studio로 제품 실행 가속화</strong></a>
     </div>
-    <em>마케팅 팀이 Acrobat Studio를 사용하여 제품 출시 에셋을 중앙 집중화하고, 관련자 검토를 간소화하고, 조직 준비 상태를 확장하는 방법을 알아봅니다
-기능: Gen AI</em>
+    <em>마케팅 팀이 Acrobat Studio를 사용하여 제품 출시 에셋을 중앙 집중화하고, 관련자 검토를 간소화하고, 조직 준비 상태를 확장하는 방법을 알아봅니다.</em>
     <br>
   </td>
   <td>
