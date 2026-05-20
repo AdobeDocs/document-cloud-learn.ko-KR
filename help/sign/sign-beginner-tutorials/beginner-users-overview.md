@@ -8,20 +8,14 @@ jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
 TQID: https://experienceleague.adobe.com/vh-3Jo7Qm6k-Kt-JAdScJm7RIq7eCB4JmqpH6wLoHLE
-product_v2:
-  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
-  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
-  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-feature_v2:
-  - id: a8a587a8-9b83-4ab3-a2c9-24c085c8c7ba
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: e7b587ebd5c53bb275289de2afba95f510746074
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909id: c1c5fb98-9105-44ed-9df1-9e04d062a784id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+feature_v2: id: a8a587a8-9b83-4ab3-a2c9-24c085c8c7ba
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 6be89d2539d3a17a74f75460b58b924590e89d43
 workflow-type: tm+mt
-source-wordcount: 539
-ht-degree: 24%
+source-wordcount: 583
+ht-degree: 22%
 
 ---
 
@@ -32,6 +26,10 @@ ht-degree: 24%
 ## 새로운 기능
 
 >[!BEGINTABS]
+
+>[!TAB 사본 만들기 사용 시기]
+
+[사본 만들기](../sign-beginner-tutorials/create-a-copy.md)를 사용하여 기존 계약을 복제하는 방법을 알아봅니다. 변경해야 할 사항을 조정하고 몇 초 안에 다시 보낼 수 있습니다. 처음부터 다시 빌드할 수 없습니다.
 
 >[!TAB 전송 후 문서 수정]
 
@@ -44,10 +42,6 @@ ht-degree: 24%
 >[!TAB 문서에 전자 서명]
 
 Acrobat Sign으로 전송된 문서에 [서명](../sign-beginner-tutorials/electronically-sign-a-document.md)하는 방법을 알아봅니다.
-
->[!TAB 재사용 가능한 템플릿 만들기]
-
-[재사용 가능한 문서 템플릿](../sign-advanced-users/create-a-template.md)을 만드는 방법에 대해 알아봅니다.
 
 >[!ENDTABS]
 
@@ -159,7 +153,7 @@ Acrobat Sign으로 전송된 문서에 [서명](../sign-beginner-tutorials/elect
     재사용 가능한 문서 템플릿을 만들어 조직에 속도와 일관성 제공
     <br>
   </td>
-    <td>
+  <td>
      <a href="checkbox-groups.md">
       <img alt="확인란 그룹을 사용하여 필수 선택 사항을 안내합니다." src="../assets/checkboxes.png" />
     </a>
@@ -169,10 +163,15 @@ Acrobat Sign으로 전송된 문서에 [서명](../sign-beginner-tutorials/elect
     확인란 그룹을 사용하여 서명자가 양식에서 선택할 수 있는 옵션 수를 제어하는 방법에 대해 알아봅니다.
     <br>
     </td>
-    <td>
-      <img alt="스페이서" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
+  <td>
+     <a href="create-a-copy.md">
+      <img alt="사본 만들기 사용 시기" src="../assets/create-copy.png" />
+    </a>
+    <div>
+    <a href="create-a-copy.md"><strong>사본 만들기 사용 시기</strong></a>
+    </div>
+    사본 만들기를 사용하여 기존 계약을 복제하는 방법에 대해 알아봅니다.
+    <br>
     </td>
 </tr>
 </table>
