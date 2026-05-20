@@ -18,10 +18,10 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: e7b587ebd5c53bb275289de2afba95f510746074
+source-git-commit: 6be89d2539d3a17a74f75460b58b924590e89d43
 workflow-type: tm+mt
-source-wordcount: 539
-ht-degree: 24%
+source-wordcount: 583
+ht-degree: 22%
 
 ---
 
@@ -32,6 +32,10 @@ ht-degree: 24%
 ## 새로운 기능
 
 >[!BEGINTABS]
+
+>[!TAB 사본 만들기 사용 시기]
+
+[사본 만들기](../sign-beginner-tutorials/create-a-copy.md)를 사용하여 기존 계약을 복제하는 방법을 알아봅니다. 변경해야 할 사항을 조정하고 몇 초 안에 다시 보낼 수 있습니다. 처음부터 다시 빌드할 수 없습니다.
 
 >[!TAB 전송 후 문서 수정]
 
@@ -44,10 +48,6 @@ ht-degree: 24%
 >[!TAB 문서에 전자 서명]
 
 Acrobat Sign으로 전송된 문서에 [서명](../sign-beginner-tutorials/electronically-sign-a-document.md)하는 방법을 알아봅니다.
-
->[!TAB 재사용 가능한 템플릿 만들기]
-
-[재사용 가능한 문서 템플릿](../sign-advanced-users/create-a-template.md)을 만드는 방법에 대해 알아봅니다.
 
 >[!ENDTABS]
 
@@ -159,7 +159,7 @@ Acrobat Sign으로 전송된 문서에 [서명](../sign-beginner-tutorials/elect
     재사용 가능한 문서 템플릿을 만들어 조직에 속도와 일관성 제공
     <br>
   </td>
-    <td>
+  <td>
      <a href="checkbox-groups.md">
       <img alt="확인란 그룹을 사용하여 필수 선택 사항을 안내합니다." src="../assets/checkboxes.png" />
     </a>
@@ -169,10 +169,15 @@ Acrobat Sign으로 전송된 문서에 [서명](../sign-beginner-tutorials/elect
     확인란 그룹을 사용하여 서명자가 양식에서 선택할 수 있는 옵션 수를 제어하는 방법에 대해 알아봅니다.
     <br>
     </td>
-    <td>
-      <img alt="스페이서" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
+  <td>
+     <a href="create-a-copy.md">
+      <img alt="사본 만들기 사용 시기" src="../assets/create-copy.png" />
+    </a>
+    <div>
+    <a href="create-a-copy.md"><strong>사본 만들기 사용 시기</strong></a>
+    </div>
+    사본 만들기를 사용하여 기존 계약을 복제하는 방법에 대해 알아봅니다.
+    <br>
     </td>
 </tr>
 </table>
