@@ -19,5 +19,5 @@ ht-degree: 0%
 
 **마케팅 관리자 및 리드, 프로젝트/프로그램 관리자, 커뮤니케이션 및 지원 팀에 최적**
 
->[!VIDEO](https://video.tv.adobe.com/v/3491107?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3491114?captions=kor&quality=12&learn=on&hidetitle=true)
 

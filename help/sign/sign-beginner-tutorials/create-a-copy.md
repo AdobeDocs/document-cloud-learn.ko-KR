@@ -26,4 +26,4 @@ ht-degree: 0%
 >
 >사본 만들기는 엔터프라이즈 수준 플랜에서 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491372?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3491379?captions=kor&quality=12&learn=on&hidetitle=true)
