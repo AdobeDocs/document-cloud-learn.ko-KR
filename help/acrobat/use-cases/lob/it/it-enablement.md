@@ -22,19 +22,19 @@ ht-degree: 1%
 
 Acrobat Studio를 종료하지 않고도 사고 보고서에서 민감한 정보를 제거하고 문서를 보안 및 공유하며 실행 준비가 완료된 프레젠테이션을 생성할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492183?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492190?captions=kor&quality=12&learn=on&hidetitle=true)
 
 ## 2단계. 공급업체 계약 분석 및 작업
 
 Part 1의 보안 사고 보고서를 기반으로 하여 조직의 보안 표준에 대한 공급업체 계약을 분석하고, 즉시 조정 차이를 표시하고, 후속 질문을 생성하는 방법을 알아보십시오. 이 모든 것이 단일 PDF 공간에서 이루어집니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492184?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492199?captions=kor&quality=12&learn=on&hidetitle=true)
 
 ## 3단계. AI 거버넌스 정책 빌드 및 배포
 
 정적 정책 문서를 관리 및 대화형 작업 영역으로 변환한 다음 조직 전체가 모든 디바이스에서 액세스하고 쿼리할 수 있는 셀프서비스 리소스로 배포하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492185?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492208?captions=kor&quality=12&learn=on&hidetitle=true)
 
 문제 보고서를 보안 및 요약하고, 공급업체 계약을 내부 보안 표준에 맞게 분석하고, 정적 정책 문서를 조직 전체를 위한 관리 및 셀프서비스 리소스로 변환했습니다(세 가지 워크플로우, 한 플랫폼, 도구 전환 없음).
 
