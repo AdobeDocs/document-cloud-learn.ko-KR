@@ -16,12 +16,13 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+source-git-commit: 31b6696fe63501f70cc7de0bf4d00c86e9105d11
 workflow-type: tm+mt
 source-wordcount: 137
 ht-degree: 0%
 
 ---
+
 
 # 전송 후 문서 수정
 
@@ -40,3 +41,4 @@ ht-degree: 0%
 >[!TIP]
 >
 >이 비디오는 Experience League에서 무료로 사용할 수 있는 재생 목록 [사용자를 위한 고급 작업](https://experienceleague.adobe.com/ko/playlists/acrobat-sign-perform-advanced-tasks-business-users)의 일부입니다.
+
