@@ -18,16 +18,20 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+source-git-commit: ed17f6a547ddf4e1fd7f5675bade9e2457cc14cb
 workflow-type: tm+mt
-source-wordcount: 483
-ht-degree: 1%
+source-wordcount: 802
+ht-degree: 3%
 
 ---
 
 # Acrobat 튜토리얼
 
 Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF을 변환, 편집, 공유 및 서명하여 비즈니스를 지속적으로 움직이는 데 도움이 됩니다. Adobe Acrobat에서 초보자와 고급 사용자를 모두 빠르게 최신 상태로 만들 수 있는 다양한 학습 환경을 살펴보세요.
+
+>[!NOTE]
+>
+>기능 액세스는 Acrobat 플랜에 따라 다릅니다. [Acrobat 플랜 비교](https://www.adobe.com/acrobat/pricing.html)를 사용하여 사용할 수 있는 기능을 확인하세요. 일부 기능은 단계적으로 출시되고 있으며 아직 일부 기능에서는 제공되지 않을 수 있습니다.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
