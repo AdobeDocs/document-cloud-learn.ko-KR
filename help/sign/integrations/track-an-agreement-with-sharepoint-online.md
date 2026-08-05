@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Microsoft SharePoint 내에서 직접 계약의 진행 상황을 추적하는 방법을 알아봅니다. 서명을 위해 문서를 보낸 후 SharePoint을 종료하지 않고도 문서 상태를 추적할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/29767t1?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409586?captions=kor&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
