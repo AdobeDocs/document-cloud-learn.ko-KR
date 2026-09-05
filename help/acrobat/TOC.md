@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: f6dc02139caacbab8468d056fbcaef3534c09e1d
+source-git-commit: be030b0a26f367e8c79cdf08329b1597c1e4ee8b
 workflow-type: tm+mt
-source-wordcount: '687'
+source-wordcount: '702'
 ht-degree: 6%
 
 ---
@@ -84,6 +84,11 @@ ht-degree: 6%
   + [Acrobat Studio란?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
   + [PDF에서 그래픽 편집](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [이 PDF 스타일화](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
++ Acrobat Studio의 Analyzer {#analyzer}
+  + [개요](analyzer/analyzer-overview.md)
+  + [시작하기](analyzer/get-started.md)
+  + [컬렉션 사용](analyzer/collections.md)
+  + [통합 후 계약 감사 M&amp;A](analyzer/m-and-a-post-audit.md)
 + 사용 사례 {#use-cases}
   + [개요](use-cases/use-cases-overview.md)
   + 업무 라인 {#lob}
