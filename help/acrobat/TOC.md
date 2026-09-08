@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: be030b0a26f367e8c79cdf08329b1597c1e4ee8b
+source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '705'
 ht-degree: 6%
 
 ---
@@ -88,6 +88,7 @@ ht-degree: 6%
   + [개요](analyzer/analyzer-overview.md)
   + [시작하기](analyzer/get-started.md)
   + [컬렉션 사용](analyzer/collections.md)
+  + [특성 작업](analyzer/attributes.md)
   + [통합 후 계약 감사 M&amp;A](analyzer/m-and-a-post-audit.md)
 + 사용 사례 {#use-cases}
   + [개요](use-cases/use-cases-overview.md)
