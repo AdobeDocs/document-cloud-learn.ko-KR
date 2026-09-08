@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 17b3c33bb1ff3c88938b9468b9934b7addebfecc
+source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -55,6 +55,16 @@ Acrobat Studio의 Analyzer를 사용하면 수만 개의 비정형 문서에서 
     <br>
   </td>
   <td>
+    <a href="attributes.md">
+      <img alt="특성 작업" src="../assets/analyzer_attributes.png" />
+    </a>
+    <div>
+    <a href="attributes.md"><strong>특성을 사용하여 작업</strong></a>
+    </div>
+    Acrobat Studio에서 Analyzer를 사용하여 속성을 생성, 테스트 및 구체화하는 방법을 알아봅니다
+    <br>
+  </td>
+  <td>
     <a href="m-and-a-post-audit.md">
       <img alt="통합 후 계약 감사 M&amp;A" src="../assets/m-and-a.jpg" />
     </a>
@@ -63,11 +73,6 @@ Acrobat Studio의 Analyzer를 사용하면 수만 개의 비정형 문서에서 
     </div>
     Analyzer를 사용하여 몇 주가 아닌 몇 분 만에 M&amp;A 통합 후 계약 감사를 실행하는 방법을 알아보십시오
     <br>
-  </td>
-  <td>
-      <img alt="스페이서" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
   </td>
 </tr>
 </table>
