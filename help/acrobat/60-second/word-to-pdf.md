@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Microsoft Word]에서 PDF 만들기'
-description: ' [!DNL Microsoft Word]에서 PDF을 만드는 방법 알아보기'
+title: ' [!DNL Microsoft Word]에서 PDF을 만들려면 어떻게 해야 합니까?'
+description: ' [!DNL Microsoft Word] 파일에서 PDF을 만드는 방법에 대한 비디오를 시청하세요.'
 feature: Create PDF
 role: User
 level: Beginner
@@ -13,10 +13,10 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+source-git-commit: 01ccbf30b70146766bca37d3b96caca8e53629f1
 workflow-type: tm+mt
-source-wordcount: 37
-ht-degree: 18%
+source-wordcount: 42
+ht-degree: 16%
 
 ---
 
