@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
+source-git-commit: af50780d9075bc8c926194ea44f8c1030e6b5f42
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 2%
@@ -69,11 +69,11 @@ Acrobat Studio에서 Analyzer를 사용하여 [특성](attributes.md)을 만들�
     <br>
   </td>
   <td>
-    <a href="/help/acrobat/analyzer/use-cases/use-case-overview.md">
+    <a href="use-cases/use-case-overview.md">
       <img alt="Acrobat Studio의 Analyzer 사용 사례" src="../assets/analyzer_usecases.png" />
     </a>
     <div>
-    <a href="/help/acrobat/analyzer/use-cases/use-case-overview.md"><strong>Acrobat Studio의 분석기 사용 사례</strong></a>
+    <a href="use-cases/use-case-overview.md"><strong>Acrobat Studio의 분석기 사용 사례</strong></a>
     </div>
     조직에서 검토 프로세스를 간소화하고, 통찰력을 발견하고, 문서 컨텐츠를 비즈니스에 적합한 데이터로 변환하는 방법을 보여 주는 실제 사용 사례를 살펴보십시오
     <br>
