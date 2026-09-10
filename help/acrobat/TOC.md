@@ -19,7 +19,7 @@ ht-degree: 6%
     + [Acrobat Studio란?](getting-started/acrobat-studio.md)
     + [작업 공간 기본 사항](getting-started/workspace-basics.md)
     + [새 Acrobat 환경](getting-started/new-experience.md)
-    + [[!DNL Microsoft 365] (으)로 작업](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+    + [[!DNL Microsoft 365] (으)로 작업](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=ko#microsoft)
     + [Acrobat 웹으로 장소에 상관없이 작업](getting-started/acrobatweb.md)
     + [이동 중의 생산성](getting-started/productivity.md)
     + [PDF은 어디에서 오나요?](getting-started/where-do-pdfs-come-from.md)
@@ -79,11 +79,11 @@ ht-degree: 6%
     + [사용자 정의 명령 및 도구](advanced-tasks/custom.md)
 + AI 기반 {#ai-powered}
   + [개요](ai-powered/ai-overview.md)
-  + [AI 어시스턴트로 PDF 인사이트 탐색](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-  + [PDF 공간을 통한 팀 효율성 향상](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+  + [AI 어시스턴트로 PDF 인사이트 탐색](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+  + [PDF 공간을 통한 팀 효율성 향상](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
   + [Acrobat Studio란?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-  + [PDF에서 그래픽 편집](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-  + [이 PDF 스타일화](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+  + [PDF에서 그래픽 편집](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+  + [이 PDF 스타일화](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Acrobat Studio의 Analyzer {#analyzer}
   + [개요](analyzer/analyzer-overview.md)
   + [시작하기](analyzer/get-started.md)
@@ -94,7 +94,7 @@ ht-degree: 6%
     + [통합 후 계약 감사 M&amp;A](analyzer/use-cases/m-and-a-post-audit.md)
     + [재정에서의 수익 및 감사 검토 가속화](analyzer/use-cases/accelerate-revenue.md)
     + [데이터 프라이버시 위험을 완벽한 가시성 및 모니터링으로 전환](analyzer/use-cases/data-privacy-risk.md)
-  + [웨비나](https://experienceleague.adobe.com/en/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
+  + [웨비나](https://experienceleague.adobe.com/ko/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + 사용 사례 {#use-cases}
   + [개요](use-cases/use-cases-overview.md)
   + 업무 라인 {#lob}
@@ -174,5 +174,5 @@ ht-degree: 6%
   + [ETLA 고객을 위한 중요한 Acrobat DC 제품 업데이트](deploy/signentitlementchanges.md)
 + 모바일 {#mobile}
   + [개요](mobile/mobile-overview.md)
-  + [이동 중의 생산성](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+  + [이동 중의 생산성](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
   + [스캔하여 PDF](mobile/scan-mobile-app.md)
