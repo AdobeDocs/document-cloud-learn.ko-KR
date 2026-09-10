@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
+source-git-commit: 494aca2da9f3540264d81d60620a7a442a85ebc2
 workflow-type: tm+mt
-source-wordcount: '705'
+source-wordcount: '715'
 ht-degree: 6%
 
 ---
@@ -90,6 +90,7 @@ ht-degree: 6%
   + [컬렉션 사용](analyzer/collections.md)
   + [특성 작업](analyzer/attributes.md)
   + [통합 후 계약 감사 M&amp;A](analyzer/m-and-a-post-audit.md)
+  + [웨비나](https://experienceleague.adobe.com/ko/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + 사용 사례 {#use-cases}
   + [개요](use-cases/use-cases-overview.md)
   + 업무 라인 {#lob}
