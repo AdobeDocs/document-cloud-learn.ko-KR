@@ -5,10 +5,10 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
+source-git-commit: b7d8f600864bafa0c45dfae4e1896180c06e514d
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 2%
+source-wordcount: '205'
+ht-degree: 1%
 
 ---
 
@@ -27,6 +27,10 @@ Acrobat Studio의 Analyzer를 사용하면 수만 개의 비정형 문서에서 
 >[!TAB 컬렉션 사용]
 
 콘텐츠가 증가함에 따라 수동 및 연결된 [컬렉션](collections.md)을 만들고, 특성을 적용하고, 문서를 정리하는 방법을 알아봅니다.
+
+>[!TAB 특성을 사용하여 작업]
+
+Acrobat Studio에서 Analyzer를 사용하여 [특성](attributes.md)을 만들고, 테스트하고, 구체화하는 방법을 알아봅니다.
 
 >[!ENDTABS]
 
@@ -65,13 +69,13 @@ Acrobat Studio의 Analyzer를 사용하면 수만 개의 비정형 문서에서 
     <br>
   </td>
   <td>
-    <a href="m-and-a-post-audit.md">
-      <img alt="통합 후 계약 감사 M&amp;A" src="../assets/m-and-a.jpg" />
+    <a href="/help/acrobat/analyzer/use-case/use-case-overview.md">
+      <img alt="Analyzer 사용 사례" src="../assets/analyzer_usecases.png" />
     </a>
     <div>
-    <a href="m-and-a-post-audit.md"><strong>통합 후 M&amp;A 계약 감사</strong></a>
+    &lt;a href="/help/acrobat/analyzer/use-case/m-and-a-post-audit.md&gt;<strong>분석기 사용 사례</strong></a>
     </div>
-    Analyzer를 사용하여 몇 주가 아닌 몇 분 만에 M&amp;A 통합 후 계약 감사를 실행하는 방법을 알아보십시오
+    조직에서 검토 프로세스를 간소화하고, 통찰력을 발견하고, 문서 컨텐츠를 비즈니스에 적합한 데이터로 변환하는 방법을 보여 주는 실제 사용 사례를 살펴보십시오
     <br>
   </td>
 </tr>
