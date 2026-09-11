@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 494aca2da9f3540264d81d60620a7a442a85ebc2
+source-git-commit: 099945973714aaa8e903af39ce50f92fb213ce1d
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '733'
 ht-degree: 6%
 
 ---
@@ -89,7 +89,11 @@ ht-degree: 6%
   + [시작하기](analyzer/get-started.md)
   + [컬렉션 사용](analyzer/collections.md)
   + [특성 작업](analyzer/attributes.md)
-  + [통합 후 계약 감사 M&amp;A](analyzer/m-and-a-post-audit.md)
+  + 사용 사례 {#use-cases}
+    + [개요](/help/acrobat/analyzer/use-cases/use-case-overview.md)
+    + [통합 후 계약 감사 M&amp;A](analyzer/use-cases/m-and-a-post-audit.md)
+    + [재정에서의 수익 및 감사 검토 가속화](analyzer/use-cases/accelerate-revenue.md)
+    + [데이터 프라이버시 위험을 완벽한 가시성 및 모니터링으로 전환](analyzer/use-cases/data-privacy-risk.md)
   + [웨비나](https://experienceleague.adobe.com/ko/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + 사용 사례 {#use-cases}
   + [개요](use-cases/use-cases-overview.md)
