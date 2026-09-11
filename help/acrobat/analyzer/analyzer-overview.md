@@ -5,10 +5,10 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: af50780d9075bc8c926194ea44f8c1030e6b5f42
+source-git-commit: 2b1a02675d17de53eddde51de43d54ab00d12c84
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 2%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 
@@ -31,6 +31,10 @@ Acrobat Studio의 Analyzer를 사용하면 수만 개의 비정형 문서에서 
 >[!TAB 특성을 사용하여 작업]
 
 Acrobat Studio에서 Analyzer를 사용하여 [특성](attributes.md)을 만들고, 테스트하고, 구체화하는 방법을 알아봅니다.
+
+>[!TAB 고급 기능 살펴보기]
+
+[추출된 데이터를 내보내고, 컬렉션을 공유하고, 두 문서를 비교하고, AI Assistant를 사용하여 즉흥적인 질문을 하는 방법](advanced.md)을 알아보세요.
 
 >[!ENDTABS]
 
@@ -69,6 +73,18 @@ Acrobat Studio에서 Analyzer를 사용하여 [특성](attributes.md)을 만들�
     <br>
   </td>
   <td>
+    <a href="advanced.md">
+      <img alt="고급 기능 살펴보기" src="../assets/analyzer_advanced.png" />
+    </a>
+    <div>
+    <a href="advanced.md"><strong>고급 기능 살펴보기</strong></a>
+    </div>
+    추출된 데이터를 내보내고, 컬렉션을 공유하고, 두 문서를 비교하고, AI Assistant를 사용하여 빠르고 특별한 질문을 하는 방법을 알아봅니다
+    <br>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="use-cases/use-case-overview.md">
       <img alt="Acrobat Studio의 Analyzer 사용 사례" src="../assets/analyzer_usecases.png" />
     </a>
@@ -76,6 +92,21 @@ Acrobat Studio에서 Analyzer를 사용하여 [특성](attributes.md)을 만들�
     <a href="use-cases/use-case-overview.md"><strong>Acrobat Studio의 분석기 사용 사례</strong></a>
     </div>
     조직에서 검토 프로세스를 간소화하고, 통찰력을 발견하고, 문서 컨텐츠를 비즈니스에 적합한 데이터로 변환하는 방법을 보여 주는 실제 사용 사례를 살펴보십시오
+    <br>
+  </td>
+    <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+   <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
