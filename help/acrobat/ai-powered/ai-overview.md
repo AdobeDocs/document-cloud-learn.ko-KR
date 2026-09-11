@@ -7,10 +7,15 @@ level: Beginner, Intermediate
 jira: KT-19422
 exl-id: f2b2bf31-e9ec-4bda-8f89-d0f268f24c69
 TQID: https://experienceleague.adobe.com/yP0iQGUfN2Y1kRg5Bk781cY8kcia5XBfHFMWCbn7QIw
-product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 2b1a02675d17de53eddde51de43d54ab00d12c84
 workflow-type: tm+mt
 source-wordcount: 814
@@ -30,7 +35,7 @@ ht-degree: 0%
 
 [Acrobat Studio](../getting-started/acrobat-studio.md)을(를) 사용하여 브랜드에 안전한 콘텐츠를 만들고, 통찰력을 추출하고, 복잡한 작업을 간소화하는 방법을 알아봅니다.
 
->Acrobat Studio의 [!TAB 분석기]
+>[!TAB Acrobat Studio의  분석기]
 
 비즈니스 사용자가 수만 개의 비정형 문서에서 정형 감사 통찰력을 추출하여 문서 중심의 비즈니스 프로세스를 자동화할 수 있도록 [Acrobat Studio의 Analyzer](../analyzer/analyzer-overview.md)를 사용하는 방법을 알아봅니다.
 
