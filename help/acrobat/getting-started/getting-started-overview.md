@@ -17,10 +17,10 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 473918bc827d68228d12b8c8107960feb0b7f35a
+source-git-commit: db9d5ade5504ac04927dc7459695fc5cddb96c7c
 workflow-type: tm+mt
-source-wordcount: 2909
-ht-degree: 1%
+source-wordcount: 2873
+ht-degree: 0%
 
 ---
 
@@ -32,6 +32,10 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
+>[!TAB Acrobat Studio란?]
+
+[Acrobat Studio](acrobat-studio.md)을(를) 사용하여 브랜드에 안전한 콘텐츠를 만들고, 통찰력을 추출하고, 복잡한 작업을 간소화하는 방법을 알아봅니다.
+
 >[!TAB PDF에 용지]
 
 [종이 문서](scan-and-ocr.md)를 검색 및 편집 가능한 PDF 파일로 변환하는 방법을 알아봅니다.
@@ -39,10 +43,6 @@ ht-degree: 1%
 >[!TAB PDF 공간으로 팀 효율성 향상]
 
 개인 맞춤화된 AI 어시스턴트를 사용하여 파일 및 웹 사이트 컬렉션을 [공유 가능한 대화식 지식 허브](pdf-spaces-legal.md)로 변환하세요.
-
->[!TAB Acrobat Studio란?]
-
-[Acrobat Studio](acrobat-studio.md)을(를) 사용하여 브랜드에 안전한 콘텐츠를 만들고, 통찰력을 추출하고, 복잡한 작업을 간소화하는 방법을 알아봅니다.
 
 >[!TAB AI 어시스턴트로 PDF 인사이트 탐색]
 
