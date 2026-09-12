@@ -2,7 +2,7 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 65870ba3fdc5fb312076fc4b538b10c133cfe378
+source-git-commit: e99f150b636c45dd0f06959db110c2c3257c897e
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 6%
@@ -79,7 +79,7 @@ ht-degree: 6%
     + [사용자 정의 명령 및 도구](advanced-tasks/custom.md)
 + AI 기반 {#ai-powered}
   + [개요](ai-powered/ai-overview.md)
-  + [Acrobat Studio란?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+  + [Acrobat Studio란?](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
   + [AI 어시스턴트로 PDF 인사이트 탐색](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
   + [PDF 공간을 통한 팀 효율성 향상](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
   + [PDF에서 그래픽 편집](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
