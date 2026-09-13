@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Acrobat Studio의 Analyzer를 사용하여 대량의 문서에서 구조화된 인용 데이터를 가져오는 방법을 알아보십시오. 수백 또는 수천 건의 계약, 공급업체 계약 또는 규정 준수 문서를 한 번에 하나씩 읽는 대신,
 
->[!VIDEO](https://video.tv.adobe.com/v/3503110?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503116?captions=kor&quality=12&learn=on&hidetitle=true)
