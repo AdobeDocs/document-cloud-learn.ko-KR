@@ -140,7 +140,7 @@ Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF을 변환, 편집, 공유
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" title="시작하기" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" title="시작하기" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/analyzer/media_1052181d9e75a3ece8d8885c16c96135101b56a6d.png?width=400&format=webply&optimize=medium" alt="Acrobat Studio의 Analyzer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -149,11 +149,11 @@ Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF을 변환, 편집, 공유
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        Acrobat Studio의 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" target="_self" rel="referrer" title="시작하기">분석기</a>
+                        Acrobat Studio의 <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" target="_self" rel="referrer" title="시작하기">분석기</a>
                     </p>
                     <p class="is-size-6">Acrobat Studio의 Analyzer를 사용하여 대량의 문서에서 구조화된 인용 데이터를 가져오는 방법을 알아보십시오</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">살펴보기</span>
                 </a>
             </div>
