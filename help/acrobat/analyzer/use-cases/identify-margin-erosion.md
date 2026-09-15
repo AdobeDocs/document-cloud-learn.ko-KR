@@ -15,4 +15,4 @@ ht-degree: 0%
 
 프로젝트 마진은 주요 계약 수준에서 손실되지 않습니다. 그것은 한 번에 하나의 하청을 잃었습니다. 즉, 그 복구의 가격을 매기기 전에 커진 변경 명령, 지연 청구에 조용히 들어가게 된 RFI들, 그리고 결코 그것을 잠수함의 서류로 만들지 않았던 계약 보호에서. 그것이 보고서에 나타날 때쯤, 그 돈은 이미 없어졌다. 프로젝트 수익성에 영향을 미치기 전에 누락된 변경 주문, 오래된 RFI 및 계약 간격을 확인하여 하도급 계약에서 숨겨진 마진 침식 위험을 식별하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503512?captions=kor&quality=12&learn=on&hidetitle=true)
