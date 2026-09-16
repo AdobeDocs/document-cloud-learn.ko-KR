@@ -5,13 +5,11 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22591
-source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
+source-git-commit: 412de3823992cd69436f77c38b1bc1d32dbfbe1c
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '286'
 ht-degree: 0%
-
 ---
-
 # Acrobat Studio의 Analyzer 사용 사례 개요
 
 Acrobat Studio의 Analyzer를 사용하여 팀이 대량의 문서에서 중요한 정보를 추출하는 방법을 살펴봅니다. 조직에서 검토 프로세스를 간소화하고, 통찰력을 발견하고, 문서 컨텐츠를 비즈니스에 적합한 데이터로 변환하는 방법을 보여 주는 실제 사용 사례를 살펴보십시오.
@@ -20,13 +18,17 @@ Acrobat Studio의 Analyzer를 사용하여 팀이 대량의 문서에서 중요�
 
 >[!BEGINTABS]
 
->[!TAB 재정에서의 수익 및 감사 검토 가속화]
+>[!TAB 침식 여백 식별]
+
+Acrobat Studio의 Analyzer를 사용하여 [하도급 계약에서 마진 손실](identify-margin-erosion.md)의 조기 경고 징후를 감지하고 비용이 증가하기 전에 조치를 취하는 방법을 알아봅니다.
+
+>[!TAB 수익 및 감사 검토 가속화]
 
 Acrobat Studio의 Analyzer를 사용하여 [재무](accelerate-revenue.md) 팀이 계약 데이터를 대규모로 추출, 검토 및 검증하는 방법을 알아봅니다.
 
->[!TAB 데이터 개인 정보 보호 위험을 전체 가시성 및 모니터링으로 전환]
+>[!TAB 데이터 개인 정보 보호 위험 분석]
 
-Acrobat Studio의 Analyzer를 사용하여 [개인 정보](data-privacy-risk.md), 법률 및 조달 팀이 중요한 DPA 약관을 규모에 맞게 추출, 모니터링 및 검증하는 방법을 알아봅니다.
+Acrobat Studio의 Analyzer를 사용하여 [개인 정보 보호, 법률 및 조달 팀](data-privacy-risk.md)에서 중요한 DPA 약관을 규모에 맞게 추출, 모니터링 및 검증하는 방법을 알아봅니다.
 
 >[!ENDTABS]
 
@@ -36,7 +38,7 @@ Acrobat Studio의 Analyzer를 사용하여 [개인 정보](data-privacy-risk.md)
 <tr>
   <td>
     <a href="m-and-a-post-audit.md">
-      <img alt="통합 후 계약 감사 M&amp;A" src="../../assets/m-and-a.jpg" />
+      <img alt="통합 후 계약 감사 M&amp;A" src="../../assets/analyzer_m-and-a.png" />
     </a>
     <div>
     <a href="m-and-a-post-audit.md"><strong>통합 후 M&amp;A 계약 감사</strong></a>
@@ -65,8 +67,13 @@ Acrobat Studio의 Analyzer를 사용하여 [개인 정보](data-privacy-risk.md)
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../../assets/Whitespacer.png" />
+    <a href="identify-margin-erosion.md">
+      <img alt="침식 마진 소스 검색 식별을 위한 하도급 관리" src="../../assets/analyzer_margin-identification.png" />
+    </a>
     <div>
+    <a href="identify-margin-erosion.md"><strong>침식 마진 소스 검색 식별을 위한 하도급 관리</strong></a>
+    </div>
+    Acrobat Studio의 Analyzer를 사용하여 하도급 계약에서 마진 손실의 조기 경고 징후를 감지하고 비용이 증가하기 전에 조치를 취하는 방법을 알아봅니다
     <br>
   </td>
 </tr>
