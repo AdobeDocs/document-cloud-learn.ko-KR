@@ -5,13 +5,12 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20545
-source-git-commit: 5645a4ec1bd6f5489f2ae2c50e66507481a140e2
+exl-id: 429e0e32-d15e-494b-9741-172d4f15dbb0
+source-git-commit: 072f7be21e70abc48e63045c522c5ad3f8cdd5be
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 1%
-
 ---
-
 # Acrobat 법적 사용 사례 개요
 
 법무 팀이 문서 검토 및 전달의 모든 단계에서 더 빠르게 이동하고, 위험을 줄이고, 통제력을 유지할 수 있도록 합니다.

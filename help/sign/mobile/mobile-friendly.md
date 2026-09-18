@@ -5,13 +5,12 @@ feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-18735
-source-git-commit: 67d0b3568daab5d957b917fa9d52203dcc2bb0f8
+exl-id: ffa5c39a-c3cc-45b1-a8ae-85b2e813e364
+source-git-commit: ff801a13834e099a1769821e908a65e1e9fc077f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '170'
 ht-degree: 0%
-
 ---
-
 # 모바일 친화적 보기
 
 계약을 체결하는 전문가부터 학교 양식을 작성하는 학부모까지 이동 중에 작업을 완료하는 것은 더 이상 선택 사항이 아닙니다. 간단한 모바일 솔루션에 대한 수요는 그 어느 때보다 높습니다. 모바일 디바이스에서 양식을 작성하는 동안 모바일 친화적인 보기를 사용하여 핀치 및 확대/축소를 제거하고 오류를 줄이는 방법을 알아봅니다.
@@ -22,4 +21,4 @@ ht-degree: 0%
 * 정확성 향상: 오류를 줄이고 필요한 모든 정보를 캡처합니다.
 * 연속성: 사용자는 진행 상황을 그대로 유지하면서 언제든지 모바일 친화적인 형태로 시작하고 되돌릴 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478393?captions=kor&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478386?quality=12&learn=on&hidetitle=true)
