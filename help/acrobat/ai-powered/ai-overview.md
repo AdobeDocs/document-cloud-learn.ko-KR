@@ -42,7 +42,7 @@ PDF의 문서 및 리서치 자료에서 AI 생성 [팟캐스트](../getting-sta
 
 [Acrobat Studio](../getting-started/acrobat-studio.md)을(를) 사용하여 브랜드에 안전한 콘텐츠를 만들고, 통찰력을 추출하고, 복잡한 작업을 간소화하는 방법을 알아봅니다.
 
->Acrobat Studio의 [!TAB 분석기]
+>[!TAB Acrobat Studio의  분석기]
 
 비즈니스 사용자가 수만 개의 비정형 문서에서 정형 감사 통찰력을 추출하여 문서 중심의 비즈니스 프로세스를 자동화할 수 있도록 [Acrobat Studio의 Analyzer](../analyzer/analyzer-overview.md)를 사용하는 방법을 알아봅니다.
 
