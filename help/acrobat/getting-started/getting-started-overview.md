@@ -10,20 +10,23 @@ exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
 TQID: https://experienceleague.adobe.com/L-gJkWBpZ5juJ1fWR9dC7jrbONtjvE-DTphSMU2Dtmk
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: db9d5ade5504ac04927dc7459695fc5cddb96c7c
+    internal-label: Insights
+source-git-commit: c27925fb47f6fb33bbf2606da4f0f57d02552b0d
 workflow-type: tm+mt
-source-wordcount: 2873
+source-wordcount: '2995'
 ht-degree: 0%
-
 ---
-
 # 시작하기 개요
 
 이 간단한 단계별 튜토리얼을 통해 Adobe Acrobat 사용을 시작하는 방법에 대해 알아보십시오. 문서 작성에서 [PDF 파일 편집](https://www.adobe.com/kr/acrobat/online/pdf-editor.html){target="_blank"}에 이르기까지 이 콘텐츠는 PDF 작업 과정에 쉽게 참여할 수 있도록 설계되었습니다. Acrobat을 시작하려면 전문적으로 선별된 이 [재생 목록](https://experienceleague.adobe.com/ko/playlists/acrobat-get-started-business-users)을 확인하십시오.
@@ -31,6 +34,10 @@ ht-degree: 0%
 ## 새로운 기능
 
 >[!BEGINTABS]
+
+>[!TAB 팟캐스트 만들기]
+
+PDF의 문서 및 리서치 자료에서 AI 생성 [팟캐스트](podcast.md)를 만드는 방법을 알아봅니다.
 
 >[!TAB Acrobat Studio란?]
 
@@ -43,10 +50,6 @@ ht-degree: 0%
 >[!TAB PDF 공간으로 팀 효율성 향상]
 
 개인 맞춤화된 AI 어시스턴트를 사용하여 파일 및 웹 사이트 컬렉션을 [공유 가능한 대화식 지식 허브](pdf-spaces-legal.md)로 변환하세요.
-
->[!TAB AI 어시스턴트로 PDF 인사이트 탐색]
-
-PDF에서 [PDF 인사이트 탐색](ai-assistant.md)하는 방법에 대해 알아보세요.
 
 >[!ENDTABS]
 
@@ -240,6 +243,29 @@ PDF에서 [PDF 인사이트 탐색](ai-assistant.md)하는 방법에 대해 알�
                     <p class="is-size-6">파일 및 웹 사이트 컬렉션을 공유 및 대화 가능한 지식 허브로 변환하는 방법에 대해 알아봅니다.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create a podcast">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" title="팟캐스트 만들기" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/ai/media_115e208368a60860fd06236cb04602a4fbd8fdebf.png?width=400&format=webply&optimize=medium" alt="팟캐스트 만들기"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" title="PDF 공간을 통한 팀 효율성 향상">팟캐스트 만들기</a>
+                    </p>
+                    <p class="is-size-6">문서 및 연구 자료에서 AI 생성 팟캐스트를 만드는 방법을 알아봅니다</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>

@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 86c5e0581e09572a5ccc52cebbc5db4ad26eeba9
+source-git-commit: c27925fb47f6fb33bbf2606da4f0f57d02552b0d
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '764'
 ht-degree: 6%
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 6%
   + AI로 스마트하게 작업 {#ai}
     + [AI 어시스턴트로 PDF 인사이트 탐색](getting-started/ai-assistant.md)
     + [PDF 공간을 통한 팀 효율성 향상](getting-started/pdf-spaces-legal.md)
+    + [팟캐스트 만들기](getting-started/podcast.md)
   + 만들기 및 구성 {#create}
     + [PDF 만들기](getting-started/create-pdf.md)
     + [파일을 단일 PDF으로 결합](getting-started/combine-to-pdf.md)
@@ -80,6 +81,7 @@ ht-degree: 6%
   + [Acrobat Studio란?](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
   + [AI 어시스턴트로 PDF 인사이트 탐색](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
   + [PDF 공간을 통한 팀 효율성 향상](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+  + [팟캐스트 만들기](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast)
   + [PDF에서 그래픽 편집](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [이 PDF 스타일화](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Acrobat Studio의 Analyzer {#analyzer}

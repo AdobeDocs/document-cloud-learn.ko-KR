@@ -9,20 +9,23 @@ exl-id: f2b2bf31-e9ec-4bda-8f89-d0f268f24c69
 TQID: https://experienceleague.adobe.com/yP0iQGUfN2Y1kRg5Bk781cY8kcia5XBfHFMWCbn7QIw
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 65870ba3fdc5fb312076fc4b538b10c133cfe378
+    internal-label: Insights
+source-git-commit: 054ca00c06987f28d976beb44121787c03bd5709
 workflow-type: tm+mt
-source-wordcount: 799
+source-wordcount: '920'
 ht-degree: 0%
-
 ---
-
 # AI 기반 개요
 
 어떻게 AI가 PDF 워크플로우를 할 수 있는지 알아보십시오. 문서 작업을 간소화하고 생산성을 향상시키는 도구에 대해 알아봅니다.
@@ -30,6 +33,10 @@ ht-degree: 0%
 ## 새로운 기능
 
 >[!BEGINTABS]
+
+>[!TAB 팟캐스트 만들기]
+
+PDF의 문서 및 리서치 자료에서 AI 생성 [팟캐스트](../getting-started/podcast.md)를 만드는 방법을 알아봅니다.
 
 >[!TAB Acrobat Studio란?]
 
@@ -67,7 +74,7 @@ ht-degree: 0%
                     <p class="is-size-6">Acrobat Studio를 사용하여 브랜드에 안전한 콘텐츠를 만들고, 통찰력을 추출하고, 복잡한 작업을 간소화하는 방법을 알아봅니다</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">튜토리얼 보기</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
         </div>
@@ -113,7 +120,7 @@ ht-degree: 0%
                     <p class="is-size-6">AI 어시스턴트를 사용하여 PDF 파일에서 인사이트를 얻는 방법에 대해 알아봅니다</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">튜토리얼 보기</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
         </div>
@@ -136,7 +143,30 @@ ht-degree: 0%
                     <p class="is-size-6">파일 및 웹 사이트 컬렉션을 공유 및 대화 가능한 지식 허브로 변환하는 방법에 대해 알아봅니다.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">튜토리얼 보기</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create a podcast">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" title="팟캐스트 만들기" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/ai/media_115e208368a60860fd06236cb04602a4fbd8fdebf.png?width=400&format=webply&optimize=medium" alt="팟캐스트 만들기"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" title="PDF 공간을 통한 팀 효율성 향상">팟캐스트 만들기</a>
+                    </p>
+                    <p class="is-size-6">문서 및 연구 자료에서 AI 생성 팟캐스트를 만드는 방법을 알아봅니다</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
         </div>
@@ -159,7 +189,7 @@ ht-degree: 0%
                     <p class="is-size-6">PDF에서 그래픽을 만들고 편집하고 향상시키는 방법을 살펴봅니다</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">튜토리얼 보기</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
         </div>
@@ -182,7 +212,7 @@ ht-degree: 0%
                     <p class="is-size-6">전문가 수준의 PDF을 만드는 방법 알아보기</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">튜토리얼 보기</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
         </div>
