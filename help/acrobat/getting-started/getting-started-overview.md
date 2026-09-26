@@ -252,7 +252,7 @@ PDF의 문서 및 리서치 자료에서 AI 생성 [팟캐스트](podcast.md)를
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" title="팟캐스트 만들기" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" title="팟캐스트 만들기" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/ai/media_115e208368a60860fd06236cb04602a4fbd8fdebf.png?width=400&format=webply&optimize=medium" alt="팟캐스트 만들기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -261,11 +261,11 @@ PDF의 문서 및 리서치 자료에서 AI 생성 [팟캐스트](podcast.md)를
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" title="PDF 공간을 통한 팀 효율성 향상">팟캐스트 만들기</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" title="PDF 공간을 통한 팀 효율성 향상">팟캐스트 만들기</a>
                     </p>
                     <p class="is-size-6">문서 및 연구 자료에서 AI 생성 팟캐스트를 만드는 방법을 알아봅니다</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
