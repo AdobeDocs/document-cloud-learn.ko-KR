@@ -12,21 +12,25 @@ exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
 TQID: https://experienceleague.adobe.com/hpoT07uqXklt0yT3-oD6AW8mWcbGxqalTao-5lc6BCc
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Adobe Sign
 feature_v2:
   - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+    internal-label: Integrations
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Intermediate
+source-git-commit: e56085c669f90be698e49f929786c0f639b397e8
 workflow-type: tm+mt
-source-wordcount: 917
+source-wordcount: '916'
 ht-degree: 1%
-
 ---
-
 # 포함된 전자 서명 및 문서 환경 만들기
 
 Acrobat Sign API를 사용하여 전자 서명 및 문서 경험을 웹 플랫폼과 콘텐츠 및 문서 관리 시스템에 포함하는 방법을 알아보십시오. 이 실습 튜토리얼에는 네 가지 부분이 있습니다.
@@ -41,10 +45,10 @@ Acrobat Sign API를 사용하여 전자 서명 및 문서 경험을 웹 플랫�
 * [시작 코드](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [VS 코드(또는 선택한 편집기)](https://code.visualstudio.com)
 * 파이썬
-   * Mac — Homebrew
-   * Linux — 기본 설치 프로그램
-   * Windows — Chocolatey
-   * 모두 — https://www.python.org/downloads/
+  * Mac — Homebrew
+  * Linux — 기본 설치 프로그램
+  * Windows — Chocolatey
+  * 모두 — https://www.python.org/downloads/
 
 +++
 
@@ -98,11 +102,11 @@ Acrobat Sign API를 사용하여 전자 서명 및 문서 경험을 웹 플랫�
 
 1. 임시 문서를 만들어 보냅니다.
 
->[!NOTE]
->
->JSON 기반 요청 호출에는 &quot;모델&quot; 및 &quot;최소 모델 스키마&quot; 옵션이 있습니다. 사양과 최소 페이로드 세트가 제공됩니다.
+   >[!NOTE]
+   >
+   >JSON 기반 요청 호출에는 &quot;모델&quot; 및 &quot;최소 모델 스키마&quot; 옵션이 있습니다. 사양과 최소 페이로드 세트가 제공됩니다.
 
-![임시 문서를 만드는 스크린샷](assets/embeddedesignature/embed_7.png)
+   ![임시 문서를 만드는 스크린샷](assets/embeddedesignature/embed_7.png)
 
 계약을 처음 보낸 후 논리를 추가할 준비가 되었습니다. 반복을 최소화하기 위해 어떤 조력자를 세우는 것은 항상 좋은 생각입니다. 다음은 몇 가지 예입니다.
 
@@ -163,13 +167,13 @@ Sign 에코시스템의 거대한 체계 내에서 임시 문서가 어디에 �
 
 * [JS 이벤트](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhook 이벤트
-   * [REST API](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
-   * [Acrobat Sign v6의 Webhook](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
+  * [REST API](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
+  * [Acrobat Sign v6의 Webhook](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
 * [요청 이메일 재활성화(이벤트 포함)](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
 * [시간 초과를 다시 시도로 바꾸기](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
 * 사용자 정의 미리 알림
-   * 초기 생성 시
+  * 초기 생성 시
 
-     Power Automate로 이동하는 ![스크린샷](assets/embeddedesignature/embed_16.png)
+    Power Automate로 이동하는 ![스크린샷](assets/embeddedesignature/embed_16.png)
 
-   * 또는 [진행 중](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant) 추가
+  * 또는 [진행 중](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant) 추가
