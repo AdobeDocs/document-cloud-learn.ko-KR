@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 577634b37e46b0ff2f6240588d27513c5aef24b6
+source-git-commit: 222ff21015d4f90ea250a5b9e4d0971135f33f63
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '448'
 ht-degree: 0%
 ---
 # Acrobat Studio의 Analyzer 개요
@@ -16,7 +16,7 @@ Acrobat Studio의 ![분석기](../assets/analyzer-overview-banner.png)
 
 Acrobat Studio에서 Analyzer를 사용하여 복잡한 문서를 명확한 인사이트로 변환하는 방법을 알아봅니다. 이 짧은 튜토리얼을 통해 시작하는 데 도움이 되고, 고급 기능을 탐색하고, 실제 사용 사례를 확인할 수 있습니다.
 
-[!BADGE 정보]{type="Watch overview video" url="https://video.tv.adobe.com/v/3503972"}
+[!BADGE 개요 동영상 보기]{type=Informative url="https://video.tv.adobe.com/v/3503972"}
 
 ## 새로운 기능
 
