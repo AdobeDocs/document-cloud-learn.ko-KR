@@ -5,13 +5,11 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 2b1a02675d17de53eddde51de43d54ab00d12c84
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 1%
-
+source-wordcount: '437'
+ht-degree: 0%
 ---
-
 # Acrobat Studio의 Analyzer 개요
 
 Acrobat Studio의 Analyzer를 사용하면 수만 개의 비정형 문서에서 감사 가능한 정형 인사이트를 추출하여 문서 중심의 비즈니스 프로세스를 자동화할 수 있습니다.
@@ -36,9 +34,15 @@ Acrobat Studio에서 Analyzer를 사용하여 [특성](attributes.md)을 만들�
 
 [추출된 데이터를 내보내고, 컬렉션을 공유하고, 두 문서를 비교하고, AI Assistant를 사용하여 즉흥적인 질문을 하는 방법](advanced.md)을 알아보세요.
 
+>[!TAB 작업 중인 사용 사례]
+
+실제 [사용 사례](use-cases/use-case-overview.md)와 Acrobat Studio에서 다양한 팀이 Analyzer를 사용하여 더 스마트하고 빠르게 작업하는 방법에 대해 알아봅니다.
+
 >[!ENDTABS]
 
-## Acrobat Studio의 Analyzer 튜토리얼
+## 기본 사항
+
+기본 사항을 살펴보세요. Acrobat Studio에서 Analyzer를 사용하여 문서를 신속하게 이해, 요약 및 상호 작용하는 방법을 알아봅니다.
 
 <table style="table-layout:fixed">
 <tr>
@@ -83,18 +87,66 @@ Acrobat Studio에서 Analyzer를 사용하여 [특성](attributes.md)을 만들�
     <br>
   </td>
 </tr>
+</table>
+
+## 활용 사례 활용
+
+실제 시나리오를 참조하십시오. 서로 다른 팀이 Acrobat Studio의 Analyzer를 사용하여 더 스마트하고 빠르게 작업하는 방법을 알아봅니다.
+
+<table style="table-layout:fixed">
 <tr>
-   <td>
-    <a href="use-cases/use-case-overview.md">
-      <img alt="Acrobat Studio의 Analyzer 사용 사례" src="../assets/analyzer_usecases.png" />
+  <td>
+    <a href="use-cases/m-and-a-post-audit.md">
+      <img alt="M&amp;A: 인수 후 계약 감사" src="../assets/analyzer_m-and-a.png" />
     </a>
     <div>
-    <a href="use-cases/use-case-overview.md"><strong>Acrobat Studio의 분석기 사용 사례</strong></a>
+    <a href="use-cases/m-and-a-post-audit.md"><strong>M&amp;A: 인수 후 계약 감사</strong></a>
     </div>
-    조직에서 검토 프로세스를 간소화하고, 통찰력을 발견하고, 문서 컨텐츠를 비즈니스에 적합한 데이터로 변환하는 방법을 보여 주는 실제 사용 사례를 살펴보십시오
+    M&amp;A 팀이 대형 계약 세트를 분석하여 주요 의무 사항, 조건 및 잠재적 위험을 몇 주가 아닌 몇 분 만에 파악하는 방법에 대해 알아봅니다.
     <br>
   </td>
-    <td>
+  <td>
+    <a href="use-cases/accelerate-revenue.md">
+      <img alt="재무: 수익 인식 및 감사에 대한 계약 검토" src="../assets/analyzer_accelerate-revenue.png" />
+    </a>
+    <div>
+    <a href="use-cases/accelerate-revenue.md"><strong>재무: 수익 인식 및 감사에 대한 계약 검토</strong></a>
+    </div>
+    재무 팀이 감사를 준비하고 수익 인식을 지원하며 회계 위험을 보다 신속하게 파악하는 방법에 대해 알아봅니다.
+    <br>
+  </td>
+  <td>
+    <a href="use-cases/data-privacy-risk.md">
+      <img alt="개인 정보 및 정보 보안: 데이터 개인 정보 보호 계약 검토" src="../assets/analyzer_data-privacy.png" />
+    </a>
+    <div>
+    <a href="use-cases/data-privacy-risk.md"><strong>개인 정보 및 정보 보안: 데이터 개인 정보 보호 계약 검토</strong></a>
+    </div>
+    개인 정보 보호 및 정보 보안 팀이 추적 가능한 결과를 통해 규정 준수 차이를 식별하고 의무를 검증하는 방법을 알아봅니다.
+    <br>
+  </td>
+  <td>
+    <a href="use-cases/identify-margin-erosion.md">
+      <img alt="구성: 하도급에서 마진 위험 찾기" src="../assets/analyzer_margin-identification.png" />
+    </a>
+    <div>
+    <a href="use-cases/identify-margin-erosion.md"><strong>구성: 하도급 계약에서 마진 위험 찾기</strong></a>
+    </div>
+    건설 및 프로젝트 팀이 마진율에 영향을 미치기 전에 누락된 변경 주문, 오래된 RFI 및 하도급 계약 보호의 간격을 찾을 수 있는 방법에 대해 알아봅니다.
+    <br>
+  </td>
+<tr>
+<td>
+    <a href="use-cases/vendor-risk.md">
+      <img alt="정보 보안 감사: 공급업체 위험 파악" src="../assets/analyzer_vendor-risk.png" />
+    </a>
+    <div>
+    <a href="use-cases/vendor-risk.md"><strong>정보 보안 감사: 공급업체 위험 확인</strong></a>
+    </div>
+    공급업체 계약에 따른 정보 보안 위험을 사전에 파악하는 방법 알아보기
+    <br>
+  </td>
+  <td>
     <img alt="스페이서" src="../assets/Grayspacer.png" />
     <div>
     <br>
@@ -104,10 +156,11 @@ Acrobat Studio에서 Analyzer를 사용하여 [특성](attributes.md)을 만들�
     <div>
     <br>
   </td>
-   <td>
+  <td>
     <img alt="스페이서" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
+</tr>
 </tr>
 </table>

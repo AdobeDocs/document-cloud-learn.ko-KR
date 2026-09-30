@@ -1,20 +1,18 @@
 ---
-title: 통합 후 계약 감사 M&A
-description: Acrobat Studio의 Analyzer를 사용하여 몇 주가 아닌 몇 분 만에 M&A 통합 후 계약 감사를 실행하는 방법을 알아보십시오
+title: M&A - 인수 후 계약 감사
+description: M&A 팀이 대형 계약 세트를 분석하여 주요 의무 사항, 조건 및 잠재적 위험을 몇 주가 아닌 몇 분 만에 파악하는 방법에 대해 알아봅니다.
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22149
-source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '73'
 ht-degree: 0%
-
 ---
 
+# M&amp;A: 인수 후 계약 감사
 
-# 통합 후 계약 감사 M&amp;A
+합병 또는 인수 후 계약 위험을 찾습니다. M&amp;A 팀이 Acrobat Studio의 Analyzer를 사용하여 몇 주가 아닌 몇 분 만에 대규모 계약 세트를 분석하여 주요 의무 사항, 조건 및 잠재적 위험을 식별하는 방법을 알아봅니다.
 
-Acrobat Studio의 Analyzer를 사용하여 GenAI를 사용하여 중요한 정보를 추출하고 위험이 있는 계약을 찾음으로써 몇 주가 아닌 몇 분 안에 M&amp;A 통합 계약 감사를 실행하는 데 도움이 되는 방법에 대해 알아보십시오.
-
->[!VIDEO](https://video.tv.adobe.com/v/3496359?captions=kor&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3496335?quality=12&learn=on&hidetitle=true)
