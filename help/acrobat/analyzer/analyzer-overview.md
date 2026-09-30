@@ -5,14 +5,18 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
+source-git-commit: 577634b37e46b0ff2f6240588d27513c5aef24b6
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '449'
 ht-degree: 0%
 ---
 # Acrobat Studio의 Analyzer 개요
 
-Acrobat Studio의 Analyzer를 사용하면 수만 개의 비정형 문서에서 감사 가능한 정형 인사이트를 추출하여 문서 중심의 비즈니스 프로세스를 자동화할 수 있습니다.
+Acrobat Studio의 ![분석기](../assets/analyzer-overview-banner.png)
+
+Acrobat Studio에서 Analyzer를 사용하여 복잡한 문서를 명확한 인사이트로 변환하는 방법을 알아봅니다. 이 짧은 튜토리얼을 통해 시작하는 데 도움이 되고, 고급 기능을 탐색하고, 실제 사용 사례를 확인할 수 있습니다.
+
+[!BADGE 정보]{type=Watch overview video url="https://video.tv.adobe.com/v/3503972"}
 
 ## 새로운 기능
 
