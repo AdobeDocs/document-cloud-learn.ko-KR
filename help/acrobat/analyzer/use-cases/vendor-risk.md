@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Acrobat Studio의 Analyzer가 공급업체 계약으로 인한 정보 보안 위험을 사전 예방적으로 식별하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503853?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503858?captions=kor&quality=12&learn=on&hidetitle=true)

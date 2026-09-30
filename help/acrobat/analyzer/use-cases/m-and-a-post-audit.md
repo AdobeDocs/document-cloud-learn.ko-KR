@@ -15,4 +15,4 @@ ht-degree: 0%
 
 합병 또는 인수 후 계약 위험을 찾습니다. M&amp;A 팀이 Acrobat Studio의 Analyzer를 사용하여 몇 주가 아닌 몇 분 만에 대규모 계약 세트를 분석하여 주요 의무 사항, 조건 및 잠재적 위험을 식별하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496335?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3496359?captions=kor&quality=12&learn=on&hidetitle=true)
