@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22591
-source-git-commit: 412de3823992cd69436f77c38b1bc1d32dbfbe1c
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '338'
 ht-degree: 0%
 ---
 # Acrobat Studio의 Analyzer 사용 사례 개요
@@ -17,6 +17,10 @@ Acrobat Studio의 Analyzer를 사용하여 팀이 대량의 문서에서 중요�
 ## 새로운 기능
 
 >[!BEGINTABS]
+
+>[!TAB 공급업체 계약 위험 식별]
+
+Acrobat Studio의 Analyzer가 [공급업체 계약의 정보 보안 위험](vendor-risk.md)을 사전 예방적으로 식별하는 데 어떻게 도움이 되는지 알아봅니다.
 
 >[!TAB 침식 여백 식별]
 
@@ -32,48 +36,77 @@ Acrobat Studio의 Analyzer를 사용하여 [개인 정보 보호, 법률 및 조
 
 >[!ENDTABS]
 
-## Acrobat Studio의 Analyzer 사용 사례 튜토리얼
+## 활용 사례 활용
+
+실제 시나리오를 참조하십시오. 서로 다른 팀이 Acrobat Studio의 Analyzer를 사용하여 더 스마트하고 빠르게 작업하는 방법을 알아봅니다.
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="m-and-a-post-audit.md">
-      <img alt="통합 후 계약 감사 M&amp;A" src="../../assets/analyzer_m-and-a.png" />
+      <img alt="M&amp;A: 인수 후 계약 감사" src="../../assets/analyzer_m-and-a.png" />
     </a>
     <div>
-    <a href="m-and-a-post-audit.md"><strong>통합 후 M&amp;A 계약 감사</strong></a>
+    <a href="m-and-a-post-audit.md"><strong>M&amp;A: 인수 후 계약 감사</strong></a>
     </div>
-    Acrobat Studio의 Analyzer를 사용하여 몇 주가 아닌 몇 분 만에 M&amp;A 통합 후 계약 감사를 실행하는 방법을 알아보십시오
+    M&amp;A 팀이 대형 계약 세트를 분석하여 주요 의무 사항, 조건 및 잠재적 위험을 몇 주가 아닌 몇 분 만에 파악하는 방법에 대해 알아봅니다.
     <br>
   </td>
   <td>
     <a href="accelerate-revenue.md">
-      <img alt="재정에서의 수익 및 감사 검토 가속화" src="../../assets/analyzer_accelerate-revenue.png" />
+      <img alt="재무: 수익 인식 및 감사에 대한 계약 검토" src="../../assets/analyzer_accelerate-revenue.png" />
     </a>
     <div>
-    <a href="accelerate-revenue.md"><strong>재정에서의 수익 및 감사 검토 가속화</strong></a>
+    <a href="accelerate-revenue.md"><strong>재무: 수익 인식 및 감사에 대한 계약 검토</strong></a>
     </div>
-    Acrobat Studio의 Analyzer를 사용하여 재무 팀이 계약 데이터를 규모에 맞게 추출, 검토 및 검증하는 방법을 알아봅니다.
+    재무 팀이 감사를 준비하고 수익 인식을 지원하며 회계 위험을 보다 신속하게 파악하는 방법에 대해 알아봅니다.
     <br>
   </td>
   <td>
     <a href="data-privacy-risk.md">
-      <img alt="데이터 프라이버시 위험을 완벽한 가시성 및 모니터링으로 전환" src="../../assets/analyzer_data-privacy.png" />
+      <img alt="개인 정보 및 정보 보안: 데이터 개인 정보 보호 계약 검토" src="../../assets/analyzer_data-privacy.png" />
     </a>
     <div>
-    <a href="data-privacy-risk.md"><strong>데이터 개인 정보 보호 위험을 전체 가시성 및 모니터링으로 전환</strong></a>
+    <a href="data-privacy-risk.md"><strong>개인 정보 및 정보 보안: 데이터 개인 정보 보호 계약 검토</strong></a>
     </div>
-    Acrobat Studio의 Analyzer를 사용하여 개인 정보 보호, 법률 및 조달 팀이 중요한 DPA 약관을 규모에 맞게 추출, 모니터링 및 검증하는 방법을 알아봅니다
+    개인 정보 보호 및 정보 보안 팀이 추적 가능한 결과를 통해 규정 준수 차이를 식별하고 의무를 검증하는 방법을 알아봅니다.
     <br>
   </td>
   <td>
     <a href="identify-margin-erosion.md">
-      <img alt="침식 마진 소스 검색 식별을 위한 하도급 관리" src="../../assets/analyzer_margin-identification.png" />
+      <img alt="구성: 하도급에서 마진 위험 찾기" src="../../assets/analyzer_margin-identification.png" />
     </a>
     <div>
-    <a href="identify-margin-erosion.md"><strong>침식 마진 소스 검색 식별을 위한 하도급 관리</strong></a>
+    <a href="identify-margin-erosion.md"><strong>구성: 하도급 계약에서 마진 위험 찾기</strong></a>
     </div>
-    Acrobat Studio의 Analyzer를 사용하여 하도급 계약에서 마진 손실의 조기 경고 징후를 감지하고 비용이 증가하기 전에 조치를 취하는 방법을 알아봅니다
+    건설 및 프로젝트 팀이 마진율에 영향을 미치기 전에 누락된 변경 주문, 오래된 RFI 및 하도급 계약 보호의 간격을 찾을 수 있는 방법에 대해 알아봅니다.
+    <br>
+  </td>
+</tr>
+<tr>
+<td>
+    <a href="vendor-risk.md">
+      <img alt="정보 보안 감사: 공급업체 위험 파악" src="../../assets/analyzer_vendor-risk.png" />
+    </a>
+    <div>
+    <a href="vendor-risk.md"><strong>정보 보안 감사: 공급업체 위험 확인</strong></a>
+    </div>
+    공급업체 계약에 따른 정보 보안 위험을 사전에 파악하는 방법 알아보기
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>

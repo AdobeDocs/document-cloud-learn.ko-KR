@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: c27925fb47f6fb33bbf2606da4f0f57d02552b0d
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '767'
 ht-degree: 6%
 ---
 
@@ -92,10 +92,11 @@ ht-degree: 6%
   + [고급 기능 살펴보기](analyzer/advanced.md)
   + 사용 사례 {#use-cases}
     + [개요](/help/acrobat/analyzer/use-cases/use-case-overview.md)
-    + [통합 후 계약 감사 M&amp;A](analyzer/use-cases/m-and-a-post-audit.md)
-    + [재정에서의 수익 및 감사 검토 가속화](analyzer/use-cases/accelerate-revenue.md)
-    + [데이터 프라이버시 위험을 완벽한 가시성 및 모니터링으로 전환](analyzer/use-cases/data-privacy-risk.md)
-    + [침식 마진 소스 검색 식별을 위한 하도급 관리](analyzer/use-cases/identify-margin-erosion.md)
+    + [M&amp;A: 인수 후 계약 감사](analyzer/use-cases/m-and-a-post-audit.md)
+    + [재무: 수익 인식 및 감사에 대한 계약 검토](analyzer/use-cases/accelerate-revenue.md)
+    + [개인 정보 및 정보 보안: 데이터 개인 정보 보호 계약 검토](analyzer/use-cases/data-privacy-risk.md)
+    + [구성: 하도급에서 마진 위험 찾기](analyzer/use-cases/identify-margin-erosion.md)
+    + [정보 보안 감사: 공급업체 위험 파악](analyzer/use-cases/vendor-risk.md)
   + [웨비나](https://experienceleague.adobe.com/ko/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + 사용 사례 {#use-cases}
   + [개요](use-cases/use-cases-overview.md)
