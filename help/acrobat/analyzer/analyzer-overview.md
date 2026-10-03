@@ -16,7 +16,7 @@ Acrobat Studio의 ![분석기](../assets/analyzer-overview-banner.png)
 
 Acrobat Studio에서 Analyzer를 사용하여 복잡한 문서를 명확한 인사이트로 변환하는 방법을 알아봅니다. 이 짧은 튜토리얼을 통해 시작하는 데 도움이 되고, 고급 기능을 탐색하고, 실제 사용 사례를 확인할 수 있습니다.
 
-[!BADGE 개요 동영상 보기]{type=Informative url="https://video.tv.adobe.com/v/3503972"}
+[!BADGE 개요 동영상 보기]{type=Informative url="https://video.tv.adobe.com/v/3503978?captions=kor"}
 
 ## 새로운 기능
 
