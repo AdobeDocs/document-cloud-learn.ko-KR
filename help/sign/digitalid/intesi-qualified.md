@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Intesi Group](한정됨)에서 디지털 ID 가져오기'
+title: '[!DNL Intesi Group] (한정됨)에서 디지털 ID 가져오기'
 description: '[!DNL Intesi Group]에서 자격을 갖춘 디지털 서명 인증서를 받는 방법에 대해 알아보십시오.'
 feature: Digital ID
 role: User

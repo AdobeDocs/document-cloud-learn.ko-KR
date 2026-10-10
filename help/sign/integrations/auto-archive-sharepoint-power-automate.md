@@ -1,5 +1,5 @@
 ---
-title: '[!DNL SharePoint]에 [!DNL Power Automate](으)로 파일 자동 보관'
+title: '[!DNL SharePoint]에 [!DNL Power Automate] (으)로 파일 자동 보관'
 description: '[!DNL Power Automate]을(를) 사용하여 서명된 문서를 [!DNL SharePoint] 라이브러리에 자동으로 보관하는 방법에 대해 알아보십시오.'
 feature: Integrations
 role: Admin, User
