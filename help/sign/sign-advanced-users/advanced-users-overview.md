@@ -7,22 +7,25 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-TQID: https://experienceleague.adobe.com/asIglQE0n6Na-3UkKDgsJl8Qex4i1AeLwFdy2e7J1Gs
+TQID: 'https://experienceleague.adobe.com/asIglQE0n6Na-3UkKDgsJl8Qex4i1AeLwFdy2e7J1Gs'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Reporting
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 480
+source-wordcount: '480'
 ht-degree: 3%
-
 ---
-
 # 고급 작업 개요
 
 한 번에 100명의 수신자에게 서명할 문서를 보내고, 웹 사이트에 서명할 준비가 된 문서를 설정하고, 서명 트랜잭션을 관리하고, 문서 템플릿을 만들고 관리하는 방법을 알아봅니다. 이 자습서는 서명을 보내고 요청하는 기본 사항에 이미 익숙하고 Acrobat Sign에서 제공하는 다양한 방법에 대해 알아보고자 하는 모든 사용자를 위한 것입니다.
