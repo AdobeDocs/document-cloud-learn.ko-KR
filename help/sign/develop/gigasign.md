@@ -8,44 +8,52 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-TQID: https://experienceleague.adobe.com/62xUXPGJ-H5XyknrYgKSEErD-mW0zIZc-qxQJvzXgCM
+TQID: 'https://experienceleague.adobe.com/62xUXPGJ-H5XyknrYgKSEErD-mW0zIZc-qxQJvzXgCM'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
   - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+    internal-label: Target
   - id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
+    internal-label: Pass
 feature_v2:
   - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+    internal-label: Integrations
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Troubleshooting
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 331
-ht-degree: 2%
-
+source-wordcount: '331'
+ht-degree: 4%
 ---
-
 # GigaSign을 사용하여 대용량 문서 수집
 
 Gigasign을 사용하면 동시에 수천 명의 사람들에게 서명을 받을 문서를 보내고 수집하고 추적할 수 있습니다. 직원 및 고객과의 대량 커뮤니케이션을 위해 설계되었으며 각 대량 전송에 최대 2,500명의 수신자를 지원합니다. GigaSign은 Acrobat Sign API를 사용하여 MegaSign과 동일한 기능을 제공하며 여러 서명자, 수신자 그룹, 수신자 역할, 계약 이름, Carbon Copy 등에 대한 지원을 포함합니다.
 
 >[!IMPORTANT]
 >
->GigaSign은 더 이상 최신 버전의 Java 또는 Acrobat Sign으로 업데이트되지 않으며 제한된 지원만 제공합니다. GigaSign의 기능은 [대량 전송](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=ko&) 기능 아래에 제품에 추가됩니다. GigaSign의 사용이 명시적으로 필요하지 않은 모든 사용 사례에 대해 대량 전송 을 사용하십시오.
+>GigaSign은 더 이상 최신 버전의 Java 또는 Acrobat Sign으로 업데이트되지 않으며 제한된 지원만 제공합니다. GigaSign의 기능은 [대량 전송](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?) 기능 아래에 제품에 추가됩니다. GigaSign의 사용이 명시적으로 필요하지 않은 모든 사용 사례에 대해 대량 전송 을 사용하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453517?captions=kor&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## GigaSign 앱 다운로드 및 설치
 
 [GigaSign Zip 파일 다운로드](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
 
-[Java 1.8 다운로드 링크(필요한 경우에만)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html){target="_blank"} 
+[Java 1.8 다운로드 링크(필요한 경우에만)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
 [흰색 목록에 IP 주소(필요한 경우에만)](https://helpx.adobe.com/kr/sign/system-requirements.html#IPs){target="_blank"}
 

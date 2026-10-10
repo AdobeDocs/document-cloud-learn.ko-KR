@@ -7,21 +7,24 @@ level: Experienced
 jira: KT-6059
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-TQID: https://experienceleague.adobe.com/zhYzOxdS7g86AcptL1ddWr10xbYulG7tBH-WwUVznsI
+TQID: 'https://experienceleague.adobe.com/zhYzOxdS7g86AcptL1ddWr10xbYulG7tBH-WwUVznsI'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Admin
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 408
+source-wordcount: '408'
 ht-degree: 4%
-
 ---
-
 # Acrobat Sign 텍스트 태그 지정
 
 텍스트 태그 지정으로 Acrobat Sign 양식 필드를 만드는 방법에 대해 알아봅니다. 텍스트 태그는 Microsoft Word, Adobe InDesign 등의 작성 도구에 직접 추가하거나 Acrobat에 PDF이 있는 경우 추가할 수 있습니다. Acrobat Sign에서 사용되는 문서를 준비하는 데 드는 노력을 크게 줄일 수 있습니다. Acrobat Sign에서 태그가 있는 문서를 업로드한 다음 템플릿으로 설정할 수 있으므로 누구나 자신의 문서에 필드를 추가할 필요가 없습니다.
