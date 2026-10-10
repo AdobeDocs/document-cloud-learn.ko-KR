@@ -46,7 +46,7 @@ Acrobat Sign에서 빠르게 시작하고 실행하기 위해 관리자가 중�
 >
 >비즈니스 및 엔터프라이즈 수준 플랜에서만 보고를 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33657?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411239?captions=kor&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

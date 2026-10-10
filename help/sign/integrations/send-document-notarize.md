@@ -45,7 +45,7 @@ Adobe Acrobat Sign은 Notarize, Inc.와 협력하여 온라인 공증 서비스�
 >
 >[!DNL Notarize] Inc.의 온라인 공증 서비스와의 Acrobat Sign 통합은 비즈니스 및 엔터프라이즈 수준의 서비스 플랜을 통해 미국에서만 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/341029?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3420671?captions=kor&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
