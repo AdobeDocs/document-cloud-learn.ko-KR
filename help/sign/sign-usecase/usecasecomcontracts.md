@@ -9,16 +9,14 @@ thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
 source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '67'
 ht-degree: 0%
-
 ---
-
 # 상업 계약 및 구매요청 양식
 
 서면 처리를 호환되는 디지털 워크플로우로 빠르게 대체하고 감사 보고서를 완성합니다. 전체 프로세스를 간소화하는 데 도움이 되는 [Acrobat Sign 워크플로 Designer](../admin/building-a-custom-workflow.md) 도구에 대해 알아보세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409215?quality=12&learn=on&hidetitle=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 
 계약 및 구매요청 양식에 대한 단계별 PDF 레시피를 다운로드하거나 열려면 선택합니다.
 
