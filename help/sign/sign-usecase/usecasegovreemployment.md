@@ -9,11 +9,9 @@ thumbnail: 33809.jpg
 exl-id: 02a9b62f-fbcd-43d1-8372-c2d7dc8e2eff
 source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '84'
 ht-degree: 0%
-
 ---
-
 # 재취업 지원
 
 시민들이 생활에 필요한 모든 디지털 응용 프로그램에 줄을 서지 않고 필요한 도움을 얻을 수 있도록 도와주세요. 인쇄하거나 우편으로 보내지 않고 **및** 서명할 수 있는 온라인 웹 양식을 만드는 방법을 알아봅니다.

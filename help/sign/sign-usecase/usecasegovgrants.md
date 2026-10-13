@@ -9,11 +9,9 @@ thumbnail: 33810.jpg
 exl-id: 47471402-6a7b-4e25-947f-5b5ffdc393fd
 source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '84'
 ht-degree: 0%
-
 ---
-
 # 정부 사업 보조금 및 융자
 
 보조금, 융자 및 세금 이연 요청 양식에 셀프 서비스 액세스 권한을 제공하여 비즈니스에 신속한 지원을 제공합니다. 인쇄하거나 우편으로 보내지 않고 **및** 서명할 수 있는 온라인 웹 양식을 만드는 방법을 알아봅니다.
