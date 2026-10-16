@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Power Automate](으)로 고급 워크플로 만들기'
+title: '[!DNL Power Automate] (으)로 고급 워크플로 만들기'
 description: '[!DNL Power Automate] 커넥터를 사용하여 고급 워크플로를 만드는 방법에 대해 알아봅니다.'
 feature: Integrations
 role: User
