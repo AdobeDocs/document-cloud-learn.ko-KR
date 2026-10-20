@@ -55,11 +55,11 @@ ht-degree: 26%
     <br>
   </td>
   <td>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank">
+    <a href="https://www.adobe.com/kr/trust/document-cloud-security.html" target="_blank">
       <img alt="Adobe Trust Center" src="assets/Deploy_Trust.png" />
     </a>
     <div>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe 트러스트 센터</strong></a>
+    <a href="https://www.adobe.com/kr/trust/document-cloud-security.html" target="_blank"><strong>Adobe 트러스트 센터</strong></a>
     </div>
     <em>Acrobat Sign의 보안, 법률 및 표준에 대한 지속적인 노력에 대해 알아보십시오</em>
     <br>

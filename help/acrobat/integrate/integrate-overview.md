@@ -31,7 +31,7 @@ Acrobat을 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive] 및 
 
 ## Microsoft
 
-[Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html)에서 팀의 모든 사용자가 PDF 파일로 원활하게 작업하는 방법을 알아봅니다. Acrobat 및 Microsoft 365 통합에서 전문적으로 선별된 이 [재생 목록](https://experienceleague.adobe.com/ko/playlists/acrobat-integrate-microsoft-365)을 확인하십시오.
+[Microsoft 365](https://www.adobe.com/kr/documentcloud/integrations/microsoft-office-365.html)에서 팀의 모든 사용자가 PDF 파일로 원활하게 작업하는 방법을 알아봅니다. Acrobat 및 Microsoft 365 통합에서 전문적으로 선별된 이 [재생 목록](https://experienceleague.adobe.com/ko/playlists/acrobat-integrate-microsoft-365)을 확인하십시오.
 
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -266,4 +266,4 @@ Acrobat을 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive] 및 
 
 ## 상자
 
-Acrobat과 [Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"}를 통해 조직의 모든 사용자가 비즈니스를 더욱 간편하게 운영하는 방법을 알아봅니다.
+Acrobat과 [Box](https://www.adobe.com/kr/documentcloud/integrations/box.html){target="_blank"}를 통해 조직의 모든 사용자가 비즈니스를 더욱 간편하게 운영하는 방법을 알아봅니다.

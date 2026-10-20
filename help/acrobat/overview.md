@@ -31,7 +31,7 @@ Adobe Document Cloud 솔루션인 Adobe Acrobat은 PDF을 변환, 편집, 공유
 
 >[!NOTE]
 >
->기능 액세스는 Acrobat 플랜에 따라 다릅니다. [Acrobat 플랜 비교](https://www.adobe.com/acrobat/pricing.html)를 사용하여 사용할 수 있는 기능을 확인하세요. 일부 기능은 단계적으로 출시되고 있으며 아직 일부 기능에서는 제공되지 않을 수 있습니다.
+>기능 액세스는 Acrobat 플랜에 따라 다릅니다. [Acrobat 플랜 비교](https://www.adobe.com/kr/acrobat/pricing.html)를 사용하여 사용할 수 있는 기능을 확인하세요. 일부 기능은 단계적으로 출시되고 있으며 아직 일부 기능에서는 제공되지 않을 수 있습니다.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

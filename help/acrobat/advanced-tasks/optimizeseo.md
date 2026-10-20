@@ -43,7 +43,7 @@ PDF 콘텐츠는 다음과 같이 고유하고 구성되어야 합니다.
 * 25페이지 이상의 문서에 하이퍼링크된 목차 추가
 * 스캔한 모든 문서에서 [텍스트 인식](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) 실행
 * 모바일 친화적인 PDF 구축
-PDF의 모바일 보기 환경을 확인하려면 [Acrobat Reader 모바일 앱](https://www.adobe.com/acrobat/mobile/acrobat-reader.html)에서 파일을 열고 Liquid Mode를 켭니다. 탐색을 향상시키기 위해 필요한 경우 추가 부제목을 포함합니다.
+PDF의 모바일 보기 환경을 확인하려면 [Acrobat Reader 모바일 앱](https://www.adobe.com/kr/acrobat/mobile/acrobat-reader.html)에서 파일을 열고 Liquid Mode를 켭니다. 탐색을 향상시키기 위해 필요한 경우 추가 부제목을 포함합니다.
 
   Acrobat Reader 모바일 앱에서 Liquid Mode의 ![스크린샷](../assets/optimizeseo1.png)
 

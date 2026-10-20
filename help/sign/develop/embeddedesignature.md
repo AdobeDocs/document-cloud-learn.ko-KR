@@ -41,7 +41,7 @@ Acrobat Sign API를 사용하여 전자 서명 및 문서 경험을 웹 플랫�
 
 +++API 자격 증명을 가져오는 방법에 대한 세부 정보 보기
 
-* [Acrobat Sign 개발자 계정](https://www.adobe.com/acrobat/business/developer-form.html)
+* [Acrobat Sign 개발자 계정](https://www.adobe.com/kr/acrobat/business/developer-form.html)
 * [시작 코드](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [VS 코드(또는 선택한 편집기)](https://code.visualstudio.com)
 * 파이썬
