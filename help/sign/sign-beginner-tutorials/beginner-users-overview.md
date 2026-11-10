@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
+source-git-commit: f4a2ca705da9c9662c925702fd41d4f5fc494785
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '607'
 ht-degree: 22%
 ---
 # 시작 개요
@@ -36,6 +36,10 @@ ht-degree: 22%
 ## 새로운 기능
 
 >[!BEGINTABS]
+
+>[!TAB 보내기 전에 문서 및 템플릿 편집]
+
+Acrobat Sign에서 직접 보내기 전에 [텍스트, 이미지 및 템플릿을 편집](edit.md)하는 방법에 대해 알아봅니다.
 
 >[!TAB 사본 만들기 사용 시기]
 
@@ -48,10 +52,6 @@ ht-degree: 22%
 >[!TAB 계약 관리 및 추적]
 
 서명을 위해 보낸 [계약을 관리 및 추적](../sign-beginner-tutorials/manage-and-track.md)하는 방법에 대해 알아봅니다.
-
->[!TAB 문서에 전자 서명]
-
-Acrobat Sign으로 전송된 문서에 [서명](../sign-beginner-tutorials/electronically-sign-a-document.md)하는 방법을 알아봅니다.
 
 >[!ENDTABS]
 
@@ -183,6 +183,31 @@ Acrobat Sign으로 전송된 문서에 [서명](../sign-beginner-tutorials/elect
     사본 만들기를 사용하여 기존 계약을 복제하는 방법에 대해 알아봅니다.
     <br>
     </td>
+    <td>
+     <a href="edit.md">
+      <img alt="보내기 전에 문서 및 템플릿 편집" src="../assets/edit.png" />
+    </a>
+    <div>
+    <a href="edit.md"><strong>보내기 전에 문서 및 템플릿 편집</strong></a>
+    </div>
+    보내기 전에 텍스트, 이미지 및 템플릿을 편집하는 방법에 대해 알아보십시오
+    <br>
+    </td>
+     <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
