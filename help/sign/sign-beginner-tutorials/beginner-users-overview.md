@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: f4a2ca705da9c9662c925702fd41d4f5fc494785
+source-git-commit: 8bff0f338f32aec1065ec258e1507078631600dd
 workflow-type: tm+mt
-source-wordcount: '607'
+source-wordcount: '593'
 ht-degree: 22%
 ---
 # 시작 개요
@@ -48,10 +48,6 @@ Acrobat Sign에서 직접 보내기 전에 [텍스트, 이미지 및 템플릿�
 >[!TAB 전송 후 문서 수정]
 
 서명을 위해 이미 전송된 [문서를 수정](../sign-beginner-tutorials/manage-and-track.md)하는 방법에 대해 알아보십시오.
-
->[!TAB 계약 관리 및 추적]
-
-서명을 위해 보낸 [계약을 관리 및 추적](../sign-beginner-tutorials/manage-and-track.md)하는 방법에 대해 알아봅니다.
 
 >[!ENDTABS]
 
@@ -183,6 +179,8 @@ Acrobat Sign에서 직접 보내기 전에 [텍스트, 이미지 및 템플릿�
     사본 만들기를 사용하여 기존 계약을 복제하는 방법에 대해 알아봅니다.
     <br>
     </td>
+  </tr>
+  <tr>
     <td>
      <a href="edit.md">
       <img alt="보내기 전에 문서 및 템플릿 편집" src="../assets/edit.png" />
