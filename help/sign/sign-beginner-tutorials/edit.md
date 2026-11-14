@@ -17,4 +17,4 @@ ht-degree: 0%
 >
 >문서 편집은 관리자가 활성화해야 합니다. 자세한 내용은 [여기](https://helpx.adobe.com/kr/sign/web/settings-configuration/send-settings/edit-agreement.html)에서 확인할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508107?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3508112?captions=kor&quality=12&learn=on&hidetitle=true)
